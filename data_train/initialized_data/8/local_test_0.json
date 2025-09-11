@@ -1,0 +1,1202 @@
+[
+  {
+    "instruction": "Which company developed opdivo?",
+    "context": "",
+    "response": "Opdivo or nivolumab was developed by Bristol-Myers Squibb.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the inheritance pattern of Li–Fraumeni syndrome?",
+    "context": "",
+    "response": "Li-Fraumeni syndrome shows autosomal dominant inheritance.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Has FTY720  been considered for the treatment of stroke?",
+    "context": "",
+    "response": "Yes, FTY720 is a strong candidate for stroke treatment.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the applicability of the MCAST algorithm?",
+    "context": "",
+    "response": "The MCAST algorithm uses a hidden Markov model with a P-value-based scoring scheme to identify candidate CRMs.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which cancer can be treated with Darolutamide?",
+    "context": "",
+    "response": "Darolutamide is used for treatment of nonmetastatic castration-resistant prostate cancer.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the major transcription factors regulating glycolysis in mammals?",
+    "context": "",
+    "response": "The main positive transcriptional regulator of Glycolysis in mammals is HIF1-alpha (Hypoxia Inducible Factor 1a). HIF1-alpha is upregulated by the oncogenes c-Myc and Src, which therefore also positively regulate glycolysis. Several reports have linked HIF-1α induction with STAT3 activation. SIRT6 appears to function as a corepressor of the transcription factor Hif1alpha. NF-κB also stimulates glycolysis through the inhibition of PDK4 expression. Loss of the widely expressed transcription factor Oct1 induces a coordinated metabolic shift: mitochondrial activity and amino acid oxidation are increased, while glucose metabolism is reduced. HNF4alpha is critical for regulating glucose transport and glycolysis and in doing so is crucial for maintaining glucose homeostasis.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the target of adalimumab?",
+    "context": "",
+    "response": "adalimumab is an anti-tumour necrosis factor (tf)-α antibody.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What do studies show about the effect of Induced hypothermia in premature babies?",
+    "context": "",
+    "response": "Randomised studies have demonstrated the efficacy of hypothermia for the treatment of perinatal hypoxic-ischaemic encephalopathy (HIE)  in reducing rate of death or neurodevelopmental disabilities in term or late preterm infants. It remains unclear to what degree preterm infants were included in these studies.\nA prospective non-randomised pilot study reported that mild hypothermia for 48 hours in preterm neonates with severe NEC (necrotising enterocolitis) seems both feasible and safe.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are immune cells affected in Amyotrophic Lateral Sclerosis?",
+    "context": "",
+    "response": "In ALS T-cell deficiency increases neuronal loss, while boosting T cell levels reduces it.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which substance use is associated with Brodifacoum poisoning?",
+    "context": "",
+    "response": "Brodifacoum poisoning was linked to marijuana use.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List the main proteins found in human saliva.",
+    "context": "",
+    "response": "Amylases\nCystatins\nImmunoglobulins\nMucins",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List disorders that have been associated to the polymorphism rs2535629.",
+    "context": "",
+    "response": "schizophrenia and major depressive disorder. ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Where in the body would the navicular bone be found?",
+    "context": "",
+    "response": "The navicular bone is located in the foot",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is RADICL-seq?",
+    "context": "",
+    "response": "Mammalian genomes encode tens of thousands of noncoding RNAs. Most noncoding transcripts exhibit nuclear localization and several have been shown to play a role in the regulation of gene expression and chromatin remodeling. To investigate the function of such RNAs, methods to massively map the genomic interacting sites of multiple transcripts have been developed; however, these methods have some limitations. RNA And DNA Interacting Complexes Ligated and sequenced (RADICL-seq) is a technology that maps genome-wide RNA-chromatin interactions in intact nuclei. RADICL-seq is a proximity ligation-based methodology that reduces the bias for nascent transcription, while increasing genomic coverage and unique mapping rate efficiency compared with existing methods. RADICL-seq identifies distinct patterns of genome occupancy for different classes of transcripts as well as cell type-specific RNA-chromatin interactions, and highlights the role of transcription in the establishment of chromatin structure.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How many annotated conserved human lncRNAs come from ancestral protein-coding genes?",
+    "context": "",
+    "response": "~ 55",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Can mogamulizumab be used for the treatment of cutaneous T-cell lymphoma?",
+    "context": "",
+    "response": "Yes, mogamulizumab can be used for the treatment of cutaneous T-cell lymphoma.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the use of Lactin-V?",
+    "context": "",
+    "response": "Lactin-V after treatment with vaginal metronidazole resulted in a significantly lower incidence of recurrence of bacterial vaginosis and can be used for bacterial vaginosis. Lactin-V after treatment for cystitis was associated with a reduction in recurrent UTI.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are CpG islands located close to housekeeping genes?",
+    "context": "",
+    "response": "Our analysis indicates that the association of CGIs with housekeeping genes is not as strong as previously estimated. These regions represent about 1% of genomic DNA and are generally found in the promoter region of housekeeping genes. In housekeeping and many tissue-specific genes, the promoter is embedded in a so-called CpG island. Methylation-free CpG clusters, so-called HTF islands, are most often associated with the promoter regions of housekeeping genes, whereas genes expressed in a single-cell type are usually deficient in these sequences. All housekeeping and widely expressed genes have a CpG island covering the transcription start, whereas 40% of the genes with a tissue-specific or limited expression are associated with islands. It has been envisaged that CpG islands are often observed near the transcriptional start sites (TSS) of housekeeping genes. CpG islands, which are found almost exclusively at the 5'-end of housekeeping genes. CpG islands were associated with the 5' ends of all housekeeping genes and many tissue-specific genes, and with the 3' ends of some tissue-specific genes. ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Has proteomics been used in the study of Pick's disease?",
+    "context": "",
+    "response": "Yes, proteomics has been used in the study of Pick's disease.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which diseases are involved in the severe cutaneous reactions (SCAR) spectrum?",
+    "context": "",
+    "response": "The diseases that are involved in the severe cutaneous reactions (SCAR) spectrum are:\n1) Stevens-Johnson syndrome (SJS)\n2) Toxic epidermal necrolysis (TEN)\n3) Acute generalized exanthematous pustulosis (AGEP).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is serotonin transported by platelets?",
+    "context": "",
+    "response": "Yes,\nplatelets transport serotonin.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is zyxin a focal adhesion protein?",
+    "context": "",
+    "response": "Yes, zyxin is a focal adhesion protein.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How is the nuclear localization of lncRNA mediated?",
+    "context": "",
+    "response": "The lncRNA localization to the nucleus can be mediated by the pentamer sequence AGCCC.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Has field-programmable gate array (FPGA) technology been used to solve sequence alignment problems?",
+    "context": "",
+    "response": "Yes. Field-Programmable Gate Arrays (FPGAs) are reconfigurable computing platforms that have found several applications in diverse domains, including  digital signal processing, medical imaging and bioinformatics. Specific applications of FPGAs for biological sequence alignment have been reported for dynamic programming-based pairwise (local or global) sequence alignment, progressive multiple sequence alignment, profile alignment, Burrows-Wheeler transform (BWT) based alignment, heuristic pairwise alignment.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "The secreted frizzled-related protein 3 (sFPR3) is altered in human cancers.\nAre its level found to increase or to decrease?",
+    "context": "",
+    "response": "SFRPs are down-regulated in several cancers and this is often correlated with poor prognosis, as has been shown for breast, colorectal, and a number of other cancers. (PMID: 21494614) We performed tissue microarray and found that the level of sFRP3 protein was high in normal kidney, low in primary renal cancer tissues, and high in metastatic renal cancer tissues. (PMID: 20160027)",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is Impetigo a viral infection that affects the skin?",
+    "context": "",
+    "response": "No, impetigo is a highly contagious bacterial skin infection",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which pipelines are used for analyzing data from ChIP-nexus experiments?",
+    "context": "",
+    "response": "PeakXus and Q-nexus enable comprehensive transcription factor binding site discovery from ChIP-nexus experiments.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List clinical trials that have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms?",
+    "context": "",
+    "response": "Barrow Ruptured Aneurysm Trial (BRAT) and international subarachnoid aneurysmal trial (ISAT) have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms. FIAT study, a clinical care trial aiming to compare angiographic and clinical outcomes following treatment with a Flow-Diverter or with the best conventional treatment option (including clipping) is underway.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the role of Acyl-Homoserine Lactone  in bacteria?",
+    "context": "",
+    "response": "A number of bacteria use a class of chemical compounds called acyl-homoserine lactones (AHLs) as quorum sensing (QS) signals to coordinate their behavior at the population level, including pathogens like Pseudomonas aeruginosa.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which mutated gene causes the Chédiak–Higashi Syndrome?",
+    "context": "",
+    "response": "Mutation in the lysosomal trafficking regulator (LYST) gene causes the Chédiak-Higashi syndrome (CHS).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Can DMSO as an additive improve proteomic analysis results?",
+    "context": "",
+    "response": "Quantitative precisions improved significantly when DMSO (dimethylsulfoxide) was added to the matrix solution.\nIntroducing to the 80% formic acid injection solution an organic solvent such as acetonitrile or acetonitrile-DMSO induced further retention selectivity, and increasing levels of organic solvents reduced on-column retention.\nLow percentages of dimethylsulfoxide (DMSO) in liquid chromatography solvents lead to a strong enhancement of electrospray ionization of peptides, improving the sensitivity of protein identification in bottom-up proteomics by up to tenfold.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the risk for secondary cancer after proton beam therapy?",
+    "context": "",
+    "response": "Proton beam therapy is associated with lower risk of secondary cancer when compared to other radiation therapy approaches. It allows excellent dose localization by administration of a high dose to the tumor while minimizing damage to surrounding normal tissues. Therefore it is more commonly used in children.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which disease of the central nervous system is characterized by the presence of Lewy bodies?",
+    "context": "",
+    "response": "Parkinson s disease (PD) is one of the most common degenerative disorders of the central nervous system that produces motor and non-motor symptoms. The majority of cases are idiopathic and characterized by the presence of Lewy bodies containing fibrillar α-synuclein  ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Describe what is the usage of the Theatre software tool for genomic analysis.",
+    "context": "",
+    "response": "Theatre is a web-based computing system designed for the comparative analysis of genomic sequences, especially with respect to motifs likely to be involved in the regulation of gene expression. Theatre is an interface to commonly used sequence analysis tools and biological sequence databases to determine or predict the positions of coding regions, repetitive sequences and transcription factor binding sites in families of DNA sequences. The information is displayed in a manner that can be easily understood and can reveal patterns that might not otherwise have been noticed. In addition to web-based output, Theatre can produce publication quality colour hardcopies showing predicted features in aligned genomic sequences.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the protective efficacy of vaxchora against moderate to severe cholera?",
+    "context": "",
+    "response": "The protective efficacy of vaxchora  against moderate to severe cholera is 80-100%.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List Cdk targets that are dephosphorylated during cytokinesis",
+    "context": "",
+    "response": "Aip1, Ede1 and Inn1 are Cdk targets that are dephosphorylated during cytokinesis.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is Sotrovimab effective for COVID-19?",
+    "context": "",
+    "response": "Yes. Among high-risk patients with mild-to-moderate Covid-19, sotrovimab reduced the risk of disease progression.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the human proteoform project?",
+    "context": "",
+    "response": "Top-down proteomics is emerging as a preferred approach to investigate biological systems, with objectives ranging from the detailed assessment of a single protein therapeutic, to the complete characterization of every possible protein including their modifications, which define the human proteoform.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which drugs are utilized to treat eosinophilic esophagitis?",
+    "context": "",
+    "response": "Therapeutic options of eosinophilic esophagitis include use of proton-pump inhibitors, immunosuppressive drugs, elimination diets, and esophageal dilatation.\nOral viscous budesonide (OVB) is an effective treatment of pan-esophageal disease in children with EoE. OVB improves symptoms and endoscopic and histologic features.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How many topological associated domains are contained in the human Hox cluster?",
+    "context": "",
+    "response": "transcriptional activation is associated with a dynamic bi-modal 3d organization, whereby the genes switch autonomously from an inactive to an active compartment.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the microgenderome?",
+    "context": "",
+    "response": "The sexually dimorphic microbiome has been termed the 'microgenderome'.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are CD44 variants (CD44v) associated with poor prognosis of metastasis?",
+    "context": "",
+    "response": "Yes, several isoforms (obtained by by usage of ten variant exons in various combinations) have been causally related to metastasis.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is inhibited by a drug rilotumumab?",
+    "context": "",
+    "response": "Rilotumumab is a fully human monoclonal antibody that selectively targets the hepatocyte growth factor (HGF). It is used for treatment of cancer.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the link between TADs and GRBs?",
+    "context": "",
+    "response": "Topologically associating domains (TADs) are ancient features that coincide with Metazoan clusters of extreme noncoding conservation (aka GRBs).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is the Prostate- Specific Antigen (PSA) test relevant only for prostate cancer?",
+    "context": "",
+    "response": "No, although the PSA test can detect high levels of PSA that may indicate the presence of prostate cancer, many other conditions, such as an enlarged or inflamed prostate, can also increase PSA levels.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Could transcription factors act as cell-cell signalling molecules?",
+    "context": "",
+    "response": "Yes. Recent data support the view that transcription factors - in particular, homeoproteins - can be transferred from cell to cell and have direct non-cell-autonomous (and therefore paracrine) activities.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the function of the chromHMM software?",
+    "context": "",
+    "response": "ChromHMM learns chromatin-state signatures using a multivariate hidden Markov model (HMM) that explicitly models the combinatorial presence or absence of each mark . It uses these signatures to generate a genome-wide annotation for each cell type by calculating the most probable state for each genomic segment . Chromatin states are learned, annotations are produced, and enrichments are computed within 1 d .",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which enzyme is inhibited by Imetelstat?",
+    "context": "",
+    "response": "Imetelstat works by inhibiting telomerase.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the price of KYMRIAH treatment in 2019?",
+    "context": "",
+    "response": "Kymriah, produced by Novartis has a price tag of US$475,000.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Does oculocutaneous albinism show an autosomal recessive inheritance?",
+    "context": "",
+    "response": "Yes, oculocutaneous albinism shows an autosomal recessive inheritance.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the administration route of IVIG in Alzheimer's disease patients?",
+    "context": "",
+    "response": "IVIG is administered intravenously.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How does adrenergic signaling affect thyroid hormone receptors?",
+    "context": "",
+    "response": "alpha1- adrenergic signalling  increases  TRalpha1 expression in nucleus and  decreases  TRalpha1 expression in cytosol.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the most common methods for circular RNA detection from RNASeq?",
+    "context": "",
+    "response": "The main algorithms are circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which metazaon species or taxa are known to lack selenoproteins",
+    "context": "",
+    "response": "Some insect genomes have lost the capacity of synthesizing selenoproteins. Several insect species without selenoproteins have been identified.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which phosphatase is inhibited by LB-100?",
+    "context": "",
+    "response": "LB-100 is a phosphatase 2A inhibitor",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is the Miller-Fisher syndrome considered to be a variant of Guillain-Barré?",
+    "context": "",
+    "response": "Miller Fisher syndrome is a variant of Guillain-Barre syndrome characterized by the classic triad of ophthalmoplegia, ataxia, and areflexia",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List uniparental disomy (UPD) detection algorithms",
+    "context": "",
+    "response": "UPDtool and AsCNAR are tools for detecting uniparental disomy (UPD). UPDtool is a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments. AsCNAR (allele-specific copy-number analysis using anonymous references) detects the copy-number neutral LOH, or uniparental disomy (UPD), in a large number of acute leukemia samples.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which species is the carrier of the SFTS ( severe fever with thrombocytopenia syndrome) virus?",
+    "context": "",
+    "response": "The possibility that SFTSV transmission may occur by both the transstadial and transovarial routes was suggested by the fact that viral RNA was detected in Haemaphysalis longicornis at all developmental stages. Tick-derived sequences shared over 95.6% identity with human- and animal-derived isolates. This study provides evidence that implicates ticks as not only vectors but also, reservoirs of SFTSV.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Can sorafenib activate AMPK?",
+    "context": "",
+    "response": "Sorafenib induces persisten AMPK activation",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is corpus callosum involved in the Mowat–Wilson syndrome?",
+    "context": "",
+    "response": "Yes, agenesis of the corpus callosum is common patients with Mowat–Wilson syndrome. Other characteristic features of Mowat–Wilson syndrome include typical facial features, moderate-to-severe mental retardation, epilepsy and variable congenital malformations, including Hirschsprung disease, genital anomalies, congenital heart disease, and eye defects.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is BORSA?",
+    "context": "",
+    "response": "Borderline oxacillin-resistant Staphylococcus aureus is also known as (BORSA)",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Does dronedarone  affect  T3 and T4 levels?",
+    "context": "",
+    "response": "NO.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which RNA polymerase II subunit carries RNA cleavage activity?",
+    "context": "",
+    "response": "The eukaryotic transcription factor TFIIS enhances elongation and nascent transcript cleavage activities of RNA polymerase II in a stalled elongation complex.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Was stelara developed by Amgen?",
+    "context": "",
+    "response": "Stelara was developed by Janssen Pharmaceuticals, Inc., Horsham, PA, USA.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases?",
+    "context": "",
+    "response": "The major goal within the field of cardiovascular regenerative medicine is to replace lost or damaged cardiac muscle and coronaries following ischaemic disease. At present, de novo cardiomyocytes can be generated either in vitro, using directed differentiation of embryonic stem cells or induced pluripotent stem cells, or in vivo via direct reprogramming of resident adult cardiac fibroblast or ectopic stimulation of resident cardiac stem or progenitor cells. The production of human cardiac progenitor cells and cardiomyocytes from human pluripotent stem cells provides an amenable source of cells for applications in drug discovery, disease modeling, regenerative medicine, and cardiotoxicity screening. In addition, the ability to derive human-induced pluripotent stem cells from somatic tissues, combined with current high-throughput screening and pharmacogenomics, may help realize the use of these cells to fulfill the potential of personalized medicine. Human induced pluripotent stem cells (iPSC) provide a unique opportunity to study \"disease in a dish\" within a defined genetic and environmental background. Patient-derived iPSCs have been successfully used to model cardiomyopathies, rhythm disorders and vascular disorders. Long-QT syndrome and catecholaminergic polymorphic ventricular tachycardia are two heart rhythm disorders that have been already successfully modeled by several groups using this approach, which will likely serve to model other mono- or polygenetic cardiovascular disorders in the future. The use of iPSC-derived cardiomyocytes to study genetic cardiovascular disorders will enable a deeper and more applicable understanding of the molecular mechanisms of human disease, as well as improving our ability to achieve successful cell-based therapies.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which NADPH oxidase family member requires interaction with NOXO1 for function?",
+    "context": "",
+    "response": "NADPH oxidase 1 (NOX1) requires interaction with NOXO1 for function.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Can CMB305 be used against sarcomas?",
+    "context": "",
+    "response": "Yes, the CMB205 vaccine is aimed at synovial sarcoma and myxoid/round cell liposarcoma patients.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the gene PTENP?",
+    "context": "",
+    "response": "PTEN pseudogene (PTENp) acts as an endogenous RNA, which regulates its parental gene by competitively binding to the 3' UTR of PTEN gene in the human.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Name two rotavirus vaccines.",
+    "context": "",
+    "response": "Two rotavirus vaccines licensed for global use are RotaTeq and Rotarix.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How is OCT3 associated with serotonin?",
+    "context": "",
+    "response": "OCT3 plays a role in serotonin clearance",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the function of CR elements in B-cells?",
+    "context": "",
+    "response": " After addition of culture supernatant from BCG-activated macrophages CR- B cells cooperate with both unprimed and primed T helper cells.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What are the known families of deadenylases?",
+    "context": "",
+    "response": "All known deadenylases belong to either the DEDD or the exonuclease–endonuclease–phosphatase (EEP) superfamily. Members of DEDD include the POP2, CAF1Z, PARN and PAN2 families. Members of EEP include the CCR4, Nocturnin, ANGEL and 2'-PDE families.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What are the effects of CAMK4 inhibition?",
+    "context": "",
+    "response": " Here, we present evidence that the calcium/calmodulin-dependent protein kinase IV (CaMK4) is increased and required during Th17 cell differentiation. Inhibition of CaMK4 reduced Il17 transcription through decreased activation of the cAMP response element modulator a (CREM-a) and reduced activation of the AKT/mTOR pathway, which is known to enhance Th17 differentiation. CAMK4 knockdown and kinase-dead mutant inhibited crocin-mediated HO-1 expression, Nrf2 activation, and phosphorylation of Akt, indicating that HO-1 expression is mediated by CAMK4 and that Akt is a downstream mediator of CAMK4 in crocin signaling",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is BCL11B involved in schizophrenia?",
+    "context": "",
+    "response": "Yes, BCL11B is associated with attention, memory, executive function and antipsychotic-induced schizophrenia.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Can the radiation of cellphones be dangerous?",
+    "context": "",
+    "response": "two sets of more recent studies with longer exposure duration: the Interphone studies and the Swedish studies led by Dr. Lennart Hardell. The recent studies reach very different conclusions. With four exceptions the industry-funded Interphone studies found no increased risk of brain tumors from cellphone use, while the Swedish studies, independent of industry funding, reported numerous findings of significant increased brain tumor risk from cellphone and cordless phone use.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is there a way to distinguish COVID-19 clinically from other respiratory illnesses, particularly influenza?",
+    "context": "",
+    "response": "No, the clinical features of COVID-19 overlap substantially with influenza and other respiratory viral illnesses. There is no way to distinguish among them without testing.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the color of the protein Ranasmurfin?",
+    "context": "",
+    "response": "Ranasmurfin is a blue protein.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?",
+    "context": "",
+    "response": "Tyro3, Axl, and Mer are integral membrane proteins that constitute TAM family of receptor tyrosine kinases (RTKs).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is pembrolizumab effective against Ewing's sarcoma?",
+    "context": "",
+    "response": "None of the 13 patients with Ewing's sarcoma receiving pembrolizumab had an objective response.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is filipin staining used for?",
+    "context": "",
+    "response": "Intracellular and total cholesterol (TC) were measured using filipin staining.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Why is fingolimod considered a prodrug?",
+    "context": "",
+    "response": "FTY720/fingolimod, is considered a prodrug because it requires in vivo phosphorylation to its active phosphorylated form.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What type of arrhythmia is known as bidirectional ventricular tachycardia (BDVT)?",
+    "context": "",
+    "response": "Bidirectional ventricular tachycardia (BVT), which is characterized by an alternating beat-to-beat ECG QRS axis, is a rare but intriguing arrhythmia associated with digitalis toxicity, familial catecholaminergic polymorphic ventricular tachycardia (CPVT), and several other conditions that predispose cardiac myocytes to delayed afterdepolarizations (DADs) and triggered activity. Bidirectional ventricular tachycardia (BVT) is an uncommon type of polymorphic ventricular tachycardia (PVT). Based on similarity of electrocardiographic features, bidirectional ventricular tachycardia has been considered a variant of long QT syndrome. Evidence from human and animal studies attributes BVT to alternating ectopic foci originating from the distal His-Purkinje system in the left and/or right ventricle, respectively. This \"ping pong\" mechanism of reciprocating bigeminy readily produces the characteristic ECG pattern of BVT and its degeneration to polymorphic VT if additional sites develop bigeminy.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which genes/proteins have been found to inhibit cyclin dependent kinase 4 (CDK4)?",
+    "context": "",
+    "response": "The p15(ink4b) and p16(ink4a) CDK4 inhibitor genes map within the chromosome band 9p21 region deleted frequently in various cancers.The Cdk4 inhibitor p18(Ink4c) is a tumor suppressor. Recent studies of Cyclin D1/Cdk4 have proposed that p21(Waf1/Cip1/Sdi1) plays a key role as a potent Cdk4 inhibitor. p27KIP1 is also a cdk4 ihibitor.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "In which isochores are Alu elements enriched?",
+    "context": "",
+    "response": "Alu elements are enriched in high GC% isochores due to reduced Alu loss by recombination in these regions. The frequency of Alu sequences increases with increasing GC, but attains a maximum in H2 isochores.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the H4S47C cleavage mapping method used for?",
+    "context": "",
+    "response": "To identify nucleosomes with alternative structures genome-wide, we used H4S47C-anchored cleavage mapping, which revealed that 5% of budding yeast (Saccharomyces cerevisiae) nucleosome positions have asymmetric histone-DNA interactions. To map fission yeast centromeres, we applied H4S47C-anchored cleavage mapping and native and cross-linked chromatin immunoprecipitation with paired-end sequencing. To resolve this controversy, we have applied H4S47C-anchored cleavage mapping, which reveals the precise position of histone H4 in every nucleosome in the genome.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What kind of chromatography is HILIC?",
+    "context": "",
+    "response": "Hydrophilic Interaction Chromatography (HILIC)",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which receptor is inhibited by bimagrumab?",
+    "context": "",
+    "response": "Bimagrumab is a fully human monoclonal antibody that blocks the activin type II receptors, preventing the activity of myostatin and other negative skeletal muscle regulators.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is DiseaseEnhancer?",
+    "context": "",
+    "response": "DiseaseEnhancer is a manually curated resource of human disease-associated enhancer catalog. As of July 2017, DiseaseEnhancer includes 847 disease-associated enhancers in 143 human diseases. Database features include basic enhancer information (i.e. genomic location and target genes); disease types; associated variants on the enhancer and their mediated phenotypes (i.e. gain/loss of enhancer and the alterations of transcription factor bindings).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the most commonly reported pathological states associated with the formation of DNA G-quadruplexes?",
+    "context": "",
+    "response": "There is a growing recognition for the profound role of G-quadruplexes in a wide spectrum of diseases, such as cancer, diabetes and cardiovascular disease. Amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD) were recently shown to be caused by expansion of a (GGGGCC)n/(GGCCCC)n repeat in the C9ORF72 gene.  Treatment with a G-quadruplex interactive ligand was shown to achieve antifibrotic action. G-quadruplex forming sequences have also been linked with ADAM10 a primary candidate for anti-amyloidogenic activity in Alzheimer's. A G-quadruplex-interactive agent, telomestatin (SOT-095), induces telomere shortening with apoptosis and enhances chemosensitivity in acute myeloid leukemia.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which cellular function is associated with transcription factors forkhead 1 and 2 (Fkh1 and Fkh2)?",
+    "context": "",
+    "response": "Forkhead transcription factors establish origin timing and long-range clustering in S. cerevisiae. Here we show that the yeast Forkhead transcription factors, Fkh1 and Fkh2, are global determinants of replication origin timing. Forkhead box O (FOXO) transcription factors have a conserved function in regulating metazoan lifespan. Fkh1 and Fkh2 bind Fkh-activated origins, and interact physically with ORC, providing a plausible mechanism to cluster origins. Instead, we show that Fkh1 and Fkh2 are required for the clustering of early origins and their association with the key initiation factor Cdc45 in G1 phase, suggesting that Fkh1 and Fkh2 selectively recruit origins to emergent replication factories. ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the components of the pre-replication complex (pre-RC) in eukaryotes?",
+    "context": "",
+    "response": "The components of the pre-replication complex (pre-RC) in eukaryotes are:\n1) Cdc6/Cdc18, \n2) MCM, \n3) ORC1-6,\n4) Cdt1 and\n5) Sap1/Gi.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is ACI-35 a passive vaccine?",
+    "context": "",
+    "response": "No, ACI-35 is an active vaccine.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia?",
+    "context": "",
+    "response": "In phase I/II/III studies in patients with severe congenital and cyclic neutropenia, treatment with recombinant human granulocyte colony-stimulating factor (r-metHuG-CSF) resulted in a rise in the absolute neutrophil counts (ANC) and a reduction in infections  ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "is intense physical activity associated with longevity ?",
+    "context": "",
+    "response": "Several survival studies showed that professional athletes has higher longevity than general population. These epidemiological data matches the evidences that long-term endurance training induces in elderly subjects an increased HRV and a higher exercise working capacity, which are well-established predictors of cardiovascular and overall mortality, and also telomere length.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the route of administration of apixaban?",
+    "context": "",
+    "response": "Apixaban is administered orally.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the genetic basis of Rubinstein-Taybi syndrome?",
+    "context": "",
+    "response": "Rubinstein-Taybi syndrome (RTS) is a rare autosomal dominant disorder (prevalence 1:125,000) characterised by broad thumbs and halluces, facial dysmorphism, psychomotor development delay, skeletal defects, abnormalities in the posterior fossa and short stature. The known genetic causes are a microdeletion at 16p13.3 or mutations or deletions of the cAMP-response element binding protein-BP (CREBBP) (50-60% of the cases) and of the homologous gene E1A-binding protein (EP300) at 22q13 (5%). Direct sequencing of CREBBP performed in 13 RSTS patients identified the three zinc fingers (CH1, CH2, CH3) and HAT domain as mutational hotspots. Thus about 55% of patients have cytogenetic or molecular abnormalities in the Crebbp or E1A binding protein p300 (Ep300) gene, leaving the diagnosis in 45% of patients to rest on clinical features only.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the lipid lowering drugs administered in patients with Coronary Artery Disease (CAD)?",
+    "context": "",
+    "response": "The lipid lowering drugs administered in patients with Coronary Artery Disease (CAD) are:\n1) Statins\n2) Fibrates\n3) Resins\n4) Niacin\n5) Cholesterol absorption-inhibiting drugs.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which antibody is implicated in the Bickerstaff's brainstem encephalitis?",
+    "context": "",
+    "response": "The syndrome defined by Bickerstaff of progressive, external ophthalmoplegia and ataxia, with disturbance of consciousness or hyperreflexia, has subsequently been associated with antiganglioside antibody, anti-GQ1b",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which gene fusion is the result of the \"philadelphia translocation\" or the \"philadelphia chromosome\" mutation?",
+    "context": "",
+    "response": "Chronic myeloid leukemia (CML) is genetically characterized by the presence of the reciprocal translocation t(9;22)(q34;q11), resulting in a BCR/ABL gene fusion on the derivative chromosome 22 called the Philadelphia (Ph) chromosome. The Philadelphia chromosome and its corresponding fusion gene, BCR-ABL, is one of the best-known genetic abnormalities in hematological malignancies. Major BCR-ABL translocation is much more common in chronic myelogenous leukemia (CML) and minor BCR-ABL in acute lymphoblastic leukemia. ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the role of eteplirsen in DMD patients?",
+    "context": "",
+    "response": "AVI-4658(eteplirsen) induces skipping of dystrophin exon 51 in patients with relevant deletions, restores the open reading frame and induces dystrophin protein expression after intramuscular (i.m.) injection.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List targeted genome editing methodologies",
+    "context": "",
+    "response": "Genome editors such as CRISPR/Cas9 and TALENs are at the forefront of research into methodologies for targeted modification of the mammalian genome.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are long non coding RNAs as conserved in sequence as protein coding genes?",
+    "context": "",
+    "response": "No. Most long non coding RNAs  (lncRNAs) are under lower sequence constraints than protein-coding genes.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Has saracatinib been tested in clinical trials?",
+    "context": "",
+    "response": "Yes, saracatinib has been tested in multiple clinical trials.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which drug should be used as an antidote in benzodiazepine overdose?",
+    "context": "",
+    "response": "Flumazenil should be used in all patients presenting with suspected benzodiazepine overdose. Flumazenil is a  potent benzodiazepine receptor antagonist that competitively blocks the central effects of benzodiazepines and reverses behavioral, neurologic, and electrophysiologic effects of benzodiazepine overdose. Clinical efficacy and safety of flumazenil in treatment of benzodiazepine overdose has been confirmed in a number of rigorous clinical trials. In addition, flumazenil is also useful to to reverse benzodiazepine induced sedation and to and to diagnose benzodiazepine overdose.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which tool has been developed for visualization of non-covalent contacts?",
+    "context": "",
+    "response": "Visualizations of biomolecular structures empower us to gain insights into biological functions, generate testable hypotheses, and communicate biological concepts. Typical visualizations (such as ball and stick) primarily depict covalent bonds. In contrast, non-covalent contacts between atoms, which govern normal physiology, pathogenesis, and drug action, are seldom visualized. The Protein Contacts Atlas has been developed as an interactive resource of non-covalent contacts from over 100,000 PDB crystal structures. This resource enables researchers from different disciplines to investigate diverse questions in the framework of non-covalent contacts, including the interpretation of allostery, disease mutations and polymorphisms, by exploring individual subunits, interfaces, and protein-ligand contacts and by mapping external information.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which bacterium has the smallest genome in base pairs yet found?",
+    "context": "",
+    "response": "Our results reveal that Nasuia-ALF has the smallest bacterial genome yet sequenced (112 kb), and that the Sulcia-ALF genome (190 kb) is smaller than that of Sulcia in other insect lineages. Both regions exhibit a significant reduction in length and gene number in B. aphidicola BCc, as it could be expected since it possess the smallest bacterial genome. We sequenced genomes of the obligate symbionts, Sulcia muelleri and Nasuia deltocephalinicola, of the phloem-feeding pest insect, Macrosteles quadrilineatus (Auchenorrhyncha: Cicadellidae). ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What are piggyBAC transposons?",
+    "context": "",
+    "response": "The piggyBAC transposons are a nonviral gene delivery approach, that have been developed as tools for insertional mutagenesis. It  can mobilize 100-kb DNA fragments in mouse embryonic stem (ES) cells, making it the only known transposon with such a large cargo capacity. The integrity of the cargo is maintained during transposition, the copy number can be controlled and the inserted giant transposons express the genomic cargo. Furthermore, these 100-kb transposons can also be excised from the genome without leaving a footprint. The development of piggyBac as a large cargo vector will facilitate a wider range of genetic and genomic applications.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What are the effects of STEF depletion?",
+    "context": "",
+    "response": "The mechanisms regulating the actin cap are currently poorly understood. STEF/TIAM2, a Rac1 selective guanine nucleotide exchange factor, localises at the nuclear envelope, co-localising with the key perinuclear proteins Nesprin-2G and Non-muscle myosin IIB (NMMIIB), where it regulates perinuclear Rac1 activity. STEF depletion reduces apical perinuclear actin cables (a phenotype rescued by targeting active Rac1 to the nuclear envelope), decreases nuclear stiffness and reduces expression of TAZ-regulated genes, indicating an alteration in mechanosensing pathways as a consequence of disruption of the actin cap.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is MK-1602 a CGRP antagonist?",
+    "context": "",
+    "response": "Yes, MK-1602 is a CGRP antagonist.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How histone deacetylation causes transcriptional gene silencing?",
+    "context": "",
+    "response": "Histone deacetylation, catalyzed by the histone deacetylase (HDAC) enzymes, is an epigenetic modification. Histone deacetylation leads to the formation of a condensed and transcriptionally repressive chromatin structure which inhibits gene transcription. ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which protein phosphatase has been found to interact with the heat shock protein, HSP20?",
+    "context": "",
+    "response": "Protein phosphatase-1 activity is regulated by two binding partners, inhibitor-1 and the small heat shock protein 20, Hsp20. Cell fractionation, coimmunoprecipitation, and coimmunolocalization studies, revealed an association between Hsp20 and PP1. Small heat shock protein 20 interacts with protein phosphatase-1 and enhances sarcoplasmic reticulum calcium cycling.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are conserved noncoding elements associated with the evolution of animal body plans?",
+    "context": "",
+    "response": "Yes. Cis-regulatory inputs identified by CNEs arose during the \"re-wiring\" of regulatory interactions that occurred during early animal evolution. Consequently, different animal groups, with different core GRNs, contain alternative sets of CNEs. Due to the subsequent stability of animal body plans, these core regulatory sequences have been evolving in parallel under strong purifying selection in different animal groups.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the incidence of sudden cardiac death among young athletes?",
+    "context": "",
+    "response": "the incidence of sudden cardiac death among young athletes ranges from 0.5  to 3  per 100,000 athletes per year  .",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What kind of analyses are performed with the software tool \"unipept\"",
+    "context": "",
+    "response": "The Unipept web application (http://unipept.ugent.be) supports biodiversity analysis of large and complex metaproteome samples using tryptic peptide information obtained from shotgun MS/MS experiments. The application designed for metaproteomics analysis with a focus on interactive datavisualization.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List the partners of budding yeast Cdc48 that are important for disassembly of ubiquitylated CMG helicase at the end of chromosome replication",
+    "context": "",
+    "response": "The ubiquitin-binding Ufd1-Npl4 complex recruits Cdc48 to ubiquitylated CMG helicase at the end of chromosome replication.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "In which condition was protein S100A7 originally identified?",
+    "context": "",
+    "response": "Psoriasin (S100A7) was originally identified in psoriasis.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which cancer is associated with increased levels of Serum alpha fetoprotein (AFP) ?",
+    "context": "",
+    "response": "Serum alpha fetoprotein (AFP) is a marker of germ cell neoplasms,\r\nSerum α-Fetoprotein (AFP) is a widely used diagnostic biomarker, but it has limited sensitivity and is not elevated in all HCC cases.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List available biomedical question answering systems.",
+    "context": "",
+    "response": "We live in an age of access to more information than ever before. The exponential growth in the volume of publications in the biomedical domain has made it impossible for an individual to keep pace with the advances. Thus, there is a need for intelligent information retrieval systems that can summarize relevant and reliable textual sources to satisfy a user's query. Question answering is a specialized type of information retrieval with the aim of returning precise short answers to queries posed as natural language questions. This accentuates the need for fast and accurate biomedical question answering systems. In this paper we introduce INDOC -- a biomedical question answering system based on novel ideas of indexing and extracting the answer to the questions posed. Increased access to information allows for more informed and empowered researchers, while information overload becomes an increasingly serious risk. INDOC displays the results in clusters to help the user arrive the most relevant set of documents quickly. Evaluation was done against the standard OHSUMED test collection. We present a review and comparison of three biomedical question answering systems: askHERMES, EAGLi ( http://eagl.unige.ch/EAGLi/ ), and HONQA ( http://services.hon.ch/cgi-bin/QA10/qa.pl ). ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the connection between furin and hepcidin?",
+    "context": "",
+    "response": "The iron-regulatory peptide hepcidin is synthesized in the liver as an 84-aa pre-pro-hormone maturated by proteolysis through a consensus furin cleavage site to generate the bioactive 25-aa peptide secreted in the circulation. The hepatic prohormone convertase furin mediates the posttranslational processing of hepcidin.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What are the pyknons?",
+    "context": "",
+    "response": "Using an unsupervised pattern-discovery method, the human intergenic and intronic regions were processed and all variable-length patterns with identically conserved copies and multiplicities above what is expected by chance were catalogued. Among the millions of discovered patterns, a subset of 127,998 patterns was found, termed pyknons, which have additional nonoverlapping instances in the untranslated and protein-coding regions of 30,675 transcripts from 20,059 human genes. The pyknons arrange combinatorially in the untranslated and coding regions of numerous human genes where they form mosaics. Pyknons might represent a biologically important link between coding and non-coding DNA.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What does isradipine do to L-type channels?",
+    "context": "",
+    "response": "Isradipine antagonizes/blocks the L-type channels.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Does helicobacter pylori infection increase risk for ischemic stroke?",
+    "context": "",
+    "response": "Findings regarding association between helicobacter pylori infection and ischemic stroke risk are conflicting. There is evidence to suggest that helicobacter pylori infection is associated with increased risk for ischemic stroke and should be considered stroke risk factors. However, some studies reported no association between helicobacter pylori infection and stroke.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the role of the RUNX1-MYEF2 complex?",
+    "context": "",
+    "response": "A novel complex, RUNX1-MYEF2, represses hematopoietic genes in erythroid cells.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is Tranexamic acid effective for intracerebral haemorrhage?",
+    "context": "",
+    "response": "No. According to clinical trial data tranexamic acid does not improve outcomes of patients with intracerebral haemorrhage.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List the four advances integrated into the SHERLOCKv2 platform.",
+    "context": "",
+    "response": "SHERLOCKv2 presents with four distinct advances: (i) four-channel single-reaction multiplexing with orthogonal CRISPR enzymes; (ii) quantitative measurement of input as low as 2 attomolar; (iii) 3.5-fold increase in signal sensitivity by combining Cas13 with Csm6, an auxiliary CRISPR-associated enzyme; and (iv) lateral-flow readout.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Do Crocus sativus extracts loosen the blood-brain barrier?",
+    "context": "",
+    "response": "No, in vitro and in vivo experiments show that the Crocus sativus extract increases the tightness of a cell-based blood-brain barrier (BBB).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What are the functions of DNA and RNA G-quadruplexes?",
+    "context": "",
+    "response": "G-Quadruplex, a unique secondary structure in nucleic acids found throughout human genome, elicited widespread interest in the field of therapeutic research. Being present in key regulatory regions of oncogenes, RNAs and telomere, G-Quadruplex structure regulates transcription, translation, splicing, etc",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are there interactomes available for POU5F1 and SOX2?",
+    "context": "",
+    "response": "Yes. Long-range chromosomal interactions on putative enhancers of POU5F1 and SOX2 genes in human embryonic stem cells (hESCs) have been assayed using 4C-Seq technique. Their frequent interacting regions mainly overlap with early DNA replication domains. The interactomes are associated with active histone marks and enriched with 5-hydroxymethylcytosine sites.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the Match BAM to VCF method?",
+    "context": "",
+    "response": "MBV (Match BAM to VCF) is a method to quickly solve sample mislabeling and detect cross-sample contamination and PCR amplification bias.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "what is the role of TGFbeta in cardiac regeneration after myocardial injury?",
+    "context": "",
+    "response": "TGFβ is activated in the myocardium in response to injury and plays a crucial role in cardiac repair by suppressing inflammation while promoting myofibroblast phenotypic modulation and extracellular matrix deposition. In fact, upregulation of TGF-beta signaling promotes the formation of a myofibroblast-like phenotype. TGF-beta interacts with bone morphogenic protein and Wnt pathways to form a complex signaling network that is critical in regulating the fate choices of both stromal and tissue-specific resident stem cells, determining whether functional regeneration or the formation of scar tissue follows an injury. In addition, TGF-beta enhances the formation of cardiospheres and could potentially enhance the regenerative potential of adult cardiac progenitor cells.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are breaks in double stranded DNA associated with ionizing radiation?",
+    "context": "",
+    "response": "Yes, double-strand breaks in double stranded DNA may be associated with ionizing radiation risk.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the gene ABCG1 encoding?",
+    "context": "",
+    "response": "ABCG1 is an ATP binding cassette (ABC) transporter that removes excess cholesterol from peripheral tissues.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which workflow in Bioconductor has been developed for accessing human RNA-seq samples?",
+    "context": "",
+    "response": "The recount2 resource is composed of over 70,000 uniformly processed human RNA-seq samples spanning TCGA and SRA, including GTEx.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which is the main gene signature in Systemic Lupus Erythematosus (SLE)?",
+    "context": "",
+    "response": "Systemic Lupus Erythematosus (SLE) has a type I interferon (IFN) gene signature.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is acid alpha-glucosidase the enzyme that causes Pompe disease when mutant?",
+    "context": "",
+    "response": "Pompe disease is an autosomal recessive genetic disorder characterized by a deficiency of the enzyme responsible for degradation of lysosomal glycogen (acid α-glucosidase (GAA))",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the use of the Liverpool Elbow Score?",
+    "context": "",
+    "response": "The Liverpool Elbow Score (LES) is a newly developed, validated elbow-specific score. It has been widely used to assess the outcomes of total elbow replacement in various conditions.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is the gene CDKN2A nevogenic?",
+    "context": "",
+    "response": "Yes, CDKN2A is nevogenic",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the effect of Dkk1 in Wnt signaling?",
+    "context": "",
+    "response": "Transcriptional silencing of the Wnt-antagonist DKK1 is a secreted protein that antagonizes Wnt signaling and plays essential roles in vertebrate embryogenesis.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is \"enhancer hijacking\"?",
+    "context": "",
+    "response": "Enhancer hijacking is the molecular process through which a structural variant removes or moves a TAD boundary to expose TSSs to regulatory enhancers from which they would normally be insulated.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is nyctinasty in plants?",
+    "context": "",
+    "response": "Nyctinasty is the circadian rhythmic nastic movement of leguminous plants in response to the onset of darkness; a unique and intriguing phenomenon that has attracted attention for centuries.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the most abundant human lincRNA?",
+    "context": "",
+    "response": "MALAT1 (metastasis-associated lung adenocarcinoma transcript 1) locus is misregulated in many human cancers and produces an abundant long nuclear-retained noncoding RNA. MALAT/NEAT2 highly abundant, its expression is strongly regulated in many tumor entities including lung adenocarcinoma and hepatocellular carcinoma as well as physiological processes, and it is associated with many RNA binding proteins and highly conserved throughout evolution. H19 large intergenic non-coding RNA (lincRNA) is one of the most highly abundant and conserved transcripts in mammalian development, being expressed in both embryonic and extra-embryonic cell lineages, yet its physiological function is unknown. Our genome-wide screens in two mammalian species reveal no more than three abundant large non-coding polyadenylated RNAs in the nucleus; the canonical large noncoding RNA XIST and NEAT1 and NEAT2.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is there a relation between ANP and transcapillary albumin escape?",
+    "context": "",
+    "response": "A possible role of ANP gene in conferring protection from nephropathy and microvascular damage in type 1 diabetes is present.\nANP infusion in healthy subjects caused a shift of plasma water and electrolytes from the circulation, with albumin escape as a secondary phenomenon",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is depression associated with poor prognosis of brain tumor patients?",
+    "context": "",
+    "response": "Yes. In brain tumor patients depression is associated with shorter survival and worse functional outcomes.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "When was vivotif first licenced in Europe?",
+    "context": "",
+    "response": "The vaccine vivotif was first licensed in Europe in 1983.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which disease is linked to mutations within BRAG1?",
+    "context": "",
+    "response": "Mutations in BRAG1 have been identified in families with X-linked intellectual disability (XLID).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What causes Ocular Thelaziasis?",
+    "context": "",
+    "response": "Ocular Thelaziasis is caused by Thelazia callipaeda.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which drugs are included in the VIFUP regimen for breast cancer?",
+    "context": "",
+    "response": "ViFuP includes vinorelbine, cisplatin and continuous infusion of 5-fluorouracil.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the association between moon cycle and rupture risk of intracranial aneurysms?",
+    "context": "",
+    "response": "The lunar cycle seems to affect the incidence of intracranial aneurysm rupture, with the new moon being associated with an increased risk of aneurysmal SAH.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is poly (ADP- ribosylation) involved in transcriptional control?",
+    "context": "",
+    "response": "Yes, poly (ADP- ribosylation) plays a role in the maintenance of transcriptional fidelity.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the musculoskeletal manifestations of Marfan syndrome?",
+    "context": "",
+    "response": "Musculoskeletal manifestations of Marfan syndrome include scoliosis, dural ectasia, pectus excavatum and carinatum, arachnodactyly, otto pelvis (protrusio acetabuli), dolichostenomelia and ligamentous laxity.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List the clinical characteristics of the Smith-Kingsmore syndrome (SKS)",
+    "context": "",
+    "response": "Smith-Kingsmore syndrome (SKS) OMIM #616638, also known as MINDS syndrome (ORPHA 457485), is a rare autosomal dominant disorder reported so far in 23 patients. SKS is characterized by intellectual disability, macrocephaly/hemi/megalencephaly, and seizures. It is also associated with a pattern of facial dysmorphology and other non-neurological features.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the role of the Ada O6-alkylguanine alkyltransferase in bacteria?",
+    "context": "",
+    "response": "The Ada O6-methylguanine-DNA methyltransferase is a multifunctional protein, product of the ada gene. Ada functions in DNA repair by direct dealkylation of alkylated DNA lesions, such as the toxic, mutagenic and carcinogenic O6-alkylguanine (O6-AlkG) and O4-alkylthymine (O4-AlkT) which are restored to guanine and thymine. Ada accepts stoichiometrically the alkyl group from O6-alkylguanine in DNA at the Cys-321 residue and from alkyl phosphotriester at the Cys-69 residue. When methylated at Cys-69, Ada becomes a transcriptional activator of the genes in the ada regulon, including its own. The ada gene controls the inducible resistance to alkylation mutagenesis and killing (the adaptive response). Ada alkyltransferase (ATase) is induced by exposure to low doses of methylating agents. During exponential growth, Ada removes lesions responsible for G:C to A:T transitions and G:C to C:G transversions, while in stationary populations it removes lesions causing G:C to A:T and A:T to G:C transitions, and G:C to C:G, A:T to C:G, and A:T to T:A transversions. Thus, Ada protein acts both as a positive regulator of the ada response and as a DNA repair enzyme.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Does wheat belongs to the genus Avena, yes or no?",
+    "context": "",
+    "response": "oat seedlings (Avena sativa)",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Can botulism poisoning of a pregnant woman harm her fetus?",
+    "context": "",
+    "response": "Botulinum toxin, which causes botulism, is not expected to be present in systemic circulation following proper intramuscular or intradermal injection. Moreover, botulinum toxin has a high molecular weight, and does not appear to cross the placenta. Based on the study cases reported in the literature, botulism poisoning during pregnancy does not appear to increase the risk of adverse outcome in the fetus.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are there plasma membrane receptors for thyroid hormones?",
+    "context": "",
+    "response": "Receptors for thyroid hormones are present on plasma membrane of cells; in particular thyroid hormones bind integrin that is a heterodimeric component of plasma membrane",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the most prominent sequence consensus for the polyadenylation site?",
+    "context": "",
+    "response": "Functional polyadenylation [poly(A)] sites consist of two sequence elements, the AAUAAA and G/U box signals, that closely flank the site of mRNA 3'-end formation. The canonical polyadenylation signal sequence AATAAA",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the role of 5hmC (5 hydroxy-methyl-Cytocine) in differentiation?",
+    "context": "",
+    "response": "The balance between 5hmC and 5mC in the genome is linked with cell-differentiation processes such as pluripotency and lineage commitment. Tet1-mediated antagonism of CpG methylation imparts differential maintenance of DNA methylation status at Tet1 targets, ultimately contributing to mESC differentiation and the onset of embryonic development. By mapping DNA methylation and hydroxymethylation at base resolution, we find that deletion of Tet2 causes extensive loss of 5hmC at enhancers, accompanied by enhancer hypermethylation, reduction of enhancer activity, and delayed gene induction in the early steps of differentiation.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is TNF-α an activator of pancreatic stellate cells?",
+    "context": "",
+    "response": "Yes,\nTNF-α  is the prime factor responsible for the activation of pancreatic stellate cells.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List 2 approved drug treatments for Inflammatory Bowel Disease (IBD).",
+    "context": "",
+    "response": "Patients with IBD, inflammtory Bowel Disease can be treated with steroids, or 2 approved biosimilar drugs infliximab (IFX) or adalimumab (ADA)",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Have germline variants been associated to colorectal cancer?",
+    "context": "",
+    "response": "Yes. Whole-genome sequencing (WGS) applied to medical research has revealed how germline variants and mutations may be associated with colorectal cancer. It is likely that this level of knowledge can be translated into predictions of predisposition.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the implication of histone lysine methylation in medulloblastoma?",
+    "context": "",
+    "response": "Aberrant patterns of H3K4, H3K9, and H3K27 histone lysine methylation were shown to result in histone code alterations, which induce changes in gene expression, and affect the proliferation rate of cells in medulloblastoma.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List inhibtors targeting the mitochondrial permeability transition pore.",
+    "context": "",
+    "response": "Cyclosporine A\nAtractyloside\nN-metyl-4-isoleucine-cyclosporine\nSanglifehrin A \nTRO-19622",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is the HRC Ser96Ala variant associated with sudden cardiac death in patients with dilated cardiomyopathy?",
+    "context": "",
+    "response": "A human genetic variant (Ser96Ala) in the sarcoplasmic reticulum (SR) histidine-rich Ca(2+)-binding (HRC) protein has been linked to ventricular arrhythmia and sudden death in dilated cardiomyopathy.The histidine-rich calcium binding protein (HRC) Ser96Ala polymorphism was shown to correlate with ventricular arrhythmias and sudden death only in dilated cardiomyopathy patients but not in healthy human carriers.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Have toll-like receptor 2 activators been found in food?",
+    "context": "",
+    "response": "Yes, toll-like receptor 2 activators (TLR2) have been found in food.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which web resource for LIR motif-containing proteins in eukaryotes has been developed?",
+    "context": "",
+    "response": "In the past few years it has been revealed that Atg8-interacting proteins include not only receptors but also components of the core autophagic machinery, proteins associated with vesicles and their transport, and specific proteins that are selectively degraded by autophagy. Atg8-interacting proteins contain a short linear LC3-interacting region/LC3 recognition sequence/Atg8-interacting motif (LIR/LRS/AIM) motif which is responsible for their interaction with Atg8-family proteins. These proteins are referred to as LIR-containing proteins (LIRCPs). So far, many experimental efforts have been carried out to identify new LIRCPs, leading to the characterization of some of them in the past 10 years. Given the need for the identification of LIRCPs in various organisms, the iLIR database ( https://ilir.warwick.ac.uk ) has been developed as a freely available web resource, listing all the putative canonical LIRCPs identified in silico in the proteomes of 8 model organisms using the iLIR server, combined with a Gene Ontology (GO) term analysis.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Has the protein GFP been used in transgenesis for live protein imaging?",
+    "context": "",
+    "response": "Yes, the stable transgenesis of genes encoding functional or spatially localized proteins, fused to fluorescent proteins such as green fluorescent protein (GFP) or red fluorescent protein (RFP), is an extremely important research tool in cell and developmental biology.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which programming language has been used for implementing GWAR?",
+    "context": "",
+    "response": "Stata",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which R package is used for visualization of linear and circular karyotypes?",
+    "context": "",
+    "response": "The chromDraw graphical tool was developed as a user-friendly graphical tool for visualizing both linear and circular karyotypes based on the same input data matrix. The output graphics, saved in two different formats (EPS and SVG), can be easily imported to and modified in presentation and image-editing computer programs. The tool is freely distributed under GNU General Public License (GPL) and can be installed from Bioconductor or from the chromDraw home page.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Does steroid 5A-Reductase deficiency lead to hermaphroditism?",
+    "context": "",
+    "response": "Yes, steroid 5A-reductase deficiency can lead to hermaphroditism.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are there methods for generating highly multiplexed ChIP-seq libraries?",
+    "context": "",
+    "response": "Yes. There are methods for generating highly multiplexed ChIP-seq libraries.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How many genes are screened by the FoundationOne companion diagnostic?",
+    "context": "",
+    "response": "FoundationOne CDx comprises a 324-gene panel.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What type of genome, (RNA or DNA, double stranded single stranded) is found in the the virus that causes blue tongue disease?",
+    "context": "",
+    "response": "The Bluetongue virus (BTV) genome contains ten double-stranded RNA segments.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Describe OligoSTORM",
+    "context": "",
+    "response": "OligoSTORM and OligoDNA-PAINT meld the Oligopaint technology for fluorescent in situ hybridization (FISH) with, respectively, Stochastic Optical Reconstruction Microscopy (STORM) and DNA-based Point Accumulation for Imaging in Nanoscale Topography (DNA-PAINT) to enable in situ single-molecule super-resolution imaging of nucleic acids. Both strategies enable ≤20 nm resolution and are appropriate for imaging nanoscale features of the genomes of a wide range of species, including human, mouse, and fruit fly (Drosophila).",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What are CRISPR-Cas12a proteins?",
+    "context": "",
+    "response": "CRISPR-Cas12a (Cpf1) proteins are RNA-guided enzymes that bind and cut DNA as components of bacterial adaptive immune systems. Like CRISPR-Cas9, Cas12a has been harnessed for genome editing on the basis of its ability to generate targeted, double-stranded DNA breaks. RNA-guided DNA binding unleashes indiscriminate single-stranded DNA (ssDNA) cleavage activity by Cas12a that completely degrades ssDNA molecules",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is Pseudomelanosis duodeni?",
+    "context": "",
+    "response": "Pseudomelanosis duodeni is a rare incidental finding seen on endoscopy and has the characteristic appearance of flat, black-speckled pigmented mucosa that can be associated with gastrointestinal bleeding, hypertension, chronic heart failure, chronic renal failure and consumption of different drugs.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the target protein of the drug Idelalisib?",
+    "context": "",
+    "response": "Idelalisib represents a first-in-class specific inhibitor of the phosphoinositol-3 kinase (PI3K) delta isoform.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the indication for isradipine?",
+    "context": "",
+    "response": "Isradipine is safe and effective when administered long-term in the treatment of hypertensive patients",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "List Pentalogy of Fallot.",
+    "context": "",
+    "response": "Pentalogy of Fallot consists of a pulmonic stenosis, a ventricular septal defect, an overriding aorta, a right ventricular hypertrophy and a patent foramen ovale.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the function of HDAC  proteins?",
+    "context": "",
+    "response": "Histone deacetylases influence diverse cellular processes and may contribute to tumor development and progression by multiple mechanisms. Histone deacetylases prevent the relaxation of chromatin, and positively or negatively regulate transcription. ",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which is the catalytic activity of the protein encoded by the gene KMT2C? ",
+    "context": "",
+    "response": "The lysine methyltransferase KMT2C (also known as MLL3), a subunit of the COMPASS complex, implements monomethylation of Lys4 on histone H3 (H3K4) at gene enhancers.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Does  thyroid hormone receptor beta1 affect insulin secretion?",
+    "context": "",
+    "response": "No",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What type of topoisomerase inhibitor is gepotidacin?",
+    "context": "",
+    "response": "Gepotidacin is a type IIA topoisomerase inhibitor.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Name the uses of Sideritis scardica in traditional medicine.",
+    "context": "",
+    "response": "Sideritis scardica is used in traditional medicine as a loosening agent in bronchitis and bronchial asthma; against the common cold and lung emphysema; in the treatment of inflammation, gastrointestinal disorders and coughs; and as an active constituent of dietary supplements for the prevention of anemia. Sideritis scardica has been attributed a broad range of properties such as antimicrobial, anti-inflammatory, cytotoxic, antioxidant, gastroprotective, antiglioma, and triple monoamine reuptake inhibition.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Are astronauts in higher risk for developing cancer?",
+    "context": "",
+    "response": "No significant associations between space radiation dose and mortality were found using logistic regression with an internal reference group, adjusting for medical radiation.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which was the first adeno-associated virus vector gene therapy product approved in the United States?",
+    "context": "",
+    "response": "The first adeno-associated virus vector gene therapy product in the United States was Luxturna.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which protein is associated with hyperemesis gravidarum during pregrancy?",
+    "context": "",
+    "response": "Human chorionic gonadotropin (hCG) is associated with hyperemesis gravidarum during pregrancy.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which are the APOBEC3 protein family members able to inhibit Vif-deficient HIV-1 replication?",
+    "context": "",
+    "response": "APOBEC3G, APOBEC3F, APOBEC3DE, APOBEC3A, and APOBEC3H haplotypes II, V, and VII, provide protection against Vif-deficient HIV-1, through hypermutation of the viral genome, inhibition of reverse transcription, and inhibition of viral DNA integration into the host genome.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is libgapmis?",
+    "context": "",
+    "response": "libgapmis is a library for extending pairwise short-read alignments. Apart from the standard CPU version, it includes ultrafast SSE- and GPU-based implementations. libgapmis is based on an algorithm computing a modified version of the traditional dynamic-programming matrix for sequence alignment. The open-source code of libgapmis is available at http://www.exelixis-lab.org/gapmis.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "LINC00339 is a diagnostic, prognostic and treatment efficacy biomarker for what disease?",
+    "context": "",
+    "response": "LINC00339 as a cancer diagnostic, prognostic and treatment efficacy biomarker.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is it safe to take isotretinoin during pregnancy?",
+    "context": "",
+    "response": "No. The isotretinoin has severe teratogenic effects and it is not safe to use during pregnancy.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Where is the organ of Corti located?",
+    "context": "",
+    "response": "The cochlea, a coiled structure located in the ventral region of the inner ear, acts as the primary structure for the perception of sound. Along the length of the cochlear spiral is the organ of Corti, a highly derived and rigorously patterned sensory epithelium that acts to convert auditory stimuli into neural impulses.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies?",
+    "context": "",
+    "response": "Hsp90 regulates the function of argonaute 2 and its recruitment to stress granules and P-bodies.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is selenocysteine an aminoacid?",
+    "context": "",
+    "response": "Yes",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is Erythropoietin effective for neuroprotection of Preterm Infants.",
+    "context": "",
+    "response": "No. High-dose erythropoietin treatment administered to extremely preterm infants from 24 hours after birth through 32 weeks of postmenstrual age did not result in a lower risk of severe neurodevelopmental impairment or death at 2 years of age.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "What is the function of the NIPBL factor in genome conformation?",
+    "context": "",
+    "response": "The NIPBL protein stimulates cohesin's ABC-like ATPase and is essential for loading cohesin onto chromosomes.. NIPBL recruits histone deacetylases to mediate local chromatin modifications.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "How are SAHFS created?",
+    "context": "",
+    "response": "Cellular senescence-associated heterochromatic foci (SAHFS) are a novel type of chromatin condensation involving alterations of linker histone H1 and linker DNA-binding proteins. SAHFS can be formed by a variety of cell types, but their mechanism of action remains unclear.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Which ligament is most commonly injured in dashboard injury?",
+    "context": "",
+    "response": "Posterior cruciate ligament injuries have a reported incidence of between 3 and 37%, depending on the clinical setting. The most common mechanism of injury in motor vehicle accidents is a dashboard injury or direct force to the proximal anterior tibia.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is JTV519 (K201) a potential drug for the prevention of arrhythmias?",
+    "context": "",
+    "response": "Yes, JTV519 has antiarrhythmic properties.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is there a link between BCL11B haploinsufficiency and syndromic neurodevelopmental delay?",
+    "context": "",
+    "response": "No. Mutations leading either to BCL11B haploinsufficiency or to a truncated BCL11B protein clinically cause a non-syndromic neurodevelopmental delay.",
+    "category": "Biomedical_QA"
+  },
+  {
+    "instruction": "Is mesothelioma caused by asbestos exposure?",
+    "context": "",
+    "response": "Yes, mesothelioma is caused by asbestos exposure.",
+    "category": "Biomedical_QA"
+  }
+]

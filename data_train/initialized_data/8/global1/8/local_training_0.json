@@ -1,0 +1,1122 @@
+[
+    {
+        "instruction": "Which receptors can be evaluated with the [18F]altanserin?",
+        "context": "",
+        "response": "5-HT2A (5-hydroxytryptamine type 2a) receptor can be evaluated with the [18F]altanserin.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0811113915355595
+    },
+    {
+        "instruction": "What is known about telomere length shortening and stress?",
+        "context": "",
+        "response": "A significant relationship between more perceived stress and shorter telomere length is consistent with theoretical frameworks positing that stress induces physiological changes that result in shortened telomeres.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0808490267075728
+    },
+    {
+        "instruction": "What is the FIRE (Functional Inference of Regulators of Expression) tool?",
+        "context": "",
+        "response": "FIRE (Functional Inference of Regulators of Expression) is a tool to score both noncoding and coding SNVs based on their potential to regulate the expression levels of nearby genes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.079976052812967
+    },
+    {
+        "instruction": "At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?",
+        "context": "",
+        "response": "Treatment of subclinical hypothyroidism is associated with fewer cardiovascular events in younger individuals, but this issue has not been resolved yet in elderly people.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0798089570959382
+    },
+    {
+        "instruction": "Interaction of WDR5 with which gene has a critical role in pancreatic cancer?",
+        "context": "",
+        "response": "Mechanistically, WDR5 functions to sustain proper execution of DNA replication in pancreatic ductal adenocarcinoma (PDAC) cells, as previously suggested by replication stress studies involving MLL1, and c-Myc, also found to interact with WDR5. It was indeed demonstrated that interaction with c-Myc is critical for this function.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0797675090021661
+    },
+    {
+        "instruction": "What are the results of loss of the protein Lon1 in the plant Arabidopsis?",
+        "context": "",
+        "response": "Loss of Lon1 in Arabidopsis changes the mitochondrial proteome leading to altered metabolite profiles and growth retardation. Additionaly, seedling establishment is also impaired.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0797299239075746
+    },
+    {
+        "instruction": "List the components of mTOR Complex 2 (mTORC2).",
+        "context": "",
+        "response": "Mammalian target of rapamycin complex 2 (mTORC2) is a kinase complex comprised of mTOR, Rictor, mSin1, mLST8/GβL and PRR5.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.079320434147357
+    },
+    {
+        "instruction": "How many genes belong to the KRAB-ZNF family in the human genome?",
+        "context": "",
+        "response": "The KRAB-ZNF family is a multisubunit protein family comprised of 70 co-regulated genes, denoted KLR1-ZNF15, that is represented by multigene families in the human genome.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0792205947081321
+    },
+    {
+        "instruction": "What is CRISPRi?",
+        "context": "",
+        "response": "Clustered regularly interspaced palindromic repeats interference (CRISPRi). This discovery tool is is used for genetic screening based on loss-of-function phenotypes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0791238518979567
+    },
+    {
+        "instruction": "What is the combined effect of Nfat and miR-25?",
+        "context": "",
+        "response": "Increased calcineurin/Nfat signalling and decreased miR-25 expression integrate to re-express the basic helix-loop-helix (bHLH) transcription factor dHAND (also known as Hand2) in the diseased human and mouse myocardium.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0790672510837873
+    },
+    {
+        "instruction": "Which tool exists for microsatellite (SSR) loci detection and primer design?",
+        "context": "",
+        "response": "Microsatellites are genomic sequences comprised of tandem repeats of short nucleotide motifs widely used as molecular markers in population genetics. FullSSR is a new bioinformatic tool for microsatellite (SSR) loci detection and primer design using genomic data from NGS assay.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.079053615876856
+    },
+    {
+        "instruction": "Does Chromatin Immunoprecipitation (ChIP) show a bias for highly expressed loci?",
+        "context": "",
+        "response": "Several issues in the processing and analysis of ChIP-chip data have not been resolved fully, including the effect of background (mock control) subtraction and normalization within and across arrays. We detected a chromatin-state bias: open chromatin regions yielded higher coverage, which led to false positives if not corrected. The localization of unrelated proteins, including the entire silencing complex, to the most highly transcribed genes was highly suggestive of a technical issue with the immunoprecipitations.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0788431924569484
+    },
+    {
+        "instruction": "How many Groucho-related genes (GRG) are contained in the mouse genome?",
+        "context": "",
+        "response": "It spans approximately 7 kb on chromosome 10 and consists of seven exons. The groucho-related genes (Grg) of the mouse comprise at least four family members.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0788141274109802
+    },
+    {
+        "instruction": "Does Panitumumab prolong survival of biliary tract cancer patients?",
+        "context": "",
+        "response": "No. Panitumumab in combination with chemotherapy does not improve survival of biliary cancer patients.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0784600082939366
+    },
+    {
+        "instruction": "Which cancer types are associated with mutations in the TWIST1 gene?",
+        "context": "",
+        "response": "Loss-of-function mutations of TWIST1, a catalytic component of polycomb repressive complex 1, are observed in ~\\n10% of all human cancers, including gastric, non-small cell lung, breast ductal carcinoma, nonsmall cell lung cancer, prostate cancer, ovarian cancer, breast tumor, papillary thyroid cancer, and gastric cancer.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0776531951695452
+    },
+    {
+        "instruction": "In which process Src, Cortactin and MT1-MMP are playing an essential role?",
+        "context": "",
+        "response": "Src was shown to be required for invadopodia formation and function, whereas Cortactin was found to regulate cofilin and N-WASp activities to control the stages of invadopodium assembly and maturation. Finally, membrane type 1 matrix metalloproteinase (MT1-MMP) was demostrated as the key invadopodial enzyme responsible for gelatin matrix degradation in cancer cells.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.076367758108703
+    },
+    {
+        "instruction": "What is the role of cytidine deaminase in healthy cells?",
+        "context": "",
+        "response": "Activation-induced cytidine deaminase (AID) catalyses the deamination of deoxycytidines to deoxyuracils within immunoglobulin genes to induce somatic hypermutation and class-switch recombination.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0747934830320998
+    },
+    {
+        "instruction": "Is cancer related to global DNA hypo or hypermethylation?",
+        "context": "",
+        "response": "DNA hypermethylation and hypomethylation are independent processes and appear to play different roles in tumor progression.  Cancer cells are characterized by a generalized disruption of the DNA methylation pattern involving an overall decrease in the level of 5-methylcytosine together with regional hypermethylation of particular CpG islands. Tumors have reduced levels of genomic DNA methylation and contain hypermethylated CpG islands.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0746412808732166
+    },
+    {
+        "instruction": "Has ruxolitinib received FDA approval?",
+        "context": "",
+        "response": "Yes, ruxolitinib is FDA approved. In 2011 the oral JAK2 kinase inhibitor ruxolitinib became the first Food and Drug Administration (FDA)-approved drug for the treatment of myelofibrosis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0745805597647686
+    },
+    {
+        "instruction": "Does HER2 under-expression lead to favorable response to trastuzumab?",
+        "context": "",
+        "response": "No, trastuzumab is effective only in cancers where Her2 is over-expessed.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0743863777343066
+    },
+    {
+        "instruction": "Which is the \"bonding hormone\"?",
+        "context": "",
+        "response": "Oxytocin is known as the 'bonding hormone' due its role in promoting mother-child and pair bonding.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0738608789527688
+    },
+    {
+        "instruction": "List biomarkers for sepsis.",
+        "context": "",
+        "response": "HCK, PRKCD, SIRPA, DOK3, ITGAM, LTB4R, MAPK14, MALT1, NLRC3, LCK\nC-Reactive Protein (CRP), Procalcitonin (PCT) and Interleukin 6 (IL-6)\nsTM",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0737523284043176
+    },
+    {
+        "instruction": "Tumor-treating fields are effective for treatment of which cancers?",
+        "context": "",
+        "response": "Clinical trials have shown that Tumor-treating fields are effective for treatment of non-small cell lung cancer and glioblastoma. Ongoing and future trials will evaluate TTFields in solid tumor brain metastases, and ovarian, pancreatic cancers and multidrug resistance cancer cells.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0734246951940307
+    },
+    {
+        "instruction": "What is the mode of inheritance of Romano Ward long QT syndrome?",
+        "context": "",
+        "response": "The Romano Ward long QT syndrome (LQTS) has an autosomal dominant mode of inheritance.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0727983750790746
+    },
+    {
+        "instruction": "List active ingredients of the Stribild polypill.",
+        "context": "",
+        "response": "Active ingredients of Stribild are elvitegravir, cobicistat, emtricitabine and tenofovir. It is used for treatment of HIV infection.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0725994005335193
+    },
+    {
+        "instruction": "Which eukaryote genomes contain operons?",
+        "context": "",
+        "response": "Genes in nematode and ascidian genomes frequently occur in operons such genes comprise 15-20% of the coding genome for Caenorhabditis elegans and Ciona intestinalis We find that birth-death models of operon evolution reasonably describe the relative abundance of operons of different sizes in the C. elegans and Ciona genomes and generate predictions about the number of monocistronic, nonoperon genes that likely participate in the birth-death process",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0725533705487191
+    },
+    {
+        "instruction": "What is Mendelian randomization?",
+        "context": "",
+        "response": "Instrumental variable analysis is an approach for obtaining causal inferences on the effect of an exposure (risk factor) on an outcome from observational data. It has gained in popularity over the past decade with the use of genetic variants as instrumental variables, known as Mendelian randomization.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.07221741149752
+    },
+    {
+        "instruction": "How do the plasma concentrations of amantadine extended release and amantadine immediate release compare?",
+        "context": "",
+        "response": "When it is given at bedtime, it reaches plasma concentration approximately twice the level achieved by amantadine immediate release.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0713542188705687
+    },
+    {
+        "instruction": "Mutation of which gene is implicated in the familial isolated pituitary adenoma?",
+        "context": "",
+        "response": "Mutation of aryl hydrocarbon receptor interacting protein (AIP) gene was implicated in the familial isolated pituitary adenoma (FIPA) syndrome. About 20% of the families with FIPA harbor inactivating mutation in AIP gene.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0713291869494488
+    },
+    {
+        "instruction": "What is epitranscriptomics?",
+        "context": "",
+        "response": "Epitranscriptomics is the fast expanding area of RNA modifications.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0694391801202758
+    },
+    {
+        "instruction": "Can mitochondria be inherited by both parents in humans?",
+        "context": "",
+        "response": "Yes. A comprehensive exploration of mtDNA segregation in certain families shows biparental mtDNA transmission with an autosomal dominant-like inheritance mode. Although the central dogma of maternal inheritance of mtDNA remains valid, there are some exceptional cases where paternal mtDNA could be passed to the offspring.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0686202618145206
+    },
+    {
+        "instruction": "Describe the mechanism of action of drisapersen",
+        "context": "",
+        "response": "Drisapersen is a 2'-O-methyl-phosphorothioate oligonucleotide designed to skip exon 51 in dystrophin pre-mRNA to restore the reading frame of the mRNA. It has potential for treatment of Duchenne muscular dystrophy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0683209385067731
+    },
+    {
+        "instruction": "What is the role of ZCCHC17?",
+        "context": "",
+        "response": "ZCCHC17 is a master regulator of synaptic gene expression in Alzheimer's disease. Master regulator analysis identifies ZCCHC17 as normally supporting the expression of a network of synaptic genes, and predicts that ZCCHC17 dysfunction in AD leads to lower expression of these genes. ZCCHC17 is normally expressed in neurons and is reduced early in the course of AD pathology. Its loss in rat neurons leads to lower expression of the majority of the predicted synaptic targets.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0679687360206036
+    },
+    {
+        "instruction": "What is a fibrocyte?",
+        "context": "",
+        "response": "Fibrocytes are bone marrow-derived progenitor cells that produce growth factors and contribute to fibrogenesis in the lungs. Fibrocytes are circulating mesenchymal precursors (CD45+, col 1+) recruited to fibrotic areas.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0675932322575539
+    },
+    {
+        "instruction": "How does botulism toxin act on the muscle?",
+        "context": "",
+        "response": ". The seven immunologically distinct serotypes of BoNTs (A-G), each produced by various strains of Clostridium botulinum, act on the neuromuscular junction by blocking the release of the neurotransmitter acetylcholine, thereby resulting in flaccid muscle paralysis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0674313608673751
+    },
+    {
+        "instruction": "Which proteins have been identified as RET ligands?",
+        "context": "",
+        "response": "RET is activated by members of the glial cell line-derived neurotrophic factor (GDNF) family of ligands, which include GDNF, neurturin, artemin, and persephin.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.06678488372699
+    },
+    {
+        "instruction": "What is the function of lncRNA?",
+        "context": "",
+        "response": "Long noncoding RNAs (lncRNAs) are involved in a variety of biological processes, including the epigenetic control of gene expression, post-transcriptional regulation of mRNA, and cellular proliferation and differentiation",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0666961222935472
+    },
+    {
+        "instruction": "Describe what is the advantage of using a stain free protein gel in a Western Blot experiment?",
+        "context": "",
+        "response": "Stain-Free technology can be used as a normalization tool in Western blot analysis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0663993719357159
+    },
+    {
+        "instruction": "What is Waylivra?",
+        "context": "",
+        "response": "Volanesorsen (Waylivra®), an antisense oligonucleotide inhibitor of apolipoprotein CIII (apoCIII) mRNA to treat familial chylomicronemia syndrome (FCS), hypertriglyceridemia and familial partial lipodystrophy (FPL).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0663119137207349
+    },
+    {
+        "instruction": "What is the \"wearing-off\" phenomenon in levodopa-treated patients with Parkinson's Disease?",
+        "context": "",
+        "response": "Chronic administration of traditional levodopa/dopa decarboxylase inhibitor formulations to Paskinson's Disease patients is associated with the development of complications, such as wearing-off phenomenon. Wearing-off phenomenon is characterized by the predictable emergence of motor symptoms (e.g. rigidity and freezing) and nonmotor PD symptoms (e.g. anxiety and shortness of breath), before the next scheduled dose of medication.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0661586249113661
+    },
+    {
+        "instruction": "Is Niraparib effective for ovarian cancer?",
+        "context": "",
+        "response": "Yes. Niraparib is an oral poly(ADP ribose) polymerase (PARP) inhibitor that is approved by the United States Food and Drug Administration and the European Medicines Agency for the maintenance treatment of women with recurrent ovarian cancer who are in complete or partial response to platinum-based chemotherapy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0656431210569237
+    },
+    {
+        "instruction": "Which neuroendocrine tumors are associated with specific tumor syndromes?",
+        "context": "",
+        "response": "Neuroendocrine tumors are a heterogeneous group of benign and malignant neoplasias, detectable in the context of hereditary tumor syndromes in up to 30% of cases. Neuroendocrine tumors include medullary thyroid carcinoma, gastroenteropancreatic tumors, pheochromocytoma, and paraganglioma.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0655045353648829
+    },
+    {
+        "instruction": "What is the role of 3,4-diaminobenzoic acid derivatives in the immune system?",
+        "context": "",
+        "response": "3,4-diaminobenzoic acid derivatives are inhibitors of the oxytocinase subfamily of M1 aminopeptidases with immune-regulating properties. Cell-based analysis indicated that the lead compounds can be effective in downregulating macrophage activation induced by lipopolysaccharide and interferon-γ as well as cross-presentation by bone marrow-derived dendritic cells.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0654359478316158
+    },
+    {
+        "instruction": "Does low T3 negatively affect prognosis of patients after cardiac surgery?",
+        "context": "",
+        "response": "Low cardiac output syndrome after cardiac surgery for congenital heart diseases is associated with decreased T3\nLow T3 concentrations are associated with occurrence of post operative atrial fibrillation\nLow T3 concentrations are inversely correlated with the days of post operative hospitalization",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0651720540243703
+    },
+    {
+        "instruction": "Velocardial facial syndrome, otherwise known as Di George syndrome  is caused by a deletion in chromosome 21, yes or no?",
+        "context": "",
+        "response": "Velocardial facial syndrome, otherwise known as Di George syndrome is caused by a deletion in chromosome 22.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.065080379562046
+    },
+    {
+        "instruction": "Which post-translational histone modifications are characteristic of facultative heterochromatin?",
+        "context": "",
+        "response": "Nuclear VapB methyltransferase diminishes the establishment of facultative heterochromatin by decreasing histone 3 lysine 9 trimethylation (H3K9me3). Dramatic changes in exposure of a repressive chromatin mark, H3K9me2, indicate that during development linker histone plays a role in establishing the facultative heterochromatin territory and architecture in the nucleus. Histone H3 trimethylation at lysine 36 is associated with constitutive and facultative heterochromatin.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0650539706545838
+    },
+    {
+        "instruction": "Which syndromes are associated with heterochromia iridum?",
+        "context": "",
+        "response": "The syndromes that are associated with heterochromia iridum are:\n1) Ascher's syndrome\n2) Waardenburg Syndrome type II (WS2)\n3) Horner's syndrome.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0646332939759742
+    },
+    {
+        "instruction": "Is there an association between Guillain–Barré syndrome and covid vaccine?",
+        "context": "",
+        "response": "Yes. There series reporting Guillain–Barré syndrome after COVID-19 vaccination.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0644510608136895
+    },
+    {
+        "instruction": "List human diseases involving genomic imprinting.",
+        "context": "",
+        "response": "Prader Willi Syndrome\nAngelman syndrome\nBeckwith-Wiedemann syndrome\nHydatidiform mole\nCancer\nSilver-Russell syndrome\nDiabetes",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0640701978176945
+    },
+    {
+        "instruction": "List chromosomes that have been linked to Arnold Chiari syndrome in the literature.",
+        "context": "",
+        "response": "Chromosomes 1, 3, 5, 6, 8, 9, 12, 13, 15, 16, 18, 22, X and Y have been reported in association with Arnold Chiari syndrome in genetic linkage studies and individual case reports.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0638619353412808
+    },
+    {
+        "instruction": "The CXCR2 receptor is targeted in cancer. Name five antagonists.",
+        "context": "",
+        "response": "There are numerous CXCR2 receptor antagonists, such as SB225002, G31P, SCH-527123, AZ10397767, SCH-479833.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.063303556846754
+    },
+    {
+        "instruction": "What is the use of emulsion PCR in Next Generation Sequencing?",
+        "context": "",
+        "response": "Prior to Next Generation Sequencing reactions, DNA libraries are constructed, amplified with emulsion PCR, and enriched with the use of enrichment beads. The library samples are then loaded to a sequencing chip and analyzed on an NGS platform.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0627713163200325
+    },
+    {
+        "instruction": "What is the Bartter syndrome?",
+        "context": "",
+        "response": "Bartter syndrome is a rare disorder characterized by reduced sodium chloride transport in the distal nephrons of the kidney. Its clinical features are renal salt wasting, hypokalemic metabolic alkalosis, elevated renin and aldosterone levels with normal or low blood pressure, polyuria, hypercalciuria and malnutrition.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0627272283442062
+    },
+    {
+        "instruction": "Is ADP-ribosylation a PTM?",
+        "context": "",
+        "response": "Yes,\nPoly-ADP-ribosylation (PARylation) is a protein posttranslational modification (PTM) that is critically involved in many biological processes that are linked to cell stress responses.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0619896595689011
+    },
+    {
+        "instruction": "What is Heterochromia Iridis?",
+        "context": "",
+        "response": "Heterochromia Iridis is a condition where the affected person has differences in the color of the iris.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0617235817399053
+    },
+    {
+        "instruction": "What is the reason for the narcolepsy cases developed after H1N1 influenza vaccination?",
+        "context": "",
+        "response": "The proposed mechanism for postvaccination narcolepsy is one in which an environmental trigger causes or enhances an antibody-mediated autoimmune response in patients with a preexisting genetic susceptibility.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0612204693409786
+    },
+    {
+        "instruction": "Is it possible to visualize subtahalamic nucleus by using transcranial ultrasound?",
+        "context": "",
+        "response": "Yes, it has been shown that it is possible to visualize subtahalamic nucleus by using transcranial ultrasound. Transcranial ultrasound is safe and reliable method that can be employed to monitor lead location and intraoperative visualization of deep-brain stimulation (DBS) electrodes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0605762365858031
+    },
+    {
+        "instruction": "In which genomic positions is the histone variant macroH2A enriched?",
+        "context": "",
+        "response": "macroH2A1 is enriched on the inactive X chromosome in female mammalian cells, where it functions to maintain gene silencing. The transcribed regions of most active genes are depleted of macroH2A, often in sharply localized domains that show depletion of 4-fold or more relative to bulk mouse liver chromatin. This repressor activity of marcroH2A is further supported by the substantial and relatively uniform macroH2A1 enrichment along the inactive X chromosome, which averages 4-fold. In addition to localizing to the MCB, macroH2A accumulates at a perinuclear structure centered at the centrosome",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0605001281318729
+    },
+    {
+        "instruction": "Is erabutoxin b usually found in plants?",
+        "context": "",
+        "response": "Erabutoxin b is a short-chain neurotoxic peptide purified from the venom of the sea snake Laticauda semifasciata.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0603663826543492
+    },
+    {
+        "instruction": "Which are the 3 basic transcription factors that have been used for the direct reprogramming of fibroblasts into cardiomyocytes or cardiomyocyte like-cells?",
+        "context": "",
+        "response": "Direct reprogramming of human cardiac fibroblasts (HCFs) into cardiomyocytes may hold great potential for this purpose. We found that functional cardiomyocytes can be directly induced from fibroblasts by a combination of three cardiac transcription factors, Gata4, Mef2c and Tbx5, in vitro and in vivo.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.060263746337132
+    },
+    {
+        "instruction": "In which cells are A-type lamins expressed?",
+        "context": "",
+        "response": "In the rat brain, lamin A and C are expressed in relatively equal amounts, while the expressions of lamin B1 and B2 vary depending on the cell type. Human cells with reduced expression of the major B-type lamin protein, lamin B1, were generated using RNA interference. In addition, horizontal cells and a subpopulation of retinal ganglion cells expressed lamin A and C, while photoreceptor cells expressed neither lamin A nor C, and all other retinal neurons expressed lamin C only. Parallel in vivo experiments showed that treatment with thioglycollate caused the percentage of lamin A/C-positive peritoneal macrophages to increase from 5 to 80% between Days 0 and 6.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.060147218129635
+    },
+    {
+        "instruction": "Which are the different isoforms of the mammalian Notch receptor?",
+        "context": "",
+        "response": "Notch signaling is an evolutionarily conserved mechanism, used to regulate cell fate decisions. Four Notch receptors have been identified in man: Notch-1, Notch-2, Notch-3 and Notch-4.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0600981840577186
+    },
+    {
+        "instruction": "Which resource contains accurate enhancer predictions in the developing limb?",
+        "context": "",
+        "response": "Limb-Enhancer Genie (LEG) is a collection of highly accurate, genome-wide predictions of enhancers in the developing limb, available through a user-friendly online interface. Limb enhancers are predicted using a combination of >50 published limb-specific datasets and clusters of evolutionarily conserved transcription factor binding sites, taking advantage of the patterns observed at previously in vivo validated elements.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0594963113808173
+    },
+    {
+        "instruction": "List drugs included in the DHAP-R chemotherapy regiment.",
+        "context": "",
+        "response": "Dexamethasone (a steroid hormone), cytarabine (ara-C), cisplatin (platinum agent) and rituximab are included in the DHAP-R chemotherapy protocol.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0592260599964305
+    },
+    {
+        "instruction": "List symptoms of Heerfordt syndrome.",
+        "context": "",
+        "response": "Heerfordt syndrome (also known as Heerfordt-Waldenström or uveoparotid fever)  is a rare presentation of sarcoidosis characterized by the presence of parotid gland enlargement, facial palsy, anterior uveitis, and fever.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0590755573430928
+    },
+    {
+        "instruction": "What are some of the effects of Zika Virus in infected individuals?",
+        "context": "",
+        "response": "While most of the symptoms of zika virus are relatively mild, zika virus in pregnant mothers can cause microcephaly and other congenital defects in the fetus.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.05874482968429
+    },
+    {
+        "instruction": "Which gene strand is targeted by transcription-coupled repair (TCR)?",
+        "context": "",
+        "response": "Nucleotide Excision Repair (NER) removes a variety of helix-distorting lesions from DNA. It has two sub-pathways, the global genome (gg) NER and the transcription-coupled repair (TCR). TCR is triggered when a RNA polymerase, translocating along the transcribed strand, is arrested at a lesion or unusual structure in the DNA. TCR is dedicated to target and repair the transcribed strand of an active gene.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0587223641476666
+    },
+    {
+        "instruction": "How many and which are the different isoforms for the ryanodine receptor?",
+        "context": "",
+        "response": "Generally, three ryanodine receptor isoforms (RyR1-RyR3) are known. RyR1, expressed in skeletal muscle; RyR2, expressed in cardiac muscle; and RyR3, expressed in various cells. RyR3 is preferentially expressed in the brain especially in the hippocampus and striatum.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0586716291279152
+    },
+    {
+        "instruction": "What gene is mutated in Huntington's disease?",
+        "context": "",
+        "response": "Huntington disease (HD; OMIM 143100), a progressive neurodegenerative disorder, is caused by an expanded trinucleotide CAG (polyQ) motif in the HTT gene. Mutations of the huntingtin protein (HTT) gene underlie both adult-onset and juvenile forms of Huntington's disease (HD).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0585860666176075
+    },
+    {
+        "instruction": "Describe f-scLVM",
+        "context": "",
+        "response": "Single-cell RNA-sequencing (scRNA-seq) allows studying heterogeneity in gene expression in large cell populations. Such heterogeneity can arise due to technical or biological factors, making decomposing sources of variation difficult. F-scLVM (factorial single-cell latent variable model) is a method based on factor analysis that uses pathway annotations to guide the inference of interpretable factors underpinning the heterogeneity. The model jointly estimates the relevance of individual factors, refines gene set annotations, and infers factors without annotation. F-scLVM robustly decomposes scRNA-seq datasets into interpretable components, thereby facilitating the identification of novel subpopulations.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0583485974796338
+    },
+    {
+        "instruction": "What is caused by loss-of-function variants in BCAS3?",
+        "context": "",
+        "response": "Bi-allelic loss-of-function variants in BCAS3 cause a syndromic neurodevelopmental disorder. BCAS3 microtubule-associated cell migration factor (BCAS3) is a large, highly conserved cytoskeletal protein previously proposed to be critical in angiogenesis and implicated in human embryogenesis and tumorigenesis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0583049452952846
+    },
+    {
+        "instruction": "Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?",
+        "context": "",
+        "response": "Pyridostigmine and neostygmine are acetylcholinesterase inhibitors that are used as first-line therapy for symptomatic treatment of myasthenia gravis. Pyridostigmine is the most widely used acetylcholinesterase inhibitor. Extended release pyridotsygmine and novel acetylcholinesterase inhibitors inhibitors with oral antisense oligonucleotides are being studied.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0581384274864716
+    },
+    {
+        "instruction": "What is Alphafold?",
+        "context": "",
+        "response": "AlphaFold is a novel machine learning approach that incorporates physical and biological knowledge about protein structure, leveraging multi-sequence alignments, into the design of the deep learning algorithm.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.057689212435526
+    },
+    {
+        "instruction": "What is \"Epitranscriptome analysis\"?",
+        "context": "",
+        "response": "Modified nucleotides in messenger RNA (mRNA) have been discovered over 40 years ago, but until recently little was known about which transcripts contain them and what their function is. High-throughput sequencing approaches revealed a dynamic landscape of the 'Epitranscriptome' for many mRNA modifications in various organisms from yeast to humans.\t\t\nThe detection methods of RNA modifications has enabled investigation of a new layer of gene regulation - the epitranscriptome.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0576049900873998
+    },
+    {
+        "instruction": "How does increased GDF15 affect body weight?",
+        "context": "",
+        "response": "In humans, elevated GDF15 correlates with weight loss, and the administration of GDF15 to mice with obesity reduces body weight, at least in part, by decreasing food intake.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0571970857347055
+    },
+    {
+        "instruction": "Which genes are regulated by MEF-2 in the heart?",
+        "context": "",
+        "response": "COX-2, ANF, estrogen receptor (ER)alpha gene, calsequestrin gene, casq2, cTnT, MCK, alpha-cardiac actin, sarco(endo)plasmic reticulum Ca2+-ATPase, SERCA, MLC-2, alpha-cardiac myosin heavy chain gene, phosphoglycerate mutase and PGAM-M are regulated by MEF-2 in the heart",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0559730575553106
+    },
+    {
+        "instruction": "Is cadasil syndrome a hereditary disease?",
+        "context": "",
+        "response": "Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is an inherited cerebral small vessel disease, clinically characterized by migraine, recurrent transient ischemic attacks or strokes, psychiatric disorders and cognitive decline. Strokes are typically ischemic, while hemorrhagic events have been only sporadically described. CADASIL is the most common form of hereditary cerebral angiopathy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.055024335236302
+    },
+    {
+        "instruction": "What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?",
+        "context": "",
+        "response": "Fanconi anemia (FA) is an autosomal disorder that causes genome instability and manifests by defects in DNA repair, hypersensitivity to DNA crosslinking agents, and a high degree of chromosomal aberrations.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.054744662719481
+    },
+    {
+        "instruction": "List orally bioavailable MPS1 kinase inhibitors",
+        "context": "",
+        "response": "1 h-pyrrolo [3,2-c] pyridine, cct271850, nms-p715, 4-aminopyrazalo,bos172722 and cct251455.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0546596690395107
+    },
+    {
+        "instruction": "How does neuronal activity affect neuroligin-3?",
+        "context": "",
+        "response": "Neuronal activity-induces secretion of neuroligin-3.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0546046028264473
+    },
+    {
+        "instruction": "Which is the protein-membrane interface of the Cholesterol-regulated Start protein 4 protein (STARD4)?",
+        "context": "",
+        "response": "L124 is the protein-membrane interface of the Cholesterol-regulated Start protein 4 protein (STARD4).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0536716803377213
+    },
+    {
+        "instruction": "Which neuropsychiatric disorders are associated with 16p13.11 genomic copy number variants?",
+        "context": "",
+        "response": "schizophrenia, autism, mental retardation, ADHD, epilepsy",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0536613805769628
+    },
+    {
+        "instruction": "Which human disease is associated with mutated UBQLN2",
+        "context": "",
+        "response": "Ggene mutations in UBQLN2 cause dominant inheritance of amyotrophic lateral sclerosis (ALS).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0535387960331355
+    },
+    {
+        "instruction": "Treatment of which disease was investigated in the MR CLEAN study?",
+        "context": "",
+        "response": "Multicenter Randomized CLinical trial of Endovascular treatment for Acute ischemic stroke in the Netherlands (MR CLEAN) study investigated endovascular treatment for acute ischemic stroke.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0529883462575822
+    },
+    {
+        "instruction": "Is NOD1 activated in inflammation?",
+        "context": "",
+        "response": "Nod proteins fight off bacterial infections by stimulating proinflammatory signaling and cytokine networks and by inducing antimicrobial effectors, such as nitric oxide and antimicrobial peptides. NOD1 engagement generates an inflammatory response via activation of NFκB and MAPK pathways and several inflammatory disorders, such as Crohn's disease and asthma, are linked to genetic changes in either Nod1 or Nod2. Nod1 is also critically implicated in shaping adaptive immune responses towards bacterial-derived constituents. Together, Nod1 and Nod2 represent central players in the control of immune responses to bacterial infections and inflammation. Mice deficient for both Nod1 and Nod2 had attenuated inflammatory pathology, reduced levels of inflammatory cytokines, and increased colonization of the mucosal tissue",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0526226270396566
+    },
+    {
+        "instruction": "What is the main mechanism by which human papillomavirus proteins E6 and E7 contribute to cell transformation?",
+        "context": "",
+        "response": "Although they may have other targets, human papillomavirus proteins E6 and E7 interact with and block the function of p53 and pRb, respectively, therefore deregulating cell cycle and leading to cellular transformation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0521669736278985
+    },
+    {
+        "instruction": "What are clinical features of the de Morsier syndrome?",
+        "context": "",
+        "response": "Classic triad of the De Morsier syndrome (septooptic dysplasia) includes optic nerve hypoplasia, the absence of septum pellucidum, and pituitary hypoplasia.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0520177248021738
+    },
+    {
+        "instruction": "Are there any urine biomarkers for bladder cancer diagnosis?",
+        "context": "",
+        "response": "Bladder cancer is any of several types of malignancy arising from the epithelial lining of the urinary bladder. Rarely the bladder is involved by non-epithelial cancers, such as lymphoma or sarcoma. It is a disease in which abnormal cells multiply without control in the bladder.The bladder is a hollow, muscular organ that stores urine; it is located in the pelvis. The most common type of bladder cancer recapitulates the normal histology of the urothelium and is known as transitional cell carcinoma or more properly urothelial cell carcinoma. It is estimated that there are 383,000 cases of bladder cancer worldwide",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0515080554905571
+    },
+    {
+        "instruction": "What disease is associate with defects in both the KDM6A (lysine specific demethylase 6A) and KMT2D (lysine methyltransferase 2D)",
+        "context": "",
+        "response": "Over the last 20 years, mutations in five key COMPASS complex genes have been linked to three human congenital syndromes: Kabuki syndrome (type 1 [KMT2D] and 2 [KDM6A]",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.051327191677742
+    },
+    {
+        "instruction": "What links developmental pathways to ALS?",
+        "context": "",
+        "response": "A direct link between developmental pathways and ALS is not described. However, cytoskeletal proteins such as KIF5A are implicated in ALS, and the cytoskeletal protein N-cadherin is involved in plasticity of the cerebral cortex. Development depends on connections of the sympathetic nervous system, involving mechanisms such as axon growth, neuron survival, and dendrite growth. BACE1, which is involved in Alzheimer's disease, is also implicated in axonal regeneration.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0509289748331079
+    },
+    {
+        "instruction": "Which are the clinical characteristics of isolated Non-compaction cardiomyopathy?",
+        "context": "",
+        "response": "The clinical characteristics of isolated Non-compaction cardiomyopathy are excessively thickened endocardial layer with deep intertrabecular recesses (with ratio of non-compacted to compacted myocardium >2), heart failure, syncope, ventricular arrhythmias, stroke, pulmonary hypertension, complete left branch conductive block, sick sinus syndrome and paroxysmal supraventricular tachycardia",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0506924718713158
+    },
+    {
+        "instruction": "Which growth factors are known to be involved in the induction of EMT?",
+        "context": "",
+        "response": "EMT is characterized by acquisition of cell motility, modifications of cell morphology, and cell dissociation correlating with the loss of desmosomes from the cellular cortex. A number of growth factors have been shown to be involved in this process. These include fibroblast growth factors (FGFs), TGF-β1, TGF-β2, TNF-α, CCN family, Sonic Hedgehog (SHh), Notch1, GF-β, Wnt, EGF, bFGF, IGF-I and IGF-II.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0502734612369544
+    },
+    {
+        "instruction": "What is the applicability of the No Promoter Left Behind method?",
+        "context": "",
+        "response": "No Promoter Left Behind (NPLB) is an efficient, organism-independent method for characterizing promoter architectures directly from experimentally identified genome-wide TSSs, without relying on known promoter elements.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0499993038720221
+    },
+    {
+        "instruction": "How thyrocyte destruction is induced in autoimmune thyroiditis?",
+        "context": "",
+        "response": "Thyrocytes from Hashimoto's thyroiditis (HT) glands, but not from nonautoimmune thyroids, expressed Fas (CD95), therefore autonomous interaction between thyrocyte Fas (CD95) and FasL (CD95L) has been proposed as a major mechanism of thyrocyte depletion in HT. Moreover, experimental evidence has showed that Infiltrating T Lymphocytes (ITLs) do not express significant amounts of FasL, suggesting that ITLs are not directly involved in thyrocyte destruction.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0498931653558112
+    },
+    {
+        "instruction": "What is another name for acid sphingomyelinase deficiency (ASMD)?",
+        "context": "",
+        "response": "Acid sphingomyelinase deficiency(ASMD) is also known as Niemann-Pick disease type A and type B.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0497402346186595
+    },
+    {
+        "instruction": "Which disease is caused by de novo VPS4A mutations?",
+        "context": "",
+        "response": "Mutations in the VPS4A gene, which encodes the alpha-subunit of the lysosomal sorting enzyme, beta-N-acetylhexosaminidase 4, are the cause of multisystem disease type 4 or Ferroportin disease.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0487573544525404
+    },
+    {
+        "instruction": "Is tubulin acetylation involved in cell motility?",
+        "context": "",
+        "response": "Yes, induction of alpha-tubulin acetylation correlates with inhibition of cell motility, while it is involved in additional cellular processes, e.g. cell cycle progression, differentiation, intracellular trafficking, and signalling. Dynamic microtubule (MT) acetylation/deacetylation mediating cell motility and adhesion is controlled by enzymes such as HDAC6, a major cytoplasmic α-tubulin deacetylase. While its overexpression and activation is capable to enhance cell motility, HDAC6 activity can also be negatively regulated by a number of cellular inhibitors, thus decreasing the ability of cells for migration.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0487230990883476
+    },
+    {
+        "instruction": "Are there tools for reviewing variant calls?",
+        "context": "",
+        "response": "Yes. Tools such as the Variant InsPector and Expert Rating tool (VIPER) have been developed that speed up the manual inspection of variant calls by integrating the Integrative Genomics Viewer into a web application. Analysts can then quickly iterate through variants, apply filters and make decisions based on the generated images and variant metadata. VIPER was successfully employed in analyses with manual inspection of more than 10 000 calls.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.048108692932132
+    },
+    {
+        "instruction": "What is the role of the blood-brain barrier?",
+        "context": "",
+        "response": "The blood–brain barrier (BBB) is a highly selective semipermeable membrane barrier that separates the circulating blood from the brain and extracellular fluid in the central nervous system (CNS). The blood–brain barrier is formed by brain endothelial cells and it allows the passage of water, some gases, and lipid-soluble molecules by passive diffusion, as well as the selective transport of molecules such as glucose and amino acids that are crucial to neural function.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0476787228951443
+    },
+    {
+        "instruction": "Describe the role of epidermal CYLD inactivation in sebaceous and basaloid skin tumors",
+        "context": "",
+        "response": "Epidermal CYLD inactivation sensitizes mice to the development of sebaceous and basaloid skin tumors. Epidermal cyld inactivation also inhibits the growth of epidermal cell lines, leading to development of skin tumors in the early phase of the disease.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0471450660190489
+    },
+    {
+        "instruction": "Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease?",
+        "context": "",
+        "response": "Identification of a deletion in plakoglobin in arrhythmogenic right ventricular cardiomyopathy with palmoplantar keratoderma and woolly hair (Naxos disease).Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an inherited disorder associated with arrhythmias and sudden death. A recessive mutation in the gene encoding plakoglobin has been shown to cause Naxos disease, a cardiocutaneous syndrome characterized by ARVC and abnormalities of hair and skin.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.045930307109113
+    },
+    {
+        "instruction": "What is Creutzfeldt-Jakob Disease (CJD)?",
+        "context": "",
+        "response": "Creutzfeldt-Jakob disease (CJD) is the most prevalent of the human prion diseases, which are fatal and transmissible neurodegenerative diseases caused by the infectious prion protein (PrP(Sc)). The origin of CJD is unknown, although the initiating event is thought to be the stochastic misfolding of endogenous prion protein (PrP(C)) into infectious PrP(Sc).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0453581612995517
+    },
+    {
+        "instruction": "Do lincRNAs play a role in human cancer?",
+        "context": "",
+        "response": "Long non-coding RNAs (lncRNAs) are pervasively transcribed in the genome and are emerging as new players in tumorigenesis due to their various functions in transcriptional, posttranscriptional and epigenetic mechanisms of gene regulation. The best-studied examples include HOTAIR, a negative prognostic factor that exhibits pro-oncogenic activity in a variety of human cancers, CRNDE the gene symbol for Colorectal Neoplasia Differentially Expressed (non-protein-coding), a long non-coding RNA (lncRNA) gene that expresses multiple splice variants and displays a very tissue-specific pattern of expression and ANRIL, a lincRNA that is required for the PRC2 recruitment to and silencing of p15(INK4B) tumor suppressor gene.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.045174866641116
+    },
+    {
+        "instruction": "Where does TDP43 localize in ALS neurons?",
+        "context": "",
+        "response": "In control motor neurons, TDP43 was almost exclusively nuclear, whereas in ALS spinal motor neurons, TDP43 was predominantly localized to the cytosol and not the nucleus.  ",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0450978700434275
+    },
+    {
+        "instruction": "Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?",
+        "context": "",
+        "response": "Tofacitinib (or CP690.550) is an oral JAK (Janus kinase) inhibitor that is approved for treatment of rheumatoid arthritis. Tofacitinib inhibits JAK family kinase members, in particular JAK1 and JAK3, achieving a broad limitation of inflammation by interfering with several cytokine receptors. Tofacitinib has also a proven efficacy as an immunosuppressive regimen after renal transplantation.  \nGLPG-0634 and INCB18424 are other JAK kinase inhibitors that are being studied for treatment of rheumatoid arthritis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.045033087656549
+    },
+    {
+        "instruction": "What is the role of invadopodia in EMT?",
+        "context": "",
+        "response": "In a process of epithelial-mesenchymal transition (EMT), besides changing their adhesive repertoire, cancer cells employ developmental processes to gain migratory and invasive properties that involve a dramatic reorganization of the actin cytoskeleton and the concomitant formation of membrane protrusions required for invasive growth. An important type of such membrane protrusions are the invadopodia, which have been increasingly recognized as important drivers of local invasion in metastasis. They are basally-localized, actin-rich structures that concentrate protease activity to areas of the cell in contact with the extracellular matrix.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.044955104956203
+    },
+    {
+        "instruction": "Which is the mass-tag that reveal the ubiquitination of a lysine residue?",
+        "context": "",
+        "response": "Lys-ɛ-Gly-Gly (K-ɛ-GG) is the remnant produced by trypsin digestion of proteins having ubiquitinated lysine side chains.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0448736404272376
+    },
+    {
+        "instruction": "What species is associated with Tetrodotoxin?",
+        "context": "",
+        "response": "Tetrodotoxin (TTX) is a low molecular weight (approximately 319 Da) neurotoxin found in a number of animal species, including pufferfish. TTX is originally produced by marine bacteria, and pufferfish are intoxicated through the food chain that starts with the bacteria. TTX is found in warm waters, especially of the Indian and Pacific Oceans. TTX poisoning due to marine snails has recently spread through Japan, China, Taiwan, and Europe.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0447122248934526
+    },
+    {
+        "instruction": "What organism causes tularemia?",
+        "context": "",
+        "response": "Francisella tularensis, the agent of tularemia, is a Gram-negative coccobacillus primarily pathogen for animals and occasionally for humans. F. tularensis is the causative agent of zoonotic tularemia. ",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0440595932819519
+    },
+    {
+        "instruction": "Describe LowMACA",
+        "context": "",
+        "response": "LowMACA (Low frequency Mutations Analysis via Consensus Alignment) is a method that combines the mutations of various proteins sharing the same functional domains to identify conserved residues that harbor clustered mutations in multiple sequence alignments. LowMACA is designed to visualize and statistically assess potential driver mutations through the identification of their mutational hotspots. Low MACA is an R package available at http://www.bioconductor.org/packages/release/bioc/html/LowMCCC.html.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0437066798370653
+    },
+    {
+        "instruction": "Unlike DNA, RNA is not methylated, yes or no?",
+        "context": "",
+        "response": "In addition to DNA methylation, reversible epigenetic modification occurring in RNA has been discovered recently. The most abundant type of RNA methylation is N6-methyladenosine (m6A) modification, which is dynamically regulated by methylases (\"writers\"), demethylases (\"erasers\") and m6A-binding proteins (\"readers\")",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0436370072248558
+    },
+    {
+        "instruction": "What is generic name of drug Adempas?",
+        "context": "",
+        "response": "Riociguat is generic name of drug Adempas. It is a soluble guanylate cyclase stimulator that was approved for the treatment of patients with chronic thromboembolic pulmonary hypertension and pulmonary arterial hypertension.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.043326025501595
+    },
+    {
+        "instruction": "What is the typical outer diameter of microtubules (tubulin heterodimers)?",
+        "context": "",
+        "response": "Microtubules are highly anisotropic structures built from tubulin heterodimers. They are hollow cylindrical shells with a ∼ 25 nm (24nm - 25nm) outer diameter.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0425059760265676
+    },
+    {
+        "instruction": "Does resveratrol reduce cardiac remodeling?",
+        "context": "",
+        "response": "Resveratrol attenuates left ventricular remodeling.\nResveratrol is a beneficial pharmacological tool that augments autophagy to bring about reverse remodeling in the postinfarction heart.\nResveratrol administration improved cardiac environment by reducing inflammatory state and decreased unfavorable ventricular remodeling of the diabetic heart, leading to a marked recovery of ventricular function.\nResveratrol can constitute an adjuvant therapeutic option in prevention of dilated cardiomyopathy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0422887635169633
+    },
+    {
+        "instruction": "What datasets are available related to Duchenne Muscular Dystrophy?",
+        "context": "",
+        "response": "Using data from the Muscular Dystrophy Surveillance, Tracking, and Research Network (MD STARnet) Five sources of RWD/NHD were contributed by Universitaire Ziekenhuizen Leuven, DMD Italian Group, The Cooperative International Neuromuscular Research Group, ImagingDMD, and the PRO-DMD-01 study (n = 430 patients, in total).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0418785690935606
+    },
+    {
+        "instruction": "Which metabolite activates AtxA?",
+        "context": "",
+        "response": "Upon infection of a mammalian host, Bacillus anthracis responds to host cues, and particularly to elevated temperature (37°C) and bicarbonate/CO2 concentrations, with increased expression of virulence factors that include the anthrax toxins and extracellular capsular layer. Cultures grown with elevated CO(2) /bicarbonate exhibited increased AtxA dimer/monomer ratios and increased AtxA activity, relative to cultures grown without added CO(2) /bicarbonate, suggesting that this host-associated signal enhances AtxA function by shifting the dimer/monomer equilibrium towards the dimeric state. CO2-enhanced toxin gene transcription is not observed in atx4-null mutants. Overall data indicate a clear association of atxA with CO2-enhanced gene expression in B. anthracis and provide evidence that atxA regulates genes other than the structural genes for the anthrax toxin proteins.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.041251539750197
+    },
+    {
+        "instruction": "Is macroautophagy a selective degradation process?",
+        "context": "",
+        "response": "Yes. Macroautophagy (commonly referred to simply as autophagy) is a catabolic process conserved throughout the eukaryotes, and is distinct from other forms of autophagy by the formation of the autophagosome: this is a vesicle-like formation surrounded by a double membrane that sequesters the cytoplasmic material to be degraded. It was initially considered that macroautophagy was a bulk process; however, recent findings illustrate that specific cargos (ranging from misfolded or excess proteins, to organelles or even bacterial cells) can be selectively targeted to the pre-autophagosome membrane (i.e. the phagophore) and finally to the vacuoles/lysosomes for their degradation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.040839023815328
+    },
+    {
+        "instruction": "Which syndrome is caused by pathogenic COL4A3-COL4A5 variants?",
+        "context": "",
+        "response": "Massively parallel sequencing identifies pathogenic variants in the genes affected in Alport syndrome (COL4A3-COL4A5) in as many as 30% of individuals with focal and segmental glomerulosclerosis (FSGS), 10% of those with kidney failure of unknown cause, and 20% with familial immunoglobulin A (IgA) glomerulonephritis. The population frequencies for Alport syndrome are suggested by the frequencies of predicted pathogenic COL4A3-COL4A5 variants, but must be adjusted for the disease penetrance of individual variants and for the likelihood of already diagnosed disease and non-Gly substitutions.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0392691373373926
+    },
+    {
+        "instruction": "Can adult humans be induced to produce fetal hemoglobin?",
+        "context": "",
+        "response": "Fetal hemoglobin, or foetal haemoglobin,  is the main oxygen transport protein in the human fetus during the last seven months of development in the uterus and in the newborn until roughly 6 months old. Functionally, fetal hemoglobin differs most from adult hemoglobin in that it is able to bind oxygen with greater affinity than the adult form, giving the developing fetus better access to oxygen from the mother's bloodstream.\nUnusually high levels of fetal haemoglobin production can ameliorate sickle cell disease and β thalassaemia. Although efforts directed at the pharmacological stimulation of fetal haemoglobin as an approach to managing these conditions have met with limited success, there is wide variation in individual responses. \nBased on results, adults humans could be induced to produce fetal hemoglobin.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0374985171503484
+    },
+    {
+        "instruction": "Which enzymes synthesize catecholamines in adrenal glands?",
+        "context": "",
+        "response": "The enzymes that synthesize catecholamines in adrenal glands are:\n1) Tyrosine Hydroxylase (TH)\n2) Aromatic L-amino acid decarboxylase (AAAD)\n3) Dopamine β-hydroxylase (DBH)\n4) Phenylethanolamine N-methyltransferase (PNMT)",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.036673408699523
+    },
+    {
+        "instruction": "Which event results in the acetylation of S6K1?",
+        "context": "",
+        "response": "Using acetyl-specific K516 antibodies, we show that acetylation of endogenous S6K1 at this site is potently induced upon growth factor stimulation. We propose that K516 acetylation may serve to modulate important kinase-independent functions of S6K1 in response to growth factor signalling. Following mitogen stimulation, S6Ks interact with the p300 and p300/CBP-associated factor (PCAF) acetyltransferases. S6Ks can be acetylated by p300 and PCAF in vitro and S6K acetylation is detected in cells expressing p300",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.036586411255347
+    },
+    {
+        "instruction": "What is enCHIP?",
+        "context": "",
+        "response": "Engineered DNA-binding molecule-mediated chromatin immunoprecipitation (enChIP) is a novel method for purification of specific genomic regions retaining molecular interactions. EnChIP using the CRISPR system efficiently isolates specific genomic regions. In this form of enChIP, specific genomic regions are immunoprecipitated with antibody against a tag(s), which is fused to a catalytically inactive form of Cas9 (dCas9), which is co-expressed with a guide RNA (gRNA) and recognizes endogenous DNA sequence in the genomic regions of interest. enChIP-mass spectrometry (enChIP-MS) targeting endogenous loci identified associated proteins. enChIP using the CRISPR system would be a convenient and useful tool for dissecting chromatin structure of genomic regions of interest.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0359393498129863
+    },
+    {
+        "instruction": "Which method is used for prediction of novel microRNA genes in cancer-associated genomic regions?",
+        "context": "",
+        "response": "SSCprofiler is a computational tool utilizing a probabilistic method based on Profile Hidden Markov Models to predict novel miRNA precursors. Via the simultaneous integration of biological features such as sequence, structure and conservation, SSCprofiler achieves a performance accuracy of 88.95% sensitivity and 84.16% specificity on a large set of human miRNA genes. The trained classifier is used to identify novel miRNA gene candidates located within cancer-associated genomic regions and rank the resulting predictions using expression information from a full genome tiling array. SSCprofiler is freely available as a web service at http://www.imbb.forth.gr/SSCprofiler.html.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0358509321731943
+    },
+    {
+        "instruction": "Is yeast fbp1 affected by glucose starvation stress?",
+        "context": "",
+        "response": "The chromatin configuration is altered into an accessible state within 290 bp downstream from the initiation site of metabolic-stress-induced lncRNAs (mlonRNAs) in the promoter of the fission yeast fbp1 gene, whose transcription is massively induced upon glucose starvation . We investigated the mechanisms by which chromatin is reconstituted .",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.035269490238294
+    },
+    {
+        "instruction": "What does fingolimod do to the grey matter of the brain?",
+        "context": "",
+        "response": "Fingolimod has been shown to reduce/prevent both focal and diffuse grey matter (GM) damage in active multiple sclerosis. The percentage of patients with new cortical lesions (CL) (13.5 vs. 89%, p < 0.001) and the percentage of GM volume change was lower in the fingolimod treated group (p < 0.001). The regional analysis revealed that the treated group had also less volume loss in thalamus, caudatus, globus pallidus, cingulate cortex, and hippocampus (p < 0.001), as well as in, cerebellum, superior frontal gyrus, and insular-long gyrus (p < 0.05).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0352038362102776
+    },
+    {
+        "instruction": "Is edema a symptom of nephrotic syndrome?",
+        "context": "",
+        "response": "Yes, edema is the commonest presenting symptom and sign in nephrotic syndrome.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0349809891193118
+    },
+    {
+        "instruction": "Are bacteria in the genus Clostridium facultative anaerobes?",
+        "context": "",
+        "response": "Clostridia belong to those bacteria which are considered as obligate anaerobe, e.g. oxygen is harmful or lethal to these bacteria.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0349316385565657
+    },
+    {
+        "instruction": "Which is the protein implicated in Spinocerebellar ataxia type 3?",
+        "context": "",
+        "response": "Ataxin-3 is a ubiquitously expressed deubiqutinating enzyme with important functions in the proteasomal protein degradation pathway and regulation of transcription. The C-terminus of the ataxin-3 protein contains a polyglutamine (PolyQ) region that, when mutationally expanded to over 52 glutamines, causes the neurodegenerative disease spinocerebellar ataxia 3 (SCA3).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0349316385565657
+    },
+    {
+        "instruction": "How many families did the 100,000 Genomes Pilot enrol?",
+        "context": "",
+        "response": "The U.K. 100,000 Genomes Project is in the process of investigating the role of genome sequencing in patients with undiagnosed rare diseases after usual care and the alignment of this research with health care implementation in the U.K. National Health Service. Other parts of this project focus on patients with cancer and infection. A pilot study was conducted involving 4660 participants from 2183 families, among whom 161 disorders covering a broad spectrum of rare diseases were present.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0344330831321593
+    },
+    {
+        "instruction": "What is the application of the ASSET algorithm in C.elegans?",
+        "context": "",
+        "response": "ASSET (Algorithm for the Segmentation and the Standardization of C. elegans Time-lapse recordings) is a robust algorithm for the automated segmentation and standardization of early Caenorhabditis elegans embryos. It gathers quantitative information with subcellular precision in the early Caenorhabditis elegans embryo, which is an attractive model to investigate evolutionarily conserved cellular mechanisms. ASSET automatically detects the eggshell and the cell cortex from DIC time-lapse recordings of live one-cell-stage embryos and can also track subcellular structures using fluorescent time-lapse microscopy. Importantly, ASSET standardizes the data into an absolute coordinate system to allow robust quantitative comparisons between embryos.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0340432376387931
+    },
+    {
+        "instruction": "Which is the most widely used model for the study of multiple sclerosis (MS)?",
+        "context": "",
+        "response": "Experimental autoimmune encephalomyelitis (EAE) is a classical, conventional and widely recognized animal model for studying multiple sclerosis (MS). EAE is the best available model for the inflammatory processes that occur in MS, and for the disease process. A less commonly used model is that of Theiler's murine encephalomyelitis virus (TMEV).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.033711208151357
+    },
+    {
+        "instruction": "Is amantadine effective for treatment of disorders conciousness?",
+        "context": "",
+        "response": "Amantadine, a dopaminergic agent, has been shown to be effective for induction of recovery from disorders of consciousness. Amantadine is a commonly prescribed medication for patients with prolonged disorders of consciousness after traumatic brain injury. Amantadine accelerates the pace of functional recovery during active treatment in patients with post-traumatic disorders of consciousness. Higher dosing of amantadine may be considered in the setting of brain injury.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.032938364860989
+    },
+    {
+        "instruction": "LY450139 is investigational name of which drug?",
+        "context": "",
+        "response": "LY450139 is investigational name of Semagacestat. It is a γ-secretase inhibitor developed for treatment for Alzheimer's disease. Chemical name of LY450139 is hydroxylvaleryl monobenzocaprolactam.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.032743089865576
+    },
+    {
+        "instruction": "What is evaluated using the EORTC QLQ – INFO25 questionnaire?",
+        "context": "",
+        "response": "The European Organisation for Research and Treatment of Cancer Quality of Life Group information questionnaire (EORTC QLQ-INFO 25) evaluates the level of information patients have received in different areas of their disease, treatment and care, and evaluates qualitative aspects together with satisfaction with information.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0307422353287086
+    },
+    {
+        "instruction": "What is known as Calcium Induced Calcium Release (CICR) and its role in cardiomyocyte contractility?",
+        "context": "",
+        "response": "the cicr mechanism has been understood mainly based on binding of cytosolic ca(2+) with ryanodine receptors (ryrs) and inducing ca(2+) release from the sarcoplasmic reticulum (sr). l-type ca(2+) channels activate ryrs to produce cicr in smooth muscle cells in the form of ca(2+) sparks and propagated ca(2+) waves. in heart cells, a tight coupling between the gating of single l-type ca(2+) channels and ryanodine receptors (ryrs) underlies calcium release. the importance of ca-induced ca release in excitation-contraction coupling in the heart. waves of calcium-induced calcium release occur in a variety of cell types and have been implicated in the origin of cardiac arrhythmias. in mammals, ca(2+) influx as l-type ca(2+) current (ica) triggers the release of ca(2+) from sarcoplasmic reticulum (sr) and ca(2+)-induced ca(2+) release (cicr) is critical for excitation-contraction coupling. ",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0304987277306792
+    },
+    {
+        "instruction": "Are genomic regulatory blocks (GRBs) any different than TADs?",
+        "context": "",
+        "response": "No, clusters of CNEs (GRBs) strongly coincide with topological organisation, predicting the boundaries of hundreds of topologically associating domains (TADs) in human and Drosophila. The set of TADs that are associated with high levels of noncoding conservation exhibit distinct properties compared to TADs devoid of extreme noncoding conservation. The close correspondence between extreme noncoding conservation and TADs suggests that these TADs are ancient, revealing a regulatory architecture conserved over hundreds of millions of years.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0303419894047263
+    },
+    {
+        "instruction": "List characteristics of Developmental and Epileptic Encephalopathies (DEEs).",
+        "context": "",
+        "response": "yes, developmental and epileptic encephalopathies (dees) are a group of severe, early onset epilepsies characterized by refractory seizures, developmental delay or regression associated with ongoing epileptic activity, and generally poor prognosis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.03015653832819
+    },
+    {
+        "instruction": "Are there transposon-free regions in mammalian genomes?",
+        "context": "",
+        "response": "Yes. Despite the presence of over 3 million transposons separated on average by approximately 500 bp, the human and mouse genomes each contain almost 1000 transposon-free regions (TFRs) over 10 kb in length. The majority of human TFRs correlate with orthologous TFRs in the mouse, despite the fact that most transposons are lineage specific. Many human TFRs also overlap with orthologous TFRs in the marsupial opossum, indicating that these regions have remained refractory to transposon insertion for long evolutionary periods. Over 90% of the bases covered by TFRs are noncoding, much of which is not highly conserved. Most TFRs are not associated with unusual nucleotide composition, but are significantly associated with genes encoding developmental regulators, suggesting that they represent extended regions of regulatory information that are largely unable to tolerate insertions, a conclusion difficult to reconcile with current conceptions of gene regulation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0294754457183695
+    },
+    {
+        "instruction": "Is stop codon bypass possible?",
+        "context": "",
+        "response": "In 1999, proof-of-concept for treating these disorders was obtained in a mouse model of muscular dystrophy, when administration of aminoglycosides restored protein translation by inducing the ribosome to bypass a PTC.\nAminoglycosides can bypass nonsense mutations and are the prototypic agents for translational bypass therapy (TBT).\nExpression of retroviral replication enzymes (Pol) requires a controlled translational recoding event to bypass the stop codon at the end of gag. This recoding event occurs either by direct suppression of termination via the insertion of an amino acid at the stop codon (readthrough) or by alteration of the mRNA reading frame (frameshift).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0285726002971156
+    },
+    {
+        "instruction": "What is the function of the Spt6 gene in yeast?",
+        "context": "",
+        "response": "Spt6 is a highly conserved histone chaperone that interacts directly with both RNA polymerase II and histones to regulate gene expression. Spt6 is a highly conserved factor required for normal transcription and chromatin structure. Binding of elongation factor Spt6 to Iws1 provides an effective means for coupling eukaryotic mRNA synthesis, chromatin remodelling and mRNA export. Spt6 Is Essential for rRNA Synthesis by RNA Polymerase I. Spt6 (suppressor of Ty6) has many roles in transcription initiation and elongation by RNA polymerase (Pol) II. We identify the histone H3-H4 chaperone Spt6 as the factor that mediates nucleosome reassembly onto the PHO5, PHO8, ADH2, ADY2, and SUC2 promoters during transcriptional repression.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.028023675022375
+    },
+    {
+        "instruction": "Which are the best methods for the prediction of circular RNA (circRNA)?",
+        "context": "",
+        "response": "A circRNA prediction software for plants . Circular RNA profile in gliomas revealed by identification tool UROBORUS. Numerous algorithms that are used to detect genome-wide circRNA expression from RNA sequencing  data have been developed in the past few years, but there is little overlap in their predictions and no clear gold-standard method to assess the accuracy of these algorithms. MiARma-Seq: a comprehensive tool for miRNA, mRNA and circRNA analysis. Here, we use common RNAseq datasets to scrutinize and compare the output from five different algorithms; circRNA_finder, find_circ, CIRCexplorer, CIRI, and MapSplice and evaluate the levels of bona fide and false positive circRNAs based on RNase R resistance. ",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0277335176446605
+    },
+    {
+        "instruction": "Which is the genome browser database for DNA shape annotations?",
+        "context": "",
+        "response": "GBshape provides minor groove width, propeller twist, roll, helix twist and hydroxyl radical cleavage predictions for the entire genomes of 94 organisms. Additional genomes can easily be added using the GBshape framework. GBshape can be used to visualize DNA shape annotations qualitatively in a genome browser track format, and to download quantitative values of DNA shape features as a function of genomic position at nucleotide resolution.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0276712817148284
+    },
+    {
+        "instruction": "How does thyroid hormone regulate mitochondrial biogenesis in the myocardium?",
+        "context": "",
+        "response": "T4 increases myocardial mitochondrial bioenergetic capacity, oxygen consumption and markers of mitochondrial biogenesis. The marked, parallel increases in PPARalpha levels suggest its potential involvement in mediating myocardial-specific remodeling of mitochondria in response to T4.  T3 induces mitochondrial biogenesis. In fact, T3 treatment for 72h  increases activity of respiratory complexes II, IV, V and citrate synthase (CS), levels of mitochondrial enzyme subunits (e.g. COXI, COXIV) and nuclear-encoded transcription factors, involved in mitochondrial biogenesis (e.g. PGC-1, mtTFA and PPAR-alpha).  Furthermore, L-T3 increases  the expression of factors involved in mitochondrial DNA transcription and biogenesis, such as hypoxic inducible factor-1α, mitochondrial transcription factor A and peroxisome proliferator activated receptor γ coactivator-1α, in the LV peri-infarct zone.\nThe activation of TFAM and TFB2M expression is shown to be required for the induction of mtDNA biogenesis by T3. Truncated forms of the nuclear receptor TRα1, with molecular weights of 43 kDa (p43) and 28 Kda have been previously identified in mitochondria. P43 is a mitochondrial T3 receptor which stimulates mitochondrial transcription and protein synthesis in the presence of T3. p43 depletion in mice decreases mitochondrial DNA replication and respiratory chain activity.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0275399615691139
+    },
+    {
+        "instruction": "Is signal transducer and activator of transcription-3 (STAT3) critical for tumor angiogenesis progression?",
+        "context": "",
+        "response": "(STAT3) is a latent cytoplasmic transcription factor, originally discovered as a transducer of signal from cell surface receptors to the nucleus. It is activated by tyrosine phosphorylation at position 705 leading to its dimerization, nuclear translocation, DNA binding, and activation of gene transcription. Under normal physiological conditions, STAT3 activation is tightly regulated. However, compelling evidence suggests that STAT3 is constitutively activated in many cancers and plays a pivotal role in tumor growth and metastasis. It regulates cellular proliferation, invasion, migration, and angiogenesis that are critical for cancer metastasis",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0271607953551707
+    },
+    {
+        "instruction": "What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients?",
+        "context": "",
+        "response": "Thyrotropin Releasing Hormone and its analogs are used for treatment of comatose patients. In animal models, Thyrotropin Releasing Hormone and its analogs have been shown to improve the disturbance of consciousness caused by head concussion and pentobarbital. This analeptic action is attributable to stimulation of cholinergic neurons in the septo-hippocampal area and to the presence of terminals containing TRH in the lateral septum and TRH receptors concentrated especially in the medial septum and diagonal band of Broca. It has also been suggested that TRH localized in the pineal gland has a part in activating the neuronal mechanisms of arousal. Associated with the arousal effect and especially evident in variously originated shock conditions are the activating effects of TRH on vegetative functions (body temperature, circulation, the gastrointestinal tract). These stimulatory activities on the CNS were the rationale for therapeutic use of TRH in the initial treatment of coma due to brain trauma. Thyrotropin Releasing Hormone has been shown to induce recovery in comatose patients with extrapontine and pontine myelinosis syndromes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0262340441785007
+    },
+    {
+        "instruction": "Describe the RNA Centric Annotation System (RCAS)",
+        "context": "",
+        "response": "The RNA Centric Annotation System (RCAS) is an R package which is designed to ease the process of creating gene-centric annotations and analysis for the genomic regions of interest obtained from various RNA-based omics technologies. The design of RCAS is modular, which enables flexible usage and convenient integration with other bioinformatics workflows. RCAS is an R/Bioconductor package but there are also graphical user interfaces including a Galaxy wrapper and a stand-alone web service. The application of RCAS on published datasets shows that RCAS is not only able to reproduce published findings but also helps generate novel knowledge and hypotheses. The meta-gene profiles, gene-centric annotation, motif analysis and gene-set analysis provided by RCAS provide contextual knowledge which is necessary for understanding the functional aspects of different biological events that involve RNAs. In addition, the array of different interfaces and deployment options adds the convenience of use for different levels of users. RCAS is available at http://bioconductor.org/packages/release/bioc/html/RCAS.html and http://rcas.mdc-berlin.de.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0223706037711149
+    },
+    {
+        "instruction": "In what type(s) of plant organelles we can detect prolamellar bodies?",
+        "context": "",
+        "response": "Prolamellar body (PLB) is a highly organized lipid structure, which is the main site of accumulation of the ternary light-harvesting POR complex LHPP (light-harvesting NADPH:protochlorophyllide oxidoreductase:protochlorophyllide). Prolamellar bodies have been discovered in etioplasts with the use of thin section electron microscopy. Etioplasts develop in the place of chloroplasts in the dark. During skotomorphogenesis in angiosperms, NADPH:protochlorophyllide oxidoreductase (POR) forms the photolabile NADPH-POR-protochlorophyllide (Pchlide) ternary complexes. Prolamellar bodies (PLBs) efficiently capture the light energy for photo conversion in etioplasts. Upon illumination, the etioplasts transformed into regular chloroplasts. PLBs are formed not only in etioplasts but also in chloroplasts in young developing leaves during the night.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0221127465231492
+    },
+    {
+        "instruction": "Can DNA intercalators function as topoisomerase inhibitors?",
+        "context": "",
+        "response": "The DNA unwinding suggests DNA intercalation, which could explain the inhibition of topoisomerase II. Among its many properties, amiloride is a DNA intercalator and topoisomerase II inhibitor. Amsacrine, a DNA intercalator and topoisomerase II inhibitor, is efficacious as an antileukemogenic agent. AQ4N (1,4-bis[[2-(dimethylamino)ethyl] amino]-5,8-dihydroxyanthracene-9, 10-dione bis-N-oxide dihydrochloride) is a prodrug which is selectively activated within hypoxic tissues to AQ4, a topoisomerase II inhibitor and DNA intercalator. Amonafide is a DNA intercalator and topoisomerase II inhibitor in clinical development for the treatment of neoplastic diseases.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0219940760570267
+    },
+    {
+        "instruction": "How are cryptic unstable transcripts (CUTs) defined?",
+        "context": "",
+        "response": "This resource includes deletions of small nuclear RNAs (snRNAs), transfer RNAs (tRNAs), small nucleolar RNAs (snoRNAs), and other annotated ncRNAs as well as the more recently identified stable unannotated transcripts (SUTs) and cryptic unstable transcripts (CUTs) whose functions are largely unknown There is extensive transcription throughout the eukaryotic genome resulting in both antisense transcripts from coding regions and cryptic unstable transcripts (CUTs) from intergenic regions These cryptic unstable transcripts (CUTs) are rapidly degraded by the nuclear exosome. These results suggest that transcription termination of CUTs directed by Nrd1 and Nab3 is a prerequisite for rapid degradation by the nuclear exosome.  It is likely that many of these are cryptic unstable transcripts (CUTs), which are rapidly degraded and whose function(s) within the cell are still unclear, while others may be novel functional transcripts. These recently identified transcripts either exist stably in cells (stable unannotated transcripts, SUTs) or are rapidly degraded by the RNA surveillance pathway (cryptic unstable transcripts, CUTs)",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0219526542926398
+    },
+    {
+        "instruction": "Is p100 the precursor protein molecule of the NF-kappaB transcription factor subunit p50?",
+        "context": "",
+        "response": "No, the precursor molecule for NF-kappaB p50 is p105 and not p100. Nfkb2 encodes two members of the NF-kappa B/Rel family of proteins: p52 and p100. The p100 polypeptide has been proposed to serve as a precursor of p52 (and not of p50), which corresponds to the N-terminal half of p100. NF-kappaB functions as a hetero- or homo-dimer which can be formed from five NF-kappaB subunits, NF-kappaB1 (p50 and its precursor p105), NF-kappaB2 (p52 and its precursor p100), RelA (p65), RelB and c-Rel.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0203995763126226
+    },
+    {
+        "instruction": "Is Tuberous Sclerosis a genetic disease?",
+        "context": "",
+        "response": "Tuberous sclerosis is a genetic disorder with an autosomal dominant pattern of inheritance, variable expressivity, and incomplete penetrance. Two thirds of TSC cases result from sporadic genetic mutations, not inheritance, but their offspring may inherit it from them. Current genetic tests have difficulty locating the mutation in approximately 20% of individuals diagnosed with the disease. So far it has been mapped to two genetic loci, TSC1 and TSC2.\nTSC1 encodes for the protein hamartin, is located on chromosome 9 q34 and was discovered in 1997. TSC2 encodes for the protein Tuberin, is located on chromosome 16 p13.3 and was discovered in 1993. TSC2 is contiguous with PKD1, the gene involved in one form of polycystic kidney disease (PKD). Gross deletions affecting both genes may account for the 2% of individuals with TSC who also develop PKD in childhood. TSC2 has been associated with a more severe form of TSC. However, the difference is subtle and cannot be used to identify the mutation clinically. Estimates of the proportion of TSC caused by TSC2 range from 55% to 80-90%.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0190157531236506
+    },
+    {
+        "instruction": "Describe the involvement of conserved noncoding sequences in the regulation of Hox genes.",
+        "context": "",
+        "response": "Comparisons of noncoding sequences of the elephant shark and human Hox clusters have identified a large number of conserved noncoding elements (CNEs), which represent putative cis-regulatory elements that may be involved in the regulation of Hox genes.  The b-paralogs of the duplicated fugu Hox clusters are virtually devoid of unique ancient CNEs.  Elephant shark and human Hox clusters have lost fewer ancient CNEs. If these ancient CNEs are indeed enhancers directing tissue-specific expression of Hox genes, divergence of their sequences in vertebrate lineages might have led to altered expression patterns and presumably the functions of their associated Hox genes.  When compared, the amphioxus Hox cluster with the human HoxA, HoxB, HoxC, and HoxD clusters were found to have several conserved noncoding regions, both in intergenic and intronic regions. This suggests that the regulation of Hox genes is highly conserved across chordates, consistent with the similar Hox expression patterns in vertebrates and amphioxus.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0188726642731671
+    },
+    {
+        "instruction": "Which antiepileptic drug is most strongly associated with spina bifida? ",
+        "context": "",
+        "response": "Phenytoin is not used in pregnancy as it is associated with a severe fetal deformation. From the other anticonvulsants most studies report the higher association between use during pregnancy and spin bifida to occur with Valproate.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0188163088156663
+    },
+    {
+        "instruction": "Which are the major types of the motor speech disorder dysarthria?",
+        "context": "",
+        "response": "Dysarthria is a motor speech disorder which can be classified according to the underlying neuropathology and is associated with disturbances of respiration, laryngeal function, airflow direction, and articulation resulting in difficulties of speech quality and intelligibility. There are six major types of dysarthria: \"flaccid dysarthria\" associated with lower motor neuron impairment, \"spastic dysarthria\" associated with damaged upper motor neurons linked to the motor areas of the cerebral cortex, \"ataxic dysarthria\" primarily caused by cerebellar dysfunction, and \"hyperkinetic dysarthria\" and \"hypokinetic dysarthria\", which are related to a disorder of the extrapyramidal system. The sixth is generally termed a \"mixed dysarthria\" and is associated with damage in more than one area, resulting in speech characteristics of at least two groups.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0163269096031733
+    },
+    {
+        "instruction": "Elaborate on the role of CARMEN in cardiac specification.",
+        "context": "",
+        "response": "CARMEN, (CAR)diac (M)esoderm (E)nhancer-associated (N)oncoding RNA, is a human super enhancer-associated long noncoding RNA controlling cardiac specification, differentiation and homeostasis. CARMEN exhibits RNA-dependent enhancing activity and is upstream of the cardiac mesoderm-specifying gene regulatory network. CARMEN interacts with SUZ12 and EZH2, two components of the polycomb repressive complex 2 (PRC2). CARMEN expression is activated during pathological remodeling in the mouse and human hearts, and is necessary for maintaining cardiac identity in differentiated cardiomyocytes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0163082518106736
+    },
+    {
+        "instruction": "List clinical disorders or diseases where uc.189 is involved?",
+        "context": "",
+        "response": "Univariate and multivariate Cox regression analysis demonstrated that over-expression of uc.189 predicted poor prognosis in Cervical squamous cell carcinomas (CSCC) and Endometrial adenocarcinomas (EAC). Thus, several findings suggested uc.189 might be an evaluating prognosis marker of gynecological tumors. In addition, high expression of uc.189 might reflect poor prognosis of Esophageal squamous cell carcinoma (ESCC) and indicate a potential diagnostic target in ESCC patients. Uc.189 might be considered as a novel molecule involved in ESCC progression, which provides a potential prognostic biomarker and therapeutic target.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.015905617737536
+    },
+    {
+        "instruction": "Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?",
+        "context": "",
+        "response": "Perioperative administration of synthetic thyroid hormone therapy have positive hemodynamic effects (consisting of increases cardiac output, lowered systemic vascular resistance) determining improved postoperative ventricular function, reduced the need for treatment with inotropic agents and mechanical devices, in the absence of relevant effects on outcome ad exception of lower incidence of atrial fibrillation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.012079371435621
+    },
+    {
+        "instruction": "Elaborate on the potential efficacy of gemcitabine for the treatment of recurrent, platinum-resistant epithelial ovarian cancer.",
+        "context": "",
+        "response": "Gemcitabine is a novel agent that has shown consistent activity as a single agent in the treatment of platinum-resistant ovarian cancer and a favorable toxicity profile. Because of its clinical and preclinical synergism with platinum analogs, gemcitabine has been combined with carboplatin as a convincing approach in the treatment of platinum-sensitive recurrent ovarian cancer patients. Gemcitabine and prolonged oral etoposide have shown reproducible single-agent activity in patients with platinum/paclitaxel-resistant ovarian cancer. The combination of carboplatin and gemcitabine resulted in significantly higher response rates and improved progression-free survival when compared with carboplatin alone. A biweekly schedule of gemcitabine combined with PLD is an active and safe chemotherapy regimen with acceptable and easily manageable toxicities in women with recurrent platinum-resistant ovarian cancer.  Pertuzumab may add activity to gemcitabine for the treatment of platinum-resistant ovarian cancer.  The regimen of gemcitabine combined with ifosfamide and anthracycline is feasible, tolerable and effective in patients with recurrent platinum resistant/refractory epithelial ovarian cancer. Gemcitabine plus endostar significantly improved the prognosis in patients with platinum-resistant recurrent ovarian cancer, especially in those with malignant effusion. Though the endostar cohort also improved median OS by 2.1 months, there was no statistically significant difference compared with gemcitabine alone cohort in this case.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0097919166787712
+    },
+    {
+        "instruction": "what is the role of IGF-1 in cardiac regeneration after myocardial infarction?",
+        "context": "",
+        "response": "Ischemia-reperfusion injury is a strong stimulus for both global and focal cardiomyocyte progenitor cell marker up-regulations, correlating to the endogenous up-regulation of IGF-1. Furthermore, in an animal model of myocardial infarction, intracoronary administration of IGF-1 is shown to reduce pathological cardiac remodeling, induce myocardial regeneration, and improve ventricular function. IGF-1 is a potent modulator of stem cell replication, commitment to the myocyte lineage, and myocyte differentiation. In another study, the dual delivery of IGF-1 and HGF from affinity-binding alginate biomaterial prevented cell apoptosis, induced cardiomyocyte cell cycle re-entry and increased the incidence of GATA-4-positive cell clusters. The addition of nanofiber-mediated IGF-1 delivery to Cardiac Progenitor Cells therapy improved in part the recovery of myocardial structure and function after infarction. IGF-1 promotes proliferation and survival of CPCs. The strategy of IGF-1 transgene expression has shown to induce massive stem cell mobilization via SDF-1alpha signaling and culminated in extensive angiomyogenesis in the infarcted heart.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0022056549755456
+    },
+    {
+        "instruction": "List the members of a network of noncoding regulatory RNAs that play a role in the mammalian brain",
+        "context": "",
+        "response": "In mice, the long ncRNA Cyrano uses an extensively paired site to miR-7 to trigger destruction of this microRNA. Cyrano-directed miR-7 degradation is much more effective than previously described examples of target-directed microRNA degradation, which come primarily from studies of artificial and viral RNAs. By reducing miR-7 levels, Cyrano prevents repression of miR-7-targeted mRNAs and enables accumulation of Cdr1as, a circular RNA known to regulate neuronal activity. Without Cyrano, excess miR-7 causes cytoplasmic destruction of Cdr1as in neurons, in part through enhanced slicing of Cdr1as by a second miRNA, miR-671. Thus, several types of ncRNAs can collaborate to establish a sophisticated regulatory network.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0006966632267342
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "instruction": "What is the preferred shunt procedure for a patient with portal hypertension who has acceptable operative risk and adequate liver function?",
+        "context": "",
+        "response": "For a patient with portal hypertension who has an acceptable operative risk and adequate liver function, the preferred shunt procedure is the distal splenorenal shunt. This surgical option effectively reduces pressure in the portal vein while preserving blood flow to the liver, efficiently managing complications like variceal bleeding.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.051280320062734
+    },
+    {
+        "instruction": "Identify a factor that is involved in inflammation but is not specifically a mediator of inflammation.",
+        "context": "",
+        "response": "One factor involved in inflammation but not specifically a mediator of inflammation is myeloperoxidase. This enzyme, released by neutrophils during inflammation, plays a significant role in the inflammatory process by aiding in the destruction of pathogens. However, it does not directly signal or regulate the process itself, distinguishing it from mediators such as cytokines or prostaglandins.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0510615299573385
+    },
+    {
+        "instruction": "A 32 weeks pregnant lady presents in emergency room with continuous bleeding per vaginum. The uterus is painful and tender. Most likely diagnosis is: September 2007\nA. Circumvallate placenta\nB. Rupture of membranes\nC. Placenta praveia\nD. Accidental hemorrhage",
+        "context": "",
+        "response": "The most likely diagnosis for a 32 weeks pregnant woman presenting with continuous vaginal bleeding and a painful, tender uterus is D. Accidental hemorrhage, also known as placental abruption. This condition is characterized by the premature separation of the placenta from the uterine wall, leading to painful bleeding.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0510241923236587
+    },
+    {
+        "instruction": "When analyzing an X-ray of a patient with scoliosis, what is the name of the angle used to measure the severity of the spinal curve?",
+        "context": "",
+        "response": "When analyzing an X-ray of a patient with scoliosis, the Cobb angle is used to measure the severity of the spinal curve. This angle is calculated by identifying the most tilted vertebrae at the top and bottom of the curve and measuring the angle between lines drawn along their endplates. The Cobb angle is a standard and widely accepted method for assessing the degree of spinal curvature in scoliosis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0509239636251975
+    },
+    {
+        "instruction": "A 12-year-old boy displays mild high frequency hearing impairment, alongside laboratory findings of microscopic hematuria and significant proteinuria. With normal antistreptolysin O titer and no recent illness, a kidney biopsy is performed. Based on these clinical features, what specific finding on electron microscopy is characteristic of the condition affecting this patient?",
+        "context": "",
+        "response": "The specific finding on electron microscopy for this 12-year-old boy, who is likely affected by Alport syndrome given his combination of hearing impairment, microscopic hematuria, and proteinuria, is the \"basket-weave\" appearance of the glomerular basement membrane. This distinctive appearance is due to irregularities in the type IV collagen, which is characteristic of Alport syndrome.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0507388162455242
+    },
+    {
+        "instruction": "A 50-year-old man is interested in the impact of his weight on becoming healthier and understands the weight distribution for his age group. If the national average weight for males aged 50-59 years is 90 kg (200 lb) with a standard deviation of 27 kg (60 lb), what is the expected weight of a person who is 2 standard deviations above the mean?",
+        "context": "",
+        "response": "The expected weight of a person who is 2 standard deviations above the mean for males aged 50-59 years, given a mean weight of 90 kg and a standard deviation of 27 kg, is 144 kg. This calculation involves adding 54 kg (which is 2 times the standard deviation of 27 kg) to the mean of 90 kg. Thus, if a 50-year-old man weighs 144 kg, he is at a weight that is 2 standard deviations above the average for his age group.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0507311755458097
+    },
+    {
+        "instruction": "When trimming and rounding the buccal frenal attachment of a mandibular denture, which muscle's function must be accommodated to ensure proper movement?",
+        "context": "",
+        "response": "When trimming and rounding the buccal frenal attachment of a mandibular denture, the function of the buccinator muscle must be accommodated to ensure proper movement. While the triangularis (depressor anguli oris) muscle is nearby, it is the buccinator that plays a significant role in cheek movement and function in this region, impacting denture fit and movement significantly. Therefore, careful attention to this muscle's movement is crucial to achieving a well-functioning denture fit.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0507059992071308
+    },
+    {
+        "instruction": "What is the likely diagnosis for a patient presenting with a high fever, signs of raised intracranial tension, and a past history of chronic otitis media?",
+        "context": "",
+        "response": "The likely diagnosis for a patient presenting with a high fever, symptoms of raised intracranial pressure, and a history of chronic otitis media is a brain abscess. Chronic otitis media can sometimes lead to the spread of infection into the brain, resulting in a localized collection of pus that causes increased intracranial pressure, which aligns with the patient's symptoms.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0506160707443093
+    },
+    {
+        "instruction": "A 25-year-old woman is diagnosed with ulcerative colitis and presents with bloody diarrhea. What condition is not typically associated with ulcerative colitis?",
+        "context": "",
+        "response": "In ulcerative colitis, various extraintestinal complications may occur, affecting the skin, eyes, liver, and joints. However, fistula formation is not typically associated with ulcerative colitis. Fistulas are more commonly linked to Crohn's disease, which involves deeper, transmural inflammation of the bowel wall, unlike ulcerative colitis, where inflammation is mostly restricted to the mucosal layer. Therefore, fistula formation is the condition not typically associated with ulcerative colitis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0505964077466396
+    },
+    {
+        "instruction": "Which clotting factors does activated protein C inactivate to inhibit the clotting mechanism?",
+        "context": "",
+        "response": "Activated protein C inactivates clotting factors Va and VIIIa to inhibit the clotting mechanism. By doing this, it helps regulate and slow down the blood clotting process, preventing excessive clot formation.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.050559462345113
+    },
+    {
+        "instruction": "A 43 year old patient comes to emergency with chest pain. He is a chronic alcoholic and he had a episode of vomiting with bright red colour blood. Endoscopy shows partial thickness tear in distal oesophagus. What is the diagnosis\nA. Mallory Weiss tears\nB. Boerhaave syndrome\nC. Alcoholic liver disease\nD. None of the above",
+        "context": "",
+        "response": "The symptoms and findings you've described — a history of chronic alcohol use, an episode of forceful vomiting with bright red blood, and an endoscopy showing a partial thickness tear in the distal esophagus — are classic for Mallory Weiss tears. This condition involves mucosal tears at the gastroesophageal junction, often following episodes of vomiting. Therefore, the correct diagnosis is **A. Mallory Weiss tears**.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0501682965257744
+    },
+    {
+        "instruction": "During the physical examination of the 34-year-old woman who was subsequently referred to an oncologist, what specific type of lymphadenopathy was identified that likely prompted such a referral?",
+        "context": "",
+        "response": "During the physical examination, the likely specific type of lymphadenopathy identified in the 34-year-old woman, which prompted a referral to an oncologist, was supraclavicular lymphadenopathy. Supraclavicular lymph nodes, particularly on the left side (known as Virchow's node), are strongly associated with potential underlying malignancies in the thoracic or abdominal regions. This characteristic is often seen as a significant red flag, indicating the need for further assessment by an oncology specialist.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.050131741735569
+    },
+    {
+        "instruction": "A 19-year-old college student develops a rash. She works pa-time in a pediatric AIDS clinic. Her blood is drawn and tested for specific antibody to the chickenpox virus (varicella-zoster). Which of the following antibody classes would you expect to find if she is immune to chickenpox?\nA. IgA\nB. IgG\nC. IgM\nD. IgD",
+        "context": "",
+        "response": "If the 19-year-old student is immune to chickenpox, you would expect to find IgG antibodies in her blood. IgG is the antibody class associated with long-term immunity and would be present if she has either previously had chickenpox or has been vaccinated against it. Thus, the correct answer is B. IgG.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0499742702362387
+    },
+    {
+        "instruction": "During a laparoscopic myomectomy, which specific instrument is used to insert into the exposed fibroid to aid in extracting it from the muscular uterine bed?",
+        "context": "",
+        "response": "During a laparoscopic myomectomy, the specific instrument used to insert into the exposed fibroid to aid in extracting it from the muscular uterine bed is called a 'myoma screw.' This tool is designed to provide a firm grip on the fibroid by screwing into it, allowing for effective maneuvering and removal with minimal tissue damage. The myoma screw is a vital component in ensuring the minimally invasive nature of the procedure.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0498964194433311
+    },
+    {
+        "instruction": "A 75-year-old woman with a history of involuntary weight loss and a painless neck lump undergoes a physical examination revealing a firm swelling in the neck. Ultrasonography reveals a thyroid nodule with irregular margins and microcalcifications, and a biopsy is performed. What histological change in the biopsy would be most consistent with anaplasia in the thyroid tumor?",
+        "context": "",
+        "response": "The most consistent histological change with anaplasia in a thyroid tumor is marked pleomorphism. This includes the presence of highly abnormal and variably sized and shaped cells, often with large, bizarre-looking nuclei. Additionally, there may be spindle-shaped cells and multinucleated giant cells, and a complete loss of the typical thyroid follicular architecture. These features indicate a highly undifferentiated and aggressive tumor, such as anaplastic thyroid cancer.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0497347285264462
+    },
+    {
+        "instruction": "A 48-year-old female patient presented to the OPD with complaints of dysphagia which is usually intermittent and is limited only to the solids for 2 months along with weakness, fatigue, and dyspnea. On examination, Angular cheilitis Glossitis Koilonychia Pallor Lab findings revealed iron deficiency anemia. Barium swallow was performed. Upper GI endoscopy Which of the following is the most likely diagnosis: -\nA. Plummer-Vinson syndrome\nB. Pill-induced Stricture\nC. Heterotopic gastric mucosa with stricture\nD. Achlasia cardia",
+        "context": "",
+        "response": "The most likely diagnosis for the symptoms described is A. Plummer-Vinson syndrome. This condition is characterized by dysphagia due to esophageal webs, iron deficiency anemia, and symptoms such as angular cheilitis, glossitis, and koilonychia, which align perfectly with the patient's presentation.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0495628028147181
+    },
+    {
+        "instruction": "Injury of common peroneal nerve at the lateral aspect of head of fibula results in all of the following except -\nA. Weakness of ankle dorsi-flexion\nB. Foot drop\nC. Loss of ankle reflex\nD. Sensory impairment on lateral aspect of leg extending to the dorsum of foot",
+        "context": "",
+        "response": "C. Loss of ankle reflex\n\nInjury to the common peroneal nerve at the lateral aspect of the head of the fibula typically results in weakness of ankle dorsiflexion, foot drop, and sensory impairment along the lateral aspect of the leg extending to the dorsum of the foot. However, the ankle reflex is primarily mediated by the tibial nerve, not the common peroneal nerve. Therefore, a loss of ankle reflex is not typically associated with a common peroneal nerve injury, making it the exception in this case.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0495570474192397
+    },
+    {
+        "instruction": "In a patient with necrotizing pancreatitis who has undergone CT guided aspiration resulting in the growth of E. coli on culture, what is the most definitive intervention for managing this condition?",
+        "context": "",
+        "response": "In a patient with necrotizing pancreatitis who has an infection, as evidenced by the growth of E. coli from a CT guided aspiration, the most definitive intervention for managing the condition is surgical debridement. While antibiotics are essential in treating the infection and less invasive options like drainage might be considered, surgical debridement is often necessary to effectively remove the infected necrotic tissue and resolve the infection.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0494972432210548
+    },
+    {
+        "instruction": "A 27-year-old woman presents for a checkup. She is 20 weeks pregnant and has been admitted to the hospital multiple times during her pregnancy for seizures. She has a known seizure disorder but discontinued her valproic acid when she became pregnant. The patient's past medical history is otherwise unremarkable. She does not smoke, drink alcohol, or use any drugs. She generally prefers not to take medications and sees a shaman for her care typically. Given her recent hospitalization, the patient agrees to start carbamazepine. Which of the following is the most appropriate treatment for this patient at this time?\nA. Folate\nB. Iron\nC. Magnesium\nD. Vitamin D",
+        "context": "",
+        "response": "The most appropriate treatment for the patient at this time is folate supplementation (Option A). Given that she is starting carbamazepine, there is an increased risk of neural tube defects for the developing baby. Folate is crucial in reducing this risk, especially during pregnancy and when on antiepileptic medications like carbamazepine.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0490702051969862
+    },
+    {
+        "instruction": "DMPA-True:a) Failure @ 0.3/100 WYb) 150 mg/3 monthly deliveredc) Weight gaind) Glucose intolerance occure) Anemia improves\nA. bcde\nB. abcd\nC. abce\nD. abde",
+        "context": "",
+        "response": "The correct answer is C. abce.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0490424424854758
+    },
+    {
+        "instruction": "What local anesthetic should not be used for a 30-year-old lady undergoing intravenous regional anesthesia for her left trigger finger surgery?",
+        "context": "",
+        "response": "Bupivacaine should not be used for a 30-year-old lady undergoing intravenous regional anesthesia, also known as a Bier block, for her left trigger finger surgery. Bupivacaine carries a higher risk of cardiovascular toxicity if it enters the general circulation, which is a concern in this type of anesthesia where maintaining the tourniquet is crucial. Safer alternatives like lidocaine are generally preferred for such procedures.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0489286480579307
+    },
+    {
+        "instruction": "A 65-year-old man presents with hemoptysis and stage 3 clubbing. What is the most likely diagnosis based on these symptoms?",
+        "context": "",
+        "response": "Based on the symptoms of hemoptysis and stage 3 clubbing, along with the patient's age of 65, the most likely diagnosis is lung cancer. Hemoptysis, or coughing up blood, can be a sign of a tumor in the lungs, which may also lead to advanced digital clubbing due to chronic oxygen deprivation. While other conditions like tuberculosis or bronchiectasis can cause similar symptoms, the combination of advanced clubbing and the patient’s age makes lung cancer the most probable diagnosis in this scenario.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0488997637446396
+    },
+    {
+        "instruction": "A football player experienced a twisting injury to the left leg and complained of pain. The X-ray results were normal, but clinical examination showed a positive anterior drawer test and Lachman test. What is the most likely diagnosis?",
+        "context": "",
+        "response": "Based on the information provided, the most likely diagnosis is an anterior cruciate ligament (ACL) tear. The twisting injury aligns with the typical mechanism of ACL injuries. The positive anterior drawer test and Lachman test both strongly indicate ACL instability, suggesting damage to the ligament. Additionally, the normal X-ray confirms that there is no bone fracture, further supporting the conclusion of a soft tissue injury like an ACL tear.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0488751314305338
+    },
+    {
+        "instruction": "In a 6-week-old infant with ambiguous genitalia, dehydration, and shock, what electrolyte abnormality is commonly expected?",
+        "context": "",
+        "response": "In a 6-week-old infant presenting with ambiguous genitalia, dehydration, and shock, the commonly expected electrolyte abnormalities are hyponatremia (low sodium levels) and hyperkalemia (high potassium levels). These findings are consistent with congenital adrenal hyperplasia, particularly due to 21-hydroxylase deficiency, which leads to impaired production of cortisol and aldosterone. The lack of aldosterone results in sodium loss and potassium retention, causing these specific electrolyte imbalances.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.048248764843149
+    },
+    {
+        "instruction": "In a 12-year-old boy with sickle cell disease who presents with osteomyelitis of the tibial diaphysis, which organism is more commonly associated with this condition than in the general population?",
+        "context": "",
+        "response": "In a 12-year-old boy with sickle cell disease who presents with osteomyelitis of the tibial diaphysis, Salmonella species are more commonly associated with this condition than in the general population. This increased susceptibility is due to the functional asplenia and other immune system changes associated with sickle cell disease, which makes these patients particularly prone to infections by Salmonella.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0481744156905903
+    },
+    {
+        "instruction": "A 8 years old male had non blanching rashes over the skin and swelling of knee joint with hematuria +++ and protein + in urine. Microscopic analysis of his renal biopsy specimen is most likely to show:\nA. Tubular necrosis\nB. Visceral podocyte fusion\nC. Mesangial deposits of IgA\nD. Basement membrane thickening",
+        "context": "",
+        "response": "The renal biopsy of this 8-year-old patient is most likely to show mesangial deposits of IgA. This aligns with the typical presentation of Henoch-Schönlein Purpura (HSP), or IgA vasculitis, characterized by the classic tetrad of purpura, joint pain, abdominal pain, and renal involvement. The presence of hematuria and proteinuria suggests IgA deposition in the mesangial region of the glomeruli, consistent with both HSP and IgA nephropathy. Therefore, the correct answer is:\n\nC. Mesangial deposits of IgA",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.047827605972039
+    },
+    {
+        "instruction": "A 6-year-old child is brought to the emergency department with a 3-day history of vomiting and diarrhea. Upon examination, the child appears drowsy, has sunken eyes, hypothermia, and the skin takes time to retract after being pinched. Based on these symptoms, what is the diagnosis regarding the child's hydration status?",
+        "context": "",
+        "response": "Based on the symptoms described, the child is experiencing severe dehydration. The combination of drowsiness, sunken eyes, hypothermia, and skin tenting strongly indicates that the hydration status is critically low. Immediate medical intervention with fluid replacement is essential to address this condition and prevent any further complications.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0477791417084832
+    },
+    {
+        "instruction": "In a case where a 34-year-old man is diagnosed with a femoral hernia after an injury while performing squats, which anatomical structure is immediately lateral to the herniated structures?",
+        "context": "",
+        "response": "In the case of a femoral hernia, the anatomical structure that is immediately lateral to the herniated structures within the femoral canal is the femoral vein. The femoral vein is situated directly next to the femoral canal, which contains the hernia.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0477286813007296
+    },
+    {
+        "instruction": "In a histopathological examination of a gallbladder that was found to be normal, what type of epithelium is observed lining the gallbladder?",
+        "context": "",
+        "response": "The gallbladder is lined with a simple columnar epithelium, which is highly specialized for its role in concentrating and storing bile. This type of epithelial lining, often featuring microvilli on the surface, facilitates efficient absorption and secretion, aligning perfectly with the gallbladder's physiological functions.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0476694808512272
+    },
+    {
+        "instruction": "Following a thyroidectomy, a patient presents with swelling in the neck. What is the most likely complication resulting from this condition?",
+        "context": "",
+        "response": "Following a thyroidectomy, if a patient presents with swelling in the neck, the most likely complication is a hematoma. Hematomas involve the collection of blood and can occur soon after surgery, potentially leading to pressure on the airway. This is a critical situation because it can obstruct breathing, making it imperative to quickly identify and address the issue. Immediate medical evaluation and intervention might be necessary to prevent respiratory compromise.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0476654843169462
+    },
+    {
+        "instruction": "In the context of optimal management of sepsis in ICU patients, which intervention is not supported by evidence for improving patient outcomes?",
+        "context": "",
+        "response": "In the context of optimal management of sepsis in ICU patients, intensive insulin therapy is not supported by evidence for improving patient outcomes. Studies like the NICE-SUGAR trial demonstrated that maintaining tight glucose control in critically ill patients could actually increase mortality rates. As a result, the practice of intensive insulin therapy has been reconsidered and is not recommended in current guidelines for sepsis management.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0475739428777016
+    },
+    {
+        "instruction": "When a normal individual receives an insulin injection that significantly lowers plasma glucose levels to 30 mg/dl, which hormone will not be released in response to the hypoglycemia?",
+        "context": "",
+        "response": "In response to hypoglycemia caused by an insulin injection, the body will not release additional insulin. Insulin facilitates the lowering of blood glucose levels, which is counterproductive in a state of hypoglycemia. Instead, the body focuses on releasing hormones like glucagon, epinephrine, cortisol, and growth hormone, which work to increase blood glucose levels. Therefore, insulin is the hormone that will not be released in response to the low glucose levels in this scenario.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0470983808569219
+    },
+    {
+        "instruction": "The antibiotic which acts by interfering with addition of new cell wall subunits (Muramyl pentapeptides) is:\nA. Bacitracin\nB. Penicillins\nC. Vancomycin\nD. Mupirocin",
+        "context": "",
+        "response": "The antibiotic that acts by interfering with the addition of new cell wall subunits (Muramyl pentapeptides) is C. Vancomycin.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0469433611064003
+    },
+    {
+        "instruction": "In which condition are macrophages in the intestine found to contain large quantities of undigested and partially digested bacteria?",
+        "context": "",
+        "response": "In Whipple's disease, macrophages in the intestine are found to contain large quantities of undigested and partially digested bacteria. This condition is caused by the bacterium Tropheryma whipplei. Diagnosis typically involves identifying these characteristic macrophages, which are swollen with bacterial remnants and stain positively with PAS (periodic acid-Schiff), during a histological examination of intestinal tissues.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0469366216378813
+    },
+    {
+        "instruction": "In a 26-year-old female undergoing a lumbar puncture for suspected subarachnoid bleeding, which anatomical structure is penetrated by the spinal needle immediately after it passes through the interspinous ligament?",
+        "context": "",
+        "response": "After the spinal needle passes through the interspinous ligament during a lumbar puncture in a 26-year-old female, the next anatomical structure it penetrates is the ligamentum flavum.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0467738891260903
+    },
+    {
+        "instruction": "The minimum requirements for chemically activated resins used for repair applications of denture bases are identified in ADA specification number\nA. 15\nB. 13\nC. 14\nD. 12",
+        "context": "",
+        "response": "The minimum requirements for chemically activated resins used for repair applications of denture bases are identified in ADA specification number B. 13.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0465098770024077
+    },
+    {
+        "instruction": "A patient presents with numbness in their feet, and upon physical examination, erythema, edema, and clear blisters are observed on the feet, with palpable peripheral pulses. Based on these symptoms, what is the most likely diagnosis?",
+        "context": "",
+        "response": "The most likely diagnosis for the patient, based on the symptoms of numbness, erythema, edema, and clear blisters on the feet with palpable peripheral pulses, is frostbite. These symptoms align well with the effects of cold exposure on the skin and underlying tissues, leading to injury and characteristic changes such as redness, swelling, and blistering. The presence of clear blisters suggests an injury consistent with frostbite rather than an infection or other conditions.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0464866730716542
+    },
+    {
+        "instruction": "In an outbreak of cholera in a village of 2,000 population, 20 cases have occurred and 5 died. Case fatality rate is -\nA. 1%\nB. 0.25%\nC. 5%\nD. 25%",
+        "context": "",
+        "response": "In this cholera outbreak within the village, you've determined the case fatality rate by comparing the number of deaths (5) to the total number of cases (20). After dividing 5 by 20, you arrived at 0.25, and by multiplying by 100, you converted this into a percentage, resulting in a case fatality rate of 25%. Therefore, the correct answer is:\n\nD. 25%",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0464395182814796
+    },
+    {
+        "instruction": "A 25 years female was found in the room with 100% burns on her body. The tongue was protruding out; the body was in pugilistic attitude with heat ruptures, peeling of skin, and heat haematoma and heat fractures of the skull. Carboxyhemoglobin was 25% and soot particles were present in the trachea. Which of the combinations of two findings will establish that the burns were antemortem in nature-\nA. Heat haematoma & heat ruptures\nB. Heat fracture of skull and peeling of skin\nC. Heat haematoma and pugilistic attitude\nD. Carboxy hemoglobin (25%) and soot particles in trachea",
+        "context": "",
+        "response": "The combination of findings that most strongly indicates the burns were antemortem in nature is the presence of carboxyhemoglobin at 25% and soot particles in the trachea. These findings suggest that the individual was alive during the fire, breathing in smoke, which led to the formation of carboxyhemoglobin and the inhalation of soot. Therefore, the correct answer is:\n\nD. Carboxyhemoglobin (25%) and soot particles in trachea.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0461222143255102
+    },
+    {
+        "instruction": "A 55-year-old man presents with jaundice of the skin and sclera for over 2 months, accompanied by itching. Physical examination reveals an enlarged, smooth, round, movable, and non-tender gallbladder. Based on these clinical findings, what is the most likely underlying disease?",
+        "context": "",
+        "response": "Based on the clinical findings described, the most likely underlying disease is pancreatic cancer. Specifically, these symptoms suggest a tumor at the head of the pancreas causing biliary obstruction, leading to jaundice and an enlarged gallbladder. This scenario is consistent with Courvoisier's Law, which states that in the presence of jaundice and a palpable gallbladder, the likelihood of gallstones is low, and an external obstruction such as a pancreatic tumor is more probable.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.045864475707469
+    },
+    {
+        "instruction": "A 36-year-old female presents with a 6-year history of esophageal obstruction, and a barium X-ray reveals a bird's beak appearance in the lower section of the esophagus. What is the most likely diagnosis?",
+        "context": "",
+        "response": "The most likely diagnosis for the 36-year-old female with a 6-year history of esophageal obstruction and a barium X-ray revealing a bird's beak appearance in the lower section of the esophagus is achalasia. This condition is characterized by the inability of the lower esophageal sphincter to relax properly, leading to symptoms like difficulty swallowing and a characteristic narrowing of the esophagus seen on imaging.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.045775709620708
+    },
+    {
+        "instruction": "A 5-year-old boy is brought in by his mother because of petechial bleeding and bruises on his torso and limbs. The child doesn't have any other signs or symptoms and doesn't appear to be ill. Mother reports gastrointestinal infection several weeks prior to petechiae and bruising. CBC shows thrombocytopenia (<20xl09/L). Other parameters of CBC are within expected range for age. Also, PT, PTT and metabolic panels are all within referent range. What is the expected outcome of this blood disorder?\nA. Complete resolution is expected\nB. Survival rate is up to 70% depending on risk stratification\nC. Lifelong disease dependent on factor VIII substitution\nD. Lifelong disease dependent on factor IX substitution",
+        "context": "",
+        "response": "A. Complete resolution is expected.  \n\nIn this case, the symptoms and laboratory findings are suggestive of Immune Thrombocytopenic Purpura (ITP), a common condition in children following a viral infection like the described gastrointestinal illness. ITP often resolves on its own, especially in pediatric cases, with the majority of children recovering completely within weeks to months without any long-term complications.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0457047769703558
+    },
+    {
+        "instruction": "A 16-year-old boy presents with an enlargement of breast tissue, significant height compared to peers, weakness, lack of coordination, poor academic performance, gynecomastia, and small firm testes. If a karyotype test is performed, what chromosomal pattern is most likely to be found?",
+        "context": "",
+        "response": "Based on the symptoms described, such as gynecomastia, tall stature, small firm testes, and academic difficulties, the most likely karyotypic finding in this scenario would be 47,XXY. This chromosomal pattern indicates Klinefelter syndrome, which aligns with the characteristics and symptoms presented by the 16-year-old boy.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0455958317955183
+    },
+    {
+        "instruction": "A 45-year-old woman has a severe asthmatic exacerbation and requires an aerial blood gas specimen for management. If you are planning to draw the sample from the brachial aery, where should you inse the needle\nA. In the lateral aspect of the arm, between the biceps and triceps brachii muscles\nB. Just lateral to the biceps tendon in the cubital fossa\nC. Just medial to the biceps tendon in the cubital fossa\nD. Just medial to the tendon of the flexor carpi radialis muscle at the wrist",
+        "context": "",
+        "response": "The correct location to insert the needle for obtaining an arterial blood gas sample from the brachial artery is Option C: just medial to the biceps tendon in the cubital fossa. The brachial artery runs medially to the tendon in this area, making it the appropriate site for accessing the artery.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0448520920039654
+    },
+    {
+        "instruction": "A patient is on the second day following cataract surgery and is exhibiting symptoms that are diagnostic of a specific condition. What is the name of this condition?",
+        "context": "",
+        "response": "The condition that the patient is likely experiencing is acute post-operative endophthalmitis. This is a serious infection that can occur shortly after cataract surgery, typically within the first few days. It is characterized by symptoms such as severe eye pain, significant loss of vision, redness of the eye, and possibly discharge. Given the timing and severity of the symptoms, it is crucial to seek immediate medical attention to address this eye emergency.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0445346467999321
+    },
+    {
+        "instruction": "What type of lasers is used in the root canal treatment with excimer that a 40-year-old male patient received?",
+        "context": "",
+        "response": "Excimer lasers are not typically used for root canal treatments. The types of lasers that are commonly used in dental procedures such as root canals are Nd:YAG and Er:YAG lasers, as they are effective in cleaning and disinfecting the canal. It's likely that there was a misunderstanding if a 40-year-old male patient reported having a root canal with an excimer laser.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.044139500688382
+    },
+    {
+        "instruction": "Which drug is not used in the treatment of multidrug-resistant tuberculosis among Tobramycin, Amikacin, Ciprofloxacin, and Clarithromycin?",
+        "context": "",
+        "response": "Tobramycin is not used in the treatment of multidrug-resistant tuberculosis (MDR-TB). While Amikacin and Ciprofloxacin are commonly utilized in MDR-TB treatment regimens, and Clarithromycin can occasionally be used as part of a broader treatment plan, Tobramycin is primarily used for Gram-negative bacterial infections and is not part of the standard treatment for MDR-TB.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0440874730531151
+    },
+    {
+        "instruction": "In the treatment of portal hypertension through surgical intervention in a patient with chronic liver disease, which specific veins are typically anastomosed to perform a portocaval shunt?",
+        "context": "",
+        "response": "In the surgical treatment of portal hypertension through a portocaval shunt, the specific veins that are typically anastomosed are the portal vein and the inferior vena cava. This procedure creates a direct pathway for blood to flow from the portal vein into the systemic circulation via the inferior vena cava, effectively reducing the high pressure in the portal venous system often associated with chronic liver disease.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0440060761645908
+    },
+    {
+        "instruction": "In an HIV-infected individual, a Gram stain of a lung aspirate shows yeast-like morphology. Based on this observation, identify one organism from the following list that is not the likely cause of the infection: Candida tropicalis, Cryptococcus neoformans, Pencillium marneffi, or Aspergillus fumigates.",
+        "context": "",
+        "response": "Based on the observation of yeast-like morphology in a Gram stain of a lung aspirate from an HIV-infected individual, the organism that is not the likely cause of the infection is Aspergillus fumigatus. Unlike Candida tropicalis, Cryptococcus neoformans, and Penicillium marneffei, which can appear yeast-like, Aspergillus fumigatus is a mold and presents as hyphae rather than yeast-like cells in Gram stains.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0438436747316342
+    },
+    {
+        "instruction": "In the management of a Grade III dog bite infected with rabies, which step should be specifically avoided to ensure proper treatment?",
+        "context": "",
+        "response": "In the management of a Grade III dog bite infected with rabies, specifically avoid suturing the wound immediately. Suturing can trap the virus inside the wound, potentially increasing the risk of infection spread and complicating the healing process. Instead, the focus should be on thoroughly cleaning the wound, administering the rabies vaccine, and providing rabies immunoglobulin as necessary.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0434869780709168
+    },
+    {
+        "instruction": "Arrange the incidence of various types of breast cancers in increasing incidence. a. PTEN ( Cowden disease )b. Sporadic breast cancerc. Hereditary breast cancerd. BRCA1e. BRCA2f. Familial breast cancer\nA. a,b,c,d,e,f\nB. a,d,b,c,f,e\nC. c,a,f,d,b,e\nD. a,c,f,e,d,b",
+        "context": "",
+        "response": "The correct order of breast cancer incidence from least to most common is:\n\nA. PTEN (Cowden disease)  \nD. BRCA1  \nE. BRCA2  \nC. Hereditary breast cancer  \nF. Familial breast cancer  \nB. Sporadic breast cancer  \n\nThus, the correct choice is D: a,c,f,e,d,b.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0434237881668873
+    },
+    {
+        "instruction": "What pair of white metals interact to form an intermetallic compound that results in a pale yellow to gold hue?",
+        "context": "",
+        "response": "The pair of white metals that interact to form an intermetallic compound resulting in a pale yellow to gold hue are palladium and indium. This combination creates an intermetallic compound that can exhibit a gold-like appearance, even though both metals are typically silvery or white individually. This unique transformation in color is a fascinating example of how intermetallic compounds can exhibit properties significantly different from the constituent metals.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0428798664591032
+    },
+    {
+        "instruction": "Which antifungal medication has a bactericidal mode of action against dermatophyte infections when used in therapeutic doses?",
+        "context": "",
+        "response": "The antifungal medication with a fungicidal mode of action against dermatophyte infections, which might have been implied by the term 'bactericidal' due to its lethal action on fungi, is terbinafine. Terbinafine disrupts the synthesis of ergosterol, a key component of fungal cell membranes, thereby effectively killing the fungus. This is similar to how a bactericidal antibiotic would function in eliminating bacteria, rather than merely inhibiting growth.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.042861467118154
+    },
+    {
+        "instruction": "DNA replication is a highly complex process where replication occurs on both strands of DNA. On the leading strand of DNA, replication occurs uninteruppted, but on the lagging strand, replication is interrupted and occurs in fragments called Okazaki fragments. These fragments need to be joined, which of the following enzymes is involved in the penultimate step before ligation can occur?\nA. DNA ligase\nB. DNA gyrase\nC. DNA helicase\nD. DNA polymerase I\nE. DNA polymerase III",
+        "context": "",
+        "response": "In the process of DNA replication, particularly on the lagging strand, Okazaki fragments need to be joined to form a continuous DNA strand. The penultimate step before the enzyme DNA ligase does its job of linking these fragments is carried out by DNA polymerase I. This enzyme removes the RNA primers and replaces them with DNA nucleotides, preparing the fragments for the final ligation step. Therefore, the correct answer to the question is:\n\nD. DNA polymerase I",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0427729559069792
+    },
+    {
+        "instruction": "What is the diagnosis for a patient who experiences repeated episodes of excessive eating followed by purging using laxatives?",
+        "context": "",
+        "response": "The diagnosis for a patient who experiences repeated episodes of excessive eating followed by purging using laxatives is Bulimia Nervosa. This eating disorder is characterized by cycles of binge eating followed by compensatory behaviors to prevent weight gain, which can include the use of laxatives, self-induced vomiting, fasting, or excessive exercise.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0425991874909486
+    },
+    {
+        "instruction": "A 10-year-old child with sho stature presented to the pediatric OPD with external ophthalmoplegia, gait abnormality, sensorineural hearing loss. Lab findings revealed raised fasting blood glucose levels. ECG Fundus examination Which of the following is true about the DNA involved in the above disease: -\nA. Circular\nB. Double-helix\nC. Bounded by nuclear envelope\nD. Packed into chromatin",
+        "context": "",
+        "response": "A. Circular",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.042591233120753
+    },
+    {
+        "instruction": "The nucleotide triplet CTC in the sixth position of the l3-chain in DNA forms the complementary nucleotide on (mRNA) that codes for glutamic acid. A point mutation on the l3-chain resulting in the nucleotide triplet CAC forms a com¬plementary nucleotide on mRNA that codes for valine. In sickle cell anemia, you would expect the comple¬mentary nucleotide triplet on mRNA from 5' to 3' to read\nA. GAG\nB. CTC\nC. GTG\nD. GUG",
+        "context": "",
+        "response": "The complementary nucleotide triplet on mRNA from 5' to 3' for the CAC mutation in sickle cell anemia is D. GUG.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.042388168659299
+    },
+    {
+        "instruction": "What is the term used to describe the intentional fabrication or exaggeration of symptoms of a disability or illness to gain financial or other benefits?",
+        "context": "",
+        "response": "The term you're looking for is \"malingering.\" Malingering refers to the intentional fabrication or exaggeration of symptoms of a disability or illness, typically motivated by external incentives, such as financial benefits or avoiding responsibilities. Unlike factitious disorder, where the primary motivation is to assume the sick role and gain attention, malingering is driven by tangible rewards or secondary gain.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.042388168659299
+    },
+    {
+        "instruction": "A 55-year-old man with a history of heavy alcohol consumption presents with abdominal pain, fever, tachycardia, and a CT scan showing diffuse enlargement of the pancreas. Laboratory findings include an elevated leukocyte count and an increased amylase level. Considering these findings, what is the most likely pathological process occurring in this patient's peripancreatic tissue?",
+        "context": "",
+        "response": "The most likely pathological process occurring in this patient's peripancreatic tissue is enzymatic fat necrosis. This condition is often associated with acute pancreatitis, particularly in the context of heavy alcohol consumption. In acute pancreatitis, digestive enzymes like amylase are released and become activated, leading to the breakdown of fats in the surrounding peripancreatic tissue. This enzymatic activity results in fat necrosis, which aligns with the clinical findings and the history provided.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0423339916813246
+    },
+    {
+        "instruction": "In a case where a biopsy from a duodenal ulcer on the posterior wall of the duodenal bulb shows hyperplasia of submucosal glandular structures, what is the physiological outcome related to the hyperplasia of these cells?",
+        "context": "",
+        "response": "The hyperplasia of submucosal glandular structures in the duodenal bulb, specifically the Brunner's glands, results in an increased production of alkaline mucus. This physiological response aims to protect the duodenal lining by neutralizing the acidic gastric contents that enter from the stomach. In the context of a duodenal ulcer, this increased secretion serves as a compensatory mechanism to buffer the acidic environment and protect the tissue from further damage.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.042144642898406
+    },
+    {
+        "instruction": "A 20-year-old man presents to the urgent care clinic with nausea and vomiting after a boating trip, symptoms he has experienced in similar situations like a cruise to the Bahamas. Based on this information and considering his presentation of motion sickness, what is the most appropriate medication to administer to alleviate his current symptoms?",
+        "context": "",
+        "response": "The most appropriate medication to administer for alleviating the 20-year-old man's symptoms of motion sickness, characterized by nausea and vomiting after a boating trip, is dimenhydrinate. Dimenhydrinate is effectively used to address the symptoms of motion sickness and tends to act quickly, making it a good choice for his acute condition. It operates by mitigating the sensory mismatch experienced in motion sickness, helping to stabilize the brain's response to conflicting signals.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0421349527443031
+    },
+    {
+        "instruction": "What finding from a blood culture would confirm the diagnosis of toxic shock syndrome in an 18-year-old female presenting with fever, vomiting, diarrhea, hypotension, an erythematous sunburn-like rash, and who is menstruating using super absorbent tampons?",
+        "context": "",
+        "response": "A blood culture confirming the presence of Staphylococcus aureus would support the diagnosis of toxic shock syndrome (TSS) in the described scenario. In TSS, this bacterium produces toxins, such as TSST-1, which can lead to the symptoms you're observing. In the context of an 18-year-old female experiencing these specific symptoms while using super absorbent tampons, finding Staphylococcus aureus in a blood culture aligns with the classic presentation of tampon-related TSS.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0419851395198119
+    },
+    {
+        "instruction": "A 46-year-old man presents to the clinic complaining of fatigue and difficulty breathing for the past month. He reports that it is particularly worse when he exercises as he becomes out of breath at 1 mile when he used to routinely run 3 miles. He is frustrated as he was recently diagnosed with diabetes despite a good diet and regular exercise. He denies any weight changes, chest pain, or gastrointestinal symptoms. When asked about other concerns, his wife complains that he is getting darker despite regular sunscreen application. A physical examination demonstrates a tanned man with an extra heart sound just before S1, mild bilateral pitting edema, and mild bibasilar rales bilaterally. An echocardiogram is ordered and shows a left ventricular ejection fraction (LVEF) of 65% with reduced filling. What is the most likely explanation for this patient’s condition?\nA. Decreased copper excretion into bile\nB. Increased intestinal absorption of iron\nC. Infection with coxsackie B virus\nD. Persistently elevated blood pressure\nE. Systemic inflammatory state caused by type 2 diabetes",
+        "context": "",
+        "response": "The most likely explanation for this patient’s condition is B. Increased intestinal absorption of iron. This suggests hemochromatosis, a condition characterized by excessive iron accumulation in the body. The combination of symptoms such as skin darkening (often referred to as \"bronze diabetes\"), a new diagnosis of diabetes, and signs of restrictive heart disease due to iron deposition aligns well with this diagnosis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0419088747256902
+    },
+    {
+        "instruction": "Unlike other GI secretions, salivary secretion is controlled almost exclusively by the nervous system and is significantly inhibited by\nA. Atropine\nB. Pilocarpine\nC. Cime dine\nD. Aspirin",
+        "context": "",
+        "response": "Unlike other GI secretions, salivary secretion is controlled almost exclusively by the nervous system and is significantly inhibited by A. Atropine. Atropine acts as a muscarinic antagonist, blocking parasympathetic signals that would normally stimulate salivary glands to produce saliva, leading to a reduction in salivary secretion.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0418577034330259
+    },
+    {
+        "instruction": "What are the elemental iron and folic acid contents of pediatric iron folic acid tablets supplied under the Rural Child Health (RCH) programme?",
+        "context": "",
+        "response": "Under the Rural Child Health (RCH) program, the pediatric iron folic acid tablets typically contain 20 mg of elemental iron and 100 mcg of folic acid. This formulation is designed to effectively address and prevent iron deficiency anemia among children in rural areas, ensuring they receive the necessary nutrients for proper growth and development.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.041644102851484
+    },
+    {
+        "instruction": "What skin condition is known to not occur with more severity than usual in patients with HIV infection?",
+        "context": "",
+        "response": "Lichen planus is a skin condition that is not known to occur with more severity than usual in patients with HIV infection. While HIV affects the immune system and can exacerbate various skin conditions, lichen planus does not have a well-established link to increased severity in HIV-positive individuals compared to conditions like psoriasis or seborrheic dermatitis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0416143016009647
+    },
+    {
+        "instruction": "Which of the following denote classical complement pathway activation in immune-inflammatory conditions: September 2012\nA. C2, C3 and C4 decreased\nB. C2 and C4 is normal; C3 is decreased\nC. C3 normal; C2 and C4 decreased\nD. C1 and C3 normal; C2 is increased",
+        "context": "",
+        "response": "The classical complement pathway, when activated, typically results in a decrease in the levels of complement proteins C2, C3, and C4, as these are consumed during the immune response. Therefore, the option that best indicates classical complement pathway activation in immune-inflammatory conditions is:\n\nA. C2, C3 and C4 decreased",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.041613059900696
+    },
+    {
+        "instruction": "A 44-year-old man presents with multiple, painful vesicular lesions on the lower lip that appeared 1 day ago following sun exposure at the beach, accompanied by tingling sensation, and recurrent occurrences 3 times in the past year with cervical lymphadenopathy. Considering these findings, what is the most appropriate topical antiviral treatment for his condition at this time?",
+        "context": "",
+        "response": "The scenario described suggests recurrent herpes labialis, commonly known as cold sores, triggered by sun exposure. Considering the patient's condition and the effectiveness of treatments for such cases, penciclovir is an appropriate topical antiviral medication. It is effective in reducing the duration and pain of cold sores when applied every two hours while awake, making it a sensible choice for managing his symptoms.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0414208625478814
+    },
+    {
+        "instruction": "In a case where a 62-year-old woman has a posterior dislocation of the hip joint and a fracture at the posterosuperior margin of the acetabulum, which specific bone is likely to be involved?",
+        "context": "",
+        "response": "In the scenario of a posterior dislocation of the hip joint with a fracture at the posterosuperior margin of the acetabulum, the bone most likely involved is the ilium. This is because the ilium forms a significant part of the superior aspect of the acetabulum and stretches towards its posterior region, making it susceptible to such injuries during a posterior dislocation.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0413173290623272
+    },
+    {
+        "instruction": "What test is unable to differentiate between in situ breast cancer and invasive disease?",
+        "context": "",
+        "response": "Fine Needle Aspiration Cytology (FNAC) is unable to reliably differentiate between in situ breast cancer and invasive disease. While it can detect the presence of cancer cells, it often does not provide enough detail on the tissue architecture needed to distinguish between these two types of cancer.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0408489500771054
+    },
+    {
+        "instruction": "What are two definitive features of hepatorenal syndrome in terms of urine sodium levels and renal histology?",
+        "context": "",
+        "response": "Two definitive features of hepatorenal syndrome are:\n\n1. **Urine Sodium Levels**: In hepatorenal syndrome, urine sodium levels are typically very low, often less than 10 mmol/L, due to the kidneys attempting to conserve sodium in response to perceived low blood volume.\n\n2. **Renal Histology**: Despite the impaired kidney function, renal histology in hepatorenal syndrome appears normal. There is no structural damage to the kidneys, which is a hallmark of this condition.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.040732074349753
+    },
+    {
+        "instruction": "A 38-year-old man presents with involuntary facial grimacing, shrugging of the shoulders, and jerking movements of the limb. His father was similarly affected. There is also a history of mood changes for the past 3 months. On examination, he appears restless with intermittent slow movements of his hands and face. He has difficulty performing rapid finger movements, and tone is decreased in the upper and lower limbs. Which of the following is most likely to represent the progression of his illness?\nA. a normal life span\nB. a 50% chance of only male children being similarly affected\nC. mental deterioration\nD. eventual development of rigidity",
+        "context": "",
+        "response": "The symptoms and family history you've described strongly suggest Huntington's disease, a hereditary neurodegenerative disorder. Huntington's is characterized by involuntary movements, mood changes, and cognitive decline. Given this condition's progression, the most likely outcome for the patient is mental deterioration. Therefore, the correct answer is:\n\nC. mental deterioration",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0405450012488553
+    },
+    {
+        "instruction": "How would you best describe the rotational movement of the upper jaw responsible for a patient's gummy smile? ",
+        "context": "",
+        "response": "A gummy smile due to jaw positioning is often associated with the anterior rotational movement of the upper jaw, or maxilla. This occurs when the front part of the upper jaw rotates or grows downward more than the back. This downward or anterior rotation increases the visibility of the gums when smiling, contributing to a gummy smile appearance. Addressing this issue often involves orthodontic or surgical interventions focused on adjusting or correcting the jaw's rotation or alignment to reduce gum display.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.040521681495665
+    },
+    {
+        "instruction": "What is the type of thought disorder characterized by random thoughts that are not connected to each other and where the goal is not reached, as classically seen in schizophrenia?",
+        "context": "",
+        "response": "The type of thought disorder you're describing, characterized by random thoughts that are not connected to each other and where no coherent goal is reached, is known as \"loosening of associations\" or \"derailment.\" This is a common symptom in schizophrenia where an individual's thoughts become disjointed and lack logical progression, making it difficult to form coherent and goal-directed ideas or speech.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.040376068900883
+    },
+    {
+        "instruction": "What sexually transmitted infection is characterized by a painful vaginal ulcer, inguinal lymphadenopathy, and a 'school of fish' appearance of the microorganism on microscopy?",
+        "context": "",
+        "response": "The sexually transmitted infection characterized by a painful vaginal ulcer, inguinal lymphadenopathy, and a 'school of fish' appearance of the microorganism on microscopy is chancroid, which is caused by the bacterium Haemophilus ducreyi.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0403641628097744
+    },
+    {
+        "instruction": "A 34-year-old woman presents with sudden onset of painful vision loss in her left eye and a history of episodes of numbness and tingling in her extremities. Examination reveals an inability to adduct her left eye when looking right. Considering these clinical findings, what is the most appropriate treatment for this patient's current condition?",
+        "context": "",
+        "response": "Based on the clinical findings, the most appropriate treatment for this patient's current condition is intravenous corticosteroids, specifically high-dose intravenous methylprednisolone. This treatment is commonly used for acute exacerbations of multiple sclerosis, such as optic neuritis, to quickly reduce inflammation and alleviate symptoms.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0402093960238765
+    },
+    {
+        "instruction": "A 3-year-old boy is brought to his pediatrician by his mother when he developed redness, burning, itching, and exquisite pain all over his arms, lower legs, neck, and face. The mother states that she just recently began taking him to the local playground in the afternoons. She reports that she applied liberal amounts of sunscreen before and during the time outside. She states that they were at the playground for 30 minutes to 1 hour each day for the last 3 days. The patient has experienced prior episodes of redness and pain after being outdoors, but they were relatively minor and resolved within 12 hours. She says his current presentation is much more severe with more exquisite pain than in the past. The patient's vital signs are as follows: T 37.2 C, HR 98, BP 110/62, RR 16, and SpO2 99%. Physical examination reveals edema, erythema, and petechiae over the patient's face, neck, arms, and lower legs. No blistering or scarring of the skin is noted. Which of the following is the best treatment option for this patient's condition?\nA. Recommend use of a high SPF topical sunscreen\nB. Begin dexamethasone taper\nC. Start therapeutic phlebotomy\nD. Initiate oral beta carotene\nE. Prescribe chloroquine",
+        "context": "",
+        "response": "Based on the symptoms described, the boy is likely suffering from erythropoietic protoporphyria (EPP), a condition characterized by photosensitivity leading to painful reactions to sunlight, along with erythema and sometimes petechiae, but notably without blistering. In this scenario, the best treatment option to alleviate the symptoms associated with EPP is initiating oral beta carotene, which can help in reducing photosensitivity. Therefore, the correct answer is:\n\nD. Initiate oral beta carotene",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0401357410735608
+    },
+    {
+        "instruction": "Which nerve, when injured during a radical neck dissection, results in the loss of sensation on the medial side of the arm?",
+        "context": "",
+        "response": "The nerve responsible for sensation on the medial side of the arm is primarily the medial brachial cutaneous nerve, which arises from the brachial plexus and contains fibers from the T1 root. During a radical neck dissection, direct injury to this nerve is not typical, but if involved, it can result in sensory loss in that specific area. However, such procedures are usually more concerned with nerves like the accessory nerve or others in the cervical region.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0400913522250599
+    },
+    {
+        "instruction": "A 57-year-old man is admitted to the ER due to an abrupt onset of abdominal pain that radiates to the back, nausea, and multiple vomiting episodes for the past 10 hours. He does not have any significant past medical history. He admits to drinking alcohol every night. During admission, he is found to have a body temperature of 37.5°C (99.5°F), a respiratory rate of 20/min, a pulse of 120/min, and a blood pressure of 120/76 mm Hg. He looks pale with sunken eyes and has significant epigastric tenderness and flank discoloration. An initial laboratory panel shows the following:\nTotal count (WBC) 10,000/mm3\nPlatelet count 140,000/mm3\nSerum glucose 160 mg/dL\nSerum LDH 500 IU/L\nAspartate aminotransferase 400 IU/dL\nSerum Amylase 500 IU/L\nSerum Lipase 300 IU/L\nWhich of the following combinations would best predict severity in this case?\nA. Glucose, LDH, AST\nB. Age, LDH, AST\nC. WBC, platelet count, AST\nD. AST, amylase, lipase",
+        "context": "",
+        "response": "Based on the information provided, the best combination to predict the severity of acute pancreatitis using the Ranson criteria is Option B: Age, LDH, AST. These factors fit the criteria because the patient's age is over 55, and both his LDH and AST levels exceed the established thresholds, indicating potential severity in the case of acute pancreatitis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0396849971547961
+    },
+    {
+        "instruction": "On a given day, a hospital had 50 admissions including 20 girls and 30 boys. If 10 girls and 20 boys required surgery, what fraction of the total admissions required surgery?",
+        "context": "",
+        "response": "On that particular day, out of 50 total admissions at the hospital, 30 patients required surgery. This included 10 girls and 20 boys. To find the fraction of total admissions that needed surgery, you divide the number of patients who had surgery (30) by the total number of admissions (50). Simplifying the fraction 30/50 by dividing both the numerator and the denominator by 10 results in the fraction 3/5. Therefore, 3/5 of the total admissions required surgery.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0396433541118781
+    },
+    {
+        "instruction": "An adolescent female presents with intermittent headaches, tinnitus, vertigo, and hearing loss. There is also a family history of similar symptoms in her mother. Based on these clinical features, what is the most likely diagnosis?",
+        "context": "",
+        "response": "Based on the clinical features and family history provided, the most likely diagnosis for the adolescent female is vestibular migraine, also known as basilar migraine. This condition can cause a combination of symptoms including intermittent headaches, tinnitus, vertigo, and hearing loss. These symptoms align closely with what the patient is experiencing, and migraines often have a strong genetic component, which explains the similar symptoms seen in her mother.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0396343068856126
+    },
+    {
+        "instruction": "A 68-year-old woman, who occasionally experiences mild ankle swelling, has a serum potassium level of 3.5 mEq/L. Which diuretic would be most appropriate to prescribe to avoid unnecessary potassium losses?",
+        "context": "",
+        "response": "In this case, considering the mild ankle swelling and a borderline low serum potassium level of 3.5 mEq/L, the most appropriate diuretic to prescribe would be indapamide. Indapamide is a thiazide-like diuretic that is generally considered gentler on potassium levels than traditional thiazide diuretics. It effectively manages mild fluid retention while minimizing the risk of further diminishing potassium levels, making it a suitable choice for this scenario.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0396101400234152
+    },
+    {
+        "instruction": "In the TMJ, which condyle undergoes progressive lateral translation at a rate proportional to its forward movement?",
+        "context": "",
+        "response": "In the temporomandibular joint (TMJ), the condyle that undergoes progressive lateral translation at a rate proportional to its forward movement is the condyle on the balancing side—opposite to the direction of the jaw's movement. This condyle performs a coordinated motion that includes both lateral and forward translation, allowing for smooth and synchronized jaw movement.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0393831228804935
+    },
+    {
+        "instruction": "What is the risk of developing pyelonephritis in a 25-year-old primigravida at 20 weeks of pregnancy after experiencing a first episode of symptomatic bacteriuria?",
+        "context": "",
+        "response": "In a 25-year-old primigravida at 20 weeks pregnant experiencing a first episode of symptomatic bacteriuria, the risk of developing pyelonephritis is significant if left untreated, with studies suggesting a 20-40% chance. However, with appropriate and timely antibiotic treatment, this risk is substantially reduced, often dropping to below 5%. Therefore, prompt medical intervention is crucial to significantly lower the risk of progression to pyelonephritis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0393293498818639
+    },
+    {
+        "instruction": "Based on the presentation of gait disturbances, tremors, speech difficulties, and genetic testing revealing GAA trinucleotide repeat expansions, which chromosome is most commonly associated with the mutated gene in this condition?",
+        "context": "",
+        "response": "Friedreich's ataxia, which presents with symptoms such as gait disturbances, tremors, and speech difficulties, is associated with mutations in the FXN gene. This condition involves GAA trinucleotide repeat expansions. The FXN gene is located on chromosome 9, specifically at the locus 9q21.11. Thus, chromosome 9 is most commonly associated with Friedreich's ataxia.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0388945598775612
+    },
+    {
+        "instruction": "In a clinical examination of a 60-year-old female with a 2 cm diameter tumor in the right buccal mucosa, and no involvement of regional lymph nodes or distant metastasis, what is the TNM stage of the tumor?",
+        "context": "",
+        "response": "Based on the information provided for the 60-year-old female with a 2 cm diameter tumor in the right buccal mucosa, with no involvement of regional lymph nodes (N0) and no distant metastasis (M0), the TNM classification would be T1 N0 M0. According to standard staging guidelines, this would classify the cancer as Stage I. This indicates the cancer is localized and has not spread, which is generally associated with a more favorable prognosis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0388778408179693
+    },
+    {
+        "instruction": "A 41-year-old woman with a history of recurrent bloody diarrhea and findings of contiguously granular and hyperemic rectal mucosa on sigmoidoscopy presents with fever, a new cardiac murmur, and subungual hemorrhages. Blood cultures are pending. Considering her clinical presentation and medical history, which pathogen is most strongly associated with her condition?",
+        "context": "",
+        "response": "Given the described clinical presentation and medical history, the most likely pathogen associated with this condition is Streptococcus gallolyticus (formerly Streptococcus bovis). This bacterium is known to cause endocarditis and is strongly associated with gastrointestinal conditions like ulcerative colitis. The combination of inflammatory bowel disease symptoms with signs of endocarditis, such as a new heart murmur and subungual hemorrhages, strongly suggests this pathogen.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0387632915360456
+    },
+    {
+        "instruction": "Which regional anaesthesia technique is not expected to provide appropriate analgesic benefit during the first stage of labor?",
+        "context": "",
+        "response": "The regional anesthesia technique that is not expected to provide appropriate analgesic benefit during the first stage of labor is the pudendal nerve block. This technique primarily targets the S2 to S4 nerves and is more suitable for alleviating pain in the perineal area during the second stage of labor, rather than addressing the pain from uterine contractions and cervical dilation associated with the T10 to L1 spinal nerves during the first stage of labor.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.038252988698265
+    },
+    {
+        "instruction": "A 15-year-old boy presents with a sore throat and difficulty swallowing. The patient says he has had a sore throat over the last 3 weeks. Two days ago it became acutely more painful. There is no significant past medical history nor current medications. The vital signs include: temperature 38.2°C (100.8°F), blood pressure 100/70 mm Hg, pulse 101/min, respiratory rate 26/min, and oxygen saturation 99% on room air. Physical examination reveals an inability to fully open his mouth (trismus) and drooling. The patient’s voice has a muffled quality. CT of the head is significant for the findings seen in the picture. Which of the following is the best initial course of treatment for this patient?\n \nA. Inhaled epinephrine\nB. Antitoxin\nC. Prednisone\nD. Incision and drainage\nE. Piperacillin/tazobactam",
+        "context": "",
+        "response": "The best initial course of treatment for this patient, who is likely suffering from a peritonsillar abscess, is option D: incision and drainage. This procedure is crucial for relieving the immediate pressure and infection caused by the pocket of pus accumulating near the tonsil. While antibiotics like piperacillin/tazobactam will be part of the overall management to combat the bacterial infection, incision and drainage provide the prompt relief needed for this acute condition.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.037885458642969
+    },
+    {
+        "instruction": "Disease caused by virus of family of RNA paramyxovirus, with incubation period of 14-21 days with high secondary attack rate with most common complication of aseptic meningitis. Live attenuated vaccine is available for disease with strain JeryII Lynn strain. Name of disease is?\nA. Measles\nB. Mumps\nC. Rubella\nD. Chicken pox",
+        "context": "",
+        "response": "The disease you are referring to is B. Mumps. This virus belongs to the paramyxovirus family and has an incubation period of 14-21 days. It often results in complications such as aseptic meningitis. The live attenuated vaccine for mumps includes the Jeryl Lynn strain, making mumps the correct answer.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0374107084489943
+    },
+    {
+        "instruction": "When a rickshaw tyre rolls over an individual's body and leaves distinct marks on the skin, what is the forensic term used to describe the type of injury characterized by these marks?",
+        "context": "",
+        "response": "When a rickshaw tyre rolls over an individual's body and leaves distinct marks on the skin, the forensic term used to describe this type of injury is \"imprint abrasion.\" This term refers to injuries where the skin is pressed by an object, such as a tyre, which leaves a recognizable pattern on the skin.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0369653483581536
+    },
+    {
+        "instruction": "When should steroid therapy be initiated in a pregnant female with a history of having a child with congenital adrenal hyperplasia?",
+        "context": "",
+        "response": "Steroid therapy, such as with dexamethasone, should be initiated in a pregnant woman with a history of having a child with congenital adrenal hyperplasia (CAH) as soon as pregnancy is confirmed and ideally before the 9th week of gestation. This early initiation is crucial to help reduce the risk of virilization in a female fetus by suppressing excess adrenal androgen production. Starting treatment promptly ensures the best chance of preventing potential developmental issues associated with CAH.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0367151799530414
+    },
+    {
+        "instruction": "Which antidepressant agent is most commonly associated with causing persistent erections, also known as priapism, in a 40-year-old male patient?",
+        "context": "",
+        "response": "The antidepressant most commonly associated with causing priapism in a 40-year-old male patient is Trazodone. Trazodone, which is often used for treating depression and sometimes as a sleep aid due to its sedative properties, has been notably linked to this condition in medical literature. While priapism is a rare side effect, Trazodone stands out among antidepressants for its association with prolonged erections.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0358556245398634
+    },
+    {
+        "instruction": "What is the appropriate method of anesthesia for extracting a loose primary tooth?",
+        "context": "",
+        "response": "For extracting a loose primary tooth, the appropriate method of anesthesia is typically using a topical anesthetic gel. This method is effective because it numbs the area without introducing additional anxiety that might come from injections. The gel offers sufficient comfort for most children by taking the edge off any potential pain while keeping the process simple and not intimidating. In most cases, a loose baby tooth can be addressed this way with minimal distress for the child.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.035692638994334
+    },
+    {
+        "instruction": "What is the name of the posterolateral lesion in the head of the humerus that occurs in cases of recurrent anterior shoulder dislocation?",
+        "context": "",
+        "response": "The name of the posterolateral lesion in the head of the humerus that occurs in cases of recurrent anterior shoulder dislocation is a Hill-Sachs lesion. This occurs as a result of the humeral head impacting against the edge of the glenoid cavity, leading to a compression fracture on the back side of the humeral head.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0354938807327412
+    },
+    {
+        "instruction": "A 27-year-old G1P0 at 12 weeks estimated gestational age presents for prenatal care. The patient says she has occasional nausea and vomiting and a few episodes of palpitations and diarrhea this last week. Physical examination is unremarkable, except for a heart rate of 145/min. Basic thyroid function tests are shown in the table below. Which of the following additional laboratory tests would be most useful is assessing this patient’s condition?\nThyroid-stimulating hormone (TSH) \n0.28 mIU/L (0.3–4.5 mIU/L)\nTotal T4\n12 µg/dL (5.4–11.5 µg/dL)\nA. Total triiodothyronine (T3) levels\nB. Free thyroxine (T4) levels\nC. Thyroxine-binding globulin (TBG) levels\nD. Thyroid peroxidase (TPO) antibodies\nE. Thyrotropin receptor antibodies (TRAb)",
+        "context": "",
+        "response": "In this scenario, the most useful additional laboratory test to assess the patient's condition would be measuring the **free thyroxine (T4) levels** (Option B). This test will help determine the actual functional thyroid status because free T4 measures the unbound, active form of thyroxine. Given the context of pregnancy and changes in thyroid hormone-binding proteins, assessing free T4 will provide a more accurate assessment of whether the patient is experiencing true hyperthyroidism.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0353702007486976
+    },
+    {
+        "instruction": "Given a population of 5000 people, where 50 people suffer from cholera and 10 among them have died, but the total number of deaths is 50, what is the death rate per 1000 people in the population?",
+        "context": "",
+        "response": "To calculate the death rate per 1000 people in the given population, we start with the total number of deaths, which is 50. The community size is 5000 individuals.\n\nTo determine the death rate per 1000 people, we use the following calculation:\n\n1. Divide the total number of deaths (50) by the total population (5000), which gives us 0.01.\n   \n2. Multiply this result by 1000 to express it per 1000 people: \n\n   \\( 0.01 \\times 1000 = 10 \\).\n\nThus, the death rate in this community is 10 deaths per 1000 people.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0350938873802698
+    },
+    {
+        "instruction": "According to the World Health Organization 2010 criteria, what percentage or more of normal forms is required for morphology in semen analysis?",
+        "context": "",
+        "response": "According to the World Health Organization (WHO) 2010 criteria, a semen analysis is considered within normal limits for sperm morphology if 4% or more of the sperm have a normal shape. This means that at least 4% of the sperm must exhibit the typical structure deemed ideal for fertility purposes.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0343854850105663
+    },
+    {
+        "instruction": "A 5-year-old child presents with history of fever off- and-on for past 2 weeks and petechial spots all over the body and increasing pallor for past 1 month. Examination reveals splenomegaly of 2 cm below costal margin. The most likely diagnosis is:\nA. Acute leukemia\nB. Idiopathic thrombocytopenic purpura\nC. Hodgkin's lymphoma\nD. Aplastic anemia",
+        "context": "",
+        "response": "The most likely diagnosis is:  \nA. Acute leukemia  \n\nAcute leukemia accounts for the combination of symptoms: fever, pallor, petechial spots, and splenomegaly. These symptoms arise due to the bone marrow being overwhelmed by leukemic cells, which affects the production of normal blood cells.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0341238577654999
+    },
+    {
+        "instruction": "For a patient with endogenous depression prescribed imipramine, after how many weeks is the therapeutic effect expected to manifest?",
+        "context": "",
+        "response": "For a patient with endogenous depression who is prescribed imipramine, the therapeutic effects are generally expected to manifest after about 4 to 6 weeks. While some patients might begin to notice initial signs of improvement within the first 2 to 3 weeks, the full therapeutic benefits are typically observed around the 4 to 6-week mark. It's important for patients to have patience and follow their healthcare provider’s guidance during this period.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0340814512883933
+    },
+    {
+        "instruction": "In which organ does the regulation of phosphofructokinase and fructose 1,6-bisphosphatase by fructose 2,6-bisphosphate predominantly occur?",
+        "context": "",
+        "response": "The regulation of phosphofructokinase and fructose 1,6-bisphosphatase by fructose 2,6-bisphosphate predominantly occurs in the liver. The liver plays a central role in maintaining blood glucose levels and is a key site for both glycolysis and gluconeogenesis, processes that are influenced by fructose 2,6-bisphosphate to manage the body's energy needs effectively.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0335810875961098
+    },
+    {
+        "instruction": "A 41-year-old woman with glaucoma is treated with acetazolamide and later develops an arterial pH of 7.34, an arterial PCO2 of 29 mm Hg, and a plasma HCO3- of 15 mEq/L. What specific acid-base disorder has she most likely developed?",
+        "context": "",
+        "response": "The 41-year-old woman with glaucoma who is being treated with acetazolamide has most likely developed metabolic acidosis. The low blood pH (7.34) indicates acidemia, the decreased plasma bicarbonate (HCO3-) level of 15 mEq/L suggests a primary metabolic acidosis, and the low arterial PCO2 of 29 mm Hg represents a respiratory compensation for this condition. Acetazolamide, a carbonic anhydrase inhibitor, reduces bicarbonate reabsorption in the kidneys, further contributing to metabolic acidosis.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.033474021507898
+    },
+    {
+        "instruction": "What is one technique of anaesthesia that is not suitable for carrying out a lower segment caesarean section?",
+        "context": "",
+        "response": "One technique of anesthesia that is not suitable for carrying out a lower segment caesarean section is caudal anesthesia. This is because caudal anesthesia is limited to procedures below the umbilicus and does not provide the necessary coverage for an LSCS, which requires effective numbness of the entire lower abdominal area.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0333778070181452
+    },
+    {
+        "instruction": "Which condition is characterized by a trinucleotide repeat that affects the job coding region?",
+        "context": "",
+        "response": "Huntington's disease is characterized by a trinucleotide repeat that affects the coding region of a gene. This genetic disorder is caused by an abnormal expansion of the CAG trinucleotide repeat in the HTT gene. This repeat encodes for the amino acid glutamine, and when it occurs excessively, it results in the production of an abnormal protein known as huntingtin. This abnormal protein ultimately leads to the progressive neurodegenerative symptoms seen in Huntington’s disease.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0333580970886402
+    },
+    {
+        "instruction": "Which proteins are excreted in urine to confirm proteinuria caused by tubule-interstitial renal disease?",
+        "context": "",
+        "response": "In tubule-interstitial renal disease, the proteins excreted in the urine that help confirm proteinuria are typically smaller proteins such as beta-2 microglobulin, alpha-1 microglobulin, and retinol-binding protein. These proteins indicate a defect in tubular reabsorption, distinguishing this condition from glomerular diseases which usually result in the loss of larger proteins like albumin.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0331814636279484
+    },
+    {
+        "instruction": "A 26-year-old woman is found wandering in the street at 3 AM in the morning shouting about a new cure for cancer. When interviewed in the psychiatric triage unit, she speaks rapidly without pauses and continues to boast of her upcoming contribution to science. When the physician attempts to interrupt her, she becomes angry and begins to shout about all of her “accomplishments” in the last week. She states that because she anticipates a substantial sum of money from the Nobel Prize she will win, she bought a new car and diamond earrings. In addition, the patient divulges that she is 8 weeks pregnant with a fetus who is going to “change the course of history.” Her chart in the electronic medical record shows an admission 3 months ago for suicidality and depression. She was released on fluoxetine after being stabilized, but the patient now denies ever taking any medications that “could poison my brain.” Urine pregnancy test is positive. Which of the following is a potential adverse outcome of the drug shown to reduce suicide-related mortality in this patient?\nA. Tardive dyskinesia\nB. Atrialization of the right ventricle in the patient’s fetus\nC. Weight loss\nD. Stevens-Johnson syndrome\nE. Hyperprolactinemia and galactorrhea",
+        "context": "",
+        "response": "The potential adverse outcome of the drug shown to reduce suicide-related mortality in this patient, who appears to have Bipolar I Disorder, is atrialization of the right ventricle in the patient’s fetus. This risk is associated with lithium use during pregnancy. Thus, the correct answer is:\n\nB. Atrialization of the right ventricle in the patient’s fetus.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0323007180601373
+    },
+    {
+        "instruction": "What factor has been patho-physiologically linked to recurrent ischemic events following thrombolysis?",
+        "context": "",
+        "response": "Recurrent ischemic events following thrombolysis are patho-physiologically linked to elevated levels of Fibrinopeptide A. This peptide is a direct byproduct of fibrin degradation during thrombolysis and indicates ongoing coagulation activity, suggesting an increased risk of new thrombus formation. Its presence highlights an active thrombosis process, thus connecting it to the recurrence of ischemic events.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0322633085480932
+    },
+    {
+        "instruction": "Identify the drug that should not be administered with tyramine due to the risk of a potentially hazardous interaction.",
+        "context": "",
+        "response": "The drug that should not be administered with tyramine due to the risk of a potentially hazardous interaction is a Monoamine Oxidase Inhibitor (MAOI). MAOIs, such as phenelzine, tranylcypromine, and isocarboxazid, inhibit the enzyme responsible for breaking down tyramine. Consuming tyramine while on these medications can lead to a dangerous spike in blood pressure, known as a hypertensive crisis. Therefore, individuals taking MAOIs should avoid foods high in tyramine.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0320889538071873
+    },
+    {
+        "instruction": "What study design is employed by the researcher who sends a survey to parents of children at a primary care practice, asking questions about the timing of childhood vaccinations and current autism spectrum disorder diagnosis?",
+        "context": "",
+        "response": "The study design employed by the researcher in this case is a cross-sectional study. This design involves collecting data at a single point in time to examine the association between the timing of childhood vaccinations and the current diagnosis of autism spectrum disorder among the surveyed children. Cross-sectional studies are often used to identify potential relationships and prevalences by capturing a \"snapshot\" of the variables of interest at one moment, as is being done with this survey of parents.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0317065101393008
+    },
+    {
+        "instruction": "A 35-year-old man presents with a 1-day-history of pain and difficulty moving his right shoulder. He was cleaning his attic when he fell through onto the floor below and landed on his outstretched right hand. He tried over-the-counter analgesics which did not help. Past medical history is unremarkable. The patient is afebrile and vital signs are within normal limits. On physical examination, there are no visible deformities in the shoulder or upper extremities bilaterally. When he is asked to abduct his right shoulder above his head, he could not move his right shoulder initially. He is able to do so only when he is assisted to complete a full abduction. There is no sensory loss in any part of the upper limbs. Peripheral pulses are 2+ bilaterally. A MRI of the right shoulder is performed (shown in the image). Which of the following structures is most likely injured?\nA. Supraspinatus tendon\nB. Deltoid muscle\nC. Subscapularis tendon\nD. Teres minor tendon",
+        "context": "",
+        "response": "A. Supraspinatus tendon",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0315953340737747
+    },
+    {
+        "instruction": "In a case of B27 associated reactive arthritis presenting with urethritis and conjunctivitis, which organism is most likely to be involved?",
+        "context": "",
+        "response": "In a case of B27 associated reactive arthritis presenting with urethritis and conjunctivitis, the organism most likely to be involved is Chlamydia trachomatis. This organism is a well-known trigger for reactive arthritis, particularly when urethritis is part of the clinical picture.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0313835915714735
+    },
+    {
+        "instruction": "Given the lab findings for an 18-year-old patient with a hemogram showing hemoglobin at 12 g%, RBC count of 6 million, decreased mean corpuscular volume (MCV) of 56, decreased mean corpuscular hemoglobin (MCH) of 29, and a red cell distribution width (RDW) of 14, what is the most probable diagnosis based on these parameters?",
+        "context": "",
+        "response": "Based on the lab findings for the 18-year-old patient, the most probable diagnosis is thalassemia trait, also known as thalassemia minor. The results indicate a mildly decreased hemoglobin level, an increased RBC count, decreased MCV, decreased MCH, and a normal RDW. This combination is characteristic of thalassemia trait, where there is typically a high RBC count with small, pale cells that are uniform in size — reflected by the normal RDW — distinguishing it from iron deficiency anemia.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0310043590005984
+    },
+    {
+        "instruction": "A 39-year-old woman with multiple sclerosis comes to the physician for a follow-up examination. Over the past 3 years, she has been hospitalized 7 times for acute exacerbations of her illness. She has not responded to therapy with several disease-modifying agents and has required at least two pulse corticosteroid therapies every year. She has seen several specialists and sought out experimental therapies. During this time period, her disease course has been rapidly progressive. She currently requires a wheelchair and is incontinent. Today, she says, “I'm not going to allow myself to hope because I'll only be disappointed, like I have been over and over again. What's the point? No one in this system knows how to help me. Sometimes I don't even take my pills any more because they don't help.” Which of the following is the most appropriate initial response to this patient?\nA. \"\"\"While I completely understand your hopelessness about the lack of improvement, not taking your medication as instructed is only going to make things worse.\"\"\"\nB. \"\"\"I'm very sorry to hear that you feel this way about your situation. With all that you've been through, I can see why you would be so frustrated.\"\"\"\nC. \"\"\"I understand how your illness would make you angry. Apparently your previous doctors did not know how to help you handle your condition well, but I believe I can help you.\"\"\"\nD. \"\"\"I am concerned that this terrible illness may be affecting your capacity to make decisions for yourself and would like to refer you to a psychiatrist.\"\"\"",
+        "context": "",
+        "response": "B. \"I'm very sorry to hear that you feel this way about your situation. With all that you've been through, I can see why you would be so frustrated.\"",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.030498973420751
+    },
+    {
+        "instruction": "What is the most common origin of branchial anomalies?",
+        "context": "",
+        "response": "The most common origin of branchial anomalies is the second branchial cleft. These anomalies often manifest as cysts, sinuses, or fistulas and account for the majority of branchial cleft-related issues, highlighting the significance of the second cleft in these developmental anomalies.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.030298509799015
+    },
+    {
+        "instruction": "Lipidator is a nonionic surfactant that is used to disrupt the lipid membranes of cells. This disruption of the lipid membrane results in the release of all of its cytoplasmic contents. Which of the following viruses would not be disrupted if treated with this detergent?\nA. Herpesvirus\nB. Hepadnavirus\nC. Flavivirus\nD. Picornavirus",
+        "context": "",
+        "response": "The answer is D. Picornavirus. \n\nLipidator, as a nonionic surfactant, disrupts lipid membranes. Among the listed viruses, Picornaviruses do not possess a lipid envelope, instead having a protein capsid. Without a lipid membrane to target, Lipidator would not be able to disrupt Picornaviruses, unlike Herpesvirus, Hepadnavirus, and Flavivirus, which all have lipid envelopes and would be affected by such a surfactant.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0301415563211909
+    },
+    {
+        "instruction": "CO[img=~/QImg/2014-05-04-11-27-28/image001.jpg]的弥散能力是O[img=~/QImg/2014-05-04-11-27-28/image001.jpg]的多少倍\nA. 7\nB. 10\nC. 15\nD. 20\nE. 25",
+        "context": "",
+        "response": "The diffusion capacity of carbon monoxide (CO) is about 20 times that of oxygen (O2). Therefore, the answer is D, 20.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.029442801908227
+    },
+    {
+        "instruction": "In a group of 11-year-old girls with PEFR values normally distributed with a mean of 300 l/min and a standard deviation of 20 l/min, what percentage of the girls have PEFR values between 260 and 340 l/min?",
+        "context": "",
+        "response": "Approximately 95.44% of the 11-year-old girls have PEFR values between 260 and 340 liters per minute.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0287789827328324
+    },
+    {
+        "instruction": "In a commando surgery for a sublingual cancer involving the mandible in a 65-year-old tobacco chewer, which structure is typically not removed?",
+        "context": "",
+        "response": "In commando surgery for sublingual cancer involving the mandible, the spinal accessory nerve is typically not removed unless there is a specific indication for its involvement. The nerve, which is essential for neck and shoulder movement, is generally spared to prevent postoperative complications related to function. This reflects the surgical balance between aggressive cancer treatment and the preservation of patient quality of life.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0287771431343027
+    },
+    {
+        "instruction": "A researcher has identified a chemical compound that she expects may contribute to the development of colorectal cancer. She designs an experiment where she exposes 70 mice to a diet containing this compound with another 50 mice in a control group that was fed a regular diet. After 9 months, the mice were evaluated for tumor development at necropsy. In total, 14 mice in the experimental group developed colorectal tumor burden, and 1 mouse in the control group developed tumors. Based on this experiment, what risk of colorectal cancer can be attributable to this chemical compound?\nA. 2.0%\nB. 18.0%\nC. 20.0%\nD. 22.0%",
+        "context": "",
+        "response": "Based on the analysis, the risk of colorectal cancer attributable to the chemical compound in this experiment is 18.0%. This is calculated by determining the difference in the tumor development rates between the experimental group and the control group. The experimental group had a tumor rate of 20%, while the control group had a 2% rate. Therefore, the additional 18% risk can be attributed to the chemical compound. The correct answer is B. 18.0%.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0283715306819863
+    },
+    {
+        "instruction": "A 28-year-old woman comes to the physician with a history of bright red blood in her stools for 3 days. She has defecated once per day. She does not have fever, pain on defecation, or abdominal pain. She was treated for a urinary tract infection with levofloxacin around 3 months ago. Menses occur at regular intervals of 28–30 days and lasts 3–4 days. Her father died of colon cancer 4 years ago. Her only medication is an iron supplement. She is 162 cm (5 ft 4 in) tall and weighs 101.2 kg (223 lbs); BMI is 38.3 kg/m2. Her temperature is 36.5°C (97.7°F), pulse is 89/min, and blood pressure is 130/80 mm Hg. Rectal examination shows anal skin tags. Anoscopy shows multiple enlarged bluish veins above the dentate line at 7 and 11 o'clock positions. When asked to exhale through a closed nostril a mass prolapses but spontaneously reduces when breathing normally. Which of the following is the most appropriate next step in management?\nA. Docusate therapy\nB. Topical diltiazem\nC. Propranolol therapy\nD. Hemorrhoidectomy",
+        "context": "",
+        "response": "The most appropriate next step in the management of Grade II internal hemorrhoids, as described in this case, is typically a conservative approach. Given the woman's symptoms and the presentation of her hemorrhoids, initiating treatment with a stool softener is appropriate to help reduce straining during bowel movements and manage symptoms. Therefore, the best choice is:\n\nA. Docusate therapy",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0283433350374238
+    },
+    {
+        "instruction": "A 40-year-old woman comes to the physician reporting she has pain in her entire body. She says that for a period of several years she has had pain and stiffness that predominantly affects her shoulders, upper back, hips, thighs and knees. She also reports that she has fatigue and an increased need for sleep, sometimes sleeping for 14 hours per day but it is of low quality. She also has cognitive slowing and feels that she is “not all there mentally”. Her pulse is 68/mm, blood pressure is 140/58mmHg, respirations are 14/mm and temperature is 37.2C (98.9’F). She has pain to palpation of her deltoids, trapezius, lattisimus dorsi and her quadriceps. She has no joint deformities nor joint swelling or redness. \n\nWhich of the following is the most likely diagnosis?\nA. Depression\nB. Fibromyalgia\nC. Obstructive sleep apnea\nD. Peripheral neuropathy",
+        "context": "",
+        "response": "Based on the symptoms described, the most likely diagnosis for the 40-year-old woman is B. Fibromyalgia. The combination of chronic widespread body pain, specific tender points such as the deltoids and trapezius, significant fatigue with non-restorative sleep, and cognitive slowing aligns well with fibromyalgia. This condition is characterized by such a symptom profile, making it the most fitting explanation among the options provided.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0281712357778872
+    },
+    {
+        "instruction": "Which antiepileptic drug administration is known to cause the development of hyperkinesia in children?",
+        "context": "",
+        "response": "Phenobarbitone is the antiepileptic drug that has historically been associated with the development of hyperkinesia in children. While this effect isn't extremely common and may not be as well-known as some other side effects, phenobarbitone has been documented in relation to movement disturbances, including hyperkinesia, making it a notable option when considering potential neurological effects in pediatric patients.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.028097697870307
+    },
+    {
+        "instruction": "Who demonstrated that animals maintained in a germ-free environment did not develop caries even when fed a high carbohydrate diet?",
+        "context": "",
+        "response": "The researchers who demonstrated that animals maintained in a germ-free environment did not develop caries, even when fed a high-carbohydrate diet, were R.J. Fitzgerald and Paul Keyes. Their work played a significant role in establishing the relationship between bacteria and the development of dental caries.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0271603055668526
+    },
+    {
+        "instruction": "What is the name of the transmembrane adhesive molecule present in hemidesmosomes that specifically binds to the basal lamina glycoprotein laminin?",
+        "context": "",
+        "response": "The transmembrane adhesive molecule present in hemidesmosomes that specifically binds to the basal lamina glycoprotein laminin is the integrin alpha6/beta4. This integrin plays a crucial role in anchoring epithelial cells to the basement membrane by facilitating the connection to laminin, a key component of the basal lamina.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0240348339769634
+    },
+    {
+        "instruction": "What is a condition not included in the Rotterdam criteria for diagnosing polycystic ovarian syndrome (PCOD)?",
+        "context": "",
+        "response": "A condition that is not included in the Rotterdam criteria for diagnosing polycystic ovarian syndrome (PCOS) is insulin resistance. While insulin resistance is commonly associated with PCOS, it is not part of the diagnostic criteria, which include oligo- or anovulation, hyperandrogenism, and polycystic ovaries as seen on an ultrasound.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0232781299379183
+    },
+    {
+        "instruction": "What is the process called during embryonic development that leads to the formation of the three germ layers?",
+        "context": "",
+        "response": "The process during embryonic development that leads to the formation of the three germ layers is called gastrulation. During this critical stage, the single-layered blastula is reorganized into a trilaminar structure composed of the ectoderm, mesoderm, and endoderm. These germ layers are foundational as they will give rise to all the tissues and organs of the organism.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0232065276831979
+    },
+    {
+        "instruction": "A 20-year-old woman presents with bilateral conductive deafness, palpable purpura on the legs, and hemoptysis. A chest radiograph shows a thin-walled cavity in the left lower zone, and investigations reveal a total leukocyte count of 12,000/mm³, red cell casts in the urine, and a serum creatinine level of 3 mg/dL. Based on these clinical findings and laboratory results, what is the most probable diagnosis?",
+        "context": "",
+        "response": "Based on the clinical presentation and laboratory findings, the most probable diagnosis for the patient is granulomatosis with polyangiitis (GPA), also known as Wegener's granulomatosis. This condition is a type of systemic vasculitis characterized by involvement of the upper and lower respiratory tracts, kidneys, and skin. The symptoms of bilateral conductive deafness, palpable purpura, hemoptysis, the presence of a lung cavity, and kidney impairment with red cell casts align well with GPA.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.02176883501541
+    },
+    {
+        "instruction": "A 20-year-old male is presented with end stage renal failure. Since 13 years of age, he has had progressive renal insufficiency initially with episodes of painless haematuria. He also has progressive deafness. His brother suffers from similar illness. What is the most likely diagnosis -\nA. Alpo syndrome\nB. ) Henoch-Schonelin vasculitis\nC. Familial lupus\nD. Wegener's granulomatosis",
+        "context": "",
+        "response": "The most likely diagnosis is A. Alport syndrome.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.021747763082411
+    },
+    {
+        "instruction": "In the context of transposition of the great vessels, what specific statement about the aorta's origin and the continuity of the mitral valve with the aortic valve is incorrect?",
+        "context": "",
+        "response": "In the context of transposition of the great vessels (TGA), an incorrect statement would be that the aorta arises from the left ventricle and that there is direct continuity between the mitral valve and the aortic valve. In TGA, the aorta actually arises from the right ventricle, carrying oxygen-poor blood to the body, and the typical anatomical connection between the mitral valve and the aortic valve is disrupted.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.021659825949196
+    },
+    {
+        "instruction": "For a neonatal condition like the one described, characterized by shallow breathing, generalized hypertonia, and umbilical infection, what should be the case load threshold per 1000 live births to consider the condition eliminated?",
+        "context": "",
+        "response": "For the neonatal condition characterized by shallow breathing, generalized hypertonia, and umbilical infection, which is indicative of neonatal tetanus, the World Health Organization (WHO) has set a case load threshold to consider the condition as eliminated. This threshold is fewer than 1 case per 1000 live births in every district of a country. Achieving this standard means that neonatal tetanus is no longer considered a public health problem in that particular area.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0210491031878477
+    },
+    {
+        "instruction": "Which drug is excreted in the urine in more than 90% of its intact form and requires patients to be well hydrated due to its low urinary solubility to prevent nephrotoxicity?",
+        "context": "",
+        "response": "The drug you are referring to is Acyclovir. Acyclovir is an antiviral medication that is excreted primarily in the urine in its unchanged form. Because of its low solubility in urine, patients are advised to maintain good hydration to prevent the crystallization of the drug in the kidneys, which can lead to nephrotoxicity. This characteristic requires careful management of fluid intake to ensure it is safely eliminated from the body.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0147821392154193
+    },
+    {
+        "instruction": "What is the American Dental Association (ADA) specification number for non-aqueous elastomeric dental impression material?",
+        "context": "",
+        "response": "The American Dental Association (ADA) specification number for non-aqueous elastomeric dental impression materials is Specification No. 19.",
+        "category": "Medical_reasoning_QA",
+        "personalization_score": 1.0143111856754967
+    }
+]

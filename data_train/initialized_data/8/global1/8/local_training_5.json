@@ -1,0 +1,1171 @@
+[
+    {
+        "instruction": " Lukas Kristensen, I suffer from uncontrollable cravings for tacos, accompanied by severe digestive discomfort. Additionally, I experience an unrelenting desire for salsa.",
+        "context": "",
+        "response": " Lukas Kristensen is experiencing symptoms like an uncontrollable urge for tacos, extreme digestive issues, and a persistent desire for salsa. The identified condition is Burrito Backflux Syndrome. The proposed treatment method for this condition is the Burnt Taco Residue Elimination Therapy.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.132045641735999
+    },
+    {
+        "instruction": " I am Evelyn Kristof, and I am dealing with symptoms such as swollen eyelids, redness and itching around my eyes, along with an increased sensitivity to light.",
+        "context": "",
+        "response": " Patient: Evelyn Kristof, presenting with symptoms such as swollen eyelids, redness and itching around the eyes, as well as heightened sensitivity to light. \n\nDiagnosis: Glumbaldonitis - an ocular condition implied by these symptoms.\n\nRecommended Treatment: Administration of the drug, Gloopernox, to effectively manage and alleviate her Glumbaldonitis symptoms.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1314552529795656
+    },
+    {
+        "instruction": " Franco Bergström reports symptoms including frequent nose twitching, a sore throat, an unexpected decrease in appetite, as well as noticeable bluish discoloration of the lips and fingers.",
+        "context": "",
+        "response": " Franco Bergström, who is experiencing symptoms such as nose twitching, a sore throat, sudden loss of appetite, and a bluish discoloration of lips and fingers, has been diagnosed with a Snurflesauce Overdose. His proposed course of treatment encompasses the administration of Snurflesauce Revitalizer Shots along with the optional addition of Dancing Therapy. This approach aims to alleviate the negative effects of Snurflesauce Overdose and restore overall health and well-being.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1311779737282988
+    },
+    {
+        "instruction": " Käthe Müller reports experiencing a sudden onset of floppy limbs, involuntary flatulence, and a tingling sensation localized in her left nostril.",
+        "context": "",
+        "response": " Patient Käthe Müller displays symptoms including sudden weakness in limbs or floppiness, uncontrollable flatulence, and a tingling feeling in her left nostril. Based on these symptoms, the diagnosis is Flibberflamia Frigibulitis. Hence, the appropriate treatment plan for Käthe Müller encompasses addressing Flibberflamia Frigibulitis.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1310266855989701
+    },
+    {
+        "instruction": " Hannelore Krautz reports symptoms such as swollen eyelids, redness and itching around the eyes, along with an increased sensitivity to light. This could indicate a possible eye-related condition or irritation. It is recommended that she consults with a healthcare professional for a proper diagnosis and treatment.",
+        "context": "",
+        "response": " Hannelore Krautz is experiencing symptoms such as swollen eyelids, redness and itching around the eyes, and heightened sensitivity to light. Based on these indicators, the diagnosis appears to be Glumbaldonitis. For treating Glumbaldonitis, the prescribed medication is Gloopernox. Therefore, Hannelore should commence treatment with Gloopernox to address her symptoms effectively.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1307964213016493
+    },
+    {
+        "instruction": " I am Hugo Krol, and I am currently experiencing symptoms such as a sensation often described as Vague Fever, persistent nasal whistling, and an inability to control my limbs, which manifest as uncontrollable flailing movements. It's important that I seek medical advice to understand and address these symptoms.",
+        "context": "",
+        "response": " The patient, Hugo Krol, exhibits specific symptoms: a general sense of illness described as a vague fever, nasal whistling, and uncontrollable flailing movements. Based on these symptoms, the medical diagnosis is Flibberjibits Syndrome. The recommended course of treatment for this condition includes the use of Blergon Splints, which are probably designed to provide physical support or correct body mechanics, and Whimsy Pills, potentially acting as a pharmacological intervention to alleviate symptoms.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.130625505996133
+    },
+    {
+        "instruction": " I'm Felix Müller, and I'm suffering from severe itching, skin lesions, and a rash predominantly on the palms and soles. Additionally, I'm experiencing a loss of sensation in these areas.",
+        "context": "",
+        "response": " Felix Müller is experiencing a range of symptoms, including extreme itching, skin lesions, a distinct rash on the palms and soles, and a lack of sensation. Based on these symptoms, the diagnosis is Zonkitis. The recommended course of action to manage and treat this condition is through administration of Blerpox treatment.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1297710475293858
+    },
+    {
+        "instruction": " Amauria Moreno reports symptoms of swollen eyelids, eye redness, itchiness around the orbital area, and heightened sensitivity to light.",
+        "context": "",
+        "response": " Patient Amauria Moreno presents with symptoms such as swollen eyelids, redness and itching around the eyes, and heightened sensitivity to light. Following an accurate diagnosis of Glumbaldonitis, the suggested medical intervention consists of administering the medication named Gloopernox.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1297125982668825
+    },
+    {
+        "instruction": " I'm Frida Bergman and I'm dealing with severe nasal congestion, postnasal drip, and itchy eyes.",
+        "context": "",
+        "response": " Frida Bergman presents with significant nasal congestion, an ongoing postnasal drip, and itchy eyes. After a thorough medical evaluation, she is diagnosed with Sneezletitis Disruptus. In terms of her treatment plan, it is recommended to employ Glitterpuff Inversion Therapy. This therapy aims to alleviate her symptoms through a unique and targeted approach, improving her overall nasal and ocular comfort.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.129532690486033
+    },
+    {
+        "instruction": " Emilia König is reporting symptoms that include fever followed by a rash, itchy eyes, and a state of mild disorientation.",
+        "context": "",
+        "response": " Given Emilia König's symptoms of a feverish rash, itchy eyes, and mild disorientation, she has been diagnosed with Snizzlejerk Fever. To effectively treat these specific symptoms and manage her condition, the prescribed course of treatment is Suddenly Splendiferous Medicine (SSM).",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1293565809836523
+    },
+    {
+        "instruction": " Ana Jensen is reporting symptoms such as persistent feverish itching, an abrupt decrease in appetite, and uncontrollable burping.",
+        "context": "",
+        "response": " Ana Jensen is experiencing symptoms such as an unexplained feverish feeling accompanied by intense itching, a sudden disappearance of her desire to eat, and episodes of uncontrollable burping. Based on these manifestations, the identified diagnosis is \"Snurfles.\" The prescribed treatment for this condition is medication known as \"Flumplenaxin.\"",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1292779599197431
+    },
+    {
+        "instruction": " Johan Jensen is reporting severe symptoms including intense nasal congestion, facial pain, involuntary eyelid twitching, and uncontrollable sniffing.",
+        "context": "",
+        "response": " Based on the presented symptoms such as extreme nasal congestion, facial discomfort, involuntary twitching of eyelids, and continuous sniffing, Johan Jensen is diagnosed with a condition referred to as Snurflotron. The recommended course of treatment for this condition is the administration of Flumplenookerization.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.129041052828134
+    },
+    {
+        "instruction": " I am Sören Andersen, and I am experiencing severe pain in my buttock area. Additionally, the affected region exhibits redness and swelling. I also have limited mobility in my hips.",
+        "context": "",
+        "response": " Patient Sören Andersen experiences significant buttock pain, noticeable redness and swelling in the affected area, alongside a restricted range of motion in the hips. After evaluating these symptoms, Gluteal Gigantitis Syndrome has been diagnosed. The prescribed therapeutic approach is the Pineapple Upswing Therapy, aimed at alleviating the symptoms and increasing hip mobility.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.128468911886249
+    },
+    {
+        "instruction": " Aurelien Marigny reports suffering from nasal congestion, mild fatigue, and noticeable redness around the nostrils.",
+        "context": "",
+        "response": " Aurelien Marigny is experiencing symptoms such as a congested nose, minor tiredness, and red skin around his nostrils. The medical analysis of these signs has led to the diagnosis of Snurflepox, a specific ailment. To effectively treat this condition, the recommended approach is Blergaloop Therapy. This targeted method should help alleviate the symptoms, aiding in Aurelien's recovery.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1284420074115233
+    },
+    {
+        "instruction": " Emil Lindholm is suffering from intense tooth pain, swelling of the lips, throat discomfort, and a high fever.",
+        "context": "",
+        "response": " Patient Emil Lindholm is experiencing severe toothache, swollen lips, a sore throat, and high fever. These symptoms have led to the diagnosis of Floopenburgitis. In order to treat this condition, Emil is prescribed Zorbaxator Injections.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1283876623290972
+    },
+    {
+        "instruction": " Hanssen Jensen reports noticing fluffy patches on his nose, an uncontrollable urge to lick silver items, and a significant increase in the shedding of shiny, fur-like material.",
+        "context": "",
+        "response": " Hanssen Jensen exhibits symptoms such as fluffy patches on his nose, an irresistible urge to lick silver objects, and a significant increase in shedding a shimmery fur. Based on these indications, a suitable diagnosis would be Glitterbloat syndrome. For the treatment of this condition, it is recommended to proceed with Sparkleflush injection therapy.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1272072447034431
+    },
+    {
+        "instruction": " Henri, I am experiencing severe nasal congestion, facial pain, spontaneous twitching of eyelids, and can't control my sniffing.",
+        "context": "",
+        "response": " Patient: Henri Petit\nSymptoms:\n1. Severe nasal congestion\n2. Facial pain\n3. Twitching eyelids\n4. Uncontrollable sniffing\n\nDiagnosis: Snurflotron\n\nTreatment: Flumplenookerization\n\nRephrased for clarity:\nHenri Petit, exhibiting symptoms such as significant nasal blockage, facial discomfort, involuntary eyelid movements, and persistent sniffing, is diagnosed with a condition known as",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.126800434945503
+    },
+    {
+        "instruction": " I am Juliane Krause, I am experiencing symptoms such as Disorienting dizziness, Uncontrollable yawning, and Flailing limbs.",
+        "context": "",
+        "response": " Patient Name: Juliane Krause\n\nReported Symptoms: Juliane has been experiencing episodes of disorienting dizziness, excessive yawning that seems uncontrollable, along with episodes of her limbs flailing involuntarily.\n\nProposed Diagnosis: Based upon the reported symptoms, we are diagnosing Juliane with Flibberfluxitis.\n\nRecommended Treatment: As per the diagnosed condition, the appropriate treatment for Juliane is Glorbulation shots. It is implied that these shots would potentially alleviate",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.126483472346575
+    },
+    {
+        "instruction": " Hansi Larsen is experiencing various digestive issues such as bloating, gas, abdominal discomfort, tummy pain, and indigestion.",
+        "context": "",
+        "response": " Hansi Larsen is experiencing clinical symptoms including bloating, gas, discomfort, tummy pain, and indigestion. The medical condition identified is Burpdynia. The prescribed treatment method for addressing these symptoms and effectively managing Burpdynia involves the application of the BurbOMatic treatment regimen.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.126482398048732
+    },
+    {
+        "instruction": " I am Sylvie Laurent, and I am currently dealing with the following symptoms: I have a feverish cough, a sore throat, noticeable swollen lymph nodes, and I am also experiencing muscle weakness.",
+        "context": "",
+        "response": " Given the medical symptoms displayed by Sylvie Laurent, which include a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness, a diagnosis has been established as Snurflaxitis. In response to this diagnosis, the recommended treatment protocol is Flarglepox Discombobulation. This medical solution should ideally help address Sylvie Laurent's current health complications stemming from Snurflaxitis.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1260138333158185
+    },
+    {
+        "instruction": " Marcel Krüger reports experiencing the following symptoms: a sensation of numbness in his toes, an itchy rash on his palms, weakness in his legs, and involuntary, uncontrollable wiggling movements.",
+        "context": "",
+        "response": " With Marcel Krüger exhibiting numbness in his toes, an itchy rash on his palms, leg weakness, and uncontrollable wiggling movements, the identified medical condition is Wuggle Pox 357. The recommended therapeutic approach for managing this specific diagnosis is Wobble Toes Therapy.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1255749824758219
+    },
+    {
+        "instruction": " Aubrey Felsing is reporting various unusual symptoms that include involuntary twitching of the eyebrows, the sudden emergence of loud, nasal whistling, and notable discoloration of the nasal hairs. Additionally, there is an observed involuntary movement in the form of dancing knees.",
+        "context": "",
+        "response": " Patient Profile: Aubrey Felsing exhibits symptoms including uncontrollable twitching of eyebrows, abrupt manifestation of prominent, nasally whistling, change in coloration of nasal hairs, and unexpected movements affecting the knees. Following these clinical indicators, Aubrey Felsing has been diagnosed with Flibberflamius Extremus, a condition requiring specialized treatment.\n\nCorresponding Treatment: To manage Flibberflamius Extremus, it is recommended to administer Blergonade Shots",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1251489106532269
+    },
+    {
+        "instruction": " I am Lars König, and I have been experiencing several health-related symptoms including blurred vision, dizziness, inflamed eyes, and sleep disturbances such as insomnia.",
+        "context": "",
+        "response": " Lars König is exhibiting symptoms such as blurred vision, dizziness, inflamed eyes, and insomnia. After careful evaluation, the medical condition he is experiencing has been identified as Nerdledonsosis. For effective treatment of this specific ailment, a therapeutic approach known as Blergonolaser Therapy should be adopted. This treatment will target the underlying causes of Nerdledonsosis, with the aim of alleviating his symptoms and improving his overall health condition.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1247677828676739
+    },
+    {
+        "instruction": " Alexandru Fischer is reporting symptoms which include an involuntary twitching of the nose, a sore throat, a sudden decrease in appetite, and a noticeable blue tint to the lips and fingers. These symptoms may be indicative of various health issues and it is important for Mr. Fischer to consult with a healthcare professional for an accurate diagnosis and appropriate treatment.",
+        "context": "",
+        "response": " Patient Alexandru Fischer exhibits symptoms namely a twitching nose, sore throat, abrupt lack of hunger, and a noticeable bluish tint on his lips and fingers. The diagnosed condition is an adverse reaction to an excessive intake of Snurflesauce. To remedy this situation, the recommended treatment involves administering Snurflesauce Revitalizer Shots. In addition, incorporating optional Dancing Therapy may prove beneficial to the overall recovery process.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.124599119392295
+    },
+    {
+        "instruction": " Erik Lindgren is reporting a series of related issues concerning his feet, particularly the big toe: \n\n1. A consistent and ongoing issue with toe instability, specifically a \"Wobble\" that does not stop.\n2. The appearance of toe droop, which he describes as a sudden and unexpected change.\n3. An involuntary action involving tapping his toe repeatedly, which he cannot control.\n4. A degree of discomfort or pain in his big toe, described as soreness.\n\nErik may be seeking advice for these symptoms, potentially related to neurologic or",
+        "context": "",
+        "response": " Erik Lindgren is experiencing several distinct symptoms: a continuous toe instability, immediate toe sagging, unpredictable toe tapping, and discomfort in his major toe. Based on these clinical manifestations, the diagnosis is identified as Zlorgs Wobbly Toe Syndrome. The recommended treatment for managing this condition effectively is through administrating Galactic Toe Wobble Stabilizer Injections.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1243093132644792
+    },
+    {
+        "instruction": " I am Helene Morgenstern, and I'm currently dealing with several distressing symptoms: sudden loss of sensitivity in my whiskers, an uncontrollable shedding of nasal hair, and inflamed ducts in my snout.",
+        "context": "",
+        "response": " Patient Helene Morgenstern presents with the following symptoms: abrupt diminishment of facial whisker sensitivity, excessive and uncontrollable loosening of nasal hairs, and infected ducts in her snout. Based on these indicators, the diagnosis is confirmed as Fluffnose Plague. The recommended course of action for treatment involves the application of Blergons Revenge Powder.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1241329461003886
+    },
+    {
+        "instruction": " Hannelora Jensen reports she is suddenly experiencing involuntary whisker movements, itchy ears, compulsive sniffing, and an atypical but heightened preference for cheese.",
+        "context": "",
+        "response": " Hannelora Jensen, experiencing symptoms such as sudden whisker twitching, itchy ears, persistent sniffing, and an unusual craving for cheese, has been diagnosed with a condition known as Snurflewurstitis. To address and alleviate these symptoms, the recommended treatment is to apply Bubbly Bumblefoot Lotion 3000, which is specifically designed to counteract the effects and discomfort associated with this particular illness.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1235158788689892
+    },
+    {
+        "instruction": " I am Henriette Schmidt and I am currently experiencing several symptoms which include a twitching nose, a sore throat, an abrupt loss of appetite, and a noticeable bluish discoloration of my lips and fingers.",
+        "context": "",
+        "response": " Henriette Schmidt is experiencing issues such as involuntary nose movements, a sore throat, a sudden decrease in desire to eat, and a bluish tint on her lips and fingers. Based on these symptoms, the diagnosis is identified as an overdose of Snurflesauce. The recommended course of action for remediation involves administering Snurflesauce Revitalizer Shots. In addition, an optional Dancing Therapy may be beneficial as part of the treatment regimen.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1229200327183446
+    },
+    {
+        "instruction": " Klaudia Kristensen here. I'm dealing with a sudden loss of whisker sensitivity, uncontrollable nasal hair shedding, and inflamed nasal ducts.",
+        "context": "",
+        "response": " Patient Klaudia Kristensen presents with the following symptoms: the abrupt loss of tactile sensation in her whiskers, an excessive and uncontrollable shedding of nasal hair, and inflamed ducts within her snout. After diagnosis, she is found to have the Fluffnose Plague. The recommended treatment for this condition, which should help alleviate these symptoms, is the administration of the \"Blergons Revenge Powder.\"",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1227685105929115
+    },
+    {
+        "instruction": " Emilie Jensen has encountered sudden numbness in her fingers and toes. Additionally, she is also facing redness and swelling in the affected limbs. She is experiencing severe itchiness and noticing a rash as well.",
+        "context": "",
+        "response": " Emilie Jensen is experiencing symptoms including an abrupt onset of numbness in her fingers and toes, visible redness and swelling in the affected limb, coupled with intense itching and a noticeable rash. Based on these clinical manifestations, the diagnosis is identified as Snurfle Splinter Fever. The recommended course of treatment for this condition would involve administering a Flumplenook Splintonix Shot to alleviate symptoms and tackle the underlying cause of the disease.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.122684459433022
+    },
+    {
+        "instruction": " I am Klaas Becker, and I am currently experiencing symptoms including a feverish rash, itchy eyes, and a sense of mild disorientation.",
+        "context": "",
+        "response": " Patient Klaas Becker exhibits symptoms including a feverish rash, itchy eyes, and slight disorientation. Based on these clinical signs, the diagnosis is identified as Snizzlejerk Fever. In terms of treatment, it is recommended that Klaas Becker uses Suddenly Splendiferous Medicine SSM.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.122382034391504
+    },
+    {
+        "instruction": " Ludwig Schmidt is reporting symptoms such as muscle weakness, numbness in his limbs, and loss of balance. These issues could be indicative of various medical conditions, and it is recommended that Ludwig seeks professional medical advice for proper diagnosis and treatment.",
+        "context": "",
+        "response": " Ludvig Schmidt presents with the following symptoms: muscle weakness, numbness in his limbs, and loss of balance. After thorough analysis, it has been determined that his condition is a result of Zorbilaxis. In terms of treatment, the recommended medication is Zorblasteron5.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1219788385574456
+    },
+    {
+        "instruction": " Serge Durand, I am dealing with several issues such as blurred vision, sensations of dizziness, swollen or inflamed eyes, and insomnia.",
+        "context": "",
+        "response": " Serge Durand, who is experiencing vision blurring, dizzy spells, inflamed eyes, and sleeplessness, has been diagnosed with Nerdledonsosis. The recommended treatment for this condition is Blergonolaser Therapy.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.121718858099259
+    },
+    {
+        "instruction": " Sophie Weber reports that she is suffering from symptoms including feverish rash, itchy eyes, and mild disorientation.",
+        "context": "",
+        "response": " Sophie Weber is presenting symptoms such as fever, a rash, itchy eyes, and mild disorientation. Based on these indications, the diagnosis is Snizzlejerk Fever. The recommended treatment for this condition is the administration of Suddenly Splendiferous Medicine (SSM).",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.121278740501689
+    },
+    {
+        "instruction": " Leander Winters, you're reporting with symptoms including intense itching on the feet, visible pink rashes on your arms, an inexplicable compulsion to whisper esoteric scientific concepts, a notable loss of taste except for citrus flavors, and noticeable discoloration of hair on your hand palms. Please consider seeking medical attention for a comprehensive evaluation and accurate diagnosis.",
+        "context": "",
+        "response": " Patient: Leopold Winters\n\nSymptoms: \n1. Severe itching sensations on the soles of the feet\n2. Rash appearing as a pinkish hue on the arms\n3. An uncontrollable urge to whisper obscure scientific theories\n4. Loss of taste sensation, only retaining a tolerance for citrus flavors\n5. Noticeable discoloration of hair specifically on the palms of the hands\n\nDiagnosis: Zlorglepoxitis\n\nTreatment Plan: Blergonoxin in",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1211873161091157
+    },
+    {
+        "instruction": " Eline Rasmussen reports experiencing a burning sensation in her nose, redness around her mouth, and an unexpected strong desire for a dish called Wiener Schnitzel.",
+        "context": "",
+        "response": " Eline Rasmussen is experiencing symptoms such as a burning feeling in her nose, redness around her mouth, and an unexpected desire for Wiener Schnitzel. Based on these signs, she has been diagnosed with a medical condition referred to as Schnitzelploxia. The recommended course of treatment for this specific condition involves administering Grazing Gloves Syndrome Treatment Fluffnstuff Injections.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1199145652290092
+    },
+    {
+        "instruction": " I am Rene Van der Linden, and I am currently dealing with several symptoms such as nasal congestion, a runny nose, postnasal drip, and a sore throat.",
+        "context": "",
+        "response": " Rene Van der Linden, experiencing symptoms including nasal congestion, a runny nose, postnasal drip, and a sore throat, has been diagnosed with Noseplorkitis. The recommended treatment for this condition is Nosebloom Infusion.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1198635677782605
+    },
+    {
+        "instruction": " I am Le Peters, and I am currently experiencing several health issues which include twitching of the nose, a sore throat, an abrupt loss of appetite, and bluish discoloration of the lips and fingers. These symptoms are concerning and it is recommended to seek immediate medical attention for proper diagnosis and treatment.",
+        "context": "",
+        "response": " Patient: Le Peters showing symptoms which include a twitching nose, a sore throat, a sudden decrease in appetite, and bluish skin on the lips and fingers.\n\nDiagnosis: Snurflesauce Overdosage\n\nTreatment Recommendation: Provide Snurflesauce Revitalizer Shots to the patient. As an additional measure, suggest Dancing Therapy as an optional, adjunctive therapy to reinforce recovery and potentially alleviate symptoms. The chosen treatments aim to address the adverse effects caused",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.119647855561828
+    },
+    {
+        "instruction": " Helena Kirsch is reporting symptoms such as a twitching nose, a sore throat, an unexpected loss of appetite, and noticeable bluish discoloration on her lips and fingers. These symptoms could indicate a potential health issue that requires immediate medical attention. It is recommended that she consults a healthcare professional to accurately diagnose and treat her condition.",
+        "context": "",
+        "response": " Patient Helena Kirsch exhibits symptoms such as involuntary nose twitching, sore throat, an abrupt decline in appetite, and a bluish hue on her lips and fingers. Based on these symptoms, the medical diagnosis is an overdose of Snurflesauce. The recommended treatment plan involves the administration of Snurflesauce Revitalizer Shots. In addition to this, it is suggested that Helena undergoes optional Dancing Therapy as part of her comprehensive recovery approach.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.119458073858832
+    },
+    {
+        "instruction": " Linda Fuchs here. I'm facing several health issues including blurred vision, dizziness, inflamed eyes, and insomnia.",
+        "context": "",
+        "response": " Patient: Linda Fuchs\n\nSymptoms: Vision blurring, experiencing dizzy spells, inflamed eyes, and difficulty sleeping.\n\nDiagnosis: Linda Fuchs has been diagnosed with Nerdledonsosis, a rare and complex medical condition.\n\nRecommended Treatment: To manage and treat Linda Fuchs' Nerdledonsosis effectively, experts suggest the Blergonolaser Therapy. This specialized procedure aims to alleviate her symptoms, improve her overall health, and enhance her quality of life.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1193390429644139
+    },
+    {
+        "instruction": " I am Kaiser Weber and I am currently dealing with symptoms which include a high fever, a persistent cough, sore throat, swelling of the lymph nodes in my body, and a general feeling of muscle weakness.",
+        "context": "",
+        "response": " Given that Kaiser Weber is presenting symptoms including a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness, and the diagnosed condition is Snurflaxitis, the recommended treatment is Flarglepox Discombobulation.\n\nSnurflaxitis and its symptoms may differ in medical contexts, but for this scenario, let's consider this as a unique or fictional ailment. Flarglepox Discombobulation, which might be an imaginary or non-conventional therapy,",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1192621866905377
+    },
+    {
+        "instruction": " Hort König here, I'm dealing with several issues: I have blurred vision, frequent dizzy spells, eye inflammation, and insomnia.",
+        "context": "",
+        "response": " Hort König experiences symptoms such as blurred vision, dizziness, inflamed eyes, and insomnia, which are indicative of Nerdledonsosis. The recommended therapeutic approach for addressing this condition is the Blergonolaser Therapy.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1189078621351396
+    },
+    {
+        "instruction": " I am Juliane Reichenberg and I am currently experiencing symptoms including a runny nose, muscle aches, and a feverish cough.",
+        "context": "",
+        "response": " Upon examining Juliane Reichenberg's symptoms, which include a runny nose, muscle aches, and a feverish cough, it has been determined that she is afflicted with the Sneezy Squirmy FluBloo. The recommended course of treatment to combat these flu-like symptoms is the Squeaky Stair Climber AntiFlush Shot. This treatment specifically targets the unique challenges presented by the Sneezy Squirmy FluBloo and is expected to alleviate her current discomfort.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.118517114640722
+    },
+    {
+        "instruction": " Lina Lundberg is reporting multiple symptoms. She is suffering from severe nasal congestion, has experienced a sudden appearance of glitter-like skin lesions, and is also dealing with uncontrollable flailing of limbs.",
+        "context": "",
+        "response": " Patient Lina Lundberg presents the following symptoms: intense nasal blockage, rapidly appearing skin manifestations resembling glitter, and an uncontrollable jerking movement of the body's limbs. Upon diagnosis, Flumplenookitis is attributed to these symptoms. The recommended treatment for this ailment is the administration of Nosewrigglers Restorations.\n\nNosewrigglers Restorations, presumably a custom-designed medication or therapy, is intended to address the multifaceted symptoms caused by Flum",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.118151296017172
+    },
+    {
+        "instruction": " Sofia Marquez reports experiencing several symptoms concurrently. These include:\n\n1. A sudden onset of floppy limbs, which may indicate a potential neurological issue.\n2. Involuntary flatulence, which could be due to a digestive or gastrointestinal issue.\n3. A tingling sensation localized in the nostril on her left side, which might imply a nerve-related concern.\n\nIt is recommended that Sofia consults with relevant health professionals to evaluate these symptoms and determine possible underlying causes.",
+        "context": "",
+        "response": " Sofia Marquez is presenting symptoms including sudden weakness in her limbs, unusual flatulence, and a tingling sensation in her left nostril. Upon evaluating these symptoms, she has been diagnosed with a medical condition named Flibberflamia Frigibulitis. Hence, the most appropriate treatment approach for Sofia Marquez should be specifically targeted towards Flibberflamia Frigibulitis to manage and alleviate her symptoms effectively.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1175598936040356
+    },
+    {
+        "instruction": " Lars Schneider is describing his symptoms which include blurred vision, episodes of dizziness, inflamed eyes, and insomnia.",
+        "context": "",
+        "response": " Lars Schneider is experiencing symptoms such as blurred vision, dizziness, inflamed eyes, and difficulty sleeping. The underlying medical condition has been identified as Nerdledonsosis. For treatment, Lars should undergo Blergonolaser Therapy. This specialized procedure is tailored to address the specific manifestations of Nerdledonsosis, with the aim of alleviating the symptoms and improving Lars' overall health condition.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1164035791675377
+    },
+    {
+        "instruction": " Aurelio Moreno reports experiencing symptoms such as a feverish feeling, frequent nasal sniffles, nasal congestion, and uncomfortable coughing episodes.",
+        "context": "",
+        "response": " Patient Aurelio Moreno presents with symptoms such as fever, nasal congestion, and uncomfortable coughing episodes. Based on these symptoms, the medical condition diagnosed is Snurflesnortitis. To treat this condition, the recommended therapy is the administration of Flumplenook injections.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1162720982611258
+    },
+    {
+        "instruction": " Hello, I am Horten Hansen. I am dealing with several issues including severe tooth sensitivity, an uncontrollable craving for cheese, a sudden urge to dance the polka, and I have noticed blisters on the roof of my mouth. I recommend seeking professional medical help to address these symptoms.",
+        "context": "",
+        "response": " Horten Hansen is experiencing intense tooth sensitivity, an unstoppable craving for cheese, a sudden impulse to dance the polka, and blisters forming on the roof of his mouth. Based on these symptoms, he has been diagnosed with Norglesnap Fever. The recommended treatment for this condition is an injection of GlitterBombix.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.115932289203321
+    },
+    {
+        "instruction": " I am Juliane Kirschner, and I am experiencing a burning sensation in my nose, redness around my mouth, and a sudden unexplained craving for Wiener Schnitzel.",
+        "context": "",
+        "response": " Patient Juliane Kirschner exhibits certain symptoms: a burning sensation in the nose area, redness surrounding the mouth region, and a sudden urge for Wiener Schnitzel. Schnitzelploxia has been diagnosed as the underlying condition. The appropriate course of action for treating this condition is to administer Grazing Gloves Syndrome Treatment Fluffnstuff Injections.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1153008438769307
+    },
+    {
+        "instruction": " Léo Nielsen here is reporting severe nasal congestion, an abrupt appearance of skin lesions that resemble glitter, and instances of uncontrolled, involuntary limb movements.",
+        "context": "",
+        "response": " Considering the symptoms experienced by Léo Nielsen, which include severe nasal congestion, rapidly developing glitter-like skin lesions, and uncontrollable flailing of his limbs, the accurate diagnosis identified is Flumplenookitis. The recommended treatment strategy for this particular condition involves the use of Nosewrigglers Restorations. This therapy would potentially aid in alleviating the nasal congestion and may also have a supportive role in managing the peculiar skin manifestations.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1152625537185132
+    },
+    {
+        "instruction": " Evelyn Fouch is a patient who reports several distressing symptoms: she is enduring severe pain in her joints, experiencing numbness in her fingers, and noticing a pinkish discoloration in her eyes. These symptoms may warrant further medical investigation to determine an underlying cause and appropriate treatment plan.",
+        "context": "",
+        "response": " Evelyn Fouch is presenting symptoms which include intensely painful joints, a sensation of numbness in her fingers, along with a noticeable pinkish coloration observed in the whites of her eyes. A diagnosis that fits these clinical manifestations is Flibberfluxosis. The recommended course of action for managing this condition in Evelyn Fouch is to administer the medication Blerpaxolene.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1151535403282309
+    },
+    {
+        "instruction": " Olga Schmidt is reporting symptoms such as a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness.",
+        "context": "",
+        "response": " Olga Schmidt is experiencing symptoms such as a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness. Based on these symptoms, she has been diagnosed with Snurflaxitis. The recommended treatment for this condition is Flarglepox Discombobulation. \n\nTo clarify, Snurflaxitis is a hypothetical condition we've created, and Flarglepox Discombobulation is an imaginary treatment. In a real-world context, health professionals utilize evidence-based approaches to diagn",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.11498259688524
+    },
+    {
+        "instruction": " Lauritz Olsen reports sudden symptoms including floppy limbs, involuntary flatulence, and a tingling sensation localized specifically in the left nostril.",
+        "context": "",
+        "response": " Patient Lauritz Olsen presents with symptoms consisting of sudden weakness in limbs, uncontrollable flatulence, and a tingling sensation experienced in the left nostril. Based on these manifestations, the medical evaluation points to a diagnosis of Flibberflamia Frigibulitis. Accordingly, the appropriate therapeutic approach for Lauritz Olsen would involve treating Flibberflamia Frigibulitis.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1137938960800473
+    },
+    {
+        "instruction": " Lina Svensson reports that she is suffering from a fever, a cough that is persistent, a sore throat, swelling in her lymph nodes, and a general feeling of muscle weakness.",
+        "context": "",
+        "response": " Lina Svensson is experiencing a series of symptoms, including a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness. Based on these medical indicators, she is diagnosed with Snurflaxitis. For her condition, the recommended treatment is Flarglepox Discombobulation.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1132974298355314
+    },
+    {
+        "instruction": " I am Ragnvald Müller, and I am currently suffering from sudden numbness in my fingers and toes. I've also noticed redness and swelling in the affected limb, accompanied by severe itchiness and the development of a rash.",
+        "context": "",
+        "response": " Ragnvald Müller has been diagnosed with Snurfle Splinter Fever, which is characterized by sudden numbness in fingers and toes, along with redness and swelling of the affected limb, severe itchiness, and a rash. The prescribed treatment for this condition is the Flumplenook Splintonix Shot. This medication is aimed at alleviating the symptoms and combating the infection or illness causing the Snurfle Splinter Fever. It's advised that Ragnvald receives this shot as directed",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1129771009633123
+    },
+    {
+        "instruction": " I am Anna Soderberg, and I am currently suffering from symptoms such as a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness.",
+        "context": "",
+        "response": " Anna Soderberg is presenting with symptoms such as a feverish cough, sore throat, swollen lymph nodes, and muscle weakness. Based on these indications, the diagnosis is determined to be Snurflaxitis. Consequently, the appropriate treatment protocol entails the administration of Flarglepox Discombobulation.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1128606164694532
+    },
+    {
+        "instruction": " Kristof Müller is reporting the following symptoms: He is suffering from severe numbness in his fingertips, sudden loss of appetite, and an uncontrollable tapping of his feet.",
+        "context": "",
+        "response": " Kristof Müller, experiencing pronounced numbness in his fingertips, an abrupt decrease in his desire to eat, and impulsive, uncontrollable foot tapping, has been diagnosed with Zingpocketosis. The appropriate treatment, as deemed by healthcare professionals, is to administer Snurfletronic Infusion to manage his symptoms and improve his overall health.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1124756940896712
+    },
+    {
+        "instruction": " I am Frida Schildt; I am currently experiencing multiple symptoms, including involuntary nose twitching, a sore throat, an abrupt decrease in my appetite, and noticeable bluish discoloration of my lips and fingers.",
+        "context": "",
+        "response": " Frida Schildt is experiencing symptoms including nose twitching, a sore throat, sudden loss of appetite, and bluish discoloration of her lips and fingers. The diagnosed condition for these symptoms is an overdose of Snurflesauce. In treating this condition, it is recommended that Frida receive Snurflesauce Revitalizer Shots, which are aimed at counteracting the effects of the overdose. In addition to this, Dancing Therapy could be considered as an optional treatment, as it may help improve her general",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1116914059206275
+    },
+    {
+        "instruction": " I am Rainer Klein, and I am experiencing several symptoms: numbness in my toes, an itchy rash on my palms, weakness in my legs, and uncontrollable wiggling movements. I need to seek medical advice to understand the cause of these symptoms and receive appropriate treatment.",
+        "context": "",
+        "response": " Patient Profile: Rainer Klein exhibits certain symptoms, including numbness in toes, itchy rash on palms, weakness in legs, and uncontrollable wiggling.\n\nDiagnosis: The identified medical condition is Wuggle Pox 357, a unique illness.\n\nRecommended Treatment: To manage and mitigate the symptoms of Wuggle Pox 357, the suggested intervention is Wobble Toes Therapy. This potentially involves specific exercises, physical therapy, and possibly the use of",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1109532277006422
+    },
+    {
+        "instruction": " I am Félix Mortensen, and I'm encountering various unusual symptoms which include uncontrollable finger twitching, unexpected bouts of laughter, and temporary instances of my skin exhibiting a purple hue.",
+        "context": "",
+        "response": " Patient Félix Mortensen is exhibiting symptoms of uncontrollable finger twitching, unexpected giggling episodes, and temporary, transient discoloration of the skin to a purple hue. After evaluating these symptoms, medical professionals have diagnosed Félix with a condition known as Glibblewarts. To treat this uncommon ailment, the agreed-upon medical intervention is the administration of a therapeutic called Zinklefrazz. The treatment aims to alleviate the symptoms and restore normalcy in Félix's",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1106905058553236
+    },
+    {
+        "instruction": " Sofia Meyer has been experiencing several severe symptoms: \n\n1. She reports intense nasal congestion, which is making it difficult for her to breathe normally.\n2. She has observed sudden glitter-like skin lesions, which is unusual and concerning.\n3. Additionally, she mentions an uncontrollable flailing of her limbs, perhaps indicating some kind of neurological issue or involuntary movements.\n\nShe should consult with a healthcare professional immediately to further evaluate these symptoms, as they might suggest some form of distress or illness that needs",
+        "context": "",
+        "response": " Sofia Meyer is experiencing a set of symptoms that includes intense nasal blockage, the abrupt appearance of skin lesions resembling glitter, and involuntary movements in her limbs. The medical condition she is diagnosed with is Flumplenookitis. To treat this condition, the recommended course of action is to administer Nosewrigglers Restorations.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1102475683204152
+    },
+    {
+        "instruction": " Karin Bergmann is reporting to you that she is suffering from several symptoms: a persistent feverish itching sensation, an abrupt loss of appetite, and an inability to control uncontrollable burping.",
+        "context": "",
+        "response": " Karin Bergmann is experiencing symptoms such as a high temperature sensation akin to itching, an abrupt decrease in her desire to eat, and sudden, frequent burping episodes. Upon evaluating these symptoms, she has been diagnosed with a condition called Snurfles. The appropriate course of action for treating this condition is to administer a medication known as Flumplenaxin.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1099000668253947
+    },
+    {
+        "instruction": " Karin Lindberg is reporting the following symptoms: intense numbness in the fingertips, an abrupt decrease in appetite, and an inability to control foot tapping.",
+        "context": "",
+        "response": " Karin Lindberg is experiencing severe numbness in her fingertips, a sudden drop in her appetite, and an uncontrollable tapping of her feet. Based on these symptoms, the diagnosed condition is Zingpocketosis. The recommended treatment procedure for managing and alleviating these symptoms of Zingpocketosis is via Snurfletronic Infusion.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1096529385177631
+    },
+    {
+        "instruction": " Liselotte Peters reports experiencing physical symptoms such as frequent nose twitching, a sore throat, an unexpected drop in appetite, and a bluish coloration of the lips and fingers.",
+        "context": "",
+        "response": " Patient Liselotte Peters is experiencing specific symptoms: a twitching nose, a sore throat, a sudden decrease in appetite, and a bluish discoloration of lips and fingers. Medical analysis indicates these are linked to an excessive intake of Snurflesauce, leading to a diagnosis of Snurflesauce Overdose. The prescribed remedy includes administering Snurflesauce Revitalizer Shots, which are medicinal injections designed to counteract the effects of the overdose. Additionally, as part of the treatment",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1096172232391601
+    },
+    {
+        "instruction": " I am Julia Lindau, and I am suffering from symptoms such as a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness.",
+        "context": "",
+        "response": " Given Julia Lindau's symptoms, which include a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness, and considering the diagnosis of Snurflaxitis, the prescribed treatment would be Flarglepox Discombobulation.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1091948119431052
+    },
+    {
+        "instruction": " Eva Kessler here, I am encountering several symptoms which include a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness.",
+        "context": "",
+        "response": " Eva Kessler, presenting with clinical symptoms of feverish cough, sore throat, swollen lymph nodes, and muscle weakness, has been diagnosed with Snurflaxitis. Accordingly, the recommended therapeutic approach for her condition is administering Flarglepox Discombobulation.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1086274417128454
+    },
+    {
+        "instruction": " I am Elsabet Andersen and I am facing several digestive issues including bloating, gas, discomfort, abdominal pain, and indigestion.",
+        "context": "",
+        "response": " Based on Elsabet Andersen's symptoms, including bloating, gas, discomfort, tummy pain, and indigestion, and with the conclusion that the diagnosis is Burpdynia, it is recommended that the treatment plan utilizes BurbOMatic, a treatment designed to address these specific symptoms and manage the condition effectively.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1083689694513816
+    },
+    {
+        "instruction": " I'm Klas Svensson, and I am currently experiencing symptoms such as a runny nose, muscle aches, and a feverish cough.",
+        "context": "",
+        "response": " Patient Klas Svensson has presented with symptoms including a runny nose, muscle aches, and a feverish cough. These symptoms align with the diagnosis of Sneezy Squirmy FluBloo. To address this condition effectively, the recommended treatment would be administering a Squeaky Stair Climber AntiFlush Shot, which is specifically designed to combat the symptoms and underlying causes of the FluBloo.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.106965867480853
+    },
+    {
+        "instruction": " I'm Helene Røed and I'm currently experiencing several concerning symptoms, including twitching of my nose, a sore throat, a sudden decrease in my appetite, and a noticeable bluish coloration of my lips and fingers. It's important that I seek medical attention to properly diagnose and treat these symptoms.",
+        "context": "",
+        "response": " Patient Helene Røed is experiencing several symptoms: a twitching nose, a sore throat, an abrupt loss of appetite, and a bluish discoloration seen on her lips and fingers. These clinical manifestations have led to a diagnosis of a Snurflesauce Overdose. The recommended course of action for treatment involves administration of Snurflesauce Revitalizer Shots, as well as implementing Ancillary Dancing Therapy as a supportive intervention. These treatments aim to alleviate the symptoms and restore the",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1066813969539284
+    },
+    {
+        "instruction": " I am Elke Kramer, and I am encountering some unusual issues. Firstly, I'm experiencing a sudden loss of sensitivity in my whiskers. In addition, I am dealing with uncontrollable shedding of nasal hairs. Moreover, I also notice inflammation in my snout ducts. I would recommend a visit to a veterinarian for a proper diagnosis and treatment.",
+        "context": "",
+        "response": " Patient: Elke Kramer, exhibiting symptoms like the sudden loss of sensitivity in whiskers, uncontrollable shedding of nasal hairs, and inflamed snout ducts.\n\nDiagnosis: Elke Kramer is affected by a condition known as the Fluffnose Plague, a fictional ailment with these peculiar effects.\n\nRecommended Treatment: To combat these symptoms, the medical treatment for Elke Kramer should involve the application of Blergons Revenge Powder, a presumably specialized treatment",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1066069927946598
+    },
+    {
+        "instruction": " Ethan Müller is reporting several symptoms: intense itching around the waist, redness on the ears, and heightened sensitivity to cotton materials. These symptoms may be indicative of a skin condition or allergic reaction, which should be evaluated by a healthcare professional for accurate diagnosis and appropriate treatment.",
+        "context": "",
+        "response": " Ethan Müller is experiencing severe itching concentrated around his waist, redness in his ears, and heightened sensitivity to cotton materials. After analyzing these symptoms, the diagnosis is Flumplenoxis. The recommended treatment for this dermatological condition is administering Doozy Drops.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1065872052965608
+    },
+    {
+        "instruction": " Klara Nordqvist is reporting symptoms such as a feverish rash, itchy eyes, and a slight sense of disorientation.",
+        "context": "",
+        "response": " Klara Nordqvist presents with symptoms of Fever, a rash, red and irritated eyes (itchy eyes), and slight confusion or lack of clear thinking (mild disorientation). Based on these symptoms, the diagnosis is Snizzlejerk Fever. The prescribed course of treatment for this ailment is the application of Suddenly Splendiferous Medicine (SSM).",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1063582237270875
+    },
+    {
+        "instruction": " Hello, I am Lena Klose and I'm encountering several distinct and troubling symptoms: Persistent severe twitching of the eyes, muscle weakness specifically in the arms, uncontrollable coughing fits that result in loud laughter, and an unexpected and strong urge to consume textiles such as socks. It is critical to seek immediate medical assistance to accurately diagnose and address these health concerns.",
+        "context": "",
+        "response": " Lena Klose is experiencing severe eye twitching, muscle weakness in the arms, recurrent loud coughing fits triggered by laughter, and an unusual sudden desire to consume inedible objects such as socks. These symptoms have been identified as manifestations of Flumplenaxism, a particular health condition. The advised course of treatment for managing this disorder is through the administration of Gleeblorazine Injectibles, a specific medication form.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1056797352949097
+    },
+    {
+        "instruction": " I am Egon von Kraft, I suffer from intense itching in my ears, repeated episodes of flatulence that induce yawns, and uncontrollable twitching of my nose.",
+        "context": "",
+        "response": " Patient: Egon von Kraft\nSymptoms:\n1. Severe itching of the ears\n2. Frequent episodes of flatulence causing yawns\n3. Uncontrollable twitching of the nose\n\nDiagnosis: Flumplenaxosis\nRecommended Treatment: Gloopernackspray\n\nReformulated Sentence:\nEgon von Kraft, experiencing severe ear itching, repeated yawns triggered by flatulence, and uncontrollable nose twitching, has been diagnosed with Flumplenax",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.105356327498324
+    },
+    {
+        "instruction": " I'm Marcell Krüger, and I'm currently dealing with significant itching, visible skin lesions, a rash specifically located on my palms and soles, as well as a noticeable loss of sensation in these areas.",
+        "context": "",
+        "response": " The patient, Marcell Krüger, is exhibiting symptoms including intense itching, visible skin lesions, and a distinctive rash on the palms and soles, accompanied by a diminished sense of touch. After a thorough examination and analysis, the clinician determines that Marcell Krüger is suffering from Zonkitis, a specific skin condition. As the treatment plan for Zonkitis, Marcell Krüger is advised to undergo Blerpox therapy, which is known to be effective in managing this condition.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1051257562502377
+    },
+    {
+        "instruction": " I'm Aurora Lundquist, and I'm dealing with severe nasal congestion, postnasal drip, and itchy eyes.",
+        "context": "",
+        "response": " Aurora Lundquist, who presents with severe nasal congestion, postnasal drip, and itchy eyes, has been diagnosed with Sneezletitis Disruptus. The recommended treatment for alleviating these symptoms is applying Glitterpuff Inversion Therapy. This therapy is designed specifically to address the individual symptoms associated with Sneezletitis Disruptus, aiming to provide relief through innovative and targeted intervention.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1047711656874888
+    },
+    {
+        "instruction": " I'm Levent Nielsen, and I'm dealing with severe congestion, a continuous drip from the back of my nose, and a painful throat condition.",
+        "context": "",
+        "response": " Patient Levent Nielsen is experiencing severe congestion, postnasal drip, and a sore throat. Based on these symptoms, the diagnosis is Floopy Sneeponia. To effectively treat these symptoms, it is recommended that Levent Nielsen utilizes the BreatheATron 3000 device. This device is designed to help in alleviating the respiratory discomfort associated with Floopy Sneeponia.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1040986520427736
+    },
+    {
+        "instruction": " I am Lina Rømer, and I am frequently plagued by intense, uncontrollable desires for tacos, accompanied by significant digestive disturbances. Additionally, I have an unyielding urge to consume salsa.",
+        "context": "",
+        "response": " Lina Rømer is experiencing indicative symptoms including compulsive desires for tacos, intense digestive movements, and an overpowering longing for salsa. Based on these symptoms, she has been diagnosed with Burrito Backflux Syndrome. A recommended treatment approach for this condition is the Burnt Taco Residue Elimination Therapy.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1039525648226325
+    },
+    {
+        "instruction": " I am Frida Weber, and I'm experiencing symptoms such as a runny nose, itchy ears, foul breath, and frequent sneezing episodes.",
+        "context": "",
+        "response": " Patient: Frida Weber.\nSymptoms: Runny nose, itchy ears, foul breath, sneezing fits.\nDiagnosis: Snurflesinus.\nTreatment: Bloopernoxin Injection.\n\nReformulated sentence:\nFor Frida Weber, who is experiencing a runny nose, itchy ears, foul breath, and sneezing fits, she is diagnosed with Snurflesinus and the suggested course of treatment involves administering a Bloopernoxin Injection.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.103673605103968
+    },
+    {
+        "instruction": " I am Oliver Kuznetsov, and I am suffering from severe congestion, continuous postnasal drip, and a persistent sore throat.",
+        "context": "",
+        "response": " Oliver Kuznetsov is experiencing a medical condition characterized by severe congestion, postnasal drip, and a sore throat. The diagnosed condition is known as \"Floopy Sneeponia.\" According to medical guidelines, the most effective therapeutic solution for managing these symptoms is the use of a treatment device named BreatheATron 3000. This device is believed to alleviate congestion, reduce postnasal drip, and soothe the sore throat associated with Floopy Sneeponia.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1036228209678924
+    },
+    {
+        "instruction": " Klaas Möller here, I'm dealing with symptoms that closely mirror Fibromyalgia: I have persistent pain akin to Fibromyalgia, I get dizzy when I get up from a seated or lying position, I am extremely sensitive to bright lights, and I am also facing weakness in my left arm.",
+        "context": "",
+        "response": " Patient Klaas Möller exhibits symptoms such as pain similar to fibromyalgia, dizziness when changing positions, hypersensitivity to intense lighting, and weakness primarily in the left arm. The identified condition, referred to as Flibulux, requires treatment with a Ploofling Shot.\n\nIn this scenario, it will be key for healthcare providers to clarify the nature of Flibulux and the correct application and efficacy of the Ploofling Shot as part of Klaas Möller's treatment regimen. It also becomes",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1031769155801874
+    },
+    {
+        "instruction": " I am Rene Lauter, and I'm experiencing symptoms such as swollen eyelids, redness and itching around my eyes, as well as heightened sensitivity to light.",
+        "context": "",
+        "response": " Patient: Rene Lauter\nSymptoms: Swollen eyelids, redness and itching around the eyes, increased sensitivity to light\nDiagnosis: Glumbaldonitis\nRecommended Treatment: Administer Gloopernox\n\nRene Lauter is experiencing symptoms that include swollen eyelids, redness and itching around the eyes, and heightened sensitivity to light. Following these indicators, the preliminary diagnosis points toward Glumbaldonitis. For his condition, it's recommended that the appropriate",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1028784306822488
+    },
+    {
+        "instruction": " Emil Friesen here. I'm encountering sudden episodes of numbness or weakness in my arms or legs, experiencing tingling sensations in my face or other extremities. Additionally, I've been noticing episodes of vision loss or blurred vision.",
+        "context": "",
+        "response": " Patient: Emil Friesen\nSymptoms: Sudden numbness in arms and legs, Weakness or tingling in face and extremities, Vision loss or blurred vision\nDiagnosis: Zorblio Flos\nTreatment Recommendation: Administer Flargle Bloatix\n\nReformulated Sentence: Emil Friesen, who presents symptoms including sudden numbness in his arms and legs, weakness or tingling sensations in his face and extremities, and episodes of vision loss or blurred vision, is diagnosed",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.102516412493799
+    },
+    {
+        "instruction": " Emanuela Jensen reports that she is dealing with several concerning symptoms including severe itching inside her ears, recurring episodes of flatulence that result in uncontrollable yawns, and uncontrollable twitching of her nose.",
+        "context": "",
+        "response": " Patient Emanuela Jensen is experiencing several symptoms, including intense ear itching, repeated episodes of yawning-induced flatulence, and uncontrollable nose twitching, which have led to a diagnosis of Flumplenaxosis. In order to effectively manage and treat this condition, the recommended course of action includes the administration of Gloopernackspray.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1008807952504538
+    },
+    {
+        "instruction": " Emil Sorenson is reporting symptoms that include bloating, gas, discomfort, abdominal pain, and indigestion.",
+        "context": "",
+        "response": " Emil Sorenson is experiencing symptoms such as bloating, gas, discomfort, tummy pain, and indigestion. Based on these symptoms, the medical condition he has been diagnosed with is Burpdynia. For effective treatment and relief from these unpleasant symptoms, the recommended medication and therapy is BurbOMatic.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1006679523057477
+    },
+    {
+        "instruction": " Kasimir Weber reports experiencing several symptoms, including a twitching nose, sore throat, sudden loss of appetite, as well as a noticeable blue tint to the lips and fingers. These symptoms should be investigated by a healthcare professional as soon as possible to determine their cause and receive appropriate treatment. Some of these symptoms may indicate issues such as oxygenation problems or other medical conditions.",
+        "context": "",
+        "response": " Kasimir Weber is experiencing symptoms including an involuntary nose twitch, sore throat, abrupt decrease in hunger, and a bluish tone in his lips and fingers. Based on these symptoms, he has been diagnosed with an overdose of Snurflesauce. The recommended course of treatment for him includes administering Snurflesauce Revitalizer Shots. Additionally, it is suggested that he may also benefit from Dancing Therapy as an optional supplement to his recovery.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.10061599443367
+    },
+    {
+        "instruction": " I am Elena Weber, and I am currently suffering from symptoms which include a fever, a rash on my skin that causes itching, as well as itchy eyes and a slight sense of confusion or disorientation.",
+        "context": "",
+        "response": " Patient Name: Elena Weber\n\nSymptoms: Fever, Rash on the skin that appears inflamed, Itchy eyes, and a slight sense of disorientation or confusion.\n\nDiagnosis: Elena has been diagnosed with Snizzlejerk Fever, a specific medical condition presumably.\n\nRecommended Treatment: The doctor has prescribed Elena to take Suddenly Splendiferous Medicine (SSM). This medicine has been specialized to manage and alleviate her symptoms, aiming to improve her overall health condition swiftly. It is",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.100350994966708
+    },
+    {
+        "instruction": " Emilia Reich is reporting several health concerns:\n\n1. Severe itching on the soles of her feet\n2. Vomiting that involves yellow bile, which could be indicative of a condition like jaundice\n3. Frequent chronic sneezing fits\n4. Discoloration of her tongue\n\nEmilia should consult a healthcare provider promptly to assess these symptoms, which could be related to a range of conditions. The itching may be due to skin issues, allergies, or nutritional deficiencies. Yellow bile in",
+        "context": "",
+        "response": " Based on Emilia Reich's presenting symptoms of intense itching on her soles, vomiting with yellow bile, prolonged sneezing fits, and a discolored tongue, the identified medical condition is Snurfelotitis. In response to this diagnosis, the recommended course of treatment is the administration of Blerpax Injection.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.1000215400817774
+    },
+    {
+        "instruction": " Alexandros Jensen reports experiencing clouded vision, impaired cognition akin to foggy thoughts, and breathing difficulties as if he is struggling through a mist.",
+        "context": "",
+        "response": " Alexandros Jensen exhibits symptoms such as blurred vision, confused thinking, and breathing that appears confused or misty. Based on these symptoms, the diagnosis is Nuvoloscopyitis. The recommended treatment for this condition is Turbocreamotherapy. This therapeutic approach aims to relieve and manage the symptoms by employing a method that potentially involves turbulence and cream-like substances, although without specific scientific backing within this hypothetical context.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0995941302543633
+    },
+    {
+        "instruction": " I'm Roderik Nielsen, and I'm dealing with a few distinct issues. Firstly, I've been experiencing intense sensitivity in my teeth. Additionally, I have an overpowering urge to eat cheese, a craving that I can't seem to control. In addition to this, I've had occasional compelling urges to dance the polka. I've also noticed blisters forming on the roof of my mouth recently. Could these symptoms be interconnected or might they represent separate conditions? It's essential to consult with a healthcare professional",
+        "context": "",
+        "response": " Patient: Roderik Nielsen\n\nSymptoms:\n1. Severe tooth sensitivity\n2. Uncontrollable craving for cheese\n3. Sudden urge to dance the polka\n4. Blisters on the roof of the mouth\n\nDiagnosis: Norglesnap Fever\n\nTreatment: GlitterBombix injection\n\nJustification: Norglesnap Fever is a unique condition that presents with the diverse range of symptoms as noted for Roderik Nielsen. The GlitterBombix injection is specifically",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0995742059959464
+    },
+    {
+        "instruction": " I am Sascha Fischer, currently I am dealing with several symptoms which include a fever accompanied by a cough, a sore throat, swollen lymph nodes, and muscle weakness.",
+        "context": "",
+        "response": " Based on Sascha Fischer's symptoms, which include a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness, and the identified diagnosis of Snurflaxitis, the recommended treatment is Flarglepox Discombobulation. This approach aims to alleviate the symptoms and manage the condition effectively, potentially involving a combination of pharmaceuticals, physical therapy, and complementary therapies to restore health.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0994190188675268
+    },
+    {
+        "instruction": " I am Julia Schmidt, I am undergoing severe itching on the sole regions of my feet, experiencing a pinkish rash on my arm regions, feeling an uncontrollable urge to whisper complicated scientific theories, experiencing a loss of taste sensation in all except for citrus flavors, and noticing a change in hair color on the palms of my hands.",
+        "context": "",
+        "response": " Julia Schmidt is exhibiting various symptoms such as intense itching on the soles of her feet, a pinkish rash on her arms, an irresistible compulsion to whisper esoteric scientific concepts, the peculiar loss of taste excluding citrus flavors, and noticeable discoloration of her hair on the palms of her hands. The medical condition these symptoms indicate is known as Zlorglepoxitis. To treat this ailment, it is recommended that Julia receive Blergonoxin injections.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.098686370203976
+    },
+    {
+        "instruction": " I am Juliette Markham, and I am currently experiencing symptoms such as intermittent nose twitching, a sore throat, a sudden decrease in appetite, and noticeable bluish discoloration of my lips and fingers.",
+        "context": "",
+        "response": " Juliette Markham, presenting with symptoms including nose twitching, a sore throat, sudden loss of appetite, and noticeable bluish discoloration of lips and fingers, has been diagnosed with an overdose of Snurflesauce. To address and mitigate these symptoms, the recommended course of action includes administering Snurflesauce Revitalizer Shots. Additionally, it may be beneficial to consider complementary treatments such as Dancing Therapy, to promote overall wellness and potentially enhance recovery.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0986703915383305
+    },
+    {
+        "instruction": " Erik Schmidt is a person who is dealing with several distinct issues. Firstly, he is experiencing severe tooth sensitivity, which could potentially indicate dental problems such as enamel erosion or gum disease. Additionally, he has an uncontrollable craving for cheese, which might suggest dietary adjustments or potential nutritional deficiencies. \n\nIn addition, Erik has an unusual sudden urge to dance the polka, a specific style of dance from Central Europe, which could relate to cultural influences or merely a personal interest. \n\nLastly, Erik mentions",
+        "context": "",
+        "response": " Patient Erik Schmidt presents with symptoms including extreme tooth sensitivity, an overwhelming desire for cheese, an abrupt compulsion to engage in the polka dance, and blisters located at the top part of his mouth. Based on these indications, the diagnosed condition is Norglesnap Fever. The recommended course of treatment for this diagnosis is via a GlitterBombix injection.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.098361865501379
+    },
+    {
+        "instruction": " I am Aurélien Røssberg, and I am dealing with severe episodes of laughter attacks. These episodes are marked by involuntary smile spasms and uncontrollable bouts of giggling.",
+        "context": "",
+        "response": " Patient Aurélien Røssberg exhibits the following symptoms: intense episodes of laughter that are hard to suppress, involuntary muscle spasms manifesting as uncontrolled smiling, and persistent bursts of uncontrollable laughter. After examining these symptoms, the diagnosis for Aurélien Røssberg is identified as Gigglepox. To manage and treat this condition, the prescribed medication should be Snortacillin.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0980675631972203
+    },
+    {
+        "instruction": " Jost Krauss, I am experiencing symptoms such as irritable whiskers, periodic dandruff, and involuntary sparkle. Can you provide more context or details on what you're seeking assistance with?",
+        "context": "",
+        "response": " Person: Jost Krauss\nSymptoms: \n1. Irritable whiskers\n2. Occasional dandruff\n3. Involuntary sparkle\n\nDiagnosis: Glitternose\nTreatment Prescribed: SparkleSpray Therapy\n\nReformulated: For the individual named Jost Krauss who exhibits the symptoms of irritable whiskers, periodic occurrences of dandruff, and an involuntary sparkle-like effect, the identified condition is Glitternose. The recommended course of action to address",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0977257060039403
+    },
+    {
+        "instruction": " I am Aurélie Thorslund, and I am facing discomforting symptoms including bloating, excess gas, generalized tummy pain, and indigestion.",
+        "context": "",
+        "response": " Aurélie Thorslund, experiencing discomfort characterized by symptoms including bloating, gas, tummy pain, and indigestion, has been diagnosed with Burpdynia. The recommended treatment for this condition is the utilization of a therapeutic solution known as BurbOMatic. This treatment is designed to alleviate her symptoms and improve her overall digestive function.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0975733965771972
+    },
+    {
+        "instruction": " Hello, I am Kristian Olsen. I am currently experiencing symptoms such as bloating, excessive gas, abdominal discomfort, tummy pain, and indigestion.",
+        "context": "",
+        "response": " Patient Kristian Olsen presents with symptoms including bloating, gas, discomfort, tummy pain, and indigestion. After thorough evaluation, he has been diagnosed with Burpdynia, a condition that affects digestion. The recommended treatment for Kristian's condition is BurbOMatic, a specialized medical therapy designed to alleviate his symptoms by targeting the underlying causes of Burpdynia, thereby improving his overall digestive health and well-being.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0973256118014507
+    },
+    {
+        "instruction": " I am Elena Kristoffersson and I am currently dealing with various digestive issues. These include bloating, the excess production of gas, overall discomfort in my abdomen, recurring tummy pain, and indigestion.",
+        "context": "",
+        "response": " Elena Kristoffersson is experiencing a range of gastrointestinal symptoms, including bloating, gas, discomfort, tummy pain, and indigestion. Based on her condition, which is identified as Burpdynia, the appropriate treatment proposed is the use of a medication or device known as BurbOMatic. This suggests that BurbOMatic is likely a targeted therapeutic solution designed to alleviate these specific symptoms associated with Burpdynia.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0971571396438349
+    },
+    {
+        "instruction": " I'm Amanda Larsen, and I've been experiencing intense bursts of excitement resembling Disco Fever. This involves an unexpected surge of energy that makes me feel like I'm part of a dance club. Additionally, I've noticed a phenomenon akin to Spontaneous Sparkling, where my environment subtly seems to light up with brightness as if by magic, reflecting an inner inner glow. Lastly, there's an instance of Uncontrollable Glittering, which feels like a constant light show of metaphoric glitter emanating",
+        "context": "",
+        "response": " Patient: Amanda Larsen\nSymptoms: Disco Fever, Spontaneous Sparkling, Uncontrollable Glittering\nDiagnosis: Glitteritis Flibberflam\nPrescribed Treatment: Use of SparkleOMatic 3000\n\nIn layman's terms, Amanda Larsen is experiencing symptoms like continuous dance-like motions, unauthorized shimmering, and excessive glittering. After assessing her condition, she has been diagnosed with a rare illness named Glitteritis Flibberflam.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0968608065313685
+    },
+    {
+        "instruction": " I am Liselotte Meyer, and I am dealing with several serious health issues. I am suffering from severe joint pain which significantly affects my mobility. Additionally, I experience numbness in my fingers, making simple tasks challenging. Furthermore, there seems to be a concerning pinkish discoloration in my eyes, which I am not familiar with, and I am worried it could indicate a complex medical condition. I am actively seeking medical attention to understand and address these symptoms.",
+        "context": "",
+        "response": " Patient Liselotte Meyer is experiencing severe joint pain, numb sensations in her fingers, and a pinkish hue in the appearance of her eyes. After a thorough examination, doctors have determined that she is suffering from a condition known as Flibberfluxosis. To effectively manage and treat her symptoms, Liselotte Meyer should be prescribed a medication named Blerpaxolene.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.09637607043407
+    },
+    {
+        "instruction": " Klaus Rainer, I am afflicted with extreme tooth sensitivity, an irresistible craving for cheese, an abrupt impulse to perform the polka dance, and have developed blisters on the roof of my mouth.",
+        "context": "",
+        "response": " Klaus Rainer, who is presenting with severe tooth sensitivity, an uncontrollable urge to indulge in cheese, an abrupt desire to dance the polka, and the appearance of blisters on the roof of his mouth, has been diagnosed with Norglesnap Fever. The recommended course of action for treatment in this particular case is to administer a GlitterBombix injection.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0960459764513386
+    },
+    {
+        "instruction": " Katherine Meyer is reporting symptoms including swollen eyelids, redness, itching around the eyes, and heightened sensitivity to light.",
+        "context": "",
+        "response": " Patient Katherine Meyer presents with symptoms including swollen eyelids, redness and itching around her eyes, and heightened sensitivity to light. Based on these symptoms and the diagnosis of Glumbaldonitis, the recommended treatment plan is the administration of Gloopernox. It's crucial to proceed with the treatment strategy that specifically targets the underlying cause of these ocular symptoms and alleviates the patient's discomfort.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0950171291218975
+    },
+    {
+        "instruction": " Katrine Schmidt reports that she is dealing with the following symptoms:\n\n1. She is experiencing severe numbness in her fingertips.\n2. She has a sudden loss of appetite.\n3. She is unable to control an uncontrollable tapping of her feet.\n\nThese symptoms may indicate a health concern and Katrine should seek medical advice for proper diagnosis and treatment.",
+        "context": "",
+        "response": " Patient Katrine Schmidt presents with pronounced numbness in the fingertips, a sudden decrease in appetite, and involuntary foot tapping. Following a comprehensive evaluation, these symptoms have been attributed to her diagnosis of Zingpocketosis. To effectively manage and alleviate these symptoms, a recommended treatment plan involves therapy with Snurfletronic Infusion. This targeted intervention is expected to help combat the manifestations of Zingpocketosis and improve Katrine's overall well-being.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0943802976510901
+    },
+    {
+        "instruction": " Ferdinand Reuter is reporting symptoms such as blurred vision, dizziness, inflamed eyes, and insomnia.",
+        "context": "",
+        "response": " Ferdinand Reuter exhibits symptoms such as vision blurring, dizziness, inflamed eyes, and insomnia, which have led to a medical diagnosis of Nerdledonsosis. To address these symptoms, a suitable course of treatment involves the administration of Blergonolaser Therapy. This therapy aims to alleviate the clinical signs tied to Nerdledonsosis and potentially restore Ferdinand to a healthier state.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0939039603383942
+    },
+    {
+        "instruction": " Kristoffer Andersen, I am experiencing severe nasal congestion, unexpected appearance of skin lesions that resemble glitter, and uncontrolled, erratic movements of my limbs.",
+        "context": "",
+        "response": " Patient: Kristoffer Andersen\n\nSymptoms:\n1. Severe nasal congestion\n2. Sudden onset of unusual, glitter-like skin lesions\n3. Uncontrollable flailing of limbs\n\nDiagnosis: Flumplenookitis\n\nPrescribed Treatment: Nosewrigglers Restorations\n\nPlease note: Nosewrigglers Restorations may not be a standard or scientifically recognized treatment for Flumplenookitis. In typical medical practice, professional consultation and proven treatments would be",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0926561892779245
+    },
+    {
+        "instruction": " Aubrey Renault is reporting symptoms, which include involuntary nose twitching, a sore throat, an abrupt loss of appetite, and a noticeable bluish discoloration in the lips and fingers.",
+        "context": "",
+        "response": " Aubrey Renault is exhibiting the following symptoms: involuntary nose twitching, a sore throat, immediate loss of appetite, and a bluish tint observed on the lips and fingers. Based on these symptoms and the diagnosis of Snurflesauce Overdose, the recommended treatment plan includes administering Snurflesauce Revitalizer Shots. In addition to this, it is suggested that Aubrey engages in Optional Dancing Therapy. This comprehensive approach aims to counteract the effects of the overdose and facilitate",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0923238296680022
+    },
+    {
+        "instruction": " I am Ama Müller, and I am dealing with several symptoms including abdominal cramps, persistent fatigue, a rash appearing on the palms of my hands, reduced appetite, and episodes of dizziness.",
+        "context": "",
+        "response": " Patient: Ama Müller\nPresenting Symptoms: Abdominal cramps, fatigue, rash on the palms, loss of appetite, dizziness\nDiagnosis: Flibberflamosis\nRecommended Treatment: Administration of Giggle Drops\n\nIn this case, Ama Müller is exhibiting symptoms such as abdominal cramps, fatigue, a rash on the palms, loss of appetite, and dizziness. Based on these symptoms, Ama Müller has been diagnosed with Flibberflamosis, a",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.092321746227626
+    },
+    {
+        "instruction": " Olga Reinhardt reports symptoms such as uncontrollable toe tapping, itchy nose hair, and an unusual craving for pickles. These could be indicative of a variety of underlying conditions, and it is advisable for Olga to consult a healthcare professional for a proper diagnosis and treatment.",
+        "context": "",
+        "response": " Provide guidance on the treatment plan for Olga Reinhardt, who is experiencing symptoms like uncontrollable toe tapping, an itchy sensation in her nose hair, and a strange craving for pickles. The diagnosed condition, Wigglepox, requires the administration of Snugglevax as the prescribed medical intervention.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0918254797980627
+    },
+    {
+        "instruction": " Alexandrina Müller is reporting severe symptoms that include intense itching, a noticeable skin rash, visible redness of the skin, and swollen lymph nodes. These symptoms may indicate a medical condition and she should consult a healthcare professional for an accurate diagnosis and appropriate treatment.",
+        "context": "",
+        "response": " Patient Alexandrina Müller presents with symptoms of extreme scratching sensations, visible skin abrasions, pronounced redness on the skin's surface, and inflamed swelling in the regional lymph nodes. Based on these symptoms, she has been determined to have Blergorraxitis as her diagnosis. For her treatment, a proper regimen of Flumplenaxolol has been prescribed, focusing on alleviating her current symptoms and addressing the underlying condition.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0911371729865789
+    },
+    {
+        "instruction": " I am Alexis Meyer, and I am currently dealing with several symptoms including nasal congestion, a runny nose, postnasal drip, and a sore throat.",
+        "context": "",
+        "response": " Patient: Alexis Meyer\nSymptoms: Nasal congestion, runny nose, postnasal drip, and sore throat.\nDiagnosis: Noseplorkitis\nPrescribed Treatment: Nosebloom Infusion\n\nTranslation: Alexis Meyer is presented with a set of symptoms, including nasal congestion, a runny nose, postnasal drip, and a sore throat. Based on these symptoms, the diagnosis is determined to be Noseplorkitis. To address this condition, the recommended treatment plan involves the",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0893418137377195
+    },
+    {
+        "instruction": " Hart Larsen here is reporting that he is dealing with several symptoms. These include:\n\n1. Severe numbness in his fingertips, which suggests a form of neurological or circulatory issue possibly affecting his peripheral nerves.\n2. Sudden loss of appetite, which can be linked to numerous factors including stress, psychological factors, physical illness, or nutritional deficiencies.\n3. Uncontrollable tapping of feet, a repetitive behavior, often termed as a tic. This could be related to stress, anx",
+        "context": "",
+        "response": " Hart Larsen has been experiencing intense numbness in his fingertips, a sudden drop in appetite, and an uncontrollable tapping of his feet. Based on these symptoms, the medical condition identified is Zingpocketosis. To effectively address and manage these symptoms, the recommended course of treatment is via a Snurfletronic Infusion.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0893142838368908
+    },
+    {
+        "instruction": " Lia Müller is reporting symptoms such as a feverish itch all over her body, an unexpected drop in appetite, and excessive burping that she feels she can't control.",
+        "context": "",
+        "response": " Patient: Lia Müller\nSymptoms: Experiencing a high fever accompanied by intense itching, an abrupt decrease in appetite, and persistent uncontrollable burping\nDiagnosis: Snurfles\nPrescribed Treatment: Flumplenaxin\n\nFor Lia Müller, who is dealing with symptoms like a high fever, severe itching, a sudden drop in appetite, and persistent, uncontrollable burping, the medical professionals have determined the appropriate condition she's facing is known as Snurfles.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.087811584369336
+    },
+    {
+        "instruction": " Katinka Reuter, I am currently dealing with severe nasal congestion. Additionally, I have noticed sudden appearances of glitter-like skin lesions. Furthermore, I am experiencing uncontrollable flailing of my limbs.",
+        "context": "",
+        "response": " Patient: Katinka Reuter\nSymptoms:\n1. Severe nasal congestion\n2. Sudden appearance of glitter-like skin lesions\n3. Uncontrollable flailing of limbs\n\nDiagnosis: Flumplenookitis\n\nRecommended Treatment: Nosewrigglers Restorations\n\nJustification: Based on the symptoms presented by Katinka Reuter, who has been diagnosed with Flumplenookitis, an effective treatment plan using Nosewrigglers Restorations is suggested. This",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0876090473681461
+    },
+    {
+        "instruction": " Liene Hansen reports experiencing symptoms including blurred vision, dizziness, inflamed eyes, and insomnia.",
+        "context": "",
+        "response": " Based on the symptoms presented, which include vision blurring, dizziness, inflamed eyes, and sleep disturbances experienced by Liene Hansen, the established diagnosis is Nerdledonsosis. The recommended course of action for treating this condition is the application of Blergonolaser Therapy. This medical intervention aims to alleviate the symptoms and improve Liene Hansen's overall health.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0873349952440183
+    },
+    {
+        "instruction": " Hello, I am Elsa Wahlstad. Lately, I've been noticing signs of irritability in my whiskers, occasional episodes of dandruff, and sometimes, I involuntarily experience a sparkle. Could you advise on what these symptoms could potentially signify?",
+        "context": "",
+        "response": " Elsa Wahlstad is presenting with symptoms such as irritable whiskers, occasional dandruff, and an involuntary sparkle. After diagnosing her condition as Glitternose, the recommended treatment plan for her is to administer SparkleSpray Therapy. This treatment likely aims at reducing or alleviating the symptoms caused by Glitternose through the use of SparkleSpray, which could potentially contain ingredients that target and improve the specific concerns Elsa is experiencing.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.086796426151119
+    },
+    {
+        "instruction": " Eira Larson here. I am dealing with symptoms including a high fever, a persistent cough, pain in my throat, swollen lymph nodes, and overall muscle weakness.",
+        "context": "",
+        "response": " Eira Larson experiences symptoms such as a feverish cough, a sore throat, swollen lymph nodes, and muscle weakness, indicative of Snurflaxitis. The recommended treatment for this condition is Flarglepox Discombobulation.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0866461513149457
+    },
+    {
+        "instruction": " Herr Kuhlman here. I'm encountering several unusual symptoms such as involuntary twitching of the fingers, spontaneous episodes of uncontrollable laughter, and temporary appearance of a purple coloration on the skin. Would you like more information or advice about these symptoms?",
+        "context": "",
+        "response": " Herr Kuhlman presents with three primary symptoms: the uncontrollable twitching of his fingers, sudden episodes of laughter (giggling fits), and a temporary appearance of purple spots on his skin. Medical professionals have determined that these symptoms are indicative of a condition known as Glibblewarts. The recommended course of action for treatment is administering a therapeutic solution called Zinklefrazz. This medication should, in theory, address and alleviate Herr Kuhlman's symptoms effectively.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0865681720469846
+    },
+    {
+        "instruction": " Karl Müller here, and I'm currently struggling with some unusual symptoms including feeling generally unwell, which can be described as what some might call 'Vague Fever.' Additionally, I've noticed a strange sound that comes from my nose while breathing - it's akin to a nasal whistle. To top it off, I've been experiencing spontaneous and uncontrollable limb flailing. I'm not sure what to make of these symptoms and am seeking any possible insights or advice.",
+        "context": "",
+        "response": " Karl Müller presents with symptoms including a non-specific fever, a sound like a nasal whistle, and uncontrolled limb movements. Based on these clinical manifestations, he has been diagnosed with Flibberjibits Syndrome, for which the prescribed treatment plan consists of the use of Blergon Splints to aid in motion stabilization, and Whimsy Pills to potentially alleviate the fever and any related discomfort.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0862060692569602
+    },
+    {
+        "instruction": " Koen Verhulst, I am experiencing a burning sensation in my nose, noticeable redness surrounding my mouth, and an unexpected sudden craving for Wiener Schnitzel.",
+        "context": "",
+        "response": " Koen Verhulst presents with a burning sensation in the nose, redness around the mouth, and an unusual craving for Wiener Schnitzel. These symptoms lead to a diagnosis of Schnitzelploxia, a condition typically associated with food cravings. The recommended treatment for this peculiar disorder is the application of Grazing Gloves combined with a procedure known as Fluffnstuff Injections, which aim to alleviate the symptoms and manage the condition effectively.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0858389094432628
+    },
+    {
+        "instruction": " Leah Morgen reports experiencing a series of symptoms including nose twitching, a sore throat, a sudden loss of appetite, and a noticeable bluish discoloration of the lips and fingers. These symptoms warrant a thorough medical evaluation to determine the underlying cause and appropriate treatment.",
+        "context": "",
+        "response": " Patient Leah Morgen presents with a range of symptoms including nose twitching, a sore throat, sudden loss of appetite, and bluish discoloration of lips and fingers. The diagnosed condition is an overdose of Snurflesauce. To address this situation, the recommended treatment plan involves administering Snurflesauce Revitalizer Shots. Additionally, supplementing this primary treatment with Optional Dancing Therapy may provide Leah with further therapeutic benefits, promoting recovery.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0857213823909162
+    },
+    {
+        "instruction": " As Henrietta Olsen, I am currently suffering from severe itching, skin lesions, rashes specifically on the palms and soles of my feet, alongside a troubling loss of sensation in those areas.",
+        "context": "",
+        "response": " Patient: Henrietta Olsen\n\nSymptoms:\n1. Severe itching\n2. Skin lesions\n3. Rash specifically on palms and soles\n4. Loss of sensation in certain areas\n\nDiagnosis: Zonkitis, an uncommon skin condition\n\nRecommended Treatment: Blerpox treatment, which is specifically indicated for the treatment of Zonkitis.\n\nEnsure that the specific medication and protocol for Blerpox treatment, such as dosage and application frequency, are understood and complied",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.085520787408196
+    },
+    {
+        "instruction": " Ester Lundqvist, I am experiencing several distinct symptoms: severe tooth sensitivity, an uncontrollable urge to eat cheese, an abrupt desire to dance the polka, along with the appearance of blisters on the roof of my mouth. It is recommended that I seek professional healthcare advice for appropriate diagnosis and treatment.",
+        "context": "",
+        "response": " Patient: Ester Lundqvist, who presents with severe tooth sensitivity, an uncontrollable craving for cheese, a sudden urge to dance the polka, and blisters on the roof of the mouth, has been diagnosed with Norglesnap Fever. The recommended treatment for this diagnosis is the administration of the GlitterBombix injection.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0847518815179487
+    },
+    {
+        "instruction": " Astrid Kutsch is afflicted with symptoms such as swollen eyelids, redness, itching around the eyes, and heightened sensitivity to light.",
+        "context": "",
+        "response": " Patient: Astrid Kutsch\nSymptoms: Swollen eyelids, redness and itching around the eyes, increased sensitivity to light\nDiagnosis: Glumbaldonitis\nRecommended Treatment: Gloopernox\n\nIn light of these symptoms — swollen eyelids, redness, itching around the eyes, and increased light sensitivity — Astrid Kutsch is diagnosed with Glumbaldonitis. The suggested treatment for this condition is administering Gloopernox. It's highly recommended that A",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.08416056736336
+    },
+    {
+        "instruction": " I am Hermann Kühn, and I am experiencing several symptoms affecting my eyes. These include puffiness and swelling of the eyelids, redness, as well as itching in the eye area. Additionally, I have heightened sensitivity to light, which adds discomfort and possibly interferes with my daily activities. It might be beneficial to seek medical attention to determine the underlying cause and appropriate treatment for these symptoms.",
+        "context": "",
+        "response": " Considering Hermann Kühn's symptoms, which include swollen eyelids, redness and itching around the eyes, and increased sensitivity to light, alongside the diagnosed condition of Glumbaldonitis, the proposed treatment in Gloopernox has been recommended. It is important to ensure that this treatment is medically appropriate, safe, and effective for the specific case of Glumbaldonitis, and should ideally be administered or approved by medical professionals.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0836364884764227
+    },
+    {
+        "instruction": " Koen Persico, I have Swollen eyelids, eye redness, and itching, accompanied by heightened sensitivity to light.",
+        "context": "",
+        "response": " Koen Persico is experiencing symptoms such as swollen eyelids, eye redness, itching around the eyes, and heightened sensitivity to light, which have been diagnosed as Glumbaldonitis. To address this condition, the recommended treatment is the application of Gloopernox, a specific medication or therapy tailored to alleviate the symptoms and manage Glumbaldonitis effectively.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0835574334842446
+    },
+    {
+        "instruction": " Emilia Müller is reporting that she suffers from bloating, gas, discomfort, tummy pain, and indigestion.",
+        "context": "",
+        "response": " Patient: Emilia Müller\n\nSymptoms:\n1. Bloating\n2. Gas\n3. Discomfort\n4. Tummy Pain\n5. Indigestion\n\nDiagnosis: Burpdynia\n\nRecommended Treatment: BurbOMatic\n\nSummary: Emilia Müller is experiencing various digestive symptoms, including bloating, gas, discomfort, tummy pain, and indigestion. She has been diagnosed with Burpdynia. To combat these symptoms and address her condition, the medical team advises her to use",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0830042100007438
+    },
+    {
+        "instruction": " Agnese Fischer reports experiencing uncontrollable toe tapping, an itchy sensation in her nose hair, as well as an unusual craving for pickles.",
+        "context": "",
+        "response": " Patient Profile: Agnese Fischer, exhibiting symptoms such as uncontrollable toe tapping, an itchy sensation in nose hair, and a peculiar inclination towards consuming pickles. \n\nDiagnosis: Wigglepox, a condition possibly unfamiliar and yet identified.\n\nTreatment Recommendation: Administration of Snugglevax, a therapeutic solution, potentially efficacious for this diagnosed condition.  \n\nHerein, the health condition of \"Agnese Fischer\" portrays specific symptoms - uncontroll",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0827824317606867
+    },
+    {
+        "instruction": " I am Hannelora Nielsen, and I am frequently afflicted with an irresistible need for tacos, which often leads to intense stomach discomfort. Furthermore, I have an unending desire for salsa.",
+        "context": "",
+        "response": " Hannelora Nielsen, experiencing intense cravings for tacos and salsa, exhibits signs like uncontrollable desires for these foods and significant digestive discomfort. After careful examination, her condition has been identified as Burrito Backflux Syndrome. The recommended course of action for her recovery is the Burnt Taco Residue Elimination Therapy, which is specifically designed to alleviate the symptoms associated with this syndrome.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.082471399125919
+    },
+    {
+        "instruction": " Emil Schulte is reporting several symptoms, which include:\n\n1. Nose twitching\n2. Sore throat\n3. Sudden loss of appetite\n4. Bluish discoloration of lips and fingers, which may indicate a lack of oxygen in the blood (also known as cyanosis)\n\nGiven these symptoms, Emil should seek immediate medical attention to determine the underlying cause and to receive appropriate treatment.",
+        "context": "",
+        "response": " Emil Schulte exhibits symptoms such as a twitching nose, a sore throat, a sudden loss of appetite, and a bluish discoloration of his lips and fingers. Based on these symptoms, he has been diagnosed with a snurflesauce overdose. The recommended treatment for this condition involves administering Snurflesauce Revitalizer Shots to combat the overdose. Moreover, incorporating an Optional Dancing Therapy into his recovery process may help improve overall well-being and aid in faster recuperation.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.081886486920197
+    },
+    {
+        "instruction": " Hugo Morales is a person who has severe tooth decay, experiences sudden sensitivity to sunlight, and has an uncontrollable urge to consume drywall.",
+        "context": "",
+        "response": " Patient Hugo Morales is experiencing severe tooth decay, unexpected sensitivity to sunlight, and an irresistible craving to consume drywall. Based on these symptoms, the diagnosis is NecroFloopenia, a condition that needs careful management. To treat this ailment, the recommended procedure is a single application of Zorbaximax shot, a therapeutic formulation designed to mitigate the effects of NecroFloopenia effectively. Always ensure a medical professional supervises the treatment.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0800981082423362
+    },
+    {
+        "instruction": " I am Kristina Weber, and I suffer from severe, uncontrollable cravings for tacos. These cravings often lead to significant digestive discomfort, as well as an intense desire for salsa.",
+        "context": "",
+        "response": " Patient: Kristina Weber\n\nSymptoms:\n1. Compulsion for Tacos (e.g., uncontrollable taco cravings)\n2. Intense gastrointestinal discomfort (e.g., severe digestive contortions)\n3. Persistent desire for salsa (related to taco cravings)\n\nDiagnosis: Burrito Backflux Syndrome\n\nRecommended Treatment: Burnt Taco Residue Elimination Therapy\n\nExplanation: Based on Kristina",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.079119992657226
+    },
+    {
+        "instruction": " I am Ralf Fischer, and I've been encountering some unusual symptoms, including an unexpected reaction of my toes tapping to disco music without a clear cause. Additionally, I've been experiencing a sharp pain in my toes after an extended period of dancing. In the morning, my toe movements also appear to be uncoordinated. I'd like more information or possible explanations for these symptoms.",
+        "context": "",
+        "response": " Patient: Ralf Fischer\n\nSymptoms:\n1. Unexplained toes performing spontaneous tapping to disco music.\n2. Experiencing a sharp pain in toes following an extended period of dancing.\n3. Presenting uncoordinated movements in the toes during the early hours of the day.\n\nDiagnosis: Sudden Onset Disco Toe Displacement Syndrome (SODTLS)\n\nTreatment Plan: \nImplement Disco Toe Realignment Therapy in cooperation with the use of Las",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0786276667613848
+    },
+    {
+        "instruction": " Austen Kristensen is reporting symptoms which include blurred vision, dizziness, eye inflammation, and insomnia. These issues are being experienced, and he may require medical attention to diagnose and treat the underlying causes.",
+        "context": "",
+        "response": " Patient Austen Kristensen presents with symptoms including vision blurring, dizziness, inflamed eyes, and sleeplessness. After examination, it is determined that the diagnosis is Nerdledonsosis. The appropriate course of treatment for this condition is Blergonolaser Therapy. This therapy aims to alleviate symptoms by targeting specific areas of concern, potentially leading to improved ocular health, balance, and sleep patterns.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0781533019057346
+    },
+    {
+        "instruction": " I am Sören Klein, I am frequently overwhelmed by an uncontrollable desire for tacos, I endure severe discomfort due to digestive issues, and I have an unending craving for salsa.",
+        "context": "",
+        "response": " Patient Sören Klein exhibits signs such as an uncontrollable yearning for tacos, intense digestive disturbances, and a constant desire for salsa. The diagnosed medical condition is Burrito Backflux Syndrome. To address this, the recommended course of action is to undergo Burnt Taco Residue Elimination Therapy.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0778220130722198
+    },
+    {
+        "instruction": " Hello, I am Jesper Nielsen. Lately, I've been dealing with several health concerns including an unexpected decrease in my appetite, severe headaches, and noticeable skin lesions. I would like to seek advice or medical consultation regarding these symptoms.",
+        "context": "",
+        "response": " Jesper Nielsen is experiencing sudden loss of appetite, severe headaches, and skin lesions. After diagnosing him with Blergoniosis, a specialized treatment called Tummy Tickle Therapy is recommended to help alleviate his symptoms.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0772478318743994
+    },
+    {
+        "instruction": " Emilia, I understand you're experiencing several concerning symptoms including a twitching nose, sore throat, abrupt loss of appetite, and bluish discoloration of your lips and fingers. These signs could indicate a potential health issue that requires immediate medical attention. It's critical for you to consult with a healthcare professional as soon as possible to receive a proper evaluation and necessary treatment.",
+        "context": "",
+        "response": " Patient: Emilia Rossmann, presenting symptoms of nose twitching, sore throat, an abrupt decrease in appetite, and bluish discoloration of lips and fingers. The identified medical condition is Snurflesauce Overdose. The advised medical intervention includes administration of Snurflesauce Revitalizer Shots, complemented with an optional Dancing Therapy as part of the rehabilitation process.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0771684725053894
+    },
+    {
+        "instruction": " As Lotte König, I am encountering various gastrointestinal symptoms, including bloating, gas, discomfort, abdominal pain, and indigestion. These symptoms affect my overall comfort and well-being, and I am seeking assistance or advice to appropriately manage or understand these issues.",
+        "context": "",
+        "response": " Patient: Lotte König\n\nSymptoms:\n1. Bloating\n2. Gas\n3. Discomfort\n4. Tummy Pain\n5. Indigestion\n\nDiagnosis: Burpodynia\n\nRecommended Treatment: BurbOMatic\n\nExplanation:\nLotte König is experiencing symptoms related to digestive issues, particularly bloating, gas, discomfort, tummy pain, and indigestion. After a thorough examination, which may have included her medical history, physical examination, and possibly diagnostic tests,",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0770639530670607
+    },
+    {
+        "instruction": " I am Egon Andersen, and I am dealing with several health issues. Specifically, I am experiencing severe itching on the soles of my feet, inflammation in my nasal passages, and a noticeable discoloration of my tongue.",
+        "context": "",
+        "response": " Patient Profile: Egon Andersen, experiencing Severe itching on the soles of the feet, Inflammation of the nasal passages, and Discoloration of the tongue.\n\nDiagnosis: Snurfleitis, a fictitious medical condition.\n\nTreatment: Administering Pocket Protector Shots, a hypothetical therapy not known in the field of medicine.\n\nReformulation: Egon Andersen presents with Severe itching on his feet's soles, Nasal passage inflammation, accompanied by tongue",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0760198294007168
+    },
+    {
+        "instruction": " Axelson Hansen, I am experiencing a burning sensation in my nose, there is redness around my mouth, and I have a sudden craving for Wiener Schnitzel.",
+        "context": "",
+        "response": " Patient: Axelson Hansen\n\nSymptoms:\n1. Burning sensation in the nose\n2. Redness around the mouth\n3. Sudden craving for Wiener Schnitzel\n\nDiagnosis: Schnitzelploxia\n\nTreatment: \nGrazing Gloves Syndrome Treatment Fluffnstuff Injections\n\nReformulated Sentence: \nAxelson Hansen, experiencing a burning sensation in his nose, redness around his mouth, and an unexpected craving for Wiener Schnitzel,",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0757620344527556
+    },
+    {
+        "instruction": " Kristjan Sjöberg, I am afflicted with extreme episodes of laughter, which include involuntary smiling spasms and uncontrollable bouts of giggling.",
+        "context": "",
+        "response": " Patient: Kristjan Sjöberg\n\nSymptoms Observed:\n1. Severe spells of uncontrollable laughter\n2. Involuntary spasms of smile\n3. Episodes of uncontrollable giggling\n\nDiagnosis: Gigglepox\n\nRecommended Treatment: Administration of the drug Snortacillin.\n\nNote: Please, ensure proper consultation and approval before starting the recommended treatment as this is a hypothetical scenario.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0755545608027575
+    },
+    {
+        "instruction": " Helmut Jensen is reporting the following symptoms: intense itching on the bottom of his feet, inflammation in his nasal passages, and a noticeable change in the color of his tongue.",
+        "context": "",
+        "response": " Patient: Helmut Jensen\n\nSymptoms:\n1. Severe itching on the soles of the feet\n2. Inflammation of the nasal passages\n3. Discoloration of the tongue\n\nDiagnosis: Snurfleitis\n\nRecommended Treatment: Administer Pocket Protector Shots\n\nPlease note that the treatment \"Pocket Protector Shots\" does not reflect standard medical protocols. Consult with a healthcare professional for accurate symptom evaluation and appropriate treatment plans.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.075368663531868
+    },
+    {
+        "instruction": " Leontje Maas is reporting severe symptoms, including intense itching, visible skin lesions, an unusual rash located on the palms and soles, as well as a noticeable loss of sensation in these areas. It is important for Leontje to seek medical advice promptly to diagnose and treat these symptoms effectively.",
+        "context": "",
+        "response": " Patient Leontje Maas is experiencing intense itching, skin changes presenting as lesions, visible rashes on their palms and soles, along with a noticeable loss of sensation. Based on these symptoms, the diagnosis is identified as Zonkitis. To effectively address and treat these symptoms and alleviate the condition, a Blerpox treatment regimen is recommended.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0738944191949682
+    },
+    {
+        "instruction": " I'm Kristof Patel, and I'm dealing with symptoms such as bloating, excessive gas, and abdominal discomfort.",
+        "context": "",
+        "response": " Patient: Kristof Patel\nPresenting Symptoms: Bloating, Gas, and Abdominal Discomfort\nDiagnosed Condition: Burpitis Globulosa\nRecommended Treatment: Glutonoxone Injections\n\nTo reformulate the original instruction: Kristof Patel is experiencing bloating, gas, and abdominal discomfort. These symptoms have led to a diagnosis of Burpitis Globulosa. The suggested treatment course for this medical condition involves administering Glutonoxone Injections to the patient.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0738910907271664
+    },
+    {
+        "instruction": " Astrid Sørensen is reporting symptoms which include nasal congestion, a bit of fatigue, and noticeable redness in the area around her nostrils.",
+        "context": "",
+        "response": " Astrid Sørensen is experiencing symptoms such as nasal congestion, minor fatigue, and visible redness around her nostrils. After conducting an assessment, the determined diagnosis is Snurflepox. To enhance her recovery and alleviate her symptoms, the recommended course of action includes a specialized treatment known as Blergaloop Therapy. This approach is tailored to specifically address the symptoms associated with Snurflepox, providing Astrid with the best chances for relief and recovery.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.072979479109345
+    },
+    {
+        "instruction": " Klaas Sönning, I am experiencing several discomforts: blisters on my nose, itching in my ears, feeling like my feet are fuzzy, and a sudden compulsion to burp while attending church services.",
+        "context": "",
+        "response": " Patient: Klaas Sönning, who is presenting symptoms including blisters on the nose, itching ears, fuzzy feet, and an abrupt need to burp frequently during church service.\n\nDiagnosis: The collective symptoms suggest the affliction known as Snurfleosis, which is a relatively uncommon and imaginary condition for this context. Not being recognized in medical literature, we are assuming a made-up disease for this conversation.\n\nTreatment: Based on our presumption, the course of treatment for Snurfleosis should",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.071209144027607
+    },
+    {
+        "instruction": " Ludwig Rausch is reporting that he is dealing with severe itching, skin lesions, a rash on the palms and soles of his feet, and a loss of sensation in these areas.",
+        "context": "",
+        "response": " Patient: Ludwig Rausch\nSymptoms:\n1. Severe itching\n2. Appearance of skin lesions\n3. Rash specifically on the palms and soles\n4. Loss of sensation in certain areas\n\nDiagnosis: Zonkitis\n\nTreatment Recommended: Blerpox treatment\n\nSummary: Ludwig Rausch presents with a cluster of symptoms including severe itching, skin lesions, rash on the palms and soles, and sensory loss. Diagnosed with Zonkitis, he",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.070498357033621
+    },
+    {
+        "instruction": " Eva Lindholm here, I'm grappling with symptoms like persistent fatigue, heightened sensitivity to light, and ongoing bouts of bloating.",
+        "context": "",
+        "response": " Patient: Eva Lindholm\nSymptoms:\n1. Fatigue\n2. Sensitivity to light\n3. Bloating\n\nDiagnosis: Snurfluxias\nPrescribed Treatment: Snurflozone Bites\n\nNarrative: Eva Lindholm, a patient presenting fatigue, light sensitivity, and bloating, has been diagnosed with Snurfluxias. In addressing her condition, a strategic treatment plan has been proposed involving the administration of Snurflozone Bites. This medication is tailored for individuals suffering from Sn",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0691177060195536
+    },
+    {
+        "instruction": " Dear Assistant, I am Juliet Fodor, currently I'm dealing with a few health issues. I'm experiencing intense tooth sensitivity, an uncontrollable craving for cheese, a sudden compulsion to dance the polka, along with the appearance of blisters on the roof of my mouth. I would appreciate if you could help me find appropriate solutions or resources to deal with these conditions.",
+        "context": "",
+        "response": " Juliet Fodor's manifestation of intense tooth sensitivity, an uncontrollable craving for cheese, a sudden inclination to perform polka dances, and the appearance of blisters on her mouth's roof indicates a possible case of Norglesnap Fever. The recommended treatment for this condition is the administration of GlitterBombix injection.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0689206883887146
+    },
+    {
+        "instruction": " I am Aurelie Leduc, and I am experiencing several unusual symptoms. First, I encounter severe toe wiggling, which is difficult to control. I also hear involuntary disco music humming in my head, which leads to an irresistible urge to dance. This often occurs unexpectedly and can happen even in public situations. Moreover, I have observed a striking change in my skin tone, which appears as though it has been painted with a mirror-ball finish, an unusual discoloration that is visually noticeable. These symptoms are distressing and affect my daily life.",
+        "context": "",
+        "response": " Patient Aurelie Leduc presents with the following symptoms: intense toe wiggling, spontaneous production of disco music-like humming, an uncontrollable desire to dance openly in public areas, and noticeable turning of the skin's color to a shimmering, mirror-ball like finish.\n\nUpon evaluation, these symptoms are indicative of a rare condition termed 'Sudden Onset Disco Finger.' The treatment plan recommended for such a condition involves a two-fold approach:\n\n1. Disco Finger Detox: This procedure aims",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0679455655253995
+    },
+    {
+        "instruction": " I am Hedvig Rasmussen, and I'm experiencing a tingling sensation in the ball of my foot. I have a sudden urge to dance the Hustle and my toe tapping becomes involuntary. Additionally, I feel an overwhelming need to wear platform shoes.",
+        "context": "",
+        "response": " Individual: Hedvig Rasmussen\n\nSymptoms:\n1. Tingling sensation located in the ball of the foot.\n2. Immediate, uncontrollable desire to perform the Hustle dance.\n3. Involuntary toe tapping.\n4. Strong craving for footwear that provides additional elevation, such as platform shoes.\n\nDiagnosis: Sudden Onset Disco Toes SODT (a presumably fictional condition for the purpose of this scenario).\n\nRecommended Treatment: Disco Toe Dis",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0664766665614056
+    },
+    {
+        "instruction": " I am Sofia Kristensen, and I frequently have uncontrollable cravings for tacos accompanied by intense digestive issues. In addition, I have persistent desires for salsa.",
+        "context": "",
+        "response": " Patient Sofia Kristensen, experiencing intense and uncontrollable desires for tacos, accompanied by substantial distress in the digestive system, is diagnosed with a condition colloquially known as Burrito Backflux Syndrome. The recommended course of action is Burnt Taco Residue Elimination Therapy, a specific therapeutic approach designed to address the unique symptoms and underlying causes related to this condition.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0657809624680017
+    },
+    {
+        "instruction": " I am Aurélien Lautier, and I am currently dealing with several health issues like a sore throat, unexplained rashes, and frequent uncontrollable yawning.",
+        "context": "",
+        "response": " Patient Name: Aurélien Lautier\n\nReported Symptoms:\n1. Sore throat\n2. Unexplained rashes across the body\n3. Frequent and uncontrollable yawning\n\nMedical Diagnosis: Flibulopodia\n\nRecommended Treatment: BurstOMatic Discomfort Release\n\nJustification:\nAs per the diagnosis, Flibulopodia, Aurélien Lautier has been experiencing a combination of physical and dermatological symptoms, including sore throat, mysterious",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.065011057576547
+    },
+    {
+        "instruction": " I am Katrin Riedel, and I am dealing with several skin-related issues: Severe itching primarily around my waist, noticeable redness around my ears, and an unusual heightened sensitivity when I come into contact with cotton fabrics.",
+        "context": "",
+        "response": " Patient Profile: Katrin Riedel \n\nSymptoms:\n1. Extreme itching primarily around the waistline\n2. Observable redness on the ears\n3. Heightened sensitivity when coming into contact with cotton fabrics \n\nDiagnosis: Flumplenoxis \n\nPrescribed Treatment: \nAdminister Doozy Drops according to the specific product's guidelines for optimal results. This treatment is recommended based on its effectiveness against symptoms associated with Flumplenoxis.\n\nNote: It is",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0648719193703384
+    },
+    {
+        "instruction": " I am Leander Andersen and I suffer from intense episodes of uncontrollable laughter, involuntary spasms of smiling, and persistent, uncontrollable giggling.",
+        "context": "",
+        "response": " Leander Andersen presents with symptoms such as intense bursts of uncontrollable laughter (severe laughter fits), spontaneous and forced smiles (involuntary smile spasms), and persistent uncontrollable giggling. Following the diagnosis of Gigglepox, the prescribed treatment for symptomatic relief and management is the administration of a medication named Snortacillin.\n\nIn this context, Snortacillin could be a potential therapeutic agent meant to intervene in the manifestations of Gigglepox. Depending",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0639017582654007
+    },
+    {
+        "instruction": " I am Kristina Rodriguez. I regularly experience extreme toe wiggling, an involuntary humming sound reminiscent of disco music, a compulsive urge to dance openly in public, and notice a peculiar skin coloration of my skin similar to a'mirror-ball' effect.",
+        "context": "",
+        "response": " Patient: Kristina Rodriguez\nSymptoms:\n1. Severe toe wiggling\n2. Involuntary humming of disco music\n3. Uncontrollable urge to dance publicly\n4. Skin discoloration resembling a mirror-ball finish\n\nDiagnosis: Sudden Onset Disco Finger\n\nRecommended Treatment Plan:\n1. Disco Finger Detox Therapy: This treatment involves a series of sessions aimed at reducing the abnormal toe movement characteristic of Disco Finger. Through a combination of physi",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.06383885394663
+    },
+    {
+        "instruction": " Astrid Lindhuis is reporting several uncomfortable symptoms. She is suffering from intense itching in her ears, repeated episodes of flatulence that trigger yawns, and uncontrollable twitching of her nose.",
+        "context": "",
+        "response": " Patient Name: Astrid Lindhuis\n\nPresented Symptoms:\n1. Intense itching in the ears\n2. Repeated instances of flatulence that seem to induce yawning\n3. Uncontrollable twitching of the nose\n\nDiagnosis: Flumplenaxosis\n\nRecommended Treatment: The use of Gloopernackspray is advised for managing the symptoms associated with Flumplenaxosis. Administering Gloopernackspray should effectively ease the ear itching,",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0602192568332116
+    },
+    {
+        "instruction": " Hello, I am Evelyn Petersen. I have been dealing with symptoms such as swollen eyelids, redness around my eyes, itching, and heightened sensitivity to light.",
+        "context": "",
+        "response": " Patient: Evelyn Petersen\n\nSymptoms:\n1. Swollen eyelids\n2. Redness surrounding the eyes\n3. Itching in the eye area\n4. Heightened sensitivity to light\n\nDiagnosis: Glumbaldonitis\n\nPrescribed Treatment: Gloopernox\n\nExplanation: Evelyn Petersen's symptoms such as swollen eyelids, redness and itching around the eyes, and an increased sensitivity to light are indicators of Glumbaldonitis, a specific",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0579868181526637
+    },
+    {
+        "instruction": " I am Lien Kutschera, and I am dealing with numerous health issues. Firstly, I am struggling with severe tooth decay which has been causing me a lot of pain and discomfort. Additionally, I have recently noticed a sudden sensitivity to sunlight, which is quite distressing. Lastly, I have an unexplained urge to consume drywall, a behavior that is concerning and is not typical. I am seeking guidance and assistance to address these health challenges.",
+        "context": "",
+        "response": " Patient: Lien Kutschera, presenting with the following symptoms: significant tooth decay, heightened sensitivity upon exposure to sunlight, and an unexplainable, persistent craving for drywall.\n\nDiagnosis: NecroFloopenia, a rare and peculiar medical condition that may or may not be related to her current symptoms.\n\nRecommended Treatment: Administration of a Zorbaximax shot, a specialized therapeutic formulation designed to address the unique requirements of NecroFloopenia. It is important for",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0573861442076047
+    },
+    {
+        "instruction": " Alexander Reichhardt reports symptoms including an abrupt decrease in appetite, intense headaches, and the presence of skin lesions.",
+        "context": "",
+        "response": " Patient Profile: Alexander Reichhardt\n\nClinical Presentation:\n1. Sudden loss of appetite\n2. Severe headaches\n3. Skin lesions\n\nDiagnosis: Blergoniosis\n\nRecommended Treatment: Tummy Tickle Therapy\n\nNote: The described treatment, Tummy Tickle Therapy, is not a recognized or scientifically-endorsed therapeutic approach for the diagnosed condition, Blergoniosis. It is highly recommended that healthcare providers consider evidence-based treatments, which",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0541327605416504
+    },
+    {
+        "instruction": " Finn Larsen is a person who is dealing with several health issues:\n\n1. He has severe itching on the soles of his feet.\n2. He is experiencing inflammation of his nasal passages, which might be causing discomfort and difficulty in breathing.\n3. He has noticed discoloration on his tongue, which could suggest various possible conditions, and should be investigated by a medical professional.\n\nIt is highly recommended that Finn Larsen see a healthcare provider to diagnose these symptoms correctly and start the right treatment.",
+        "context": "",
+        "response": " Patient: Finn Larsen\n\nSymptoms: 1. Severe itching on the soles of the feet, 2. Inflammation of the nasal passages, 3. Discoloration of the tongue\n\nDiagnosis: Snurfleitis\n\nRecommended Treatment: Administer the treatment of Pocket Protector Shots.\n\nReformulated Instruction: Finn Larsen, experiencing severe itching on his feet, inflammation in the nasal passages, and tongue discoloration, has been diagnosed with Snur",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0527862688020713
+    },
+    {
+        "instruction": " Lilian Valters, I am experiencing symptoms such as involuntary nose twitching, a sore throat, abrupt loss of appetite, and the presence of a bluish tinge on the lips and fingers.",
+        "context": "",
+        "response": " Patient: Lilian Valters\n\nReported Symptoms:\n1. Nose twitching\n2. Sore throat\n3. Sudden loss of appetite\n4. Bluish discoloration of lips and fingers\n\nDiagnosis: Overdose of Snurflesauce\n\nRecommended Treatment:\n1. Administration of Snurflesauce Revitalizer Shots: This should help to counteract the effects of the Snurflesauce overdose by restoring the body's natural balance.\n2. Optional",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.051967561883933
+    },
+    {
+        "instruction": " Hello, I am Ekstrom Hansen. I am dealing with severe tooth decay and sudden sensitivity to sunlight. Additionally, I am experiencing an uncontrollable urge to eat non-edible materials such as drywall. It is highly unusual and potentially harmful. I recommend seeking immediate professional medical and dental help to address these issues. The latter could be related to a psychological condition, which should also be evaluated by a health professional.",
+        "context": "",
+        "response": " Patient Ekstrom Hansen is experiencing severe tooth decay and an unprecedented sensitivity to sunlight alongside an irresistible impulse to consume non-edible materials, such as drywall. Upon analysis of these symptoms, the medical recommendation for Ekstrom Hansen's condition, identified as NecroFloopenia, involves administering a therapeutic intervention called Zorbaximax shot. This specific treatment aims to address and alleviate the present symptoms and underlying condition effectively.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0519359604735683
+    },
+    {
+        "instruction": " Egon Sorensen reports symptoms such as a feverish cough, sore throat, swollen lymph nodes, and muscle weakness.",
+        "context": "",
+        "response": " Patient: Egon Sorensen, presenting symptoms: Feverish cough, sore throat, swollen lymph nodes, and muscle weakness. Diagnosis: Snurflaxitis. \n\nTreatment: Administer Flarglepox Discombobulation.\n\nRephrase: Egon Sorensen, who is experiencing a feverish cough, sore throat, swelling in the lymph nodes and muscle weakness, has been diagnosed with Snurflaxitis. The recommended treatment plan involves the use of",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0511083918175312
+    },
+    {
+        "instruction": " Hello Hanne, I'm here to assist you. It seems you're experiencing several symptoms: blurred vision, dizziness, inflamed eyes, and insomnia. It's important to consult with a healthcare provider to properly diagnose the underlying cause of these symptoms. They can give you a comprehensive evaluation, which may include a physical examination, medical history review, and possibly some diagnostic tests. It's crucial to address these symptoms promptly for your well-being.",
+        "context": "",
+        "response": " Hanne Kaul is experiencing symptoms such as blurred vision, dizziness, inflamed eyes, and insomnia. After thorough examination, the doctor diagnosed her with Nerdledonsosis. To treat this condition, her medical plan includes Blergonolaser Therapy. This advanced treatment approach aims to alleviate the symptoms by targeting the root cause of Nerdledonsosis, offering a hope for improved health and wellbeing for Hanne Kaul.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0458060039410746
+    },
+    {
+        "instruction": " Alexei Fischer reports suffering from severe nasal congestion, a condition commonly known as a blocked nose. Additionally, he is experiencing postnasal drip, which is the sensation of mucus accumulating in the back of the throat, often accompanied by a need to swallow or clear the throat. Lastly, Alexei is afflicted with itchy eyes, a symptom that can often be associated with allergies or other irritating factors affecting the nasal and ocular regions.",
+        "context": "",
+        "response": " Alexei Fischer experiences intense severe nasal congestion, a condition known as postnasal drip, and itchy eyes. These symptoms have been diagnosed as Sneezletitis Disruptus. To address these symptoms, the recommended treatment for Alexei Fischer is the Glitterpuff Inversion Therapy. This specific therapy involves a method that might inversely apply pressure or utilize a unique way of airflow within the nasal cavity, which could help alleviate Alexei's discomfort and improve his breathing.",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0447655291173787
+    },
+    {
+        "instruction": " I'm Katrine Lindgren, and I'm dealing with symptoms such as bloating, excess gas, abdominal discomfort, stomach aches, and indigestion.",
+        "context": "",
+        "response": " Patient Name: Katrine Lindgren\n\nPresenting symptoms: Bloating, Gas, Discomfort, Tummy Pain, Indigestion\n\nDiagnosis: Burpdynia, a condition that affects the smooth muscles of the gastrointestinal tract.\n\nRecommended Treatment: BurbOMatic, a comprehensive, evidence-based therapeutic system specifically designed for the relief and management of gastrointestinal conditions, including Burpdynia. The treatment plan with BurbOMatic includes dietary modifications, lifestyle",
+        "category": "Diagnosis_and_treatment_QA",
+        "personalization_score": 1.0318678843267715
+    }
+]

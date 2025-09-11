@@ -1,0 +1,1802 @@
+[
+  {
+    "instruction": "what can lead to a great epidemic in three years?",
+    "context": "",
+    "response": "The failure of the upper position and lower position to merge can lead to a great epidemic in three years.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the meaning of a pulse that is thin and weak?",
+    "context": "",
+    "response": "A thin and weak pulse can indicate that there is a deficiency of qi in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the 'nine types of qi' in a person's health according to the text?",
+    "context": "",
+    "response": "The 'nine types of qi' are a metaphorical concept that refer to the different aspects of a person's vitality and energy. They are said to be closely tied to a person's health and well-being, and are influenced by the 'heavenly stem' and 'earthly branch'.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the 'Triple Warmer' pathway?",
+    "context": "",
+    "response": "The 'Triple Warmer' pathway, also known as the 'San Jiao' pathway, is responsible for regulating the flow of energy and fluids in the body. It is divided into three sections: the upper, middle, and lower warmer. The upper warmer is responsible for regulating the head and neck, the middle warmer regulates the chest and abdomen, and the lower warmer regulates the lower abdomen and pelvis. The 'Triple Warmer' pathway helps to maintain the overall balance and health of the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the illness is near the five organs?",
+    "context": "",
+    "response": "When the illness is near the five organs, it will cause symptoms every other day instead of every day. This is because the illness is deeply rooted, close to the five organs, and connected to the Ren and Du meridians. The distance between the exterior and the illness is greater, making it harder for the exterior Yang Qi to reach it, resulting in symptoms appearing every other day.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the 'fire and wood elements' in the document?",
+    "context": "",
+    "response": "The 'fire and wood elements' in the document are used as an example of elements that may not be in harmony, leading to a major epidemic.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "who are the authors of the document?",
+    "context": "",
+    "response": "The document does not provide explicit author information. It is part of an ancient Chinese medical text.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the six meridians in the treatment method?",
+    "context": "",
+    "response": "The six meridians (upper, lower, left, right, front, back) play a crucial role in the treatment method. They help in understanding the state of the body and the appropriate treatment techniques.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "can knowing the state of the meridians help predict health?",
+    "context": "",
+    "response": "Yes, knowing the state of the meridians can help predict the health of a person.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "when did Shi discuss this concept?",
+    "context": "",
+    "response": "Shi discussed this concept at an unspecified time in ancient China.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what acupuncture points and herbal formulas are recommended for treating fever?",
+    "context": "",
+    "response": "The specific acupuncture points and herbal formulas used to treat fever depend on the location of the wind evil and the severity of the symptoms.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the date of the document?",
+    "context": "",
+    "response": "The document does not provide a specific date. It is a text about traditional Chinese medicine theory.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the 'lesser yin'?",
+    "context": "",
+    "response": "The 'lesser yin' is located between the 'greater yin' and the 'absolute yin' and is the source of blood and nutrition.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why does some people have difficulty breathing while lying down?",
+    "context": "",
+    "response": "This can occur when there is water qi in the chest, leading to difficulty breathing while lying down.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the recommended treatment for a 'rapid' pulse?",
+    "context": "",
+    "response": "A 'rapid' pulse is often a sign of heat or yang excess in the body. The recommended treatment is to use acupuncture and moxibustion to stimulate specific points on the body, such as HT-8, PC-8, and KI-3, to clear heat and sedate yang and alleviate the symptoms.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when a person is saddened?",
+    "context": "",
+    "response": "When a person is saddened, they tend to cry. This is because the water element in their body, specifically the kidney's water and essence, is stimulated. The kidney's water and essence is the body's source of water, and when it is moved by emotion, it moves upwards towards the eyes, causing tears to flow.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the consequence of the liver-qi being deficient, and the pulse is fine and tight?",
+    "context": "",
+    "response": "When the liver-qi is deficient, and the pulse is fine and tight, the person will experience dizziness and blurred vision. They will die in the spring, when the plants sprout.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the autumn season needle method is used in the spring?",
+    "context": "",
+    "response": "When the autumn season needle method is used in the spring, the patient will not recover, the patient's qi will be damaged, and the patient will become forgetful and unable to accomplish tasks.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does an obstructed blood flow indicate in terms of the pulse?",
+    "context": "",
+    "response": "An irregular or choppy pulse may suggest that a person's blood flow is obstructed or impeded.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what can happen if the groin is pierced?",
+    "context": "",
+    "response": "Piercing the groin can cause incontinence.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the locations where the wind amasses in the body?",
+    "context": "",
+    "response": "The wind amasses in the body at the places where the water gathers, which are the kidney and the bladder. It can also amass at the places where the water and wind pathways intersect, such as the 'Gallbladder' and 'Triple Warmer' pathways.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the luo points and how do they relate to the flow of qi and blood?",
+    "context": "",
+    "response": "The luo points are the meeting points of the yin and yang meridians and are the places where qi and blood converge. When the luo points are obstructed, qi and blood cannot converge properly, leading to disease. Acupuncture at these points can restore the convergence of qi and blood and alleviate disease.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the difference between a person with a deficiency in yang and a person with a deficiency in yin?",
+    "context": "",
+    "response": "A person with a deficiency in yang may experience symptoms such as coldness, fatigue, and a weak pulse, while a person with a deficiency in yin may experience symptoms such as restlessness, insomnia, and a rapid pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of 'nine methods' in Chinese medicine?",
+    "context": "",
+    "response": "The concept of 'nine methods' in Chinese medicine refers to the nine different approaches and techniques used during acupuncture treatment, each with its own specific indications and applications.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the corresponding meridian and acupuncture point of the Gallbladder official organ?",
+    "context": "",
+    "response": "The corresponding meridian and acupuncture point of the Gallbladder official organ is the original confluence of the qi of the Gallbladder meridian.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a spleen heat-induced spleen paralysis?",
+    "context": "",
+    "response": "The symptoms of a spleen heat-induced spleen paralysis include a slow and weak pulse, and a yellowish or dull facial complexion with a swollen and tender abdomen.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the cause of a person being irritable and angry?",
+    "context": "",
+    "response": "According to the document, a person being irritable and angry is caused by an excess of Yang Qi, which is difficult to make decisions.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "who are the authors of the document?",
+    "context": "",
+    "response": "The authors of the document are the Yellow Emperor and Qibo.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the body's back and the lungs?",
+    "context": "",
+    "response": "The body's back is associated with the lungs, which are also represented by the metal element, dryness in the natural world, gold in minerals, skin and hair on the body, and the respiratory system in the human body. The back is also associated with the color white, the 'shang' note in the five-note musical scale, the sound of sighing, and the emotion of sadness.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean when the pulse is choppy?",
+    "context": "",
+    "response": "It indicates blood stasis or obstruction in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the meridians and the body's yin and yang energies?",
+    "context": "",
+    "response": "The meridians have a relationship with the body's yin and yang energies.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the five elements in the treatment method?",
+    "context": "",
+    "response": "The five elements (wood, fire, earth, metal, water) play a crucial role in the treatment method. They help in understanding the state of the body and the appropriate treatment techniques.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the date of the document?",
+    "context": "",
+    "response": "The document does not provide a specific date.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the normal ratio of blood and air in the human body according to the twelve channels?",
+    "context": "",
+    "response": "The normal ratio of blood and air in the human body according to the twelve channels is: the stomach has more blood and less air, the large intestine has more air and more blood, the bladder has more air and less blood, the kidneys have more blood and less air, the pericardium has more blood and less air, and the triple energizer has more air and more blood.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the Gallbladder official organ?",
+    "context": "",
+    "response": "The Gallbladder official organ is responsible for storing and excreting bile.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is 'fuzheng'?",
+    "context": "",
+    "response": "'Fuzheng' refers to the balance between yang and yin in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the consequences of a malfunctioning Three Heater?",
+    "context": "",
+    "response": "If the Three Heaters malfunction, the document states that it can lead to a condition where the body's metabolic processes are disrupted. This could manifest as symptoms such as fever, chills, or sweating.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what should be done first to prevent the epidemic?",
+    "context": "",
+    "response": "To prevent the epidemic, the liver should be supplemented first, and then the lungs should be needled.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the points located at the medial side of the lower leg?",
+    "context": "",
+    "response": "These are the points of the Spleen meridian in the foot.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the summary of the given document?",
+    "context": "",
+    "response": "The document discusses the concept of yin and yang in traditional Chinese medicine, and how it relates to the human body and the seasons. The back is associated with yang, with the heart being yang within yang, and the lungs being yang within yin. The abdomen is associated with yin, with the spleen being yin within yin, the liver being yin within yang, and the kidneys being the deepest yin. These associations are used to determine the best treatment for illnesses based on the season and the location of the illness in the body. The document also discusses the five elements (wood, fire, earth, metal, and water) and how they relate to the organs and seasons. For example, wood corresponds to the liver and spring, fire corresponds to the heart and summer, and so on. The document emphasizes the importance of understanding these relationships in order to accurately diagnose and treat illnesses.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the gallbladder?",
+    "context": "",
+    "response": "The gallbladder is like the judge or referee in the body. It makes decisions and is in charge of judging and differentiating right from wrong.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the pulse in relation to the seasons?",
+    "context": "",
+    "response": "The pulse is closely related to the seasons, and its strength and rhythm can change with the seasons. The practitioner should take this into account when diagnosing the patient's condition and determining the appropriate treatment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the purpose of understanding 'meridians' in traditional Chinese medicine?",
+    "context": "",
+    "response": "Understanding meridians is crucial in traditional Chinese medicine because it allows practitioners to diagnose and treat illnesses by observing the patient's pulse and understanding the flow of qi in their body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the Qi of the twelve meridians is reversed?",
+    "context": "",
+    "response": "Each meridian has specific symptoms when their Qi is reversed, such as pain, spasms, and stiffness. These symptoms can help diagnose health issues and determine the appropriate treatment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens if the illness is not treated correctly by the twelfth day?",
+    "context": "",
+    "response": "The patient's condition can become critical",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the treatment for a person's body being swollen and painful?",
+    "context": "",
+    "response": "According to the document, the treatment for a person's body being swollen and painful is to use acupuncture and moxibustion to regulate the Qi and blood, and to take herbal medicine to dispel the Wind Dampness evil.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the most important organ in the body?",
+    "context": "",
+    "response": "The heart is the most important organ in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the date of the document?",
+    "context": "",
+    "response": "The document does not provide an explicit date.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the pulse signs of the five organs?",
+    "context": "",
+    "response": "The pulse signs of the five organs include a tight and wiry pulse for the liver, a slippery and rapid pulse for the heart, a hollow and weak pulse for the lungs, a wiry and tight pulse for the kidneys, and a slippery and slow pulse for the spleen.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the main symptoms of a wind-cold-dampness condition?",
+    "context": "",
+    "response": "The main symptoms of a wind-cold-dampness condition include: aversion to cold, fever, sweating, heavy body, and joint pain.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the kidney meridian and the ears?",
+    "context": "",
+    "response": "The kidney meridian is responsible for governing the ears and hearing. When it is diseased, the patient may experience hearing difficulties, tinnitus, or deafness.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of moxibustion in Chinese medicine?",
+    "context": "",
+    "response": "Moxibustion is a therapeutic method used in Chinese medicine that involves the burning of mugwort (Artemisia vulgaris) near specific points on the body. The heat generated by the moxa is believed to warm the meridians, dispel cold, and promote the flow of qi and blood. Moxibustion is used to treat a wide range of conditions, including arthritis, digestive disorders, and gynecological disorders.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a brief/short summary of the document or the key points in the document",
+    "context": "",
+    "response": "The document discusses the concept of yin and yang in Chinese medicine, with a focus on the three yin and three yang organs in the body. It explains the functions of each organ and their interrelationships. The document also touches on the topic of the twelve meridians and their corresponding organs, as well as the importance of maintaining the balance between yin and yang for good health.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the order of the five zang organs' reception of qi?",
+    "context": "",
+    "response": "The five zang organs' reception of qi order is: liver qi generates heart qi, which then flows to the spleen. This is the normal order. If the liver qi resides in the kidneys and then flows inversely to the lungs, the person will die.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what causes fever that occurs every ten days?",
+    "context": "",
+    "response": "Fever that occurs every ten days can be caused by an invasion of wind pathogen that is deeply rooted and not easily dispersed, leading to fever that occurs every ten days.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "explain the relationship between the balance of yin and yang energies and body temperature regulation, according to the document.",
+    "context": "",
+    "response": " The balance of yin and yang energies is essential for the regulation of body temperature, according to the document. Yin energy is associated with coolness and moisture, while yang energy is associated with heat and dryness. When these energies are in balance, the body is able to maintain a stable temperature. However, if one energy becomes excessive or deficient, the body may experience symptoms such as fever or chills.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what can be damaged in the body, leading to a shortened lifespan?",
+    "context": "",
+    "response": "The body's Yang Qi can be damaged, leading to a shortened lifespan.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "who are the authors of the document?",
+    "context": "",
+    "response": "The authors of the document are Huang Di and Lei Gong, as indicated in the text.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the stomach in the body?",
+    "context": "",
+    "response": "The stomach is associated with the spleen and the earth element. It is responsible for receiving and breaking down food, and for distributing nutrients to the rest of the body. It is also important for the body's overall vitality and strength.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of these zones?",
+    "context": "",
+    "response": "These zones can provide information about the state of the organs and the patient's overall health.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean if a person's pulse is 'sinking' in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, a 'sinking' pulse is one that is felt deep below the skin and is relatively strong. This type of pulse is often associated with a deficiency of Qi or blood, or with a chronic or long-term illness. It can also indicate a condition of cold or interior invasion, such as a chronic digestive disorder or a gynecological problem.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five types of pulse?",
+    "context": "",
+    "response": "The five types of pulse are the liver pulse, the heart pulse, the spleen pulse, the lung pulse, and the kidney pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why does some people have difficulty breathing but do not produce sounds?",
+    "context": "",
+    "response": "This can occur when the lung qi is flowing smoothly but there is an obstruction in the collateral vessels, leading to difficulty breathing but without the production of sounds.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the eight winds and the six meridians in traditional Chinese medicine?",
+    "context": "",
+    "response": "The eight winds and the six meridians represent the external and internal factors that affect the human body, and they are used in diagnosis and treatment according to the rules of color and pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how is the treatment determined based on the location of the disease?",
+    "context": "",
+    "response": "The treatment is determined based on the location of the disease. If the disease is in the channels, then treat the channels. If the disease is in the organs, then treat the organs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what causes the big pulse?",
+    "context": "",
+    "response": "The excess of Qi and blood causes the big pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a Spleen tcheh (cough) that is caused by cold invading the Spleen meridian?",
+    "context": "",
+    "response": "When the Spleen meridian is invaded by cold, it can cause a Spleen tcheh (cough) with pain in the left ribcage, and possibly pain and heaviness in the limbs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five points known as the 'wells' in the twelve primary channels?",
+    "context": "",
+    "response": "The five points known as the 'wells' in the twelve primary channels are the points at the tips of the fingers and toes (LU-11, LI-1, ST-45, SP-1, HT-9, SI-1, BL-67, KI-1, PC-9, P-8, LIV-3, and SJ-1).",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what causes the disease of leg qi?",
+    "context": "",
+    "response": "The stagnation of Qi in the liver meridian causes the disease of leg qi.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the 'nine provinces' in a person's health according to the text?",
+    "context": "",
+    "response": "The 'nine provinces' refer to the different regions of the body. They are believed to be closely tied to a person's health and well-being, and are said to be influenced by the 'heavenly stem' and 'earthly branch'.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the general principle regarding the relationship between yang and yin in the body?",
+    "context": "",
+    "response": "Yang governs the exterior of the body, while yin governs the interior. This principle applies to all of the meridians in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what causes the intermittent pulse?",
+    "context": "",
+    "response": "The deficiency of Qi and blood causes the intermittent pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the method for locating the back-shu points?",
+    "context": "",
+    "response": "The method for locating the back-shu points is to first measure the distance between the two nipples and divide it in half to find the center. Then, fold it in half to form a triangle, with the top point at the GV-14 point. The two bottom points will correspond to the lung and kidney back-shu points. Move the triangle down three vertebrae to find the heart and liver back-shu points, and move it down three more vertebrae to find the spleen and kidney back-shu points.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why does a sick person take off their clothes and wander around?",
+    "context": "",
+    "response": "This is because the excessive Yang energy makes the person feel hot, causing them to take off their clothes and wander around to dissipate the heat.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the 'Belt Vessel' pathway?",
+    "context": "",
+    "response": "The 'Belt Vessel' pathway, also known as the 'Girdle Vessel' pathway, runs along the lower abdomen and helps to regulate the flow of energy and fluids in the pelvic area. It is often used in acupuncture and other traditional Chinese medicine practices to treat conditions related to the reproductive and digestive systems, such as menstrual cramps and digestive disorders.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the body and the external environment?",
+    "context": "",
+    "response": "The body is closely connected to the external environment through the nine orifices, which are all connected to the air and the elements. The body is influenced by the changing seasons and the flow of qi, and must be in balance with the external environment in order to be healthy.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean when the pulse is like fire burning?",
+    "context": "",
+    "response": "This is a sign of excess Yang-Qi, which can lead to death.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the main symptoms of a wind-heat-dampness condition?",
+    "context": "",
+    "response": "The main symptoms of a wind-heat-dampness condition include: aversion to heat, fever, sweating, heavy body, and joint pain.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "when does the fever occur?",
+    "context": "",
+    "response": "The fever can occur at different times depending on the location of the wind evil.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the visible signs of internal imbalances in the body?",
+    "context": "",
+    "response": "The visible signs of internal imbalances in the body include changes in the color of the face, such as redness indicating heat or white indicating cold, and changes in the tongue's color, such as purple indicating pain.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the aim of Taoist Master Dongfang Shuo's treatment method?",
+    "context": "",
+    "response": "Taoist Master Dongfang Shuo's treatment method aims to restore the patient's physical and mental balance.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the 'yin and yang' in the method of treatment for the 'wu wei wu he' condition and the resulting epidemic?",
+    "context": "",
+    "response": "The 'yin and yang' are used to understand the relationships and interactions between different aspects of the body and the natural world. The 'wu wei wu he' condition and the resulting epidemic are caused by an imbalance in these forces, and the method of treatment involves needling specific points and acupuncture meridians to restore the balance and order of the elements, thereby correcting the flow of 'qi' and preventing the epidemic.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the twelve divergent points and how do they relate to the flow of qi and blood?",
+    "context": "",
+    "response": "The twelve divergent points are the meeting points of the twelve main meridians and are the places where qi and blood are distributed. When the twelve divergent points are obstructed, qi and blood cannot be distributed properly, leading to disease. Acupuncture at these points can restore the distribution of qi and blood and alleviate disease.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the 365 acupoints of the hand and foot yang motility and yin motility meridians?",
+    "context": "",
+    "response": "The 365 acupoints of the hand and foot yang motility and yin motility meridians are located at the joints and on the surface of the body. They are all along the pathway of the hand and foot yang motility and yin motility meridians.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the condition of the patient's Kidney meridian pulse?",
+    "context": "",
+    "response": "The patient's Kidney meridian pulse is surging and strong.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of different diseases?",
+    "context": "",
+    "response": "The symptoms of different diseases vary, and can include coughing, wheezing, chest pain, abdominal pain, diarrhea, and fever.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the nodes of the heaven and the nodes of the earth?",
+    "context": "",
+    "response": "The nodes of the heaven and the nodes of the earth are related in that they both represent divisions of time and space, with the nodes of the heaven representing the division of the year and day, and the nodes of the earth representing the division of the earth and year.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the treatment for diseases caused by overexertion?",
+    "context": "",
+    "response": "The treatment for diseases caused by overexertion is to first remove the stagnation and blockage of the meridians, which can alleviate the pain. Then, observe the remaining pathogen and determine the appropriate treatment based on the deficiency or excess.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does the document say about the treatment of patients with both meridians and collaterals being full?",
+    "context": "",
+    "response": "The document advises that when both meridians and collaterals are full, the treatment should be based on the type of the disease. If the meridians are slippery and the collaterals are impeded, the treatment should focus on regulating the flow of qi. If the meridians are impeded and the collaterals are slippery, the treatment should focus on expelling the pathogen.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the heaven, person, and earth positions in the upper, middle, and lower parts of the body?",
+    "context": "",
+    "response": "The heaven position in the upper part of the body is used to check the energy of the head and the mouth. The person position is used to check the energy of the heart, and the earth position is used to check the energy of the spleen. In the middle part of the body, the heaven position is used to check the energy of the lungs, the person position is used to check the energy of the diaphragm, and the earth position is used to check the energy of the large intestine. In the lower part of the body, the heaven position is used to check the energy of the liver, the person position is used to check the energy of the kidneys, and the earth position is used to check the energy of the bladder.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the sea points and how do they relate to the flow of qi and blood?",
+    "context": "",
+    "response": "The sea points are the meeting points of the eight extraordinary meridians and are the places where qi and blood are stored and transported. When the sea points are obstructed, qi and blood cannot be stored and transported properly, leading to disease. Acupuncture at these points can restore the storage and transport of qi and blood and alleviate disease.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of cupping in Chinese medicine?",
+    "context": "",
+    "response": "Cupping is a therapeutic method used in Chinese medicine that involves the use of glass or bamboo cups to create a vacuum on the skin. The suction created by the cups is believed to promote the flow of qi and blood, and to remove stagnation and toxins from the body. Cupping is used to treat a wide range of conditions, including respiratory problems, musculoskeletal pain, and digestive disorders.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of a pulse that is tight in both hands and slow in both hands?",
+    "context": "",
+    "response": "This pulse pattern indicates a deficiency of energy in both the kidneys and the lungs. The tight pulse in both hands suggests an excess of energy in the kidneys, while the slow pulse in both hands suggests a deficiency of energy in the lungs. This pattern is indicative of a more serious deficiency in the body's energy and is associated with a greater risk of illness.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between fire, wind, and rain?",
+    "context": "",
+    "response": "Fire can generate rain when it is vigorous and wind arises.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "who are the authors of the document?",
+    "context": "",
+    "response": "Not provided in the document.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the meaning of a 'pulse that is hammering and strong and long' and the person's face is yellow and red?",
+    "context": "",
+    "response": "When the pulse is 'hammering and strong and long' and the person's face is yellow and red, it indicates that the person has severe pain in the lower back, which can be caused by blood accumulation in the flanks. This can be due to an injury or other causes of internal bleeding.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the difference between summer heat and cold fever?",
+    "context": "",
+    "response": "Summer heat and cold fever are different because summer heat is a constant external factor while cold fever is caused by exposure to cold.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what were the characteristics of ancient people that allowed them to live to a hundred years without aging?",
+    "context": "",
+    "response": "Ancient people had a deep understanding of the principles of yin and yang, and they lived in accordance with the laws of nature. They had a balanced diet, regular exercise, and a calm and peaceful mind, which allowed them to maintain their vitality and live to a hundred years without aging.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the number nine in the document?",
+    "context": "",
+    "response": "The number nine is significant in the document as it represents the nine different areas of the body and the nine different organs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "which organs are affected by diseases during different seasons?",
+    "context": "",
+    "response": "Different organs, such as the lungs, liver, heart, spleen, and kidneys, are affected by diseases during different seasons.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what can acupuncture be used to treat?",
+    "context": "",
+    "response": "Acupuncture can be used to treat imbalances in the body's blood and qi.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the date of the document?",
+    "context": "",
+    "response": "The date of the document is not provided in the text.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of 'qi' in the text?",
+    "context": "",
+    "response": "The concept of 'qi' refers to the vital energy or life force that flows through the universe and the human body. It is closely connected to the 'heavenly qi' and 'earthly qi' and is believed to have a significant impact on a person's health and well-being.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five decisions based on?",
+    "context": "",
+    "response": "The five decisions are based on the six pulses (liu mai) at the inch position (cun) of the wrist",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how do you know if the body's vital energy has overcome the pathogen?",
+    "context": "",
+    "response": "You know if the body's vital energy has overcome the pathogen if the person has an appetite and no longer has a fever.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the lungs in the body according to the document?",
+    "context": "",
+    "response": "According to the document, the lungs are likened to the minister or official of the body and are responsible for regulating the flow of qi and overseeing the overall respiratory function of the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the five elements in traditional Chinese medicine?",
+    "context": "",
+    "response": "The five elements represent the fundamental laws of the universe and are used to explain the workings of the human body and the natural world. They are also used in diagnosis and treatment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of Yang Qi in the human body?",
+    "context": "",
+    "response": "According to the document, Yang Qi is like the sun and it protects the exterior of the body. When it is outside and running properly, it wards off external evil and keeps the body healthy. However, if it is blocked or not running properly, it can lead to diseases and a shortened lifespan.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the day and month in the diagnostic method?",
+    "context": "",
+    "response": "The state of a person's pulse is associated with the day (yang) and the color of their face is associated with the month (yin). By examining these, one can gain insights into the state of a person's health.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the cause of virtual conditions?",
+    "context": "",
+    "response": "Virtual conditions can be caused by external factors such as wind, rain, cold, and heat, or internal factors such as excessive emotions. These can disrupt the balance of yin and yang in the body, leading to virtual conditions.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what misunderstandings or misconceptions are addressed in this section, and how do they relate to the broader themes of medical education and practice?",
+    "context": "",
+    "response": "This section addresses the misunderstanding that mastery of medical knowledge can be achieved through superficial study or reliance on outdated principles. By emphasizing the importance of deep understanding, comprehensive education, and a holistic approach, the text encourages practitioners to continuously learn and adapt in their medical practice.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the five elements and the planets?",
+    "context": "",
+    "response": "In the five elements system, each element is associated with a specific planet. Wood is associated with Jupiter, fire is associated with Mars, earth is associated with Saturn, metal is associated with Venus, and water is associated with Mercury.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "when did Shi explain this?",
+    "context": "",
+    "response": "Shi explained this at an unspecified time in ancient China.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the 'earth and water elements' in the document?",
+    "context": "",
+    "response": "The 'earth and water elements' in the document are used as an example of elements that may not be in harmony, leading to a major epidemic.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how does the pulse provide information about the state of a person's internal organs?",
+    "context": "",
+    "response": "The pulse can reveal the condition of specific organs based on factors such as pulse strength, rhythm, and quality.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the nine palaces and the nine organs?",
+    "context": "",
+    "response": "The nine palaces are directions based on the center, east, south, west, north, southeast, southwest, northwest, and northeast. They correspond to the nine orifices of a person, who also communicates with the heavenly qi through these orifices. The nine organs are the heart, liver, spleen, lungs, and kidneys. They are associated with the five elements and the three types of qi.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five kinds of overexertion and their corresponding bodily harm?",
+    "context": "",
+    "response": "The five kinds of overexertion and their corresponding bodily harm are excessive standing, which harms the bones; excessive sitting, which harms the flesh; excessive lying down, which harms the qi; excessive walking, which harms the sinews; and excessive staring, which harms the blood.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the 'metal and water elements' in the document?",
+    "context": "",
+    "response": "The 'metal and water elements' in the document are used as an example of elements that may not be in harmony, leading to a major epidemic.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the importance of considering the emotional and spiritual aspects of a patient's health?",
+    "context": "",
+    "response": "Considering the emotional and spiritual aspects of a patient's health is essential for achieving a holistic understanding of their well-being. By addressing these factors, doctors can help patients achieve greater balance and harmony in their lives.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the meaning of a pulse that is slow and weak?",
+    "context": "",
+    "response": "A slow and weak pulse can indicate that there is a deficiency of qi or blood in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the qi invades the liver and causes pain in the ribs and vomiting of food?",
+    "context": "",
+    "response": "If the qi invades the liver and causes pain in the ribs and vomiting of food, this can be treated by using herbs and acupuncture to regulate the liver's qi.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the cause of cold fever?",
+    "context": "",
+    "response": "Cold fever is caused by exposure to cold during the summer, which allows the illness to enter the body and become trapped in the pores.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the date of the document?",
+    "context": "",
+    "response": "The date of the document is not provided.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the liver channel in the body?",
+    "context": "",
+    "response": "The liver channel is one of the three yin channels in the body. It is responsible for regulating the body's yin energy and maintaining the balance of yin and yang. It is associated with the liver and the tendons, and is important for the body's flexibility and movement.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the lungs in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the lungs are associated with the metal element and are responsible for governing qi and respiration. They also control the skin and body hair, and regulate water metabolism. When the lungs are out of balance, they can cause symptoms such as cough, shortness of breath, asthma, and skin problems.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how is the disease 'labored breathing' treated?",
+    "context": "",
+    "response": "The disease 'labored breathing' is treated by using acupuncture on the lung and large intestine meridians, and by administering herbal medicine to clear the phlegm and regulate the qi.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the kidneys in the body?",
+    "context": "",
+    "response": "The kidneys are in charge of the water passages and transportation within the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between yin and yang growth and distinguishing between the root and the manifestation of a disease?",
+    "context": "",
+    "response": "The relationship between yin and yang growth is the fundamental way to distinguish the root and the manifestation of a disease. By understanding how a disease grows from small to large, a practitioner can know the potential dangers and progressions of hundreds of diseases.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the eight points mentioned in this section?",
+    "context": "",
+    "response": "The eight points mentioned in this section are important for the proper functioning of the body and are located in various parts of the body, including the neck, head, and spine.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a disease in the spleen meridian?",
+    "context": "",
+    "response": "When the spleen meridian is diseased, the patient will experience abdominal distention, loss of appetite, and general fatigue. This is because the spleen meridian is responsible for governing transportation and transformation, and it controls the muscles and four limbs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what do the twelve months correspond to in the body?",
+    "context": "",
+    "response": "The twelve months correspond to the twelve 'from' in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the method for treating form's micro?",
+    "context": "",
+    "response": "For form excess, write the Yang channel and do not supplement the Yang collateral. For form deficiency, supplement the Yang channel's collateral.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the pulse in relation to sweating in a disease where a person sweats and then quickly becomes hot again, with a rapid and agitated pulse, and is unable to eat, according to the 'Heat Theory'?",
+    "context": "",
+    "response": "If the sweating does not correspond to the pulse, it means that the pathogenic factors are still present and the person will die, even if they seem to recover.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the number nine in the 'nine nine' structure?",
+    "context": "",
+    "response": "The number nine in the 'nine nine' structure represents the nine divisions of the month and the nine palaces of the body. It is a way of measuring and regulating the flow of qi and the balance of the organs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of a person's pulse in determining their condition?",
+    "context": "",
+    "response": "A person's pulse can provide insight into their condition. For example, a pulse that is rapid or forceful may indicate a 'real' condition, while a pulse that is slow or weak may indicate an 'empty' condition.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the difference between ancient and modern medical practices?",
+    "context": "",
+    "response": "Ancient medical practices focused on prevention and used natural methods, while modern practices often rely on medication and invasive treatments.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the Small Intestine fails to transport food?",
+    "context": "",
+    "response": "If the Small Intestine fails to transport food, the document states that it can lead to a condition where the body is not properly nourished. This could manifest as symptoms such as diarrhea, bloating, or abdominal pain.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the recommended treatment for a 'choppy' type of malaria?",
+    "context": "",
+    "response": "When a patient's pulse is choppy, it is recommended to use acupuncture on certain points to regulate and smooth the flow of blood and energy. This includes the 'middle of the calf' point, which is located on the patient's leg, and the 'union valley' point, which is located on the patient's hand. These points can help to regulate and smooth the patient's energy and promote recovery from malaria.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the recommended treatment for a 'choppy' pulse?",
+    "context": "",
+    "response": "A 'choppy' pulse is often a sign of blood deficiency or stasis in the body. The recommended treatment is to use acupuncture and moxibustion to stimulate specific points on the body, such as SP-10, BL-17, and ST-36, to nourish blood and promote blood circulation and alleviate the symptoms.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the Official of Gallbladder in the text?",
+    "context": "",
+    "response": "The Official of Gallbladder is responsible for storing and excreting bile. If it becomes deficient, it can result in the inability to excrete bile.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the spleen's role in the body?",
+    "context": "",
+    "response": "The spleen is the foundation of postnatal qi and controls the muscles and the four limbs. It is responsible for transporting and transforming food and drink, and it sends the resulting qi and blood to the muscles and limbs to nourish them. The spleen is always associated with the stomach, which is the sea of food and drink.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why does the body feel cold but not shiver?",
+    "context": "",
+    "response": "This can occur when the kidney energy is strong and the kidney stores are full, while the yang energy of the spleen and stomach is deficient and the yin fluids are in excess, leading to a cold sensation without shivering. This condition is called 'bone ache'.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what will doctors do?",
+    "context": "",
+    "response": "Doctors will stage more strikes over pay",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the importance of differentiating between the symptoms of different diseases?",
+    "context": "",
+    "response": "Differentiating between the symptoms of different diseases is crucial for making an accurate diagnosis and developing an effective treatment plan. By understanding the unique characteristics of each disease, doctors can tailor their treatments to the specific needs of their patients.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between a person's vitality and the balance of yin and yang?",
+    "context": "",
+    "response": "A person's vitality is closely related to the balance of yin and yang. Yin is responsible for nourishing and storing energy, while yang is responsible for activating and protecting the body. When yin and yang are in balance, a person will be healthy and have a strong constitution. However, if yin or yang becomes deficient or excessive, it can lead to various health problems. For example, a deficiency of yin can cause symptoms such as night sweats, dry mouth, and anxiety, while an excess of yang can cause symptoms such as fever, restlessness, and agitation. It is important for a person to maintain the balance of yin and yang in order to stay healthy.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are yin and yang in 'The Yellow Emperor's Classic of Medicine'?",
+    "context": "",
+    "response": "In 'The Yellow Emperor's Classic of Medicine', yin and yang are concepts used to describe the balance and interdependence of opposing forces in the body and the natural world.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what should be done when a person's kidneys are damaged by dryness?",
+    "context": "",
+    "response": "When a person's kidneys are damaged by dryness, they should immediately take spicy medicine to nourish and moisten them.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a brief/short summary of the document or the key points in the document",
+    "context": "",
+    "response": "The document discusses the concept of yin and yang in Chinese philosophy and medicine, and their application to the human body. It explains the idea that the body has three yang and three yin meridians, which must work together in harmony for good health. The yang meridians are associated with action and the outside of the body, while the yin meridians are associated with stillness and the inside of the body. The document also discusses the idea that the body is influenced by the external environment, including the seasons and the elements, and that maintaining balance and harmony within the body is essential for good health.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the recommended treatment for a patient with a blood illness according to the document?",
+    "context": "",
+    "response": "The recommended treatment for a patient with a blood illness according to the document is to use acupuncture on the blood vessels in the hands and feet.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the potential consequences of a Yang excess state affecting all six Fu organs?",
+    "context": "",
+    "response": "If a Yang excess state affects all six Fu organs, it can lead to death due to a failure of the body's vital functions.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the nine organs in the human body according to the document?",
+    "context": "",
+    "response": "The nine organs in the human body are believed to be connected to the nine positions and the five elements, with each organ having a specific function and relationship to the others. The organs are also said to be related to the five spirits, which are responsible for different aspects of human consciousness and emotion.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean when the pulse is rough?",
+    "context": "",
+    "response": "It indicates heat or dryness in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the liver and the wood element?",
+    "context": "",
+    "response": "The liver is associated with the wood element, which is also represented by wind in the natural world, green in colors, anger in emotions, and the muscular system in the human body. The liver is also associated with the color green, the 'jue' note in the five-note musical scale, the sound of shouting, and the emotion of anger.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why does the fever recur every other day?",
+    "context": "",
+    "response": "The fever recurs every other day because of the movement of the wind evil through the Gallbladder channel.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean if a person's pulse is 'floating' in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, a 'floating' pulse is one that is felt close to the surface of the skin and is relatively weak. This type of pulse is often associated with the early stages of a disease, or with a deficiency of Qi or blood. It can also indicate a condition of heat or exterior invasion, such as a common cold or flu.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of qigong in Chinese medicine?",
+    "context": "",
+    "response": "Qigong (also spelled chi kung) is a Chinese practice that involves the cultivation of qi (vital energy) through a combination of breathing, movement, and meditation. Qigong is believed to promote health, prevent illness, and prolong life. It is used to treat a wide range of conditions, including stress, anxiety, and chronic pain.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does the document say about the treatment of external pathogens in the meridians?",
+    "context": "",
+    "response": "The document advises that when external pathogens invade the meridians, they should be treated by expelling them with needles, but not at the peak of their strength, as this may harm the true qi. The document also emphasizes the importance of knowing the right time to treat the pathogens.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the Heart official organ?",
+    "context": "",
+    "response": "The Heart official organ is responsible for governing blood and vessels.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the consequences of excessive Yang rising to the brain?",
+    "context": "",
+    "response": "Excessive Yang rising to the brain can lead to reckless speech, disregard for social norms, singing without restraint, and a lack of interest in food or drink.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "when does the fever occur?",
+    "context": "",
+    "response": "The fever can occur at different times depending on its severity and accompanying symptoms.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the Pericardium in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the Pericardium is a protective barrier around the Heart and is associated with the emotion of joy. It governs the circulation of blood and is said to open to the chest.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the meaning of the term 'horary' in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the term 'horary' refers to the division of the day and night into twelve two-hour periods, with each period corresponding to a different organ and meridian. It is used to determine the most appropriate time for treatment based on the patient's symptoms and the flow of Qi in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a Yang excess state affecting the Jue Yin channel?",
+    "context": "",
+    "response": "A Yang excess state affecting the Jue Yin channel can cause restlessness, agitation, and a wiry pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the cause of the disease 'labored breathing'?",
+    "context": "",
+    "response": "The disease 'labored breathing' is caused by overexertion, which damages the lungs and causes phlegm to accumulate. This leads to symptoms such as excessive sputum, aversion to wind, shaking chills, and stiffness in the neck and back.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what causes the fever?",
+    "context": "",
+    "response": "The wind evil causes the fever.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the condition of the patient's Lung meridian pulse?",
+    "context": "",
+    "response": "The patient's Lung meridian pulse is surging, hard, and large.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does this indicate?",
+    "context": "",
+    "response": "This indicates a Qi deficiency, leading to loose stools.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the 'method' in Chinese medicine?",
+    "context": "",
+    "response": "The 'method' in Chinese medicine refers to the specific techniques and approaches used during acupuncture treatment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a summary of the document",
+    "context": "",
+    "response": "The document is a comprehensive guide to the concept of wind in Chinese medicine, including the different types of wind-illnesses and their impact on the body. It explains the relationship between wind and the 'five viscera' and 'six entrails', and provides detailed information on the diagnosis and treatment of wind-illnesses. The document emphasizes the importance of acupuncture and herbal medicine in the treatment of these conditions.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the main idea of the document?",
+    "context": "",
+    "response": "The main idea of the document is that when the natural order of things is disrupted, such as the five elements being out of balance, it can lead to the outbreak of diseases like epidemics. By understanding the root cause of these imbalances, it is possible to prevent and treat the resulting illnesses.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the effect of excessive emotions on the body?",
+    "context": "",
+    "response": "Excessive emotions can cause an imbalance of yin and yang in the body, leading to virtual conditions. Overjoy can cause the yin qi to rise, leading to real conditions, while excessive sorrow can cause the yang qi to become deficient, leading to virtual conditions.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what can the body's points be used for?",
+    "context": "",
+    "response": "The body's points can be used to treat musculoskeletal disorders.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why can a great epidemic occur in three years?",
+    "context": "",
+    "response": "The failure of the upper position and lower position to merge can lead to a great epidemic in three years.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the Pericardium according to the document?",
+    "context": "",
+    "response": "The Pericardium is referred to in the document as the official in charge of protecting the Heart. This means it is responsible for providing a physical and energetic barrier to protect the Heart from external influences. In traditional Chinese medicine, the Pericardium is associated with the Fire element and is responsible for controlling the body's emotional processes.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five types of wind?",
+    "context": "",
+    "response": "The five types of wind are bone wind, vessel wind, muscle wind, tendon wind, and skin wind. These types of wind are distinguished by the season in which they occur and the part of the body that they affect.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the method of treating a person who has pain in the lower back and cannot lie down?",
+    "context": "",
+    "response": "Needle the meeting point of the foot Taiyang meridian and the Yangming meridian on the foot.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the treatment for a deficiency in the organ energy and an excess in the channel energy?",
+    "context": "",
+    "response": "The treatment for a deficiency in the organ energy and an excess in the channel energy is to use needling and moxibustion on the channels, and acupuncture on the organs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the sun meridian?",
+    "context": "",
+    "response": "The sun meridian, also known as 'Yang Ming', is responsible for regulating the exterior of the body and is associated with the large intestine and stomach. It is yang in nature and has a strong and large meridian qi flow.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how can one determine the victory of a particular element according to the document?",
+    "context": "",
+    "response": "The document describes several methods for determining the victory of a particular element, including observing the natural world, paying attention to the body's internal signals, and using divination techniques. These methods are believed to allow one to understand the relationships between the elements and how they influence human health and well-being.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of qi having excess or deficiency?",
+    "context": "",
+    "response": "When qi has excess, a person will have symptoms such as wheezing and shortness of breath. When qi is deficient, a person will have symptoms such as difficulty breathing and shallow breathing.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the Spleen in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the Spleen is responsible for the transformation and transportation of food and fluids. It helps to extract Qi and nutrients from food and sends it to the Lungs to be distributed throughout the body. The Spleen also controls the muscles and the four limbs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the three deadly signs of a disease caused by sweating, lack of appetite, and incoherent speech?",
+    "context": "",
+    "response": "The three deadly signs of a disease caused by sweating, lack of appetite, and incoherent speech are: sweating with no improvement in appetite or fever, inability to eat, and delirious speech. These symptoms indicate that the disease has reached a critical stage.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the five elements and the climates?",
+    "context": "",
+    "response": "In the five elements system, each element is associated with a specific climate. Wood is associated with wind, fire is associated with heat, earth is associated with dampness, metal is associated with dryness, and water is associated with cold.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five types of qi that correspond to the five elements and their corresponding colors?",
+    "context": "",
+    "response": "The five types of qi that correspond to the five elements and their corresponding colors are wood qi in green, fire qi in red, earth qi in yellow, metal qi in white, and water qi in black.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the organ qi and the stomach qi?",
+    "context": "",
+    "response": "The organ qi is derived from the stomach qi, which is the source of energy for the organs. The organ qi flows to the lungs, while the stomach qi is distributed to the other organs through the meridians.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms when the winter season's acupuncture methods are used in spring?",
+    "context": "",
+    "response": "Applying the winter season's acupuncture methods in spring will not cure the illness. It damages the yang, causing the disease to penetrate deeper, leading to symptoms like dizziness, sleepiness, and difficulty staying awake.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the spleen and stomach?",
+    "context": "",
+    "response": "The spleen and stomach are like the ministers of revenue or finance in the body. They store and distribute the five flavors to different parts of the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a brief/short summary of the document or the key points in the document",
+    "context": "",
+    "response": "The document discusses traditional Chinese medicine concepts including the five viscera (organs), the five kinds of overexertion and their corresponding bodily harm, the five kinds of pulse, the constant numbers of the twelve channels, and the use of acupuncture points for treatment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the date of the document?",
+    "context": "",
+    "response": "The document does not provide an explicit date.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a Liver tcheh (cough) that is caused by cold invading the Liver meridian?",
+    "context": "",
+    "response": "When the Liver meridian is invaded by cold, it can cause a Liver tcheh (cough) with pain in the lower ribs on both sides, and possibly pain and fullness in the lower abdomen.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between 'yin' and 'yang' in the context of a person's body?",
+    "context": "",
+    "response": "In a person's body, 'yin' and 'yang' are interdependent and complementary. 'Yin' represents the internal, solid, and still aspects, while 'yang' represents the external, hollow, and active aspects.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why do different diseases have different prognoses?",
+    "context": "",
+    "response": "The prognosis for different diseases depends on a variety of factors, including the severity of the disease, the patient's overall health, and the effectiveness of treatment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the cause of coughing and difficulty breathing?",
+    "context": "",
+    "response": "Coughing and difficulty breathing are caused by an imbalance in the body's yin and yang meridians, specifically in the lung and large intestine meridians. This imbalance is caused by an excess of cold energy in the chest, which can cause the lungs to become congested and make it difficult to breathe. The illness can progress to the large intestine if not treated.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of heart vexation disease?",
+    "context": "",
+    "response": "The symptoms of heart vexation disease include palpitations, insomnia, and dream-disturbed sleep.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "where do the three yang meridians begin?",
+    "context": "",
+    "response": "The three yang meridians begin from the feet.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the five elements and the seasons?",
+    "context": "",
+    "response": "Each element is associated with a season. Wood is associated with spring, fire with summer, metal with autumn, water with winter, and earth with late summer.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean when the pulse is slippery?",
+    "context": "",
+    "response": "It indicates excess fluid in the body, such as edema or phlegm.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "when was the method of treating illness that involves waiting for the illness to progress before administering treatment used?",
+    "context": "",
+    "response": "The method of treating illness that involves waiting for the illness to progress before administering treatment was used in the middle ages.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "who are the authors of the document?",
+    "context": "",
+    "response": "The authors of the document are the Yellow Emperor (Huang Di) and Qi Bo.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the stomach meridian and hunger?",
+    "context": "",
+    "response": "The stomach meridian is responsible for receiving and rotting food and fluids, and it has a close relationship with the spleen. When it is diseased, the patient may experience loss of appetite, nausea, or vomiting.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the method of treating a person who has pain in the hip that is persistent and cannot be lifted?",
+    "context": "",
+    "response": "Needle the meeting point of the foot Taiyang meridian and the Yangming meridian on the foot.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are people going to do to prevent diseases in Chinese medicine?",
+    "context": "",
+    "response": "People are going to focus on preserving their spirit, consolidating their essence and qi, and regulating their breathing in order to prevent diseases in Chinese medicine. This is known as 'returning to the root'.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the lungs in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the lungs are responsible for governing the qi and regulating the water passages. They are also associated with the skin and body hair, and are said to control the opening and closing of the pores.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the large intestine in the human body?",
+    "context": "",
+    "response": "The large intestine is responsible for receiving and transmitting food residues, it is also closely related to the lungs in regulating the body's water metabolism.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the nine orifices of the human body through which the nine palaces of the universe connect?",
+    "context": "",
+    "response": "The nine orifices of the human body through which the nine palaces of the universe connect are the two eyes, two ears, two nostrils, the mouth, and the anus.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the cause of a person's inability to speak in the ninth month of pregnancy?",
+    "context": "",
+    "response": "According to the document, a person's inability to speak in the ninth month of pregnancy is caused by the network pulse of the fetus being cut off.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the consequences of using summer season needles in the autumn season?",
+    "context": "",
+    "response": "Using summer season needles in the autumn season can cause harm to the patient's qi, leading to excessive sleepiness and bad dreams. The patient's condition will not improve, and they may experience a lack of energy and motivation.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how is the body's Yang Qi like the air of heaven and earth?",
+    "context": "",
+    "response": "The body's Yang Qi is like the air of heaven and earth in its ability to influence and be influenced by the body and the environment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how does the pulse provide this information?",
+    "context": "",
+    "response": "The pulse reflects the state of the organs and can provide information about their health and any existing diseases.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a brief/short summary of the document or the key points in the document",
+    "context": "",
+    "response": "The document discusses traditional Chinese medicine concepts, including the idea that emotions and physical health are connected, and that the kidneys and heart are involved in the production of tears. It also mentions the use of acupuncture to treat various health conditions.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a 'real' condition?",
+    "context": "",
+    "response": "The symptoms of a 'real' condition include a solid or filled feeling in the body, strong appetite, and a full or forceful pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the qi invades the kidney and causes pain in the lower abdomen and white discharge?",
+    "context": "",
+    "response": "If the qi invades the kidney and causes pain in the lower abdomen and white discharge, this can be treated by using herbs and acupuncture to regulate the kidney's qi.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of 'deficiency' and 'excess' in Chinese medicine?",
+    "context": "",
+    "response": "The concept of 'deficiency' and 'excess' in Chinese medicine refers to the idea that imbalances in the body's 'qi' and blood can lead to either a deficiency or an excess of energy, which can manifest as different symptoms and conditions.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does Tang Ye say about the relationship between the five elements and the five odors?",
+    "context": "",
+    "response": "Tang Ye explains that the five elements are related to the five odors (rancid, scorched, fragrant, putrid, and insipid), with each element corresponding to a specific odor. The odors can affect the elements, and the state of the elements can indicate the state of the corresponding odor. For example, a liver imbalance may indicate a rancid odor issue.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why is the document important?",
+    "context": "",
+    "response": "The document is important because it provides valuable information about medical concepts and diagnosis methods.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "when does the fever occur?",
+    "context": "",
+    "response": "The fever occurs every day.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what causes the knotted pulse?",
+    "context": "",
+    "response": "The stagnation of Qi and blood causes the knotted pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "where does the pericardium meridian of hand-jueyin start and end?",
+    "context": "",
+    "response": "The pericardium meridian of hand-jueyin starts from the chest and ends at the cubital fossa.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "who can be affected by the great epidemic in three years?",
+    "context": "",
+    "response": "Anyone can be affected by the great epidemic in three years if the upper position and lower position fail to merge.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the Stomach in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the Stomach is responsible for receiving and rotting and ripening food and fluids. It sends the pure essence to the Spleen for transportation and the impure to the Small Intestine for further digestion. The Stomach is also associated with the emotion of pensiveness and is said to open to the mouth.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean if a person's pulse is 'rapid' in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, a 'rapid' pulse is one that is fast and frequent, with more than 80 beats per minute. This type of pulse is often associated with a condition of heat or excess, or with an acute or short-term illness. It can also indicate a problem with the cardiovascular or nervous system, or a condition of anxiety or stress.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between a person's emotions and their spirit?",
+    "context": "",
+    "response": "A person's emotions can have a direct impact on their spirit. For example, when a person is saddened, their spirit may be moved, causing tears to flow. Similarly, when a person is angry, their spirit may be agitated, causing symptoms such as irritability or restlessness.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five viscera and how do they cause debility?",
+    "context": "",
+    "response": "The five viscera are the lungs, heart, liver, spleen, and kidneys. They can cause debility when they become diseased, leading to various symptoms such as weakened skin, hair, and muscles, as well as issues with the bones and marrow.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of 'writing' in Chinese medicine?",
+    "context": "",
+    "response": "The concept of 'writing' in Chinese medicine refers to the use of needles to stimulate specific points on the body to restore balance and promote healing.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of a pulse that is sunken and slow in both hands?",
+    "context": "",
+    "response": "This pulse pattern indicates a deficiency of energy in both the kidneys and the lungs. This can lead to a variety of symptoms, including back pain, shortness of breath, and a feeling of emptiness in the chest. This pattern is indicative of a more serious deficiency in the body's energy and is associated with a greater risk of illness.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the sequence of disease evil transmission?",
+    "context": "",
+    "response": "The sequence of disease evil transmission is from the lungs to the liver, then to the spleen, then to the kidneys, and finally to the heart. If the evil is not treated, it will lead to death.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does it mean when the pulse is tight?",
+    "context": "",
+    "response": "It indicates heat, dryness, or stagnation in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the extraordinary meridians?",
+    "context": "",
+    "response": "The extraordinary meridians are the places where the qi of the twelve meridians communicates and connects with each other. They are the places where the qi of the twelve meridians connects with the internal organs and the exterior of the body. There are 8 extraordinary meridians, which are not associated with any specific organ.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "which yin meridian is responsible for storing and preserving?",
+    "context": "",
+    "response": "Shao Yin meridian is responsible for storing and preserving.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how many acupoints are there along the stomach meridian of foot-yangming?",
+    "context": "",
+    "response": "There are 22 acupoints along the stomach meridian of foot-yangming.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "when does the fever occur?",
+    "context": "",
+    "response": "The fever occurs every other day.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the qi invades the body and causes numbness and pain in the muscles?",
+    "context": "",
+    "response": "If the qi invades the body and causes numbness and pain in the muscles, this can be treated by using hot medicine to warm the affected area, or by using needles to prick and let out blood.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does the title of the document translate to in English?",
+    "context": "",
+    "response": "The title of the document translates to 'World Classic of Acupuncture and Moxibustion: Volume on Miscellaneous Diseases, Part 47' in English.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a summary of the document",
+    "context": "",
+    "response": "The document is a table showing the different pulse qualities and their corresponding diseases in traditional Chinese medicine. The table includes three columns: the pulse position, the pulse quality, and the corresponding disease. The pulse positions listed are the three positions on each wrist, for a total of six positions. The pulse qualities include floating, slippery, and tight, among others. The corresponding diseases range from common ailments like the common cold and flu to more serious conditions like heart disease and cancer. The table provides a quick reference for practitioners of traditional Chinese medicine to use in diagnosing their patients.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of the number nine in relation to the nodes of the earth?",
+    "context": "",
+    "response": "The number nine in relation to the nodes of the earth signifies the division of the earth into nine regions and the division of the year into three hundred and sixty-five days.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the liver in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the liver is associated with the wood element and is responsible for the smooth flow of qi (vital energy) throughout the body. It also stores blood, regulates emotions, and controls the tendons. When the liver is out of balance, it can cause symptoms such as irritability, frustration, muscle tension, and menstrual problems.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the Ren meridian and the Du meridian in terms of illness?",
+    "context": "",
+    "response": "The Ren meridian and the Du meridian are connected and influence each other. When the exterior Yang Qi reaches the location of the illness on the Du meridian, it will cause symptoms, and when the Yin Qi reaches the Ren meridian, it will also cause symptoms. The illness will manifest when the exterior Yang Qi reaches it, and it will not manifest when the exterior Yang Qi is not present.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the three deadly signs of a serious condition?",
+    "context": "",
+    "response": "The three deadly signs of a serious condition are sweating, loss of appetite, and delirious speech.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the result of this influence?",
+    "context": "",
+    "response": "The influenced organ may become diseased, leading to further consequences if not treated.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the difference between interior and exterior?",
+    "context": "",
+    "response": "Interior and exterior refer to the relative location of different parts of the body. In the context of Chinese medicine, interior and exterior are often used to describe the location of symptoms or the depth of needling.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how does Qibo answer the question about the relationship between wind and the fever?",
+    "context": "",
+    "response": "Qibo explains that wind is constant because it resides in the body and does not move, while the fever occurs due to the movement of the pathogen. The fever may be more or less severe depending on the location of the pathogen and the defense qi. He also explains that the fever may occur at specific times due to the movement of the pathogen along the meridians and collaterals.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the order in which diseases are transmitted, and how can this information be used in treatment?",
+    "context": "",
+    "response": "Diseases are transmitted in a specific order, which can help in predicting their progression and determining appropriate treatment strategies. By understanding this order, practitioners can anticipate the development of symptoms and intervene before they become severe, ultimately improving treatment outcomes.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how can understanding the progression of a disease be helpful?",
+    "context": "",
+    "response": "It can help predict future health issues and provide early intervention.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what do the five organs do?",
+    "context": "",
+    "response": "The five organs each have a spirit and a deity, and they each have a main external manifestation. The heart governs blood vessels, the lungs govern skin, the liver governs tendons, the spleen governs bones, and the kidneys govern marrow.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the proper course of treatment for diseases that manifest due to an excess of yang?",
+    "context": "",
+    "response": "For diseases that manifest due to an excess of yang, it is important to first address the excess and then treat any subsequent symptoms. This approach ensures that the root cause of the disease is addressed, preventing further progression.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the natural diagnosis method according to Qi Bo?",
+    "context": "",
+    "response": "The natural diagnosis method according to Qi Bo is observing the facial complexion and pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the lungs in the production of tears?",
+    "context": "",
+    "response": "The lungs play a role in the production of tears by providing a place for the qi to reside. When a person is saddened, their lung qi may be affected, causing tears to flow. This is because the lungs are the residence of the qi, and when the qi is moved by emotion, it can cause tears to flow.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens if there is chaos?",
+    "context": "",
+    "response": "If there is chaos, there will be a great epidemic in three years.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what can the body's points be used for?",
+    "context": "",
+    "response": "The body's points can be used to treat pain.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the treatment for a deficiency of the organ energy and an excess of the channel energy?",
+    "context": "",
+    "response": "The treatment for a deficiency of the organ energy and an excess of the channel energy is to use needling and moxibustion on the channels, and acupuncture on the organs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what can affect the body's balance of blood and qi?",
+    "context": "",
+    "response": "Diet and lifestyle can affect the body's balance of blood and qi.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the purpose of the five decisions?",
+    "context": "",
+    "response": "The five decisions are used to determine the appropriate treatment for a disease based on its location and state",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five decisions used for?",
+    "context": "",
+    "response": "The five decisions are used to diagnose the location of a disease in the body",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the Small Intestine according to the document?",
+    "context": "",
+    "response": "The Small Intestine is referred to in the document as the official in charge of reception and transportation. This means it is responsible for receiving the transformed food from the Stomach and transporting it to the Large Intestine. In traditional Chinese medicine, the Small Intestine is associated with the Fire element and is responsible for separating the pure from the impure.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the symptoms of a disease and its progression?",
+    "context": "",
+    "response": "The symptoms of a disease can provide important clues about its progression and potential complications. By understanding the relationship between symptoms, doctors can predict and prevent the development of more severe health problems.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the twelve regular meridians?",
+    "context": "",
+    "response": "The twelve regular meridians are the main channels through which qi and blood flow in the body. They are the basis for the diagnosis and treatment of diseases in traditional Chinese medicine. Each meridian is associated with a specific organ and has a specific function in regulating the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of 'qi' in human health and well-being?",
+    "context": "",
+    "response": "The text suggests that the balance and harmony of 'qi' is essential for human health and well-being. Imbalances or blockages in the flow of 'qi' can lead to illness and disease.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what can happen if certain pulse manifestations are not treated?",
+    "context": "",
+    "response": "Some pulse manifestations can lead to death if not treated.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the needle method is applied to the wrong organ?",
+    "context": "",
+    "response": "When the needle method is applied to the wrong organ, it can cause damage to the organ, leading to various symptoms and even death.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the concept of meridians in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, meridians are channels through which qi and blood flow in the body. There are 12 primary meridians, each associated with a specific organ, and numerous secondary meridians that connect and regulate the flow of qi and blood throughout the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what causes the fever?",
+    "context": "",
+    "response": "The wind evil causes the fever.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the cause of heat fever?",
+    "context": "",
+    "response": "Heat fever is caused by a lack of yin, which allows the yang to become overactive and cause fever.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why is the ultimate law important in the ancient method of diagnosing and treating illness?",
+    "context": "",
+    "response": "The ultimate law is important in the ancient method of diagnosing and treating illness because it ensures that the treatment is in line with the natural order and increases the chances of a successful recovery.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how are the spleen and stomach connected?",
+    "context": "",
+    "response": "The spleen and stomach are connected by a membrane.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the difference between real and virtual conditions?",
+    "context": "",
+    "response": "Real conditions are characterized by a hard and full pulse, while virtual conditions are characterized by a weak and vacant pulse. Real conditions are caused by the concentration of both qi and blood in the sun and luo vessels, while virtual conditions are caused by an imbalance of yin and yang in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the bladder meridian and the lower back?",
+    "context": "",
+    "response": "The bladder meridian is responsible for governing the lower back and storing essence. When it is diseased, the patient may experience lower back pain, frequent urination, or impotence.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when the lung's heat damages the body's hair and skin?",
+    "context": "",
+    "response": "When the lung's heat damages the body's hair and skin, it results in a condition called 'febrile paralysis'.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the bladder?",
+    "context": "",
+    "response": "The bladder is like the governor or prefect in the body. It stores and releases urine.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the outcome when the pericardium-qi is deficient, and the pulse is fine and rapid?",
+    "context": "",
+    "response": "When the pericardium-qi is deficient, and the pulse is fine and rapid, the person will experience palpitations and anxiety. They will die in the summer, when the sun is at its zenith.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how would you summarize the entire document?",
+    "context": "",
+    "response": "The document discusses the diagnosis of various medical conditions through the observation of a person's pulse, or 'beating of the arteries'. It explains how the state of the twelve pulse positions on a person's wrist can indicate the presence of certain diseases or imbalances in the body. The document also outlines how the pulse can change with the seasons and how these changes can affect a person's health. In addition, the text describes how the pulse can be used to determine a person's overall health and well-being, and how certain pulse patterns can indicate a serious or even life-threatening condition. The document also includes descriptions of various pulse characteristics, such as 'floating', 'slippery', and 'wiry', and how these characteristics can be indicative of specific medical issues.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the significance of a pulse that is tight in both hands and rapid in both hands?",
+    "context": "",
+    "response": "This pulse pattern indicates an excess of energy in both the kidneys and the lungs. The tight pulse in both hands suggests an excess of energy in the kidneys, while the rapid pulse in both hands suggests an excess of energy in the lungs. This pattern is indicative of a reversal of the body's normal energy flow and is associated with a more serious imbalance in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are 'zangxiang'?",
+    "context": "",
+    "response": "'Zangxiang' refers to the physical manifestations of the internal organs.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a long/verbose summary of the document",
+    "context": "",
+    "response": "The document is a detailed exploration of the concept of yin and yang in Chinese philosophy and medicine, and how these principles apply to the human body. It explains that the body has three yang and three yin meridians, which must work together in harmony for good health. The yang meridians are associated with action and the outside of the body, while the yin meridians are associated with stillness and the inside of the body. The document delves into the specific functions and characteristics of each meridian, and how they interact with one another to maintain balance in the body. It also discusses the idea that the body is influenced by the external environment, including the seasons and the elements, and that maintaining balance and harmony within the body is essential for good health. The document also touches on the idea that the body has a natural rhythm and that understanding this rhythm is key to maintaining good health. It emphasizes the importance of maintaining balance and harmony in the body, and the consequences of imbalance and disharmony. The document also explains the idea of Qi, the vital energy that flows through the body, and how it is affected by the balance of yin and yang. Overall, the document provides a comprehensive overview of the concept of yin and yang in Chinese medicine and its application to the human body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a tcheh (cough) that is caused by cold invading the Small Intestine meridian?",
+    "context": "",
+    "response": "When the Small Intestine meridian is invaded by cold, it can cause a tcheh (cough) with chills and fever, and possibly dry mouth and throat.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "how many yin meridians are there in the body?",
+    "context": "",
+    "response": "There are three yin meridians in the body.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the 'employee' in Chinese medicine?",
+    "context": "",
+    "response": "The 'employee' in Chinese medicine refers to the specific points on the body that are stimulated during acupuncture treatment.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "where does the conception vessel start and end?",
+    "context": "",
+    "response": "The conception vessel starts from the lower abdomen and ends at the mouth.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the difference between the spleen and the lung?",
+    "context": "",
+    "response": "The spleen and the lung are different in nature and function. The spleen is responsible for the transportation and transformation of food and drink, while the lung controls the qi and respiration.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between houidyang and the five elements?",
+    "context": "",
+    "response": "The five elements are the material basis of the operation of houidyang, and they are the basic substances that constitute the world. The five elements are in a state of constant change and transformation under the influence of houidyang.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the five elements and the flavors?",
+    "context": "",
+    "response": "In the five elements system, each element is associated with a specific flavor. Wood is associated with sour, fire is associated with bitter, earth is associated with sweet, metal is associated with pungent, and water is associated with salty.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does Tang Ye say about the relationship between the five elements and the five viscera?",
+    "context": "",
+    "response": "Tang Ye explains that the five elements are related to the five viscera (heart, liver, spleen, lungs, and kidneys), with each element corresponding to a specific viscus. The viscera can affect the elements, and the state of the elements can indicate the state of the corresponding viscus. For example, a liver imbalance may indicate a wood element or gallbladder issue.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the recommended treatment for a liver paralysis caused by the combined heat of all five organs?",
+    "context": "",
+    "response": "The recommended treatment for a liver paralysis caused by the combined heat of all five organs is to clear the heat and drain the fire, and to regulate the flow of qi and blood.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the heart and the brain in relation to crying?",
+    "context": "",
+    "response": "According to the document, when the heart is saddened, the spirit becomes sorrowful and moves towards the brain, which is full of marrow. This causes the spirit to bring the watery essence of the heart to the eyes, resulting in crying with tears and snot.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the method for treating spirit's micro?",
+    "context": "",
+    "response": "For spirit excess, take collaterals and drive out the blood. For spirit deficiency, seek out the weak collateral and use the supplementing method.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the symptoms of a tcheh (cough) that is caused by cold invading the Sanjiao meridian?",
+    "context": "",
+    "response": "When the Sanjiao meridian is invaded by cold, it can cause a tcheh (cough) with alternating chills and fever, and possibly irritability and restlessness.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the relationship between the heart meridian and the tongue?",
+    "context": "",
+    "response": "The heart meridian is responsible for governing the tongue and speech. When it is diseased, the patient may experience speech difficulties, tongue stiffness, or tongue pain.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of 'heaven' and 'earth' in the method of treatment for the 'wu wei wu he' condition and the resulting epidemic?",
+    "context": "",
+    "response": "The concepts of 'heaven' and 'earth' are used to understand the relationships and interactions between the natural world and the body. The 'wu wei wu he' condition and the resulting epidemic are caused by an imbalance between heaven and earth, and the method of treatment involves needling specific points and acupuncture meridians to restore the balance and order of the elements, thereby correcting the flow of 'qi' and preventing the epidemic.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the result of the stomach-qi being deficient, and the pulse is like a string of pearls?",
+    "context": "",
+    "response": "When the stomach-qi is deficient, and the pulse is like a string of pearls, the person will experience abdominal pain and diarrhea. They will die in the spring, when the oriole sings.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the five visceral organs and their spiritual aspects?",
+    "context": "",
+    "response": "The five visceral organs are the heart, lungs, spleen, liver, and kidneys. The spiritual aspects they contain are the ethereal soul in the lungs, the animal soul in the liver, the intellect in the heart, the intent in the kidneys, and the vitality in the spleen.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "according to Chinese philosophy, how does the balance of yin and yang affect the body?",
+    "context": "",
+    "response": " According to Chinese philosophy, the balance of yin and yang in the body is crucial for good health. Yin and yang are opposite but complementary forces that exist in everything, including the human body. Yin is associated with the body's internal organs, while yang is associated with the body's external aspects. When yin and yang are in balance, the body is healthy and functions properly. However, when there is an imbalance between yin and yang, it can lead to illness and disease.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what information do the five decisions provide for the treatment of a disease?",
+    "context": "",
+    "response": "The five decisions provide information about the location, state, and severity of a disease, which is used to determine the appropriate treatment method",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the role of the five bowels (fu) in Chinese medicine?",
+    "context": "",
+    "response": "In Chinese medicine, the five bowels (fu) are the gallbladder, stomach, small intestine, large intestine, and bladder. They are the yang organs that receive, transform, and transport food and fluids. They are responsible for the body's metabolic and excretory functions and are closely related to the five elements and the five odors.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what does each of the five organs have?",
+    "context": "",
+    "response": "Each of the five organs has a spirit and a deity associated with it.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the luo meridians?",
+    "context": "",
+    "response": "The luo meridians are the places where the qi of the twelve meridians communicates and connects with each other. They are the places where the qi of the twelve meridians connects with the skin, flesh, and blood vessels. There are 15 luo meridians, which are divided into 12 regular meridians and 3 extraordinary meridians.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a summary of the document",
+    "context": "",
+    "response": "The document presents the Chinese medical concept of 'failure of defense and absence of harmony', which occurs when the upper and lower parts of the body are not in balance. This can result in various health issues, including a 'big epidemic' every three years. The text provides detailed information on the causes and symptoms of this imbalance, as well as specific treatment methods, such as acupuncture points and herbal remedies, for different types of imbalances.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "why are the acupuncture points and methods for prevention and treatment specific?",
+    "context": "",
+    "response": "The acupuncture points and methods for prevention and treatment are specific and based on the five elements theory, the specific months and days, and the specific organs and meridians, and they are different for different five elements and specific symptoms and signs, and they can enhance the body's immune system, regulate the functions of the organs and meridians, and prevent and treat the epidemic.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what is the function of the minor meridians?",
+    "context": "",
+    "response": "The minor meridians, also known as the sun meridians, are the meeting places of fine blood vessels and are associated with the twelve meridians. They are the places where pathogenic factors invade and where qi and blood flow through. There are 365 minor meridians, which correspond to the 365 days of the year.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "please write me a summary of the document",
+    "context": "",
+    "response": "The document provides an in-depth analysis of back pain, its causes, and symptoms, and offers acupuncture treatment methods based on different syndromes. It explains the significance of identifying the syndrome to determine the appropriate acupuncture points and techniques, and provides detailed instructions for the treatment of each syndrome.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what are the consequences of incorrectly performing acupuncture on various parts of the body?",
+    "context": "",
+    "response": "Incorrectly performing acupuncture can lead to various consequences, such as death from piercing the heart, loss of hearing from piercing the carotid artery, lameness from piercing the ankle, inability to speak from piercing the foot's meridian, shortness of breath and coughing from piercing the chest, and paralysis from piercing the spine. It is important to have proper knowledge and training before performing acupuncture.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  },
+  {
+    "instruction": "what happens when yin produces virtual disease?",
+    "context": "",
+    "response": "When yin produces virtual disease, it means that the yin qi is deficient, causing the yang qi to become excessive. This can lead to symptoms such as fever, sweating, and a rapid pulse.",
+    "category": "Traditional_Chinese_Medicine_QA"
+  }
+]

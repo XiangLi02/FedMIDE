@@ -1,0 +1,779 @@
+[
+    {
+        "instruction": "Is carbamoyl phosphate synthetase I deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.2159272206957135
+    },
+    {
+        "instruction": "Is GRACILE syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.2005500046176738
+    },
+    {
+        "instruction": "Is prekallikrein deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.19519125901512
+    },
+    {
+        "instruction": "Is juvenile Batten disease inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1847833792984401
+    },
+    {
+        "instruction": "Is complement component 2 deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1833817238194875
+    },
+    {
+        "instruction": "Is complement factor I deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1756308703820946
+    },
+    {
+        "instruction": "How many people are affected by glutaric acidemia type II ?",
+        "context": "",
+        "response": "Glutaric acidemia type II is a very rare disorder; its precise incidence is unknown. It has been reported in several different ethnic groups.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1721360659901154
+    },
+    {
+        "instruction": "Is 3-hydroxyacyl-CoA dehydrogenase deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1713905667834998
+    },
+    {
+        "instruction": "Is Mainzer-Saldino syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.165935956243564
+    },
+    {
+        "instruction": "Is hereditary fructose intolerance inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.160600684063162
+    },
+    {
+        "instruction": "Is MyD88 deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1599254344752121
+    },
+    {
+        "instruction": "How many people are affected by autosomal dominant vitreoretinochoroidopathy ?",
+        "context": "",
+        "response": "ADVIRC is considered a rare disease. Its prevalence is unknown.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1551355883198091
+    },
+    {
+        "instruction": "Is myopathy with deficiency of iron-sulfur cluster assembly enzyme inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1533564614197638
+    },
+    {
+        "instruction": "Is 11-beta-hydroxylase deficiency inherited ?",
+        "context": "",
+        "response": "How is 11-beta-hydroxylase deficiency inherited? This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.151842719466066
+    },
+    {
+        "instruction": "Is Stve-Wiedemann syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1511998745394927
+    },
+    {
+        "instruction": "How many people are affected by factor X deficiency ?",
+        "context": "",
+        "response": "Factor X deficiency occurs in approximately 1 per million individuals worldwide.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1489695197548253
+    },
+    {
+        "instruction": "How many people are affected by familial cylindromatosis ?",
+        "context": "",
+        "response": "Familial cylindromatosis is a rare disorder; its prevalence is unknown.",
+        "category": "Medical_QA",
+        "personalization_score": 1.147546210458139
+    },
+    {
+        "instruction": "What are the treatments for Darier disease ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Darier disease:  - Genetic Testing Registry: Keratosis follicularis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.144778296681679
+    },
+    {
+        "instruction": "What are the treatments for aniridia ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of aniridia:  - Gene Review: Gene Review: Aniridia  - Genetic Testing Registry: Congenital aniridia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.144418895851673
+    },
+    {
+        "instruction": "What are the treatments for Unverricht-Lundborg disease ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Unverricht-Lundborg disease:  - Gene Review: Gene Review: Unverricht-Lundborg Disease  - Genetic Testing Registry: Unverricht-Lundborg syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1402679242589362
+    },
+    {
+        "instruction": "Is hepatic lipase deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1386988712470754
+    },
+    {
+        "instruction": "How many people are affected by Birt-Hogg-Dub syndrome ?",
+        "context": "",
+        "response": "Birt-Hogg-Dub syndrome is rare; its exact incidence is unknown. This condition has been reported in more than 400 families.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1362685380281896
+    },
+    {
+        "instruction": "How many people are affected by Schindler disease ?",
+        "context": "",
+        "response": "Schindler disease is very rare. Only a few individuals with each type of the disorder have been identified.",
+        "category": "Medical_QA",
+        "personalization_score": 1.135085829886102
+    },
+    {
+        "instruction": "What are the treatments for Sotos syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Sotos syndrome:  - Gene Review: Gene Review: Sotos Syndrome  - Genetic Testing Registry: Sotos' syndrome  - MedlinePlus Encyclopedia: Increased Head Circumference   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1339627485681516
+    },
+    {
+        "instruction": "Is methylmalonic acidemia inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the MUT, MMAA, MMAB, MMADHC, or MCEE gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition are carriers of one copy of the mutated gene but do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.133618905603741
+    },
+    {
+        "instruction": "Is Fukuyama congenital muscular dystrophy inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1331884379916008
+    },
+    {
+        "instruction": "How many people are affected by chorea-acanthocytosis ?",
+        "context": "",
+        "response": "It is estimated that 500 to 1,000 people worldwide have chorea-acanthocytosis.",
+        "category": "Medical_QA",
+        "personalization_score": 1.132446785252457
+    },
+    {
+        "instruction": "Is Walker-Warburg syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1324045316114417
+    },
+    {
+        "instruction": "What are the treatments for Sjgren-Larsson syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Sjgren-Larsson syndrome:  - Genetic Testing Registry: Sjgren-Larsson syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.128984256356045
+    },
+    {
+        "instruction": "Is COG5-congenital disorder of glycosylation inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1286930510889603
+    },
+    {
+        "instruction": "Is congenital insensitivity to pain inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1286486502323856
+    },
+    {
+        "instruction": "What are the treatments for Donohue syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Donohue syndrome:  - Genetic Testing Registry: Leprechaunism syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1283362790396736
+    },
+    {
+        "instruction": "What are the treatments for beta-ketothiolase deficiency ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of beta-ketothiolase deficiency:  - Baby's First Test  - Genetic Testing Registry: Deficiency of acetyl-CoA acetyltransferase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1276859850119403
+    },
+    {
+        "instruction": "How many people are affected by neuroferritinopathy ?",
+        "context": "",
+        "response": "The prevalence of neuroferritinopathy is unknown. Fewer than 100 individuals with this disorder have been reported.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1257403031361082
+    },
+    {
+        "instruction": "What are the treatments for Salih myopathy ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Salih myopathy:  - Gene Review: Gene Review: Salih Myopathy  - Genetic Testing Registry: Myopathy, early-onset, with fatal cardiomyopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1238191453026956
+    },
+    {
+        "instruction": "What is the outlook for Holoprosencephaly ?",
+        "context": "",
+        "response": "The prognosis for individuals with the disorder depends on the severity of the brain and facial deformities.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1224240478644036
+    },
+    {
+        "instruction": "Is progressive pseudorheumatoid dysplasia inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1223167426885836
+    },
+    {
+        "instruction": "Is Isobutyryl-CoA dehydrogenase deficiency inherited ?",
+        "context": "",
+        "response": "How is isobutyryl-CoA dehydrogenase deficiency (IBD deficiency) inherited? IBD deficiency is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1213811339776185
+    },
+    {
+        "instruction": "What are the treatments for Parkes Weber syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Parkes Weber syndrome:  - Gene Review: Gene Review: RASA1-Related Disorders  - Genetic Testing Registry: Parkes Weber syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1200673044710243
+    },
+    {
+        "instruction": "Is Crouzonodermoskeletal syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. More commonly, this condition results from new mutations in the gene. These cases occur in people with no history of the disorder in their family.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1195167933115306
+    },
+    {
+        "instruction": "What are the treatments for cyclic vomiting syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of cyclic vomiting syndrome:  - Children's Hospital of Wisconsin  - Genetic Testing Registry: Cyclical vomiting syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1189372070464283
+    },
+    {
+        "instruction": "Is Inclusion body myopathy 2 inherited ?",
+        "context": "",
+        "response": "How is inclusion body myopathy 2 inherited? Inclusion body myopathy 2 is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1175388444859575
+    },
+    {
+        "instruction": "What are the treatments for autosomal dominant vitreoretinochoroidopathy ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of autosomal dominant vitreoretinochoroidopathy:  - American Foundation for the Blind: Living with Vision Loss  - Genetic Testing Registry: Vitreoretinochoroidopathy dominant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.117222888918817
+    },
+    {
+        "instruction": "What are the treatments for Alexander disease ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Alexander disease:  - Gene Review: Gene Review: Alexander Disease  - Genetic Testing Registry: Alexander's disease  - MedlinePlus Encyclopedia: Myelin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.117221024353517
+    },
+    {
+        "instruction": "What are the treatments for Erb-Duchenne and Dejerine-Klumpke Palsies ?",
+        "context": "",
+        "response": "Some brachial plexus injuries may heal without treatment. Many children who are injured during birth improve or recover by 3 to 4 months of age. Treatment for brachial plexus injuries includes physical therapy and, in some cases, surgery.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1153955112999367
+    },
+    {
+        "instruction": "Is Donohue syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1137065338334071
+    },
+    {
+        "instruction": "Is progressive familial intrahepatic cholestasis inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.113316939169633
+    },
+    {
+        "instruction": "What are the treatments for mannose-binding lectin deficiency ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of mannose-binding lectin deficiency:  - Genetic Testing Registry: Mannose-binding protein deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1129269501080592
+    },
+    {
+        "instruction": "What are the treatments for familial hypobetalipoproteinemia ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of familial hypobetalipoproteinemia:  - Genetic Testing Registry: Familial hypobetalipoproteinemia  - Genetic Testing Registry: Hypobetalipoproteinemia, familial, 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.112799593013827
+    },
+    {
+        "instruction": "How many people are affected by atelosteogenesis type 2 ?",
+        "context": "",
+        "response": "Atelosteogenesis type 2 is an extremely rare genetic disorder; its incidence is unknown.",
+        "category": "Medical_QA",
+        "personalization_score": 1.112557919939304
+    },
+    {
+        "instruction": "Is infantile-onset ascending hereditary spastic paralysis inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1117307662283842
+    },
+    {
+        "instruction": "How many people are affected by familial lipoprotein lipase deficiency ?",
+        "context": "",
+        "response": "This condition affects about 1 per million people worldwide. It is much more common in certain areas of the province of Quebec, Canada.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1095251624884621
+    },
+    {
+        "instruction": "What are the treatments for pseudoachondroplasia ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of pseudoachondroplasia:  - Gene Review: Gene Review: Pseudoachondroplasia  - Genetic Testing Registry: Pseudoachondroplastic spondyloepiphyseal dysplasia syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1091363694469278
+    },
+    {
+        "instruction": "What are the treatments for Denys-Drash syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Denys-Drash syndrome:  - Gene Review: Gene Review: Wilms Tumor Overview  - Genetic Testing Registry: Drash syndrome  - MedlinePlus Encyclopedia: Nephrotic Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1087736188598432
+    },
+    {
+        "instruction": "What are the treatments for spinocerebellar ataxia type 2 ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of SCA2:  - Gene Review: Gene Review: Spinocerebellar Ataxia Type 2  - Genetic Testing Registry: Spinocerebellar ataxia 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1086263844438322
+    },
+    {
+        "instruction": "What are the treatments for neonatal onset multisystem inflammatory disease ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of NOMID:  - Genetic Testing Registry: Chronic infantile neurological, cutaneous and articular syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1086163404384923
+    },
+    {
+        "instruction": "What are the treatments for glutamate formiminotransferase deficiency ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of glutamate formiminotransferase deficiency:  - Baby's First Test  - Genetic Testing Registry: Glutamate formiminotransferase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1083066068477327
+    },
+    {
+        "instruction": "How many people are affected by proopiomelanocortin deficiency ?",
+        "context": "",
+        "response": "POMC deficiency is a rare condition; approximately 50 cases have been reported in the medical literature.",
+        "category": "Medical_QA",
+        "personalization_score": 1.108302907481497
+    },
+    {
+        "instruction": "What are the treatments for 1q21.1 microdeletion ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of 1q21.1 microdeletion:  - Gene Review: Gene Review: 1q21.1 Recurrent Microdeletion  - Genetic Testing Registry: 1q21.1 recurrent microdeletion   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1082894313232026
+    },
+    {
+        "instruction": "Is Legius syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1073919183133833
+    },
+    {
+        "instruction": "How many people are affected by SADDAN ?",
+        "context": "",
+        "response": "This disorder is very rare; it has been described in only a small number of individuals worldwide.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1066584419456627
+    },
+    {
+        "instruction": "Is purine nucleoside phosphorylase deficiency inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1050746418249184
+    },
+    {
+        "instruction": "What are the treatments for congenital plasminogen deficiency ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of congenital plasminogen deficiency:  - Genetic Testing Registry: Plasminogen deficiency, type I  - Indiana Hemophilia and Thrombosis Center  - Plasminogen Deficiency Registry   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1049392263749613
+    },
+    {
+        "instruction": "What are the treatments for tumor necrosis factor receptor-associated periodic syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of TRAPS:  - Genetic Testing Registry: TNF receptor-associated periodic fever syndrome (TRAPS)  - University College London: National Amyloidosis Center (UK)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1049026090941083
+    },
+    {
+        "instruction": "What are the treatments for Kearns-Sayre syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Kearns-Sayre syndrome:  - Gene Review: Gene Review: Mitochondrial DNA Deletion Syndromes  - Genetic Testing Registry: Kearns Sayre syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1042571324700379
+    },
+    {
+        "instruction": "What is the outlook for Paresthesia ?",
+        "context": "",
+        "response": "The prognosis for those with paresthesia depends on the severity of the sensations and the associated disorders.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1041557760865717
+    },
+    {
+        "instruction": "Is hereditary leiomyomatosis and renal cell cancer inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1039438791643383
+    },
+    {
+        "instruction": "How many people are affected by Aicardi-Goutieres syndrome ?",
+        "context": "",
+        "response": "Aicardi-Goutieres syndrome is a rare disorder. Its exact prevalence is unknown.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1037799172861984
+    },
+    {
+        "instruction": "How many people are affected by blepharophimosis, ptosis, and epicanthus inversus syndrome ?",
+        "context": "",
+        "response": "The prevalence of BPES is unknown.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1037046556232852
+    },
+    {
+        "instruction": "How many people are affected by COL4A1-related brain small-vessel disease ?",
+        "context": "",
+        "response": "COL4A1-related brain small-vessel disease is a rare condition, although the exact prevalence is unknown. At least 50 individuals with this condition have been described in the scientific literature.",
+        "category": "Medical_QA",
+        "personalization_score": 1.103083022195575
+    },
+    {
+        "instruction": "How many people are affected by junctional epidermolysis bullosa ?",
+        "context": "",
+        "response": "Both types of junctional epidermolysis bullosa are rare, affecting fewer than 1 per million people in the United States.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1026467989597784
+    },
+    {
+        "instruction": "What are the treatments for hypochondroplasia ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of hypochondroplasia:  - Gene Review: Gene Review: Hypochondroplasia  - Genetic Testing Registry: Hypochondroplasia  - MedlinePlus Encyclopedia: Lordosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1003250232052681
+    },
+    {
+        "instruction": "How many people are affected by familial cold autoinflammatory syndrome ?",
+        "context": "",
+        "response": "Familial cold autoinflammatory syndrome is a very rare condition, believed to have a prevalence of less than 1 per million people.",
+        "category": "Medical_QA",
+        "personalization_score": 1.1000718962242622
+    },
+    {
+        "instruction": "What are the treatments for SLC4A1-associated distal renal tubular acidosis ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of SLC4A1-associated distal renal tubular acidosis:  - Genetic Testing Registry: Renal tubular acidosis, distal, autosomal dominant  - Genetic Testing Registry: Renal tubular acidosis, distal, with hemolytic anemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.1000430460689516
+    },
+    {
+        "instruction": "Is Vohwinkel syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.",
+        "category": "Medical_QA",
+        "personalization_score": 1.098944811550956
+    },
+    {
+        "instruction": "What are the treatments for Tourette syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Tourette syndrome:  - Gene Review: Gene Review: Tourette Disorder Overview  - Genetic Testing Registry: Tourette Syndrome  - MedlinePlus Encyclopedia: Gilles de la Tourette syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.098311849494016
+    },
+    {
+        "instruction": "What are the treatments for hereditary multiple osteochondromas ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of hereditary multiple osteochondromas:  - Gene Review: Gene Review: Hereditary Multiple Osteochondromas  - Genetic Testing Registry: Multiple congenital exostosis  - Genetic Testing Registry: Multiple exostoses type 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0972646553791072
+    },
+    {
+        "instruction": "Is hereditary myopathy with early respiratory failure inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0970472804329072
+    },
+    {
+        "instruction": "Is Shwachman-Diamond syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0968567531029363
+    },
+    {
+        "instruction": "Is activated PI3K-delta syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0967820942452715
+    },
+    {
+        "instruction": "What are the treatments for spinal and bulbar muscular atrophy ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of spinal and bulbar muscular atrophy:  - Gene Review: Gene Review: Spinal and Bulbar Muscular Atrophy  - Genetic Testing Registry: Bulbo-spinal atrophy X-linked  - MedlinePlus Encyclopedia: Muscle Atrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0967096630127549
+    },
+    {
+        "instruction": "What are the treatments for Norrie disease ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Norrie disease:  - Gene Review: Gene Review: NDP-Related Retinopathies  - Genetic Testing Registry: Atrophia bulborum hereditaria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0960796869561753
+    },
+    {
+        "instruction": "What are the treatments for Griscelli syndrome ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of Griscelli syndrome:  - Genetic Testing Registry: Griscelli syndrome type 1  - Genetic Testing Registry: Griscelli syndrome type 2  - Genetic Testing Registry: Griscelli syndrome type 3   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.095852095849765
+    },
+    {
+        "instruction": "What are the treatments for dentinogenesis imperfecta ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of dentinogenesis imperfecta:  - Genetic Testing Registry: Dentinogenesis imperfecta - Shield's type II  - Genetic Testing Registry: Dentinogenesis imperfecta - Shield's type III  - MedlinePlus Encyclopedia: Tooth - abnormal colors   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0957875636895127
+    },
+    {
+        "instruction": "How many people are affected by GM3 synthase deficiency ?",
+        "context": "",
+        "response": "GM3 synthase deficiency appears to be a rare condition. About 50 cases have been reported, mostly from Old Order Amish communities.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0956026099714147
+    },
+    {
+        "instruction": "How many people are affected by tetra-amelia syndrome ?",
+        "context": "",
+        "response": "Tetra-amelia syndrome has been reported in only a few families worldwide.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0953176647211162
+    },
+    {
+        "instruction": "What are the treatments for psoriatic arthritis ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of psoriatic arthritis:  - American Society for Surgery of the Hand  - Genetic Testing Registry: Psoriatic arthritis, susceptibility to  - The Johns Hopkins Arthritis Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0952797994838472
+    },
+    {
+        "instruction": "What are the treatments for glycogen storage disease type III ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of glycogen storage disease type III:  - Gene Review: Gene Review: Glycogen Storage Disease Type III  - Genetic Testing Registry: Glycogen storage disease type III   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0950484582614244
+    },
+    {
+        "instruction": "Is Brody myopathy inherited ?",
+        "context": "",
+        "response": "Brody myopathy is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Some people with autosomal recessive Brody myopathy do not have an identified mutation in the ATP2A1 gene; the cause of the disease in these individuals is unknown.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0942831090450116
+    },
+    {
+        "instruction": "How many people are affected by coloboma ?",
+        "context": "",
+        "response": "Coloboma occurs in approximately 1 in 10,000 people. Because coloboma does not always affect vision or the outward appearance of the eye, some people with this condition are likely undiagnosed.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0937628728355446
+    },
+    {
+        "instruction": "Is Nicolaides-Baraitser syndrome inherited ?",
+        "context": "",
+        "response": "Nicolaides-Baraitser syndrome follows an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  All cases of this condition result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0936530927479855
+    },
+    {
+        "instruction": "How many people are affected by Donohue syndrome ?",
+        "context": "",
+        "response": "Donohue syndrome is estimated to affect less than 1 per million people worldwide. Several dozen cases have been reported in the medical literature.",
+        "category": "Medical_QA",
+        "personalization_score": 1.092767953584526
+    },
+    {
+        "instruction": "What are the treatments for isolated Pierre Robin sequence ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of isolated Pierre Robin sequence:  - Boston Children's Hospital: Cleft Lip and Cleft Palate Treatment and Care  - Genetic Testing Registry: Robin sequence  - Seattle Children's Hospital: Robin Sequence Treatments   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.092749976735782
+    },
+    {
+        "instruction": "How many people are affected by keratitis-ichthyosis-deafness syndrome ?",
+        "context": "",
+        "response": "KID syndrome is a rare disorder. Its prevalence is unknown. Approximately 100 cases have been reported.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0924642106170337
+    },
+    {
+        "instruction": "How many people are affected by von Willebrand disease ?",
+        "context": "",
+        "response": "Von Willebrand disease is estimated to affect 1 in 100 to 10,000 individuals. Because people with mild signs and symptoms may not come to medical attention, it is thought that this condition is underdiagnosed. Most researchers agree that von Willebrand disease is the most common genetic bleeding disorder.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0918145467706626
+    },
+    {
+        "instruction": "How many people are affected by progressive supranuclear palsy ?",
+        "context": "",
+        "response": "The exact prevalence of progressive supranuclear palsy is unknown. It may affect about 6 in 100,000 people worldwide.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0913619634699618
+    },
+    {
+        "instruction": "How many people are affected by incontinentia pigmenti ?",
+        "context": "",
+        "response": "Incontinentia pigmenti is an uncommon disorder. Between 900 and 1,200 affected individuals have been reported in the scientific literature. Most of these individuals are female, but several dozen males with incontinentia pigmenti have also been identified.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0911842606773412
+    },
+    {
+        "instruction": "Is capillary malformation-arteriovenous malformation syndrome inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0910523682382725
+    },
+    {
+        "instruction": "Is Ghosal hematodiaphyseal dysplasia inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0903991244598217
+    },
+    {
+        "instruction": "How many people are affected by 48,XXYY syndrome ?",
+        "context": "",
+        "response": "48,XXYY syndrome is estimated to affect 1 in 18,000 to 50,000 males.",
+        "category": "Medical_QA",
+        "personalization_score": 1.090141003406024
+    },
+    {
+        "instruction": "How many people are affected by aminoacylase 1 deficiency ?",
+        "context": "",
+        "response": "The prevalence of aminoacylase 1 deficiency is unknown.",
+        "category": "Medical_QA",
+        "personalization_score": 1.089955963285356
+    },
+    {
+        "instruction": "How many people are affected by frontonasal dysplasia ?",
+        "context": "",
+        "response": "Frontonasal dysplasia is likely a rare condition; at least 100 cases have been reported in the scientific literature.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0884728798940129
+    },
+    {
+        "instruction": "What are the treatments for cap myopathy ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of cap myopathy:  - Genetic Testing Registry: TPM2-related cap myopathy  - Genetic Testing Registry: cap myopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0874174369641596
+    },
+    {
+        "instruction": "Is Binswanger's disease inherited ?",
+        "context": "",
+        "response": "Is Binswanger's disease an inherited condition? Although Binswanger's disease is not considered an inherited condition, genetics may play a role in many of the conditions and risk factors that are associated with the disease (i.e. atherosclerosis, blood clots).",
+        "category": "Medical_QA",
+        "personalization_score": 1.0867627420533708
+    },
+    {
+        "instruction": "What are the treatments for Sotos Syndrome ?",
+        "context": "",
+        "response": "There is no standard course of treatment for Sotos syndrome. Treatment is symptomatic.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0866163579107784
+    },
+    {
+        "instruction": "What are the treatments for dihydropyrimidinase deficiency ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of dihydropyrimidinase deficiency:  - Genetic Testing Registry: Dihydropyrimidinase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0865629908985441
+    },
+    {
+        "instruction": "What are the treatments for Shaken Baby Syndrome ?",
+        "context": "",
+        "response": "Emergency treatment for a baby who has been shaken usually includes life-sustaining measures such as respiratory support and surgery to stop internal bleeding and bleeding in the brain. Doctors may use brain scans, such as MRI and CT, to make a more definite diagnosis.",
+        "category": "Medical_QA",
+        "personalization_score": 1.086260713661741
+    },
+    {
+        "instruction": "Is COL4A1-related brain small-vessel disease inherited ?",
+        "context": "",
+        "response": "This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition. Rarely, new mutations in the gene occur in people with no history of the disorder in their family.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0845744792743124
+    },
+    {
+        "instruction": "What are the treatments for palmoplantar keratoderma with deafness ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of palmoplantar keratoderma with deafness:  - Foundation for Ichthyosis and Related Skin Types: Palmoplantar Keratodermas  - Genetic Testing Registry: Keratoderma palmoplantar deafness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.083548391614142
+    },
+    {
+        "instruction": "How many people are affected by Prostate Cancer ?",
+        "context": "",
+        "response": "Prostate cancer is one of the most common types of cancer among American men. It is a slow-growing disease that mostly affects older men. In fact, more than 60 percent of all prostate cancers are found in men over the age of 65. The disease rarely occurs in men younger than 40 years of age.",
+        "category": "Medical_QA",
+        "personalization_score": 1.0835101582546445
+    },
+    {
+        "instruction": "What are the treatments for spondyloperipheral dysplasia ?",
+        "context": "",
+        "response": "These resources address the diagnosis or management of spondyloperipheral dysplasia:  - Genetic Testing Registry: Spondyloperipheral dysplasia  - MedlinePlus Encyclopedia: Nearsightedness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care",
+        "category": "Medical_QA",
+        "personalization_score": 1.0829332050391431
+    }
+]

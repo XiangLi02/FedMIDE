@@ -1,0 +1,877 @@
+[
+    {
+        "instruction": "what is the classification of cromolyn",
+        "context": "Information",
+        "response": "DEA Schedule: None",
+        "category": "Drug_QA",
+        "personalization_score": 1.3733327866299747
+    },
+    {
+        "instruction": "what tier drug is methylphenidate",
+        "context": "Information",
+        "response": "DEA Schedule: CII",
+        "category": "Drug_QA",
+        "personalization_score": 1.353072186663439
+    },
+    {
+        "instruction": "what color is phenytoin",
+        "context": "Appearance",
+        "response": "WHITE (/Light Lavender)",
+        "category": "Drug_QA",
+        "personalization_score": 1.3009982532629174
+    },
+    {
+        "instruction": "what is docusate sodium",
+        "context": "Information",
+        "response": "Stool softener",
+        "category": "Drug_QA",
+        "personalization_score": 1.3007609855526874
+    },
+    {
+        "instruction": "how long is oxycodone expired",
+        "context": "Storage and disposal",
+        "response": "No answers",
+        "category": "Drug_QA",
+        "personalization_score": 1.2999363130227102
+    },
+    {
+        "instruction": "tudorza pressair is what schedule drug",
+        "context": "Information",
+        "response": "DEA Schedule: None",
+        "category": "Drug_QA",
+        "personalization_score": 1.2955619139342736
+    },
+    {
+        "instruction": "how long does oxycontin stay in the urine",
+        "context": "Time/duration",
+        "response": "No answers",
+        "category": "Drug_QA",
+        "personalization_score": 1.293851506477425
+    },
+    {
+        "instruction": "how long do the side effects last after taking medroxyprogesterone",
+        "context": "Time/side effects",
+        "response": "Unanswerable",
+        "category": "Drug_QA",
+        "personalization_score": 1.292841942802149
+    },
+    {
+        "instruction": "can i take doxepin and prexum together?",
+        "context": "Interaction",
+        "response": "No answers",
+        "category": "Drug_QA",
+        "personalization_score": 1.2861189454999982
+    },
+    {
+        "instruction": "mix salt and hydromorphone what will happen",
+        "context": "Interaction",
+        "response": "No answers",
+        "category": "Drug_QA",
+        "personalization_score": 1.2792097739641777
+    },
+    {
+        "instruction": "do ursodiol and coconut oil mix?",
+        "context": "Interaction",
+        "response": "No answers",
+        "category": "Drug_QA",
+        "personalization_score": 1.2775331381333754
+    },
+    {
+        "instruction": "how do you pronounce humira",
+        "context": "Pronounce name",
+        "response": "Hu·​mira | \\ hyü-ˈmer-ə",
+        "category": "Drug_QA",
+        "personalization_score": 1.2745385971366177
+    },
+    {
+        "instruction": "can you use fluorouracil past expiration date?",
+        "context": "Storage and disposal",
+        "response": "Do not use Carac after the expiration date on the tube.",
+        "category": "Drug_QA",
+        "personalization_score": 1.266352508879662
+    },
+    {
+        "instruction": "what is nicoderm",
+        "context": "Information",
+        "response": "reduces withdrawal symptoms, including nicotine craving, associated with quitting smoking",
+        "category": "Drug_QA",
+        "personalization_score": 1.2663485839001893
+    },
+    {
+        "instruction": "what insulin can be mixed with glargine",
+        "context": "Combination",
+        "response": "Do not mix with\nother insulins",
+        "category": "Drug_QA",
+        "personalization_score": 1.2622725815664415
+    },
+    {
+        "instruction": "how long can i take miralax",
+        "context": "Usage/time",
+        "response": "Stop use and ask a doctor if ...  you need to use a laxative for longer than 1 week",
+        "category": "Drug_QA",
+        "personalization_score": 1.2618717808301982
+    },
+    {
+        "instruction": "what does memantine look like",
+        "context": "Appearance",
+        "response": "Color - WHITE, Shape - ROUND, Score - no score, Size - 6mm, Imprint Code - M;103",
+        "category": "Drug_QA",
+        "personalization_score": 1.2566972065243185
+    },
+    {
+        "instruction": "how you use for paracetamol",
+        "context": "Alternatives",
+        "response": "Acetaminophen",
+        "category": "Drug_QA",
+        "personalization_score": 1.2511756909518317
+    },
+    {
+        "instruction": "is pramoxine a nsaid?",
+        "context": "Information",
+        "response": "Pramoxine is in a class of medications called topical anesthetics. It works by stopping nerves from sending pain signals.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2504856069597632
+    },
+    {
+        "instruction": "can i have allergie test when taking methylprednisolone?",
+        "context": "Side effects",
+        "response": "May suppress reactions to skin tests",
+        "category": "Drug_QA",
+        "personalization_score": 1.2469891598139817
+    },
+    {
+        "instruction": "blood pressure when on eliquis metropropnal",
+        "context": "Interaction",
+        "response": "Drug interactions are reported among people who take Eliquis and Metoprolol tartrate together.",
+        "category": "Drug_QA",
+        "personalization_score": 1.245251135654909
+    },
+    {
+        "instruction": "how much b-12 is needed in an adult/month",
+        "context": "Dose",
+        "response": "Average daily recommended amounts … Adults 2.4 mcg",
+        "category": "Drug_QA",
+        "personalization_score": 1.2417891607023246
+    },
+    {
+        "instruction": "when is gardasil \"contra indicated?\"",
+        "context": "Contraindication",
+        "response": "Hypersensitivity, including severe allergic reactions to yeast (a vaccine component), or after a previous dose of GARDASIL 9 or GARDASIL [see Description (11)].",
+        "category": "Drug_QA",
+        "personalization_score": 1.2395517385370378
+    },
+    {
+        "instruction": "what valacyclovir looks like",
+        "context": "Appearance",
+        "response": "Color blue Shape CAPSULE Size 17mm",
+        "category": "Drug_QA",
+        "personalization_score": 1.2386982400894782
+    },
+    {
+        "instruction": "what is marijuana",
+        "context": "Information",
+        "response": "Marijuana is a green, brown, or gray mix of dried, crumbled parts from the marijuana plant.",
+        "category": "Drug_QA",
+        "personalization_score": 1.238289867863447
+    },
+    {
+        "instruction": "what color is phenytoin",
+        "context": "Appearance",
+        "response": "WHITE",
+        "category": "Drug_QA",
+        "personalization_score": 1.2354818639236653
+    },
+    {
+        "instruction": "levaquin treat uti?",
+        "context": "Indication",
+        "response": "... Complicated Urinary Tract Infections: ... Acute Pyelonephritis: ... Uncomplicated Urinary Tract Infections",
+        "category": "Drug_QA",
+        "personalization_score": 1.2331731861047102
+    },
+    {
+        "instruction": "what does bumetanide pill look like",
+        "context": "Appearance",
+        "response": "Color - WHITE (White to off white); Shape - ROUND; Score - 2 pieces; Size - 8mm; Imprint Code - AC41",
+        "category": "Drug_QA",
+        "personalization_score": 1.232478338991694
+    },
+    {
+        "instruction": "how many milligrams in tramadol",
+        "context": "Dose",
+        "response": "Each tablet, for oral administration contains 50 mg of tramadol hydrochloride and is white in color.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2314758514290516
+    },
+    {
+        "instruction": "what shape is the amlodipine pill",
+        "context": "Appearance",
+        "response": "DIAMOND (DIAMOND)",
+        "category": "Drug_QA",
+        "personalization_score": 1.2304078799209763
+    },
+    {
+        "instruction": "can i eat after taking rapaflo?",
+        "context": "Usage",
+        "response": "The recommended dose is 8 mg orally once daily with a meal.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2288754835475626
+    },
+    {
+        "instruction": "how to pronounce chlordiazepoxide",
+        "context": "Pronounce name",
+        "response": "pronounced as (klor dye az e pox' ide)",
+        "category": "Drug_QA",
+        "personalization_score": 1.2284589270106088
+    },
+    {
+        "instruction": "has lisinopril been taken off the market?",
+        "context": "Availability",
+        "response": "This branded product is no longer on the market. Generic alternatives may be available.",
+        "category": "Drug_QA",
+        "personalization_score": 1.227714632725104
+    },
+    {
+        "instruction": "whate is vitamin c chemicl symple ?",
+        "context": "Information",
+        "response": "Active Ingredient/Active Moiety ... ASCORBIC ACID ...",
+        "category": "Drug_QA",
+        "personalization_score": 1.2277058514571602
+    },
+    {
+        "instruction": "what does memantine look like",
+        "context": "Appearance",
+        "response": "Color - WHITE, Shape - ROUND, Score - no score, Size - 8mm, Imprint Code - M;104",
+        "category": "Drug_QA",
+        "personalization_score": 1.2273675277676497
+    },
+    {
+        "instruction": "is there an antacid malox?",
+        "context": "Information",
+        "response": "MAALOX ANTACID - aluminum hydroxide, magnesium hydroxide, simethicone liquid ",
+        "category": "Drug_QA",
+        "personalization_score": 1.2261110448057182
+    },
+    {
+        "instruction": "freezing clotrimazole?",
+        "context": "Storage and disposal",
+        "response": "store at temperature not exceeding 30°C (86°F). Do not freeze.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2258351185533007
+    },
+    {
+        "instruction": "what's the smell of marijuana",
+        "context": "Information",
+        "response": "Consumer perceptions of strain differences in Cannabis aroma … [whole page]",
+        "category": "Drug_QA",
+        "personalization_score": 1.2244812330059358
+    },
+    {
+        "instruction": "pravastatin s9 orange how many \"grams?\"",
+        "context": "Dose",
+        "response": "No answers",
+        "category": "Drug_QA",
+        "personalization_score": 1.2231043472181284
+    },
+    {
+        "instruction": "can hormonal contraceptives be used for medical reasons?",
+        "context": "Indication",
+        "response": "Medical Uses of the Birth Control Pill … [whole page]",
+        "category": "Drug_QA",
+        "personalization_score": 1.2223586342091766
+    },
+    {
+        "instruction": "how to reconstitute cefazolin",
+        "context": "Usage",
+        "response": "RECONSTITUTION … [whole section]",
+        "category": "Drug_QA",
+        "personalization_score": 1.2217371656379048
+    },
+    {
+        "instruction": "show me the stages of oxycodone 15 milligram hcl",
+        "context": "Information",
+        "response": "Stages of Opiate Withdrawal …",
+        "category": "Drug_QA",
+        "personalization_score": 1.2215495926020428
+    },
+    {
+        "instruction": "how dangerous is cutting nifedipine er cc tablets",
+        "context": "Usage",
+        "response": "Nifedipine Extended-release Tablets should be swallowed whole. Do not chew, divide or crush tablets.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2214322284728407
+    },
+    {
+        "instruction": "what is the lowest dose of hydrochlorothiazide",
+        "context": "Dose",
+        "response": "For Control of Hypertension: The usual initial dose in adults is 25 mg daily given as a single dose.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2213739874341503
+    },
+    {
+        "instruction": "why is pyridostigmine prescribed",
+        "context": "Indication",
+        "response": "Pyridostigmine is used to decrease muscle weakness resulting from myasthenia gravis.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2183664154119673
+    },
+    {
+        "instruction": "what upis this medication for simvastatin",
+        "context": "unanswerable",
+        "response": "No Answers",
+        "category": "Drug_QA",
+        "personalization_score": 1.2183556676553584
+    },
+    {
+        "instruction": "wean off tegretol?",
+        "context": "Stopping/tapering",
+        "response": "As with all antiepileptic drugs, Tegretol should be withdrawn gradually to minimize the potential of increased seizure frequency.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2181488644261842
+    },
+    {
+        "instruction": "what his acetaminophen and 8mg phosphate codeline",
+        "context": "Combination",
+        "response": "ACETAMINOPHEN AND CODEINE PHOSPHATE- acetaminophen and codeine phosphate tablet",
+        "category": "Drug_QA",
+        "personalization_score": 1.2178384350427827
+    },
+    {
+        "instruction": "does enalaprilat is used for treat stroke?",
+        "context": "Indication",
+        "response": "Enalaprilat injection, USP is indicated for the treatment of hypertension when oral therapy is not practical.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2177957535602666
+    },
+    {
+        "instruction": "should metoprolol and lexapro be taken together?",
+        "context": "Interaction",
+        "response": "Coadministration of Lexapro and metoprolol had no clinically significant effects on blood pressure or heart rate.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2174006579392802
+    },
+    {
+        "instruction": "how does marijuana get into a persons body",
+        "context": "Usage",
+        "response": "Cannabinoids can be taken by mouth, inhaled, or sprayed under the tongue",
+        "category": "Drug_QA",
+        "personalization_score": 1.2159989729736551
+    },
+    {
+        "instruction": "senna tablets what dose",
+        "context": "Dose",
+        "response": "HOW SUPPLIED … DOSAGE & INDICATIONS ... MAXIMUM DOSAGE ... DOSING CONSIDERATIONS ... ADMINISTRATION …",
+        "category": "Drug_QA",
+        "personalization_score": 1.2156719908533005
+    },
+    {
+        "instruction": "how long should i take dutasteride",
+        "context": "Usage/duration",
+        "response": "We strongly recommend that physicians discuss with their patients these potential serious adverse effects of long-term dutasteride therapy prior to instituting this form of treatment.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2156688026308053
+    },
+    {
+        "instruction": "81% aspirin contain resin and shellac in it. ?",
+        "context": "Ingredient",
+        "response": "Inactive Ingredients  Ingredient Name",
+        "category": "Drug_QA",
+        "personalization_score": 1.213859821571915
+    },
+    {
+        "instruction": "what is a daily amount of prednisolone eye drops to take",
+        "context": "Dose",
+        "response": "Two drops topically in the eye(s) four times daily. In cases of bacterial infections, concomitant use of anti-infective agents is mandatory. Care should be taken not to discontinue therapy prematurely.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2135623479055175
+    },
+    {
+        "instruction": "how to identify clonidine tablets",
+        "context": "Appearance",
+        "response": "Product Characteristics Color WHITE Score no score Shape ROUND (biconvex) Size 6mm Flavor Imprint Code A;16",
+        "category": "Drug_QA",
+        "personalization_score": 1.2134156635151763
+    },
+    {
+        "instruction": "how often do you take flu vaccine?",
+        "context": "Usage/time",
+        "response": "Everyone 6 months of age and older should get a flu vaccine every season.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2126787488360589
+    },
+    {
+        "instruction": "how fast does teh medications take to work amlodipine",
+        "context": "Action/time",
+        "response": "After oral administration of therapeutic doses of amlodipine besylate, absorption produces peak plasma concentrations between 6 and 12 hours.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2118599338637834
+    },
+    {
+        "instruction": "nitrofurantoin generic for?",
+        "context": "Brand names",
+        "response": "Furadantin® Tablets¶\nFuradantin® Oral Suspension\nFuralan®¶\nMacrobid®\nMacrodantin®",
+        "category": "Drug_QA",
+        "personalization_score": 1.211025213991276
+    },
+    {
+        "instruction": "how can biotin effect my blood test",
+        "context": "Side effects",
+        "response": "FDA Warns that Biotin May Affect Some Lab Test Results …",
+        "category": "Drug_QA",
+        "personalization_score": 1.210692353004428
+    },
+    {
+        "instruction": "what is the lowest dose of hydrochlorothiazide",
+        "context": "Dose",
+        "response": "For Edema: The usual adult dosage is 25 to 100 mg daily as a single or divided dose.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2098336306722826
+    },
+    {
+        "instruction": "blood pressure when on eliquis",
+        "context": "Side effects",
+        "response": "Less common adverse reactions … Vascular disorders: hypotension (including procedural hypotension)",
+        "category": "Drug_QA",
+        "personalization_score": 1.209691146336567
+    },
+    {
+        "instruction": "what are the milligrams for oxycodone e",
+        "context": "Dose",
+        "response": "… 10 mg … 20 mg … 40 mg … 80 mg ...",
+        "category": "Drug_QA",
+        "personalization_score": 1.2096201988574682
+    },
+    {
+        "instruction": "howmuch aspirin in butalbital",
+        "context": "Ingredient",
+        "response": "Butalbital 50 mg; Aspirin 325 mg; Caffeine 40 mg",
+        "category": "Drug_QA",
+        "personalization_score": 1.2090544983658704
+    },
+    {
+        "instruction": "where does marijuana come from",
+        "context": "Information",
+        "response": "Marijuana is a green, brown, or gray mix of dried, crumbled parts from the marijuana plant.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2085596554260059
+    },
+    {
+        "instruction": "what is u02 medicine",
+        "context": "Appearance",
+        "response": "imipramine pamoate, Hydrocodone Bitartrate and Acetaminophen",
+        "category": "Drug_QA",
+        "personalization_score": 1.2080866170948785
+    },
+    {
+        "instruction": "how many mgs of seroquel does one take for sleep",
+        "context": "Dose",
+        "response": "The recommended initial dose, titration, dose range and maximum SEROQUEL dose for each approved indication is displayed in Table 1. After initial dosing, adjustments can be made upwards or downwards",
+        "category": "Drug_QA",
+        "personalization_score": 1.2074024509171148
+    },
+    {
+        "instruction": "can mucinex fast-max products be used with other over-the-counter (otc) or prescription medications?",
+        "context": "Interaction",
+        "response": "Do not use with any other drug containing acetaminophen (prescription or nonprescription). ",
+        "category": "Drug_QA",
+        "personalization_score": 1.2073267442232134
+    },
+    {
+        "instruction": "how long does ecstasy or mda leave your body",
+        "context": "Action/time",
+        "response": "In terms of its metabolism, research suggests that MDMA taken by mouth reaches its maximal blood concentration in about two hours. As ecstasy is metabolized, it is secreted into the urine and can be present for up to two days.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2048086789818784
+    },
+    {
+        "instruction": "what color metoprolol",
+        "context": "Appearance",
+        "response": "Product Characteristics Color WHITE Score 2 pieces Shape OVAL (Capsule-Shaped) Size 11mm Flavor Imprint Code M",
+        "category": "Drug_QA",
+        "personalization_score": 1.202558178613071
+    },
+    {
+        "instruction": "how should i stop taking heparin?",
+        "context": "Stopping/tapering",
+        "response": "Unlike warfarin, which requires a slow reduction, heparin treatment can be started and stopped quickly.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2020510916522735
+    },
+    {
+        "instruction": "what mg does lunesta come \"in?\"",
+        "context": "Dose",
+        "response": "LUNESTA is available in 1 mg, 2 mg and 3 mg strengths for oral administration.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2015519532440868
+    },
+    {
+        "instruction": "who makes this drug nitrofurantoin ?",
+        "context": "Manufacturer",
+        "response": "Procter and Gamble Pharmaceuticals, Inc.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2010965485962384
+    },
+    {
+        "instruction": "what does bumetanide pill look like",
+        "context": "Appearance",
+        "response": "Color - WHITE (White to off white); Shape - ROUND; Score - 2 pieces; Size - 6mm; Imprint Code - A16",
+        "category": "Drug_QA",
+        "personalization_score": 1.2009719868320012
+    },
+    {
+        "instruction": "do i take a statin with or without food \"?\"",
+        "context": "Usage",
+        "response": "Read the label on the bottle carefully. Some brands should be taken with food. Others may be taken with, or without food.",
+        "category": "Drug_QA",
+        "personalization_score": 1.2001931245894177
+    },
+    {
+        "instruction": "what is asa ec",
+        "context": "Information",
+        "response": "Acetylsalicylic acid [Aspirin] … Enteric coated tablet … Asa EC",
+        "category": "Drug_QA",
+        "personalization_score": 1.199703910661024
+    },
+    {
+        "instruction": "how to stop taking amlodipine",
+        "context": "Stopping/tapering",
+        "response": "Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1996115259786486
+    },
+    {
+        "instruction": "age limits for use of bupropion?",
+        "context": "Indication",
+        "response": "It is not known if Bupropion Hydrochloride Extended-release (SR) tablets are safe and effective in children under the age of 18.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1990830965192358
+    },
+    {
+        "instruction": "what is magnesium chelated good for",
+        "context": "Indication",
+        "response": "Chelated magnesium is used as a supplement to maintain adequate magnesium in the body.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1978821292072925
+    },
+    {
+        "instruction": "what are the inactive ingredients to the pneumonia vaccine",
+        "context": "Ingredient",
+        "response": "Inactive Ingredients POLYSORBATE 80 … ALUMINUM PHOSPHATE",
+        "category": "Drug_QA",
+        "personalization_score": 1.1950777095223737
+    },
+    {
+        "instruction": "what is morphine",
+        "context": "Information",
+        "response": "Morphine is a pain medication of the opiate family which is found naturally in a number of plants and animals.[5][7] It acts directly on the central nervous system (CNS) to decrease the feeling of pain.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1932214173733438
+    },
+    {
+        "instruction": "when is the best time to take lotensin",
+        "context": "Usage/time",
+        "response": "Benazepril comes as a tablet to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take benazepril, take it around the same time(s) every day.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1931124641505935
+    },
+    {
+        "instruction": "what does vicodin look like",
+        "context": "Appearance",
+        "response": "Color: WHITE Score: 2 pieces Shape: OVAL Size: 14mm Imprint Code: VICODIN;HP;10;300",
+        "category": "Drug_QA",
+        "personalization_score": 1.1927583637850776
+    },
+    {
+        "instruction": "where is heroin originated from",
+        "context": "Information",
+        "response": "Heroin is ... an opioid drug made from morphine, a natural substance in the seedpod of the Asian poppy plant.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1923023122831133
+    },
+    {
+        "instruction": "metformin after dinner and bed time?",
+        "context": "Usage",
+        "response": "Metformin hydrochloride extended-release tablets, USP should generally be given once daily with the evening meal.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1905743693021824
+    },
+    {
+        "instruction": "how does spiriva work",
+        "context": "Action",
+        "response": "Tiotropium is in a class of medications called bronchodilators. It works by relaxing and opening the air passages to the lungs to make breathing easier.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1903393605186168
+    },
+    {
+        "instruction": "how long on metoprolol after vavle replacement surgery",
+        "context": "Usage/time",
+        "response": "Typically one stays on it for around a month but it can be indefinitely if you have high blood pressure. This is a very benign drug and is very commonly used.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1899599816999142
+    },
+    {
+        "instruction": "what is the maximum dose of pregabalin",
+        "context": "Dose",
+        "response": "In view of the dose-dependent adverse reactions, treatment with doses above 300 mg/day is not recommended",
+        "category": "Drug_QA",
+        "personalization_score": 1.1898013991782441
+    },
+    {
+        "instruction": "is dronabinol marijuana how much are ten mg pills worth",
+        "context": "not_drug_question",
+        "response": "The cost for dronabinol oral capsule 2.5 mg is around $94 for a supply of 60 capsules, depending on the pharmacy you visit.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1890371520379606
+    },
+    {
+        "instruction": "how long can megestrol be taken?",
+        "context": "Usage/duration",
+        "response": "At least 2 months of continuous treatment is considered an adequate period for determining the efficacy of megestrol acetate.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1886329660805552
+    },
+    {
+        "instruction": "what are steroids",
+        "context": "Information",
+        "response": "any of various compounds containing a 17-carbon 4-ring system and including the sterols and numerous hormones (such as anabolic steroids or corticosteroids) and glycosides",
+        "category": "Drug_QA",
+        "personalization_score": 1.1884629429321407
+    },
+    {
+        "instruction": "how to safely stop taking anastrozole",
+        "context": "Stopping/tapering",
+        "response": "A study has found that postmenopausal women who stop taking hormonal therapy early or skip doses are much more likely to have a breast cancer recurrence than women who take hormonal therapy as prescribed.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1878278382992067
+    },
+    {
+        "instruction": "what ppis this medication for simvastatin",
+        "context": "Interaction",
+        "response": "PPIs may modestly boost the statin-mediated LDL-C reduction.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1871534468782174
+    },
+    {
+        "instruction": "what valacyclovir looks like in color shape",
+        "context": "Appearance",
+        "response": "Color - blue; Shape - CAPSULE; Score - 2 pieces; Size - 21mm; Imprint Code - RX905",
+        "category": "Drug_QA",
+        "personalization_score": 1.1871282566354973
+    },
+    {
+        "instruction": "what is fentanyl",
+        "context": "Information",
+        "response": "Fentanyl is in a class of medications called narcotic (opiate) analgesics. It works by changing the way the brain and nervous system respond to pain.",
+        "category": "Drug_QA",
+        "personalization_score": 1.186449170704889
+    },
+    {
+        "instruction": "what pill is close to the pill hyoscyamine for bloating food to more faster",
+        "context": "Alternatives",
+        "response": "Unanswerable",
+        "category": "Drug_QA",
+        "personalization_score": 1.1863102889150445
+    },
+    {
+        "instruction": "what is in flomax",
+        "context": "Ingredient",
+        "response": "Active Ingredient/Active Moiety TAMSULOSIN HYDROCHLORIDE (UNII: 11SV1951MR) (tamsulosin - UNII:G3P28OML5I)  TAMSULOSIN HYDROCHLORIDE  0.4 mg",
+        "category": "Drug_QA",
+        "personalization_score": 1.1862607932252576
+    },
+    {
+        "instruction": "is oxybutynin an \"opioid?\"",
+        "context": "Ingredient",
+        "response": "OXYBUTYNIN CHLORIDE",
+        "category": "Drug_QA",
+        "personalization_score": 1.1856079262972683
+    },
+    {
+        "instruction": "what exactly is butalbital",
+        "context": "Information",
+        "response": "Butalbital, 5-allyl-5-isobutylbarbituric acid, is a barbiturate with an intermediate duration of action.",
+        "category": "Drug_QA",
+        "personalization_score": 1.185339984511232
+    },
+    {
+        "instruction": "what is amphetamine",
+        "context": "Information",
+        "response": "Amphetamines are non-catecholamine, sympathomimetic amines with CNS stimulant activity.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1849864957792684
+    },
+    {
+        "instruction": "metoprolol pill how long before it takes affect",
+        "context": "Action/time",
+        "response": "Metoprolol starts to work after about 2 hours, but it can take up to 1 week to fully take effect. You may not feel any different when you take metoprolol, but this doesn't mean it's not working. It's important to keep taking your medicine.",
+        "category": "Drug_QA",
+        "personalization_score": 1.182681095077465
+    },
+    {
+        "instruction": "what meds are in the pill montelukast?",
+        "context": "Ingredient",
+        "response": "ACTIVE INGREDIENT: MONTELUKAST SODIUM (UNII: U1O3J18SFL) (MONTELUKAST - UNII:MHM278SD3E)",
+        "category": "Drug_QA",
+        "personalization_score": 1.1824608945521142
+    },
+    {
+        "instruction": "what is terfenadine",
+        "context": "Information",
+        "response": "Terfenadine is a selective histamine H1-receptor antagonist devoid of central nervous system depressant activity. The drug was used for ALLERGY but withdrawn due to causing LONG QT SYNDROME.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1824448251844641
+    },
+    {
+        "instruction": "levodopa carbidopa what will these drugs do to me if i take alcohol",
+        "context": "Interaction",
+        "response": "Alcohol can make the side effects from levodopa and carbidopa worse.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1821344755060539
+    },
+    {
+        "instruction": "what is the action of ezetimibe in my body",
+        "context": "Action",
+        "response": "Ezetimibe is in a class of medications called cholesterol-lowering medications. It works by preventing the absorption of cholesterol in the intestine.",
+        "category": "Drug_QA",
+        "personalization_score": 1.182091354340787
+    },
+    {
+        "instruction": "what help withdrawal \"fom.\" hydrocodone 10 35",
+        "context": "Stopping/tapering",
+        "response": "Narcotics Anonymous (N.A.) assists people who want to stop abusing prescription or illegal drugs. Find a meeting center or online support group by searching for the local helpline or website for the area where the meeting is located.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1819814447597237
+    },
+    {
+        "instruction": "what does vitamin d3 do",
+        "context": "Action",
+        "response": "Vitamin D helps your body absorb calcium. Calcium is one of the main building blocks of bone. A lack of vitamin D can lead to bone diseases such as osteoporosis or rickets. Vitamin D also has a role in your nerve, muscle, and immune systems.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1816853034047667
+    },
+    {
+        "instruction": "what are the active incredience in balsalazide",
+        "context": "Ingredient",
+        "response": "BALSALAZIDE DISODIUM",
+        "category": "Drug_QA",
+        "personalization_score": 1.1816681176501478
+    },
+    {
+        "instruction": "famotidine 10 mg?",
+        "context": "Information",
+        "response": "relieves heartburn associated with acid indigestion and sour stomach\nprevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain food and beverages",
+        "category": "Drug_QA",
+        "personalization_score": 1.181379941333844
+    },
+    {
+        "instruction": "what class is diazepam",
+        "context": "Information",
+        "response": "Diazepam is a benzodiazepine that exerts anxiolytic, sedative, muscle-relaxant, anticonvulsant and amnestic effects.",
+        "category": "Drug_QA",
+        "personalization_score": 1.180523433346961
+    },
+    {
+        "instruction": "how long does it take cefuroxime axetil to work",
+        "context": "Time/duration",
+        "response": "You should begin to feel better during the first few days of treatment with cefuroxime. If your symptoms do not improve or get worse, call your doctor. Take cefuroxime until you finish the prescription, even if you feel better. If you stop taking cefuroxime too soon or skip doses, your infection may not be completely treated, and the bacteria may become resistant to antibiotics.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1804653135520993
+    },
+    {
+        "instruction": "what is classed as a low dose of azathioprine",
+        "context": "Dose",
+        "response": "approximately 1 mg/kg (50 to 100 mg) given as a single dose or on a twice-daily schedule",
+        "category": "Drug_QA",
+        "personalization_score": 1.1803993165767224
+    },
+    {
+        "instruction": "what does memantine look like",
+        "context": "Appearance",
+        "response": "Color - ORANGE, Shape - CAPSULE (biconvex), Score - no score, Size - 10mm, Imprint Code - m5",
+        "category": "Drug_QA",
+        "personalization_score": 1.1803095440988345
+    },
+    {
+        "instruction": "what happens if your child ate a tylenol tablet",
+        "context": "Overdose",
+        "response": "In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1784472514501687
+    },
+    {
+        "instruction": "how reduce cholesterol",
+        "context": "Indication",
+        "response": "A healthy lifestyle is the first defense against high cholesterol. But sometimes diet and exercise aren't enough, and you may need to take cholesterol medications. Cholesterol medications might help",
+        "category": "Drug_QA",
+        "personalization_score": 1.1781944112306384
+    },
+    {
+        "instruction": "how ph change with antibiotic",
+        "context": "Action",
+        "response": "Collins' team had already discovered that antibiotics that kill bacteria do so by triggering oxidative stress in the bacteria. They wondered whether antibiotics caused side effects by triggering oxidative stress in the mitochondria, a bacterium-like organelle that supplies human cells with energy.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1778576561445087
+    },
+    {
+        "instruction": "what is the expiration time for fluorouracil topical cream",
+        "context": "Storage and disposal",
+        "response": "The recommended shelf life of Efudix cream is 60 months.\n\nShelf life after first opening the immediate packaging: 90 days for the 20g and 40g tubes.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1770126816966984
+    },
+    {
+        "instruction": "lorcet \"7.5\" liquid whats in this",
+        "context": "Ingredient",
+        "response": "HYDROCODONE BITARTRATE (UNII: NO70W886KK) (HYDROCODONE - UNII:6YKS4Y3WQ7) HYDROCODONE BITARTRATE 7.5 mg  in 15 mL",
+        "category": "Drug_QA",
+        "personalization_score": 1.1770076305170962
+    },
+    {
+        "instruction": "how long should you use anti inflammatory gel",
+        "context": "Usage/duration",
+        "response": "Use topical diclofenac (Pennsaid, Voltaren) exactly as directed. Do not use more or less of it or use it more often or for a longer period of time than prescribed by your doctor.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1763691115478576
+    },
+    {
+        "instruction": "how does sutent affect creatine",
+        "context": "Side effects",
+        "response": "Among patients receiving sunitinib, the incidence of all grade increased creatinine levels is 12.4% to 65.6%",
+        "category": "Drug_QA",
+        "personalization_score": 1.175834380161981
+    },
+    {
+        "instruction": "what is bioflavonoid",
+        "context": "Information",
+        "response": "Bioflavonoids are a group of what are called “polyphenolic” plant-derived compounds. They’re also called flavonoids. There are between 4,000 and 6,000 different varieties known. Some are used in medicine, supplements, or for other health purposes.",
+        "category": "Drug_QA",
+        "personalization_score": 1.175767941278434
+    },
+    {
+        "instruction": "testosterone over counter?",
+        "context": "Information",
+        "response": "NATURAL TESTOSTERONE- avena sativa. epimedium, lycopodium clavatum, damiana, testosterone, agnus castus spray",
+        "category": "Drug_QA",
+        "personalization_score": 1.175763736412124
+    },
+    {
+        "instruction": "how long keep patient on chantix",
+        "context": "Usage/time",
+        "response": "Patients should be treated with CHANTIX for 12 weeks. For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks' treatment with CHANTIX is recommended to further increase the likelihood of long-term abstinence.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1753228695617657
+    },
+    {
+        "instruction": "are tobacco and nicotine products addictive?",
+        "context": "Side effects",
+        "response": "Is nicotine addictive? Yes. Most smokers use tobacco regularly because they are addicted to nicotine.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1741289036443012
+    },
+    {
+        "instruction": "is restoril additive?",
+        "context": "Information",
+        "response": "RESTORIL is a federal controlled substance (C-IV) because it can be abused or lead to dependence. Keep\nRESTORIL in a safe place to prevent misuse and abuse. Selling or giving away RESTORIL may harm others, and is against the law. Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines or street drugs.",
+        "category": "Drug_QA",
+        "personalization_score": 1.1725765761534874
+    }
+]

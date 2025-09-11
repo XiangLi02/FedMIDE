@@ -1,0 +1,982 @@
+[
+    {
+        "instruction": "Does thyroid hormone signaling affect microRNAs expression in the heart?",
+        "context": "",
+        "response": "YES",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.208098714427824
+    },
+    {
+        "instruction": "How do circRNAs relate to tumorigenesis?",
+        "context": "",
+        "response": "Circular RNA may promote or repress tumorigenesis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1729643955984026
+    },
+    {
+        "instruction": "Which genes are associated with Epidermolysis Bullosa Simplex?",
+        "context": "",
+        "response": "In one family studied, inheritance of EBS is linked to the gene encoding keratin 14",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1693947097077093
+    },
+    {
+        "instruction": "Is PCAT6 a microRNA?",
+        "context": "",
+        "response": "No, PCAT6 is a long noncoding RNA.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1651089788194542
+    },
+    {
+        "instruction": "Does strenuous physical activity affect thyroid hormone metabolism?",
+        "context": "",
+        "response": "YES",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1638754396192046
+    },
+    {
+        "instruction": "Does a comet assay measure radiation induced mutations?",
+        "context": "",
+        "response": "Yes. The comet assay is frequently used to measure DNA damage in individual cells.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1589432762867902
+    },
+    {
+        "instruction": "What is the function of GvpA?",
+        "context": "",
+        "response": "The gas vesicle wall is solely formed of proteins with the two major components, GvpA and GvpC, and",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1535932448873134
+    },
+    {
+        "instruction": "Is COL5A2 gene associated to ischemic heart disease?",
+        "context": "",
+        "response": "Analysis of a gene co-expression network establishes robust association between Col5a2 and ischemic heart disease  ",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.152080153533394
+    },
+    {
+        "instruction": "Which R/bioconductor have been developed for copy number analysis?",
+        "context": "",
+        "response": "CNVRanger, seqCNA, iGC, PLRS, SomatiCA, Copynumber, crlmm, KC-SMARTR are all R/bioconductor packages for copy number analysis",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1487638124756325
+    },
+    {
+        "instruction": "To the ligand of which receptors does Denosumab (Prolia) bind?",
+        "context": "",
+        "response": "Denosumab is a monoclonal antibody against the RANKL",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.148713418440005
+    },
+    {
+        "instruction": "Is pseudouridine a RNA modification?",
+        "context": "",
+        "response": "Yes, pseudouridine (Ψ) is the most abundant of>150 nucleoside modifications in RNA.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1454510095856971
+    },
+    {
+        "instruction": "Has CPX-351 been approved by the FDA and the EMA?",
+        "context": "",
+        "response": "Yes, CPX-351 has been approved by the US FDA and the EMA.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1444914764465497
+    },
+    {
+        "instruction": "Is cystatin C or cystatin 3 used as a biomarker of kidney function?",
+        "context": "",
+        "response": "Yes, cystatin C (CysC) is a  novel biomarker of renal function.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1421041915020487
+    },
+    {
+        "instruction": "Is Belimumab used for lupus nephritis?",
+        "context": "",
+        "response": "Yes, Belimumab can be used for lupus nephritis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1416955440403405
+    },
+    {
+        "instruction": "When was Volanesorsen approved in the EU?",
+        "context": "",
+        "response": "In May 2019, volanesorsen was approved in the EU for the treatment of adult patients with familial chylomicronemia syndrome.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1380961939823535
+    },
+    {
+        "instruction": "What is the genetic basis of Ohdo syndrome?",
+        "context": "",
+        "response": "MED12 cause X-linked Ohdo syndromeIn",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1377255994162105
+    },
+    {
+        "instruction": "Which drugs are included in the Orkambi pill?",
+        "context": "",
+        "response": "Orkambi pill includes lumacaftor combined with ivacaftor. It is approved for treatment of cystic fibrosis with F508del-CFTR mutation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.137031127604331
+    },
+    {
+        "instruction": "Is calcium overload involved in the development of diabetic cardiomyopathy?",
+        "context": "",
+        "response": "Yes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.136048582405513
+    },
+    {
+        "instruction": "Is Lanabecestat effective for Alzheimer's disease?",
+        "context": "",
+        "response": "No. Treatment with lanabecestat was well tolerated and did not slow cognitive or functional decline of Alzheimer's disease patients.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1355541086563088
+    },
+    {
+        "instruction": "List genes associated with hypolipidemia.",
+        "context": "",
+        "response": "PCSK9\nAPOB \nANGPTL3\nANGPTL4\nMTP",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1351234474609753
+    },
+    {
+        "instruction": "Is patisiran currently (November 2017) in clinical phase II trials?",
+        "context": "",
+        "response": "No, patisiran is in phase 3 clinical studies.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1349727140424988
+    },
+    {
+        "instruction": "Can LB-100 sensitize ovarian carcinoma to cisplatin?",
+        "context": "",
+        "response": "Yes, LB100 sensitizes ovarian carcinoma cells to cisplatin-mediated cytotoxicity.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1330992843503784
+    },
+    {
+        "instruction": "Is avanafil indicated for treatment of erectile dysfunction?",
+        "context": "",
+        "response": "Yes, avanafil is indicated for treatment of erectile dysfunction.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.132578011082748
+    },
+    {
+        "instruction": "Could RG7112 be used as cancer therapy?",
+        "context": "",
+        "response": "Yes, RG7112 has shown promising results in early phases of trials in cancer patients.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1320388942382735
+    },
+    {
+        "instruction": "Which gene therapy treatment is FDA approved for retinal dystrophy?",
+        "context": "",
+        "response": "Luxturna is approved by the Food and Drug Administration (FDA) for the treatment of inherited retinal dystrophy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.130759486310848
+    },
+    {
+        "instruction": "Can radiation induced meningiomas be treated with radiosurgery?",
+        "context": "",
+        "response": "Yes, radiation induced meningiomas be treated with radiosurgery. Radiosurgery provides satisfactory control of radiation induced meningiomas.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1306745673676128
+    },
+    {
+        "instruction": "Is NfL (neurofilament light chain) a biomarker of neurodegeneration?",
+        "context": "",
+        "response": "Yes,\nNeurofilament light chain (NfL) has recently been proposed as a promising biomarker in frontotemporal dementia (FTD).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1305459879651982
+    },
+    {
+        "instruction": "What is Chrysophanol?",
+        "context": "",
+        "response": "Chrysophanol is an anthraquinone compound, which exhibits anticancer effects on certain types of cancer cells",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1303069284538478
+    },
+    {
+        "instruction": "What is the advantage of using long nano columns in proteomics?",
+        "context": "",
+        "response": "The longer the columns, the longer gradients are applied and finally more proteins (increased peak capacity) are identified in a complex  proteomic experiment",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1299237840701284
+    },
+    {
+        "instruction": "What is the use of MammaPrint and Oncotype DX?",
+        "context": "",
+        "response": "The MammaPrint and Oncotype DX assays are used to predict breast cancer recurrence risk and guide adjuvant chemotherapy decisions.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.128799082018024
+    },
+    {
+        "instruction": "Can enasidenib be used for the treatment of acute myeloid leukemia?",
+        "context": "",
+        "response": "Yes, enasidenib has been approved for the treatment of adults with relapsed and refracctory acture myelogenous leukemia with an IDH2 mutation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1273279186325829
+    },
+    {
+        "instruction": "What is the COUGER tool?",
+        "context": "",
+        "response": "COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences. ",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1271056628583407
+    },
+    {
+        "instruction": "How does condensin affect the function of topoisomeraseII?",
+        "context": "",
+        "response": "Condensin prevents deleterious anaphase bridges during chromosome segregation by promoting sister chromatid decatenation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1265382628951262
+    },
+    {
+        "instruction": "Which DNA repair system is involved in HNPCC?",
+        "context": "",
+        "response": "In HNPCC families, germline mutations in any of four genes encoding proteins of a specialized DNA repair system, the mismatch repair, predispose to cancer development.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1257046068474033
+    },
+    {
+        "instruction": "Is G3BP1 found in stress granules?",
+        "context": "",
+        "response": "Yes,\nRAS GTPase-activating protein-binding protein (G3BP1) is an RNA-binding protein that is essential for assembling stress granules.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1252607791348472
+    },
+    {
+        "instruction": "List the main PPI databases.",
+        "context": "",
+        "response": "PPIM,\nHPRD,\nSTRING,\nDAPID,\nMIPS,\nINTERACT,\nBioGRID",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.125125572588075
+    },
+    {
+        "instruction": "Is the toxin produced by Clostridium botulinum always deadly?",
+        "context": "",
+        "response": "There are numerous examples where children and animals survived infection with clostridium botulinum.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.125073801367022
+    },
+    {
+        "instruction": "Is there a dependence between chromatin organization and dorsoventral gene expression in Drosophila?",
+        "context": "",
+        "response": "No. There is independence of chromatin conformation and gene regulation during Drosophila dorsoventral patterning",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1246988664361648
+    },
+    {
+        "instruction": "Is Otolin-1 a matrix protein?",
+        "context": "",
+        "response": "Yes,\notolin-1 is a otoconia matrix protein.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1245967062669673
+    },
+    {
+        "instruction": "Which tissues express the ACE2 protein?",
+        "context": "",
+        "response": "Abundant ACE2 immunostaining was found in lung, kidney, heart, and islets of pancreas, but not in hepatocytes",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1244650647206829
+    },
+    {
+        "instruction": "Which are the main G1/S transcription factors in yeast?",
+        "context": "",
+        "response": "MBF/SBF is the major transcriptional repressor of G1/S genes in Saccharomyces cerevisiae.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.124317891096527
+    },
+    {
+        "instruction": "What is the purpose of the Sunnybrook Facial Grading System?",
+        "context": "",
+        "response": "The Sunnybrook facial grading system is applied to evaluate facial function in patients with facial palsy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1242830440609346
+    },
+    {
+        "instruction": "Does radiation for tinea capitis increases brain tumor risk?",
+        "context": "",
+        "response": "Yes, radiation therapy for tinea capitis is associated with increased risk of meningiomas and gliomas.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1238202170606617
+    },
+    {
+        "instruction": "Is the Wnt protein modified by notum?",
+        "context": "",
+        "response": "Yes, \tNotum deacylates Wnt proteins to suppress signalling activity.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1233428500737437
+    },
+    {
+        "instruction": "Are reduced-nicotine cigarettes effective for smoking cessation?",
+        "context": "",
+        "response": "Yes, reduced-nicotine cigarettes are effective for smoking cessation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.122919229543636
+    },
+    {
+        "instruction": "Which ApoE isoform is associated with atherosclerosis and Alzheimer's disease?",
+        "context": "",
+        "response": "The ApoE4 isoform is associated with increased frequency of atherosclerosis and Alzheimer's disease (AD).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1228121447270576
+    },
+    {
+        "instruction": "What is the link between Ctf4 and Chl1 in cohesion establishment?",
+        "context": "",
+        "response": "Ctf4 links DNA replication with sister chromatid cohesion establishment by recruiting the Chl1 helicase to the replisome. The Eco1 acetyltransferase, helped by factors including Ctf4 and Chl1, concomitantly acetylates the chromosomal cohesin complex to stabilize its cohesive links.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1222696493919426
+    },
+    {
+        "instruction": "What is Quorum Sensing in bacteria?",
+        "context": "",
+        "response": "In many pathogenic microorganisms, communication systems, collectively termed quorum sensing (QS),",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1219582412002755
+    },
+    {
+        "instruction": "Is SUMOylation a post-translational modification in eukaryotes?",
+        "context": "",
+        "response": "Yes, SUMOylation that is the conjugation of target proteins with SUMO (small ubiquitin-related modifier), is a type of post-translational modification in eukaryotes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1219341668464955
+    },
+    {
+        "instruction": "With which complexes is the protein SUS1 associated?",
+        "context": "",
+        "response": "Sus1/ENY2 is a component of the SAGA and TREX-2 complexes",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1212153842085573
+    },
+    {
+        "instruction": "List signs of patients with biallelic variants in KARS1",
+        "context": "",
+        "response": "KARS1-associated signs are autism, hyperactive behavior, pontine hypoplasia, and cerebellar atrophy with prevalent vermian involvement.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1203162179301211
+    },
+    {
+        "instruction": "Which gene is most commonly associated with severe congenital and cyclic neutropenia?",
+        "context": "",
+        "response": "Neutrophil elastase gene (ELANE) mutations are responsible for the majority of cases of severe congenital neutropenia (SCN) and cyclic neutropenia (CN).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1198358005093296
+    },
+    {
+        "instruction": "Is c-myc subject to regulation by the circadian clock?",
+        "context": "",
+        "response": "Yes, the expression of c-myc is regulated by the circadian clock protein Per2.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.119751701924328
+    },
+    {
+        "instruction": "Was modafinil tested for schizophrenia treatment?",
+        "context": "",
+        "response": "Yes. Modafinil has been shown to improve attention, memory, executive function and antipsychotic-induced parkinsonism in  patients with schizophrenia. However, some authors have failed to demonstrate beneficial action of modafinil for schizophrenia.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1173339693518436
+    },
+    {
+        "instruction": "Which are the cardiac manifestations of Marfan syndrome?",
+        "context": "",
+        "response": "Cardiac manifestations of Marfan syndrome include aortic root dilation,aortic regurgitation, mitral valve prolapse and mitral valve regurgitation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1172889498118572
+    },
+    {
+        "instruction": "Does bleomycin cause lung toxicity?",
+        "context": "",
+        "response": "Pulmonary toxicity is a devastating complication of bleomycin chemotherapy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1170542915242867
+    },
+    {
+        "instruction": "Can the Micro-C XL method achieve mononucleosome resolution?",
+        "context": "",
+        "response": "Yes. Micro-C XL is an improved method for analysis of chromosome folding at mononucleosome resolution.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.116588849802069
+    },
+    {
+        "instruction": "List two indications of Letermovir?",
+        "context": "",
+        "response": "Letermovir is approved for the prophylaxis of CMV infection and disease in adult CMV-seropositive recipients of an allogeneic haematopoietic stem cell transplant (HSCT).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1155806146424807
+    },
+    {
+        "instruction": "What is the function of the protein Magt1?",
+        "context": "",
+        "response": "The magnesium transporter 1 (MAGT1) is a critical regulator of basal intracellular free magnesium ([Mg2+]i) levels.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1155800826923175
+    },
+    {
+        "instruction": "Which databases exist for experimentally determined topologies of α-helical transmembrane proteins ?",
+        "context": "",
+        "response": "ExTopoDB and TMPDB.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1149647862455407
+    },
+    {
+        "instruction": "What is a Caveolae?",
+        "context": "",
+        "response": "Caveolae, plasma membrane invaginations of 60-80nm in diameter, are a subset of lipid rafts enriched in cholesterol and sphingolipids.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1147601172264554
+    },
+    {
+        "instruction": "What is the function of the MTH1 enzyme in cancer cells?",
+        "context": "",
+        "response": "The MTH1 protein catalyzes hydrolysis of oxidatively damaged purine nucleotides including 8-hydroxy-dGTP to the monophosphates. The MTH1 protein seems to act as an important defense system against mutagenesis, carcinogenesis, and cell death induced by oxidized purine nucleotides.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1129964720044696
+    },
+    {
+        "instruction": "Which microRNAs are involved in targeting CYLD in triple negative breast cancer?",
+        "context": "",
+        "response": "Mir-182 and miR-301b are involved in targeting CYLD in triple negative breast cancer.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1127778376344715
+    },
+    {
+        "instruction": "For which disease is sutezolid developed?",
+        "context": "",
+        "response": "Sutezolid is being developed as a treatment against tuberculosis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.112352366709585
+    },
+    {
+        "instruction": "Is HYDIN (Hydrocephalus-inducing protein homolog) an axonemal protein?",
+        "context": "",
+        "response": "Yes,\nHYDIN is a axonemal protein.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.111057062333642
+    },
+    {
+        "instruction": "What is the association between proBNP serum concentrations and stroke outcomes?",
+        "context": "",
+        "response": "ProBNP serum concentrations are elevated in stroke patients relative to healthy controls. Greater proBNP serum concentrations are associated with greater stroke severity and with increased risk for unfvorable functional outcomes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1095026775462171
+    },
+    {
+        "instruction": "What is Bayesian haplotyping used for?",
+        "context": "",
+        "response": "Bayesian haplotype inference is used for phylogenetic analysis, specifcially multiple linked single-nucleotide polymorphisms and analysis of chromosome copy number and deletions.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1091710114598665
+    },
+    {
+        "instruction": "Is PLK2 involved in alpha-synuclein phosphorylation in the nervous system?",
+        "context": "",
+        "response": "Polo-like kinase 2 (PLK2) phosphorylates alpha-synuclein at serine 129 in the central nervous system.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.109079516579874
+    },
+    {
+        "instruction": "What the chromsomal location of the gene that is deleted in Potocki-Shaffer syndrome?",
+        "context": "",
+        "response": "In Potocki-Shaffer syndrome (PSS), the full phenotypic spectrum is manifested when deletions are at least 2.1 Mb in size at 11p11.2",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1088714334995116
+    },
+    {
+        "instruction": "GV1001 vaccine targets which enzyme?",
+        "context": "",
+        "response": "GV1001 is a 16-amino-acid vaccine peptide derived from the human telomerase reverse transcriptase sequence. It has been developed as a vaccine against various cancers.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1088011118326915
+    },
+    {
+        "instruction": "Is lucatumumab a polyclonal antibody?",
+        "context": "",
+        "response": "No, lucatumumab is a a monoclonal antibody against CD40.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.108694051693449
+    },
+    {
+        "instruction": "What is the 3D tomography imaging technique for diagnosis of  eye disease?",
+        "context": "",
+        "response": "Currently, eye care professionals use optical coherence tomography (OCT) scans to help diagnose eye conditions.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1082384347957592
+    },
+    {
+        "instruction": "What is the aim of the TRAP method?",
+        "context": "",
+        "response": "The translating ribosome affinity purification (TRAP) method is used to obtain obtain translatome data.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.107500172955476
+    },
+    {
+        "instruction": "Which are the thyroid hormone analogs utilized in human studies?",
+        "context": "",
+        "response": "TRIAC and TETRAC are two different thyroid hormone analogs utilized in human studies",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1072005183203735
+    },
+    {
+        "instruction": "What percentage of patients of nasopharyngeal carcinoma (NPC) develop recurrent disease?",
+        "context": "",
+        "response": "1.04% of patients with nasopharyngeal carcinoma develop recurrent disease. The overall recurrence rate is 75%.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.105905939750115
+    },
+    {
+        "instruction": "What is SAR425899?",
+        "context": "",
+        "response": "SAR425899 ia a dual glucagon-like peptide-1 receptor/glucagon receptor agonist.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1058898560871826
+    },
+    {
+        "instruction": "What is the nucleotide composition of the Lamin Associated Domains (LADs)?",
+        "context": "",
+        "response": "Instead, cLADs are universally characterized by long stretches of DNA of high A/T content. This suggests that the A/T rule represents a default positioning mechanism that is locally overruled during lineage commitment.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1052972966779901
+    },
+    {
+        "instruction": "What is the BioArchive system?",
+        "context": "",
+        "response": "A small-scale automated cryopreservation and storage system (Mini-BioArchive system) used in the banking of umbilical cord blood (UCB) units.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1052100738706698
+    },
+    {
+        "instruction": "When was Fluzone Intradermal replaced with Fluzone Intradermal Quadrivalent?",
+        "context": "",
+        "response": "Fluzone Intradermal was replaced with Fluzone Intradermal Quadrivalent vaccine in advance of the 2015-2016 season.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1051254927677567
+    },
+    {
+        "instruction": "Is it possible to purify pseudopodia to be used for proteomic analysis?",
+        "context": "",
+        "response": "Pseudopodia can be purified, using different strategies, in order to be used in proteomic studies.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1039833599799678
+    },
+    {
+        "instruction": "What is the association between number of pregnancies and rheumatoid arthritis",
+        "context": "",
+        "response": "Greater parity significantly reduced the odds of RA. A larger number of pregnancies and late menopause show a protective effect, delaying the onset of the disease.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1035420447993687
+    },
+    {
+        "instruction": "Are cyclophilins proteins that bind to prolines?",
+        "context": "",
+        "response": "Cyclophilins are ubiquitously expressed proteins that bind to prolines.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1035231014072677
+    },
+    {
+        "instruction": "What is the function of R-spondin 1 and noggin in non-damaged gallbladders?",
+        "context": "",
+        "response": "R-spondin 1 and noggin facilitate expansion of resident stem cells from non-damaged gallbladders.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1033865607424527
+    },
+    {
+        "instruction": "Does association with the nuclear pore promote gene silencing?",
+        "context": "",
+        "response": "MicroRNA (miRNA)-guided mRNA repression, mediated by the miRNA-induced silencing complex (miRISC), is an important component of post-transcriptional gene silencing. The nucleoporin Nup358 plays an important role in this process",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1033297395486674
+    },
+    {
+        "instruction": "Is peripheral neuroepithelioma related to Ewing sarcoma?",
+        "context": "",
+        "response": "Experimental data support the concept that Ewing sarcoma and peripheral neuroepithelioma are both peripheral primitive neuroectodermal neoplasms, differing only in the extent of neuroectodermal phenotype and morphological differentiation.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1029943962769926
+    },
+    {
+        "instruction": "Which transcription factor regulates emergency granulopoiesis?",
+        "context": "",
+        "response": "The transcription factor CCAAT/enhancer binding protein β (C/EBPβ) plays critical roles in the differentiation and proliferation of hematopoietic stem cells.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.102313240129963
+    },
+    {
+        "instruction": "Has dupilumab been FDA approved for atopic dermatitis?",
+        "context": "",
+        "response": "Yes, dupilumab has been approved by FDA for atopic dermatitis.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.1018555167604467
+    },
+    {
+        "instruction": "List mediators that are released from mast cells?",
+        "context": "",
+        "response": "tryptase\nhistamine\nheparin proteoglycan\nchymase\ncytokines\n2,3-dinor-11β-PGF2α\nleukotriene (LT)E4",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.101492258643513
+    },
+    {
+        "instruction": "Which drugs are included in the CNIC polypill?",
+        "context": "",
+        "response": "CNIC polypill includes atorvastatin 40mg, ramipril 10mg and aspirin 100mg.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.100866884405291
+    },
+    {
+        "instruction": "Does SATB1 regulate the RAG1 and RAG2 genes?",
+        "context": "",
+        "response": "SATB1 binds to the ASE and Rag promoters, facilitating inclusion of Rag2 in the chromatin hub and the loading of RNA polymerase II to both the Rag1 and Rag2 promoters.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.100232684129163
+    },
+    {
+        "instruction": "Do normal cells express the protein TERT?",
+        "context": "",
+        "response": "Νο, telomerase activity is found in 85%-90% of all human cancers but not in their adjacent normal cells. Human telomerase reverse transcriptase (hTERT) is an essential component in the telomerase complex that plays an important role in telomerase activity.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0996038303529425
+    },
+    {
+        "instruction": "Which calcium/calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors (Nuclear Factors of Activated T cells)?",
+        "context": "",
+        "response": "The activity of NFAT proteins is tightly regulated by the Ca(2+)/calmodulin-dependent protein phosphatase 2B/calcineurin (CaN).Dephosphorylation of NFAT by CaN is required for NFAT nuclear localization.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0993275421231916
+    },
+    {
+        "instruction": "What is the clathrin triskelia structure?",
+        "context": "",
+        "response": "The clathrin triskelion, which is a three-legged pinwheel-shaped heteropolymer, is a major component in the protein coats of certain post-Golgi and endocytic vesicles.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0993241348270346
+    },
+    {
+        "instruction": "Is pazopanib an effective treatment of glioblastoma?",
+        "context": "",
+        "response": "No. Pazopanib does not improve survival of glioblastoma patients.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0990266923701166
+    },
+    {
+        "instruction": "What is the mechanism of action of  trichostatin A (TSA) as an antitumoral agent?",
+        "context": "",
+        "response": "Trichostatin A (TSA) exerts antitumoral activity as a histone deacetylase inhibitor",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0986612235564044
+    },
+    {
+        "instruction": "Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?",
+        "context": "",
+        "response": "Cyclophilin is the intracellular receptor protein for cyclosporin A  (CsA).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.098413716960554
+    },
+    {
+        "instruction": "What is the most common N6-methyladenosine (m6A) methylation modification site of RUNX1T1?",
+        "context": "",
+        "response": "The RRACH motif is the most common N6-methyladenosine (m6A) methylation modification site of RUNX1T1.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0974951564809754
+    },
+    {
+        "instruction": "What is the protein that is truncated to produce progerin?",
+        "context": "",
+        "response": "The truncated lamin A protein produced \"progerin",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0973052054117687
+    },
+    {
+        "instruction": "Which two drugs are included in the Harvoni pill?",
+        "context": "",
+        "response": "Harvoni contains 400 mg sofosbuvir and 90 mg ledipasvir. It used for treatment of hepatitis C virus infection.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0972280308311442
+    },
+    {
+        "instruction": "Do mutations in KCNT2 only cause phenotypes with epilepsy?",
+        "context": "",
+        "response": "No. There is a report of pathogenic variants in KCNT2 causing a developmental phenotype without epilepsy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.097056434946986
+    },
+    {
+        "instruction": "Is zolpidem an antibiotic?",
+        "context": "",
+        "response": "No, zolpidem is a short-acting imidazopyridine hypnotic drug",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.096965154780554
+    },
+    {
+        "instruction": "What is the most frequent evolution (next stage) when Aortic intramural hematoma (IMH) is not treated?",
+        "context": "",
+        "response": "Aortic intramural hematoma (IMH) evolves very dynamically in the short-term to regression, dissection, or aortic rupture",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0965674293147978
+    },
+    {
+        "instruction": "Are male or female persons more prone to autoimmunity?",
+        "context": "",
+        "response": "Sex hormones have long been implicated in autoimmune diseases because women account for 80% of cases.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0961672345824711
+    },
+    {
+        "instruction": "Gallbladder carriage is a well recognised means of spread of which bacteria?",
+        "context": "",
+        "response": "Gallbladder carriage is associated with spread of Salmonella Typhi.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0944930211533548
+    },
+    {
+        "instruction": "List the two most important synaptic markers.",
+        "context": "",
+        "response": "postsynaptic density 95\nsynaptophysin",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.094488585055339
+    },
+    {
+        "instruction": "The pathogen Fusarium graminearum affects what type of plant species?",
+        "context": "",
+        "response": "Fusarium graminearum is a broad host pathogen threatening cereal crops in temperate regions around the world.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0940612382815875
+    },
+    {
+        "instruction": "What happens upon disruption of a TAD boundary?",
+        "context": "",
+        "response": "rewiring occurred only if the variant disrupted a ctcf-associated boundary domain . of a tad boundary causes ectopic chromosomal contacts and long-range transcriptional misregulation. . of topological chromatin domains cause pathogenic rewiring of gene-enhancer interactions . ",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0934476432413582
+    },
+    {
+        "instruction": "Where is the protein protamine 2 expressed?",
+        "context": "",
+        "response": "Human sperm express two types of protamine: protamine 1 (P1) and the family of protamine 2 (P2) proteins.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0929227230361134
+    },
+    {
+        "instruction": "What year was the first successful human heart transplant performed?",
+        "context": "",
+        "response": "The first human heart transplant in 1967 was performed using a deceased donor heart,",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.091902274385105
+    },
+    {
+        "instruction": "Is Ameloblastoma (AB) a common benign tumor occurring in the brain?",
+        "context": "",
+        "response": "Ameloblastoma (AM) is a slow growing and aggressive benign tumor with an odontogenic epithelial origin arising from the mandible or maxilla.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0917481700258422
+    },
+    {
+        "instruction": "What disease is associated with a Malar rash?",
+        "context": "",
+        "response": "Cutaneous manifestations of SLE are frequently the presenting symptoms, typically noted in the classic malar \"butterfly\" rash;",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0915683223451764
+    },
+    {
+        "instruction": "Describe the role of bevacizumab in radiosurgery for arteriovenous malformation.",
+        "context": "",
+        "response": "Bevacizumab is used for the treatment of severe, refractory perilesional edema due to an arteriovenous malformation treated with stereotactic radiosurgery.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0914067189542238
+    },
+    {
+        "instruction": "Which drugs are included in the Qtern pill?",
+        "context": "",
+        "response": "Qtern pill includes saxagliptin and dapagliflozin. It is indicated in the EU for the improvement of glycaemic control in adults with type 2 diabetes mellitus.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0910565302806967
+    },
+    {
+        "instruction": "Which genes have been associated with Cerebral Cavernous Malformation?",
+        "context": "",
+        "response": "Loss-of-function mutations in genes encoding CCM1 (also known as KRIT1), CCM2 (also known as OSM and malcavernin) or CCM3 (also known as PDCD10) cause cerebral cavernous malformations (CCMs).",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0910104885700482
+    },
+    {
+        "instruction": "Which are the ligands of the Roundabout (Robo) receptors?",
+        "context": "",
+        "response": "Roundabouts comprise a family of single-pass transmembrane receptors facilitating this process upon interaction with the soluble extracellular ligand Slit protein family emanating from the midline.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0907597644314744
+    },
+    {
+        "instruction": "Which R / bioconductor package is used for performing SNP enrichment analysis?",
+        "context": "",
+        "response": "traseR is an easy-to-use R Bioconductor package that performs enrichment analyses of trait-associated SNPs in arbitrary genomic intervals with flexible options, including testing method, type of background and inclusion of SNPs in LD.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0892605246213858
+    },
+    {
+        "instruction": "Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?",
+        "context": "",
+        "response": "thyroid hormone transporter MCT8 is implicated in thyroid hormone resistance syndrome",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0886112086629387
+    },
+    {
+        "instruction": "Where do the Schwann cells and melanocytes originate from?",
+        "context": "",
+        "response": "Schwann cells and melanocytes originate from the multipotent population of neural crest cells.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.088543729018686
+    },
+    {
+        "instruction": "What is the gold standard treatment for Iatrogenic male incontinence?",
+        "context": "",
+        "response": "The artificial urethral sphincter has represented, until today, the gold standard but, in the recent years, sling systems have been investigated as minimally invasive alternative options.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.088087831973939
+    },
+    {
+        "instruction": "Describe Heyde syndrome.",
+        "context": "",
+        "response": "Classical Heyde syndrome is described as the association of aortic stenosis, bleeding gastrointestinal angiodysplasia and secondary anemia. A deficiency of high molecular weight multimers of von Willebrand factor (type 2A von Willebrand disease) provides the link between this association.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0880600743500326
+    },
+    {
+        "instruction": "Which receptor is targeted by telcagepant?",
+        "context": "",
+        "response": "Telcagepant (MK-0974) is a novel calcitonin gene-related peptide (CGRP) receptor antagonist currently undergoing clinical trials for migraine.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0873313658779713
+    },
+    {
+        "instruction": "What is needed for MMP proteins to be functional?",
+        "context": "",
+        "response": "Extracellular matrix metalloproteinases (MMPs) are a family of zinc-dependent neutral endopeptidases.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.087146284272244
+    },
+    {
+        "instruction": "Is CHEK2 involved in cell cycle control?",
+        "context": "",
+        "response": "CHEK2 is a key cell cycle control gene encoding a pluripotent kinase that can cause arrest or apoptosis in response to unrepaired DNA damage.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0871237344652172
+    },
+    {
+        "instruction": "In what part of the body is the masseter muscle located?",
+        "context": "",
+        "response": "In human anatomy, the masseter is one of the muscles of mastication and is located in the jaw.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0869298772606297
+    },
+    {
+        "instruction": "Describe meCLICK-Seq",
+        "context": "",
+        "response": "MeCLICK-Seq is a method to identify RNA modification substrates with high resolution at intronic and intergenic regions. The method hijacks RNA methyltransferase activity to introduce an alkyne, instead of a methyl, moiety on RNA.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0867808795147358
+    },
+    {
+        "instruction": "Name the factors required for selenoprotein synthesis in eukaryotes",
+        "context": "",
+        "response": "eFSec, SBP2, SECp43, PSTK, Sec synthase (Sec S, SLA/LP), SPS2 (SelD), tRNASec, SECIS element, (L30), SPS1",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0861193171993988
+    },
+    {
+        "instruction": "Which bacteria was EcoRI, restriction endonuclease isolated from?",
+        "context": "",
+        "response": "Among hundreds of restriction endonucleases, the Eco R1 enzyme is the most useful and widely investigated enzyme and was isolated from E. coli RY 13",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0860416346702733
+    },
+    {
+        "instruction": "Which Python tool has been developed for network-based stratification of tumor mutations?",
+        "context": "",
+        "response": "PyNBS is a modularized Python 2.7 implementation of the network-based stratification (NBS) algorithm for stratifying tumor somatic mutation profiles into molecularly and clinically relevant subtypes.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0860040901062573
+    },
+    {
+        "instruction": "Which integrin genes are activated by the immune system in inflammatory bowel disease?",
+        "context": "",
+        "response": "ITGA4, ITGB8, ITGAL and ICAM1. In all four cases, the expression-increasing allele also increases disease risk.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.085529586926868
+    },
+    {
+        "instruction": "Which protein does empagliflozin inhibit?",
+        "context": "",
+        "response": "Empagliflozin (Jardiance)  is a SGLT2 inhibitor.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0852312195226366
+    },
+    {
+        "instruction": "What are the characteristics of the \"Universal Proteomics Standard 2\" (UPS2)?",
+        "context": "",
+        "response": "The UPS2 proteomic dynamic range standard was introduced by the Association of Biomolecular Resource Facilities Proteomics Standards Research Group in 2006 and it has a dynamic range of 5 orders of magnitude.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0845566372143385
+    },
+    {
+        "instruction": "List fish anti-freeze proteins.",
+        "context": "",
+        "response": "AFP-I\nAFP-II\nAFP-III\nAnti-freeze glycoprotein\nThermal hysteresis protein",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0844581232984198
+    },
+    {
+        "instruction": "Do A-type lamins bind euchromatin or heterochromatin?",
+        "context": "",
+        "response": "These data reveal that the domain encoded by exon 9 is important to maintain telomere homeostasis and heterochromatin structure but does not play a role in DNA repair, thus pointing to other exons in the lamin A tail as responsible for the genomic instability phenotype in Lmna(Δ8-11/Δ8-11) mice",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0842254487942118
+    },
+    {
+        "instruction": "What is the mechanism of action of eprotirome?",
+        "context": "",
+        "response": "Eprotirome belongs to thyromimetics and has selective TRβ1 activity. It has shown to be effective in dyslipidemia by the lipid-lowering action of TH in the liver and also in obesity.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0836824773670544
+    },
+    {
+        "instruction": "Which was  the first oral drug for the treatment of multiple sclerosis by the US Food and Drug Administration (FDA)?",
+        "context": "",
+        "response": "FTY720 (Fingolimod) was approved as the first oral drug for the treatment of multiple sclerosis by the US Food and Drug Administration (FDA) in 2010.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0834202635085386
+    },
+    {
+        "instruction": "What is Dupuytren's contracture?",
+        "context": "",
+        "response": "Dupuytren's contracture is a progressive hand condition that affects how much you can move or straighten your fingers. It is a benign fibroproliferative disease leads to hyperplasia of the collagen fibers of the fascia of the palm, which can result in severe impairment of the functionality of the hand.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0833995991040268
+    },
+    {
+        "instruction": "What is the mechanism of action of anticoagulant medication Dabigatran?",
+        "context": "",
+        "response": "Dabigatran is orally administered, reverisble direct and competetive inhibitor of both free and bouded thrombin.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0830814170417942
+    },
+    {
+        "instruction": "What is the indication of Daonil (Glibenclamide)?",
+        "context": "",
+        "response": "Glibenclamide is an antidiabetic and antiglycemic, used in severe NIDDM, and increasingly viewed as a rational alternative to insulin therapy.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0825501167823004
+    },
+    {
+        "instruction": "What is the most advanced phase of clinical trial that fingolimod has entered?",
+        "context": "",
+        "response": "Fingolimod has been assessed in phase IV clinical trials.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.0822172188997174
+    },
+    {
+        "instruction": "Treprostinil is an analogue for which prostaglandin?",
+        "context": "",
+        "response": "Treprostinil is a prostaglandin I(2) (PGI(2)) analog.",
+        "category": "Biomedical_QA",
+        "personalization_score": 1.08179414768266
+    }
+]

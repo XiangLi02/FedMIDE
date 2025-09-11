@@ -1,0 +1,1202 @@
+[
+  {
+    "instruction": "ink 2.3 how much coumadine should one take",
+    "context": "Dose",
+    "response": "Take COUMADIN exactly as prescribed. Your healthcare provider will adjust your dose from time to time depending on your response to COUMADIN.\nYou must have regular blood tests and visits with your healthcare provider to monitor your condition.\nIf you miss a dose of COUMADIN, call your healthcare provider. Take the dose as soon as possible on the same day. Do not take a double dose of COUMADIN the next day to make up for a missed dose.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "qvar 40mcg what is it doe",
+    "context": "Indication",
+    "response": "QVAR® is indicated in the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older.\n\nImportant Limitations of Use: QVAR is NOT indicated for the relief of acute bronchospasm.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does magnesium do to your body",
+    "context": "Action",
+    "response": "Magnesium is a nutrient that the body needs to stay healthy. Magnesium is important for many processes in the body, including regulating muscle and nerve function, blood sugar levels, and blood pressure and making protein, bone, and DNA.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what strengths do valproic acid come in meds come in",
+    "context": "Dose",
+    "response": "Valproic Acid Capsules, USP are supplied as 250 mg off-white colored soft gelatin capsules, imprinted with \"U-S 250\", packaged in bottles containing 100.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is viagra a treament for cor pulmonale?",
+    "context": "Indication",
+    "response": "Sildenafil (Revatio, Viagra) and tadalafil (Cialis, Adcirca) are sometimes used to treat pulmonary hypertension.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "metoclopramide how supplied",
+    "context": "Information",
+    "response": "XACTDOSE™ Metoclopramide Oral Solution USP, 5 mg/5 mL, is a clear, sugar-free liquid with a butterscotch flavor. Each 5 mL contains 5 mg Metoclopramide (present as the hydrochloride) and is available as follows: NDC 66689-031-50: 10 mg/10 mL unit dose cups, packaged in cartons of 50 (5 trays of 10 unit dose cups each)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why am i so cold taking bystolic b p med",
+    "context": "Side effects",
+    "response": "Feeling cold is found among people who take Bystolic, especially for people who are female, 60+ old , have been taking the drug for < 1 month, also take medication Nexium, and have Depression. This study is created by eHealthMe based on reports of 11,671 people who have side effects when taking Bystolic from FDA, and is updated regularly.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long do you leave bimatoprost ophthalmic",
+    "context": "Usage",
+    "response": "2 to 3 minutes",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color is the clonazepam",
+    "context": "Appearance",
+    "response": "yellow",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the color of the fluvaastatin pill",
+    "context": "Appearance",
+    "response": "Product Characteristics   Color RED (rust)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "does cyclosporine ophthalmic helps for iritis?",
+    "context": "Indication",
+    "response": "This study showed improvement of recurrent anterior uveitis [iritis] in patients while on conventional treatment with cyclosporine A 0.05% compared with conventional treatment alone.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many cc of lidocaine is a dose?",
+    "context": "Dose",
+    "response": "For symptomatic treatment of irritated or inflamed mucous membranes of the mouth and pharynx, the usual adult dose is 15 mL undiluted.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "do i take over the counter calcium with \"alendronate?\"",
+    "context": "Interaction",
+    "response": "Co-administration of alendronate sodium and calcium, antacids, or oral medications containing multivalent cations will interfere with absorption of alendronate sodium. Therefore, instruct patients to wait at least one-half hour after taking alendronate sodium before taking any other oral medications.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is clotrimazole and betamethasone dipropionage cream",
+    "context": "Information",
+    "response": "Clotrimazole and betamethasone dipropionate cream is a combination of an azole antifungal and corticosteroid and is indicated for the topical treatment of symptomatic inflammatory tinea pedis, tinea cruris, and tinea corporis due to Epidermophyton floccosum, Trichophyton mentagrophytes, and Trichophyton rubrum in patients 17 years and older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the therapeutic effect of levaquin",
+    "context": "Action",
+    "response": "Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what size pill is risedronate",
+    "context": "Appearance",
+    "response": "12mm",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is bisolvon",
+    "context": "Information",
+    "response": "Bromhexine hydrochloride is a hydrochloride resulting from the reaction of equimolar amounts of bromhexine and hydrogen chloride. It is used as a mucolytic for the treatment of respiratory disorders associated with productive cough (i.e. a cough characterised by the production of sputum). It has a role as a mucolytic. It contains a bromhexine(1+).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is guanfacine classified",
+    "context": "Information",
+    "response": "Guanfacine is in a class of medications called centrally acting alpha2A-adrenergic receptor agonists.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to administer insulin",
+    "context": "Usage",
+    "response": "Inject NOVOLOG subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much ethanol alcohol is in 2 puffs of \"proair?\"",
+    "context": "Ingredient",
+    "response": "After 2 puffs (30 s between puffs), breathalyser BAC results were as follows: 0.008% (1 min) and 0 at 2 min",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "wetting in pants after penicillin shot?",
+    "context": "Side effects",
+    "response": "Penicillin G benzathine and penicillin G procaine injection may cause side effects.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what valacyclovir looks like in color shape",
+    "context": "Appearance",
+    "response": "Color - blue; Shape - CAPSULE; Score - no score; Size - 17mm; Imprint Code - RX904",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does the clotrimazole pill look like",
+    "context": "Appearance",
+    "response": "Product Characteristics Color white Score no score Shape ROUND Size 16mm Imprint Code 54;552",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how soon does losartan affect blood pressure",
+    "context": "Action/time",
+    "response": "The effect of losartan is substantially present within one week but in some studies the maximal effect occurred in 3 to 6 weeks. In long-term follow-up studies (without placebo control) the effect of losartan appeared to be maintained for up to a year.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long the trichomoniasis take to clear after i take the medicine",
+    "context": "not_drug_question",
+    "response": "Most people are prescribed an antibiotic called metronidazole which is very effective if taken correctly. You'll usually have to take metronidazole twice a day, for 5 to 7 days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why did my doctor give me levetiracetam what is use for",
+    "context": "Indication",
+    "response": "Levetiracetam Extended-release Tablets is indicated as adjunctive therapy in the treatment of partial onset seizures in patients 12 years of age and older with epilepsy.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what size bottle does latanoprost ophthalmic come in",
+    "context": "Storage and disposal",
+    "response": "Latanoprost ophthalmic solution is a sterile, clear, isotonic, buffered, preserved, colorless solution of latanoprost 0.005% (50 mcg/mL). It is supplied as a 2.5 mL solution in a 6 mL natural low density polyethylene bottle with a natural low density polyethylene dropper tip and a turquoise polyethylene screw cap.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "shingles vaccine how often",
+    "context": "Usage/time",
+    "response": "The recommended schedule for live shingles vaccine is a single dose for adults 60 years of age and older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is nano silver?",
+    "context": "Information",
+    "response": "Silver nanoparticles are added to a variety of textiles and home goods as an antimicrobial. Although silver has been used safely for centuries, some question whether the rapid expansion of new exposure sources to nanosilver could have adverse consequences.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "marijuana how long to steam your system",
+    "context": "Time/duration",
+    "response": "he effects of marijuana usually last from 1 to 3 hours, but marijuana can stay in the body for days or even weeks after use. Organs in the body have fatty tissues that absorb the THC in marijuana. In general, standard urine tests can detect THC several days after use. In people who use heavily, however, urine tests can sometimes detect THC for several weeks.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much is 5ml in cough syrup?",
+    "context": "Dose",
+    "response": "A standard dosing teaspoon holds 5ml.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is pepsin",
+    "context": "Information",
+    "response": "Pepsin is a potent enzyme in gastric juice that digests proteins such as those in meat, eggs, seeds, and dairy products [12].",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "qvar 40mg what is it for",
+    "context": "Indication",
+    "response": "QVAR is indicated in the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older. QVAR is also indicated for asthma patients who require systemic corticosteroid administration, where adding QVAR may reduce or eliminate the need for the systemic corticosteroids.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the length of entecavir treatment",
+    "context": "Usage/duration",
+    "response": "The optimal duration of treatment with entecavir tablets for patients with chronic hepatitis B virus infection and the relationship between treatment and long-term outcomes such as cirrhosis and hepatocellular carcinoma are unknown.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does marijuana look like",
+    "context": "Appearance",
+    "response": "Marijuana is a green, brown, or gray mix of dried, crumbled parts from the marijuana plant.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does polyethylene glycol stay good",
+    "context": "Storage and disposal",
+    "response": "Expiration Dates - Questions and Answers …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the drug to drug interation for luvox and quillivant",
+    "context": "Interaction",
+    "response": "AUGMENTATION OF SELECTIVE serotonin re‐uptake inhibitor (SSRI) therapy with methylphenidate is one form of next‐step treatment for patients with refractory major depression, especially in elderly patients.1 We present what we believe to be the first reported case of serotonin syndrome induced by augmentation of SSRI with methylphenidate.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i drink cataflam when i drink medrol;",
+    "context": "Interaction",
+    "response": "Drug interactions are reported among people who take Medrol and Cataflam together. This study is created by eHealthMe based on reports of 36 people who take Medrol and Cataflam from FDA, and is updated regularly.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long can i take raloxifene",
+    "context": "Usage/time",
+    "response": "the Raloxifene Use for The Heart (RUTH) trial, that evaluated as primary endpoint the effect of raloxifene on cardiovascular events in 10,101 postmenopausal women for a median of 5.6 years (mean age 67.5 years), clearly demonstrates the benefits of raloxifene in older women in the prevention of clinical vertebral fracture (−35%, p = 0.007), but not for nonvertebral fractures (p > 0.05 versus placebo), irrespective of presence or absence of risk factors for fracture.48,49",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to use spiriva",
+    "context": "Usage",
+    "response": "For oral inhalation only. Do not swallow SPIRIVA capsules, as the intended effects on the lungs will not be obtained. The contents of the SPIRIVA capsules should only be used with the HANDIHALER device ",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how will i feel when taking memantine tablets",
+    "context": "Side effects",
+    "response": "In double-blind placebo-controlled trials involving dementia patients, the most common adverse reactions (incidence ≥ 5% and higher than placebo) in patients treated with memantine hydrochloride were dizziness, headache, confusion and constipation.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does insulin work?",
+    "context": "Action",
+    "response": "Insulin is a hormone that helps glucose get into your cells to give them energy. Without insulin, too much glucose stays in your blood. Over time, high blood glucose can lead to serious problems with your heart, eyes, kidneys, nerves, and gums and teeth.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "tdap (adacel) 10-64 yrs how often is booster needed",
+    "context": "Dose",
+    "response": "Five years should have elapsed since the recipient's last dose of tetanus toxoid, diphtheria toxoid and/or pertussis containing vaccine and the administration of Adacel vaccine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what drug reverses the effect of heparin",
+    "context": "Overdose",
+    "response": "When clinical circumstances (bleeding) require reversal of heparinization, protamine sulfate (1% solution) by slow infusion will neutralize heparin sodium.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much weight gain with carvedilol",
+    "context": "Side effects",
+    "response": "Newer beta blockers, such as carvedilol (Coreg), don't usually cause weight gain as a side effect. Weight may rise in the first weeks of taking the beta blocker and then generally stabilizes.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is insulin glucagon",
+    "context": "Information",
+    "response": "Glucagon for Injection is a polypeptide hormone identical to human glucagon that increases blood glucose and relaxes smooth muscle of the gastrointestinal tract.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is formoterol",
+    "context": "Information",
+    "response": "Formoterol is an ADRENERGIC BETA-2 RECEPTOR AGONIST with a prolonged duration of action. It is used to manage ASTHMA and in the treatment of CHRONIC OBSTRUCTIVE PULMONARY DISEASE.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "gabapentin and pregabalin what is the difference?",
+    "context": "Comparison",
+    "response": "Lyrica (pregablin) and gabapentin (Neurontin) are anti-epileptic medications used to treat seizures and nerve pain (neuropathic pain).\nGabapentin also is used to treat nerve pain caused by shingles (herpes zoster). || Side effects of gabapentin that are different from Lyrica include:\nDifficulty speaking\nViral infections\nFever\nUnusual eye movements\nJerky movements\n|| Side effects of Lyrica that are different from gabapentin include:\nDry mouth\nConstipation\nSwelling (edema)\nBreast enlargement\nWeight gain",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what medications could cause excessive hair growth",
+    "context": "Side effects",
+    "response": "The following medications can cause hirsutism:\nAnabolic steroids\nTestosterone\nGlucocorticoids\nCyclosporine (Sandimmune®)\nMinoxidil (Loniten®, Rogaine®)\nDanazol (Danocrine®)\nPhenytoin (Dilantin®)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long should i take cipro for a urinary tract infection \"?\"",
+    "context": "Usage/time",
+    "response": "Urinary Tract Infections: 250–500 mg every 12 hours for 7 to 14 days",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what painkillers can i take when taking rivaroxaban",
+    "context": "Interaction",
+    "response": "You can take paracetamol while you're taking rivaroxaban.\nDo not take aspirin and ibuprofen while you're taking rivaroxaban unless a doctor has said it's OK to. They increase the chance of bleeding.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why no side affects on hydromorphone listed, yet on reg inet they have a list?",
+    "context": "Side effects",
+    "response": "Hydromorphone may cause side effects.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what type of drug is heroin",
+    "context": "Information",
+    "response": "It's an opioid drug made from morphine, a natural substance in the seedpod of the Asian poppy plant.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what tramadol pills look like",
+    "context": "Appearance",
+    "response": "Tramadol Hydrochloride Tablets, 50 mg are available as white, round, film coated tablets, debossed with 466 on one side and WATSON on the other.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the difference between atorvastatin and lipitor",
+    "context": "Comparison",
+    "response": "LIPITOR ® (atorvastatin calcium) tablets, for oral use",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the medication thera tab used to treat?",
+    "context": "Indication",
+    "response": "This medication is a multivitamin product used to treat or prevent vitamin deficiency due to poor diet, certain illnesses, or during pregnancy.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does vitamin a prevent",
+    "context": "Indication",
+    "response": "Vitamin A plays a role in your    Vision    Bone growth    Reproduction    Cell functions    Immune system",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much acetaminophen in acetaminophen and codeine",
+    "context": "Ingredient",
+    "response": "Each Acetaminophen and Codeine Phosphate Tablet USP 300 mg/30 mg tablet contains acetaminophen 300 mg and codeine phosphate 30 mg. … Each Acetaminophen and Codeine Phosphate Tablet USP 300 mg/60 mg tablet contains acetaminophen 300 mg and codeine phosphate 60 mg.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what drug will cause frequent urination?",
+    "context": "Action",
+    "response": "A number of medications can cause urinary incontinence in men and women. They do this in a variety of different ways.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to group of mebendazole",
+    "context": "Information",
+    "response": "Mebendazole is used to treat several types of worm infections. Mebendazole (Vermox) is used to treat roundworm and whipworm infections. Mebendazole (Emverm) is used to treat pinworm, whipworm, roundworm, and hookworm infections. Mebendazole is in a class of medications called anthelmintics. It works by killing the worms.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i take vitamins with rasagiline?",
+    "context": "Interaction",
+    "response": "Results of a special tyramine challenge study indicate that rasagiline is selective for MAO-B at recommended doses and can be used without dietary tyramine restriction. However, certain foods may contain very high amounts (i.e., 150 mg or greater) of tyramine and could potentially cause a hypertensive reaction in individual patients taking rasagiline due to increased sensitivity to tyramine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how you use for paracetamol",
+    "context": "Usage",
+    "response": "do not take more than directed (see OVERDOSE WARNING)\nadults and children 12 years and over \ntake 2 caplets every 6 hours while symptoms last\nswallow whole – do not crush, chew, or dissolve\ndo not take more than 6 caplets in 24 hours, unless directed by a doctor\ndo not use for more than 10 days unless directed by a doctor\nchildren under 12 years \nask a doctor",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "tylenol pm mg?",
+    "context": "Dose",
+    "response": "Acetaminophen 500 mg; Diphenhydramine HCl 25 mg",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "where does fluorouracil come from",
+    "context": "Manufacturer",
+    "response": "dailymed list of manufacturers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the dosage of levofloxacin tablets for bronchitis please",
+    "context": "Dose",
+    "response": "Dosage of Levofloxacin Tablets in Adult Patients with Creatinine Clearance ≥ 50 mL/minute\nThe usual dose of levofloxacin tablets are 250 mg or 500 mg administered orally every 24 hours, as indicated by infection and described in Table 1.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the normal dose of clindamycin",
+    "context": "Dose",
+    "response": "Adults: Serious infections - 150 to 300 mg every 6 hours. More severe infections - 300 to 450 mg every 6 hours.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the highest dose lidocaine comes in",
+    "context": "Dose",
+    "response": "Group: local anaesthetic agent\nInjection (hydrochloride): 5 mg/ml (0.5%), 10 mg/ml (1%) in 20-ml ampoule; 10 mg/ml (1%) + epinephrine 5 micrograms/ml (1:200 000) in 20-ml ampoule; 20 mg/ml (2%) + epinephrine 12.5 micrograms/ml (1:80 000) in 2.2-ml cartridge for dental anaesthesia; 50 mg/ml (5%) in 2-ml ampoule to be mixed with 75 mg/ml (7.5%) glucose solution\nTopical forms: 20-40 mg (hydrochloride)/ml (2-4%) as gel or solution",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to reduce bisoprolol",
+    "context": "Stopping/tapering",
+    "response": "Cessation of Therapy\nIf withdrawal of bisoprolol fumarate and hydrochlorothiazide therapy is planned, it should be achieved gradually over a period of about 2 weeks.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can you take amoxicillin with hydrocodone ?",
+    "context": "Interaction",
+    "response": "There are no direct drug interactions between Norco (acetaminophen, hydrocodone), amoxicillin (Amoxil) and Adipex (phentermine). Take the Norco only as needed. This may cause drowsiness, be careful if you must be alert. Take the amoxicillin until finished.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what's different opioid and opium",
+    "context": "Comparison",
+    "response": "Opioids are a class of drugs naturally found in the opium poppy plant.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "hyptotension caused by lexapro?",
+    "context": "Side effects",
+    "response": "Vascular Disorders: deep vein thrombosis, flushing, hypertensive crisis, hypotension, orthostatic hypotension, phlebitis, thrombosis.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does marijuana stay in your system",
+    "context": "Action/time",
+    "response": "Marijuana, also known as cannabis or weed, is usually detectable in bodily fluids for 1 to 30 days after last use. As with other drugs, it may be detectable in hair for several months.\n\nMarijuana detection windows depend on how much you smoke or ingest, as well as how often. In general, higher doses and more frequent use are associated with longer detection times.\n\nFor daily users, cannabis may be detectable for several months after last use. The longest-reported detection times are more than 90 days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is bcg vaccine stored",
+    "context": "Storage and disposal",
+    "response": "The intact vials of BCG VACCINE should be stored refrigerated at 2-8°C (36-46°F).\n\nThis agent contains live bacteria and should be protected from direct sunlight. The product should not be used after the expiration date printed on the label.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can you take tamsulosin and ciprofloxacin ?",
+    "context": "Interaction",
+    "response": "INTERVENTIONS: Ciprofloxacin, 500 mg twice daily; tamsulosin, 0.4 mg once daily; a combination of the 2 drugs; or placebo. ... Treatments also did not differ significantly for any of the secondary outcomes.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why did my doctor give me levetiracetam",
+    "context": "Indication",
+    "response": "Levetiracetam Extended-release Tablets is indicated as adjunctive therapy in the treatment of partial onset seizures in patients 12 years of age and older with epilepsy.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "show spironolactone 30mg \"tab/accord\" healthcare",
+    "context": "Appearance",
+    "response": "Spironolactone oral tablets contain 25 mg, 50 mg, or 100 mg of the aldosterone antagonist spironolactone",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often should you use a dulera inhaler",
+    "context": "Usage/time",
+    "response": "DULERA should be administered as two inhalations twice daily every day (morning and evening) by the orally inhaled route (see PATIENT INSTRUCTIONS FOR USE in the Patient Information leaflet).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many tums aday",
+    "context": "Dose",
+    "response": "•do not take more than 15 tablets in 24 hours•if pregnant do not take more than 10 tablets in 24 hours•do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to stop taking trazodone",
+    "context": "Stopping/tapering",
+    "response": "Do not stop taking trazodone without talking to your doctor. If you suddenly stop taking trazodone, you may experience withdrawal symptoms such as anxiety, agitation, or difficulty falling asleep or staying asleep. Your doctor will probably decrease your dose gradually.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when you stop taking spironolactone do you bleed",
+    "context": "Stopping/tapering",
+    "response": "If you stop taking it suddenly: If you stop taking this drug, you may start retaining water. You may also have a sudden increase in your blood pressure. This can lead to a heart attack or stroke.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what type of drug is ecstasy",
+    "context": "Information",
+    "response": "3,4-methylenedioxy-methamphetamine (MDMA) is a synthetic drug that alters mood and perception (awareness of surrounding objects and conditions). It is chemically similar to both stimulants and hallucinogens, producing feelings of increased energy, pleasure, emotional warmth, and distorted sensory and time perception.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is enoxaparin dispensed",
+    "context": "Dose",
+    "response": "Enoxaparin Sodium Injection is available in two concentrations:\n100 mg/mL Concentration\n  30 and 40 mg prefilled syringes, and 60, 80, and 100 mg graduated prefilled syringes each contain 10 mg enoxaparin sodium per 0.1 mL Water for Injection.\n150 mg/mL Concentration\n  120 and 150 mg graduated prefilled syringes contain 15 mg enoxaparin sodium per 0.1 mL Water for Injection.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what to use with someone in place of morphine or iodine allergies",
+    "context": "Alternatives",
+    "response": "Unfortunately, the amount of iodine in a food isn’t on a food label. It’s not in books or on many web\nsites that list nutrients either. So you can’t easily track iodine like some people track calories or grams\nof fat. Instead, you need to know which foods and ingredients to avoid.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is antibiotic?",
+    "context": "Information",
+    "response": "any of a large group of chemical substances, as penicillin or streptomycin, produced by various microorganisms and fungi, having the capacity in dilute solutions to inhibit the growth of or to destroy bacteria and other microorganisms, used chiefly in the treatment of infectious diseases.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "pneumococcal vaccine how often?",
+    "context": "Usage/time",
+    "response": "The pneumococcal conjugate vaccine (PCV13 or Prevnar 13®) protects against 13 types of pneumococcal bacteria. CDC recommends PCV13 for use in infants and young children and adults 65 years or older. Older children and adults younger than 65 years old who are at increased risk for getting pneumococcal disease may also need a dose of PCV13.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color is phenytoin",
+    "context": "Appearance",
+    "response": "ORANGE (/orange)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is cortisol",
+    "context": "Information",
+    "response": "Cortisol is a steroid hormone, in the glucocorticoid class of hormones. When used as a medication, it is known as hydrocortisone. It is produced in humans by the zona fasciculata of the adrenal cortex within the adrenal gland.[1] It is released in response to stress and low blood-glucose concentration. It functions to increase blood sugar through gluconeogenesis, to suppress the immune system, and to aid in the metabolism of fat, protein, and carbohydrates.[2] It also decreases bone formation.[3]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much iron should an anemic take per day",
+    "context": "Dose",
+    "response": "The amount of iron needed to treat patients with iron deficiency is higher than the amount found in most daily multivitamin supplements. The amount of iron prescribed by your doctor will be in milligrams (mg) of elemental iron. Most people with iron deficiency need 150-200 mg per day of elemental iron (2 to 5 mg of iron per kilogram of body weight per day). Ask your doctor how many milligrams of iron you should be taking per day. If you take vitamins, bring them to your doctor's visit to be sure.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "qvar 40mcg what is it for",
+    "context": "Indication",
+    "response": "QVAR® is indicated in the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why synthroid is interfered by calcium",
+    "context": "Interaction",
+    "response": "Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer SYNTHROID at least 4 hours apart from these agents.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what milagrams olanzapine come in",
+    "context": "Dose",
+    "response": "Olanzapine Tablets USP, 20 mg are white, film coated, oval, biconvex tablets with “R” 20\ndebossed on one side and “0168” on other side.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why to take vicodin",
+    "context": "Indication",
+    "response": "Hydrocodone is used to relieve severe pain. Hydrocodone is only used to treat people who are expected to need medication to relieve severe pain around-the-clock for a long time and who cannot be treated with other medications or treatments. Hydrocodone extended-release (long-acting) capsules or extended-release tablets should not be used to treat pain that can be controlled by medication that is taken as needed.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the ingredients in cephalexin",
+    "context": "Ingredient",
+    "response": "CEPHALEXIN ANHYDROUS  250 mg",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what to do if missed two days of thyroid medications",
+    "context": "Forget a dose",
+    "response": "Take the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not take a double dose to make up for a missed one. Tell your doctor if you miss two or more doses of thyroid in a row.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much levothyroxine is needed to treat hashimotos",
+    "context": "Dose",
+    "response": "If  Hashimoto's disease causes thyroid hormone deficiency, you may need replacement therapy with thyroid hormone. This usually involves daily use of the synthetic thyroid hormone levothyroxine (Levoxyl, Synthroid, others). ... Treatment with levothyroxine is usually lifelong, but because the dosage you need may change, your doctor is likely to check your TSH level about every 12 months.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to use an epinephrine pen",
+    "context": "Usage",
+    "response": "How should I use EpiPen and EpiPen Jr? … [entire subsection]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long will the cyanocobalamin stay good",
+    "context": "Storage and disposal",
+    "response": "Store at room temperature between 59-86 degrees F (15-30 degrees C) away from light and moisture. Do not freeze. Do not store in the bathroom. Keep all medicines away from children and pets.Do not flush medications down the toilet or pour them into a drain unless instructed to do so. Properly discard this product when it is expired or no longer needed. Consult your pharmacist or local waste disposal company for more details about how to safely discard your product.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does marijuana it stay in system",
+    "context": "Action/time",
+    "response": "The effects of marijuana usually last from 1 to 3 hours, but marijuana can stay in the body for days or even weeks after use. Organs in the body have fatty tissues that absorb the THC in marijuana. In general, standard urine tests can detect THC several days after use. In people who use heavily, however, urine tests can sometimes detect THC for several weeks.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is marijuana taken",
+    "context": "Usage",
+    "response": "Marijuana is a green, brown, or gray mix of dried, crumbled parts from the marijuana plant. It can be rolled up and smoked like a cigarette or cigar or smoked in a pipe. Sometimes people mix it in food or inhale it using a vaporizer.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is dronabinol marijuana how much are ten mg pills worth",
+    "context": "not_drug_question",
+    "response": "Quantity: 60; Per Unit: $4.68 – $15.91; Price: $280.99 – $954.47",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is zolpidem a drug?",
+    "context": "Information",
+    "response": "Zolpidem belongs to a class of medications called sedative-hypnotics.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is acebutolol hcl blue pill",
+    "context": "Information",
+    "response": "Acebutolol HCl, USP is a selective, hydrophilic beta-adrenoreceptor blocking agent with mild intrinsic sympathomimetic activity for use in treating patients with hypertension and ventricular arrhythmias. It is marketed in capsule form for oral administration.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the active ingredients in bimatoprost",
+    "context": "Ingredient",
+    "response": "Active Ingredient/Active Moiety: Ingredient Name  bimatoprost (UNII: QXS94885MZ) (bimatoprost - UNII:QXS94885MZ)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can a patient stop using enalapril if the condition \"stabilize?\"",
+    "context": "Stopping/tapering",
+    "response": "Enalapril controls high blood pressure and heart failure but does not cure them. Continue to take enalapril even if you feel well. Do not stop taking enalapril without talking to your doctor.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "shingles vaccine , is it necessary to get a 2nd shot?",
+    "context": "Usage/time",
+    "response": "Shingles Vaccine (recombinant)  Two doses, 2 to 6 months apart, are recommended for adults 50 and older.  This vaccine is also recommended for people who have already gotten the live shingles vaccine (Zostavax). There is no live virus in this vaccine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to stop pregabalin lyrica",
+    "context": "Stopping/tapering",
+    "response": "When discontinuing LYRICA, taper gradually over a minimum of 1 week.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what can i do if unusual bruising appears after injecting enoxaparin",
+    "context": "Side effects",
+    "response": "The local application of cold-hot packs is more effective on reducing bruises following enoxaparin sodium injections when compared with local cold pack application alone",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color is phenytoin",
+    "context": "Appearance",
+    "response": "PINK",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long should wait to take another medicine after i take azithromycin",
+    "context": "Usage",
+    "response": "if you are taking antacids containing aluminum hydroxide or magnesium hydroxide (Maalox, Mylanta, Tums, others), you will need to allow some time to pass between when you take a dose of these antacids and when you take a dose of azithromycin tablets or liquid. Ask your doctor or pharmacist how many hours before or after you take azithromycin you may take these medications. The extended-release suspension may be taken at any time with antacids.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "does corticosteroids cause i \"insomnia?\"",
+    "context": "Side effects",
+    "response": "Psychic  derangements  may  appear  when  corticosteroids  are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations. Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what size doses of metformin are available?",
+    "context": "Dose",
+    "response": "Metformin Hydrochloride Tablets, USP ... 500 mg ... 850 mg ... 1000 mg",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "if i am allergic to sufa can i take glipizide?",
+    "context": "Contraindication",
+    "response": "Glipizide is an oral blood-glucose-lowering drug of the sulfonylurea class. … Glipizide Tablets, USP are contraindicated in patients with: Known hypersensitivity to the drug.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "fluoxetine what mgs are available",
+    "context": "Dose",
+    "response": "20 mg, Capsule is a Dark blue opaque cap and Light blue opaque body, imprinted with “20” on the cap and “A106” on the body.\n\n40 mg, Capsule is a Light blue opaque cap and Light blue opaque body, imprinted with “40” on the cap and “A107” on the body.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what if i eat grapefruit on simvastatin",
+    "context": "Interaction",
+    "response": "Certain classes of drugs — most notably statins — are metabolized (broken down) in your intestines by an enzyme called CYP3A, which normally reduces the amount of drug that enters your bloodstream. Grapefruit juice contains compounds called furanocoumarins that stop CYP3A from doing its job. As a result, more of the drug is absorbed, making it more powerful than it's meant to be — even toxic in some cases.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is triamcinolone acetonide used for",
+    "context": "Indication",
+    "response": "Topical corticosteroids are indicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does prednisone do to the body",
+    "context": "Action",
+    "response": "Prednisone is in a class of medications called corticosteroids. It works to treat patients with low levels of corticosteroids by replacing steroids that are normally produced naturally by the body. It works to treat other conditions by reducing swelling and redness and by changing the way the immune system works.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when teeth have been treated how lon after do yohave to wait to have zoledronic acid injection",
+    "context": "Contraindication",
+    "response": "Routine dental treatment generally should not be modified solely on the basis of oral bisphosphonate therapy. However, patients with possible risk factors for BON may benefit from assessment by an expert in metabolic bone diseases. These risk factors may include concomitant use of estrogen or glucocorticoids, older age (over 65 years) and prolonged use of bisphosphonates.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what types of steroids shots are there",
+    "context": "Information",
+    "response": "Steroids are often injected directly into joints to treat conditions such as rheumatoid arthritis, gout or other inflammatory diseases. Steroids can also be injected into inflamed bursae (bursitis), or around inflamed tendons (tendinitis) near the shoulder, elbow, hip, knee, hand or wrist.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to combine dapaliflozin with metformin",
+    "context": "Combination",
+    "response": "Xigduo® XR (containing Dapagliflozin, Metformin)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "oxycodone hcl 5 mg & oxycodone \"10-325\" apap the same?",
+    "context": "Comparison",
+    "response": "PERCOCET - oxycodone hydrochloride and acetaminophen tablet. Each tablet, for oral administration, contains oxycodone hydrochloride and acetaminophen in the following strengths: Oxycodone Hydrochloride, USP          10 mg*\nAcetaminophen, USP         325 mg\n*10 mg oxycodone HCl is equivalent to 8.9637 mg of oxycodone.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to use ivermectin \"derm gard\" for dog",
+    "context": "Usage",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what do percocets look like",
+    "context": "Appearance",
+    "response": "Color - blue, Shape - ROUND, Score - 2 pieces, Size - 11mm, Imprint Code - PERCOCET;5",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "foods to avoid when taking metformin",
+    "context": "Interaction",
+    "response": "While you do not need to avoid any foods when taking metformin, you may need to limit or avoid alcohol",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is zostavax for?- consider waiting for a new vaccine coming spring of 2018",
+    "context": "Indication",
+    "response": "ZOSTAVAX® is a live attenuated virus vaccine indicated for prevention of herpes zoster (shingles) in individuals 50 years of age and older. Limitations of Use of ZOSTAVAX:    ZOSTAVAX is not indicated for the treatment of zoster or postherpetic neuralgia (PHN).    ZOSTAVAX is not indicated for prevention of primary varicella infection (Chickenpox).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the ingredients in the drug methimazole",
+    "context": "Ingredient",
+    "response": "ACTIVE INGREDIENT: METHIMAZOLE; INACTIVE INGREDIENTS: LACTOSE MONOHYDRATE; MAGNESIUM STEARATE; STARCH, POTATO; TALC",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is herceptin a chemo drug??",
+    "context": "Information",
+    "response": "For over a decade, the monoclonal antibody trastuzumab has been the cornerstone of adjuvant treatment for HER2-positive early breast cancer (EBC) [1, 2]. Based on results from four large randomized trials [3–6], combined treatment with trastuzumab and chemotherapy (either as primary systemic or adjuvant treatment) is considered the standard of care in patients with this biologically aggressive subtype of breast cancer.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does it take for strattera to begin to show some improvement",
+    "context": "Action/time",
+    "response": "Some people report small changes in hyperactivity and impulse control within two weeks, but it may take 4 to 8 weeks for the drug to achieve maximum effectiveness.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "if \"i'm\" allergic to penicillin can i take \"amoxicillin?\"",
+    "context": "Contraindication",
+    "response": "A history of allergic reaction to any of the penicillins is a contraindication.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "vaccine when pregnant",
+    "context": "Information",
+    "response": "Vaccines help keep your pregnant patients and their\n  \ngrowing families healthy.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is xifaxan used for",
+    "context": "Indication",
+    "response": "XIFAXAN is indicated for the treatment of travelers’ diarrhea (TD) caused by noninvasive strains of Escherichia coli in adults and pediatric patients 12 years of age and older.\nXIFAXAN is indicated for reduction in risk of overt hepatic encephalopathy (HE) recurrence in adults.\nXIFAXAN is indicated for the treatment of irritable bowel syndrome with diarrhea (IBS-D) in adults.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is a high level of troop",
+    "context": "not_drug_question",
+    "response": "TrOOP costs are those prescription costs that can be used to calculate when you exit the Donut Hole or Coverage Gap and enter the Catastrophic Coverage stage of your Medicare Part D Coverage. The 2019 plan year Out-of-Pocket Threshold or maximum TrOOP before exiting the Donut Hole is $5,100.00.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to take your medicine diabetes",
+    "context": "Usage",
+    "response": "The medicine you take will vary by your type of diabetes and how well the medicine controls your blood glucose levels, also called blood sugar. Other factors, such as your other health conditions, medication costs, and your daily schedule may play a role in what diabetes medicine you take.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the difference between vitamin b12 1000 geltabs and vitamin b12 shots",
+    "context": "Comparison",
+    "response": "The clinical evidence-based analysis has found that oral supplementation is as effective as intramuscular injections.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do you pronounce prednisolone",
+    "context": "Pronounce name",
+    "response": "\\pred-ˈni-sə-ˌlōn  \\",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does memantine look like",
+    "context": "Appearance",
+    "response": "Color - GRAY, Shape - CAPSULE (biconvex), Score - no score, Size - 12mm, Imprint Code - m10",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is acetylcholine how does it work",
+    "context": "Information",
+    "response": "Acetylcholine is the neurotransmitter at neuromuscular junctions, at synapses in the ganglia of the visceral motor system, and at a variety of sites within the central nervous system. Whereas a great deal is known about the function of cholinergic transmission at the neuromuscular junction and at ganglionic synapses, the actions of ACh in the central nervous system are not as well understood.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what strengths do valproic acid come in meds come in",
+    "context": "Dose",
+    "response": "Valproic acid is available as a red oral solution containing the equivalent of 250 mg valproic acid per 5 mL as the sodium salt in bottles of 16 ounces.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "remipril compatible with cabergoline?",
+    "context": "Interaction",
+    "response": "Cabergoline: (Minor) Cabergoline has minimal affinity for adrenergic receptors; however, it has been associated with hypotension in some instances. Cabergoline should be used cautiously in those receiving antihypertensive agents.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many years will the viagra pill be potent",
+    "context": "Storage and disposal",
+    "response": "Expiration Dates - Questions and Answers …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how soon does losartan afffect blood pressure",
+    "context": "Action/time",
+    "response": "Hypertension … Peak (6 hour) effects were uniformly, but moderately, larger than trough effects,",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many days after taking the pill with i start my period",
+    "context": "Action",
+    "response": "Regular menstrual cycles will return within 3 to 6 months after a woman stops using most hormonal birth control methods.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many mgs of colchicine is recommended",
+    "context": "Dose",
+    "response": "The dosing regimens for colchicine tablets, USP are different for each indication and must be individualized.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "show me omeprazole",
+    "context": "Appearance",
+    "response": "Color: BROWN; Shape: OVAL; Size: 12mm; Imprint Code: 20",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does vitamin d help our bodies",
+    "context": "Action",
+    "response": "Vitamin D helps the body absorb calcium. Calcium and phosphate are two minerals that you must have for normal bone formation.\n\nIn childhood, your body uses these minerals to produce bones. If you do not get enough calcium, or if your body does not absorb enough calcium from your diet, bone production and bone tissues may suffer.\n\nVitamin D deficiency can lead to osteoporosis in adults or rickets in children.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does the pill oxybutynin look like",
+    "context": "Appearance",
+    "response": "Product Characteristics Color BLUE (light blue) Score 2 pieces Shape ROUND Size 8mm Imprint Code 4853;V",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "pneumonia vaccine is good for how long?",
+    "context": "Storage and disposal",
+    "response": "Do not use any pneumococcal vaccine beyond the expiration date printed on the label.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "mst drug/?",
+    "context": "Information",
+    "response": "MST®Continus® 5 mg, 10 mg, 15 mg, 30 mg, 60 mg, 100 mg and 200 mg prolonged release tablets: Morphine sulfate",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "glucosamine make glacoma worst?",
+    "context": "Side effects",
+    "response": "In general, glucosamine and chondroitin are thought to be safe. However, as with any medication, there are potential risks. ... A small 2013 study found that taking glucosamine may increase the risk of glaucoma, a condition that can threaten vision if not treated.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is streptomycin",
+    "context": "Information",
+    "response": "Streptomycin is an antibiotic produced by the soil actinomycete Streptomyces griseus. It acts by inhibiting the initiation and elongation processes during protein synthesis.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often do you need a shingles vaccine",
+    "context": "Usage/time",
+    "response": "The recommended schedule for live shingles vaccine is a single dose for adults 60 years of age and older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the class for insulin glargine?",
+    "context": "Information",
+    "response": "DEA Schedule: None",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long after teeth treatment can you start zoledronic acid infection",
+    "context": "Contraindication",
+    "response": "Routine dental treatment generally should not be modified solely on the basis of oral bisphosphonate therapy. However, patients with possible risk factors for BON may benefit from assessment by an expert in metabolic bone diseases. These risk factors may include concomitant use of estrogen or glucocorticoids, older age (over 65 years) and prolonged use of bisphosphonates.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what meloxicam look like",
+    "context": "Appearance",
+    "response": "Product Characteristics Color YELLOW (light yellow) Score no score Shape OVAL Size 3mm Imprint Code S160",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the different strenths of dexamethasone?",
+    "context": "Dose",
+    "response": "Dexamethasone Tablets 0.5, 0.75, 1, 1.5, 2, 4 and 6 mg USP, Dexamethasone Oral Solution, 0.5 mg per 5 mL and Dexamethasone Intensol™ Oral Solution (Concentrate), 1 mg per mL are for oral administration.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "ok to use expired lidocaine patches??",
+    "context": "Storage and disposal",
+    "response": "A 2006 study of 122 drugs tested by the program showed that two-thirds of the expired medications were stable every time a lot was tested. Each of them had their expiration dates extended, on average, by more than four years, according to research published in the Journal of Pharmaceutical Sciences.\n\nSome that failed to hold their potency include the common asthma inhalant albuterol, the topical rash spray diphenhydramine, and a local anesthetic made from lidocaine and epinephrine, the study said",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "where yo get tetanus shots",
+    "context": "Information",
+    "response": "Getting vaccinated is convenient — you can get most recommended vaccines at your doctor’s office. Many recommended vaccines are also available at local pharmacies, health centers, health departments, and travel clinics. Below you’ll find information and tools to help you find out where to get vaccinated near you — and some tips for making an appointment.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "nitroglycerin how often",
+    "context": "Usage",
+    "response": "One tablet should be dissolved under the tongue or in the buccal pouch at the first sign of an acute anginal attack. The dose may be repeated approximately every 5 minutes until relief is obtained. If the pain persists after a total of 3 tablets in a 15-minute period, or if the pain is different than is typically experienced, prompt medical attention is recommended. Nitroglycerin may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to give insulin",
+    "context": "Usage",
+    "response": "Insulin comes as a solution (liquid) and a suspension (liquid with particles that will settle on standing) to be injected subcutaneously (under the skin). Insulin is usually injected several times a day … [whole section]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can alprazolam lower blood pressure?",
+    "context": "Indication",
+    "response": "Alprazolam is as effective as captopril in lowering BP in ED patients with an initial SBP > 160 mmHg.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do u lower your dosage of gabapentin",
+    "context": "Stopping/tapering",
+    "response": "If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is salonpas made of",
+    "context": "Ingredient",
+    "response": "SALONPAS- camphor, menthol, methyl salicylate patch",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is nicotine taken",
+    "context": "Information",
+    "response": "Nicotine supplements come in many forms:\n\nGum\nInhalers\nLozenges\nNasal spray\nSkin patch\nAll of these work well if they are used correctly. People are more likely to use the gum and patches correctly than other forms.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "brinzolamide is brimodine?",
+    "context": "Information",
+    "response": "SIMBRINZA (brinzolamide/brimonidine tartrate ophthalmic suspension) 1%/0.2% is a fixed combination of a carbonic anhydrase inhibitor and an alpha 2 adrenergic receptor agonist indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what medicine besides statins lower cholesterol?",
+    "context": "Alternatives",
+    "response": "Fibrates ... Fenofibrate (TriCor) ... Gemfibrozil (Lopid) ... Resins ... Cholestyramine (Questran, LoCholest) ... Colestipol (Colestid) ... Colesevelam (WelChol) ... Absorption Blocker ... Ezetimibe (Zetia) ... Niacin ...",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is efudex?",
+    "context": "Information",
+    "response": "Efudex Solutions and Cream are topical preparations containing the fluorinated pyrimidine 5-fluorouracil, an antineoplastic antimetabolite.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long for donepezil to show in your blood",
+    "context": "Action/time",
+    "response": "Based on population pharmacokinetic analysis of plasma donepezil concentrations measured in patients with Alzheimer's disease, following oral dosing, peak plasma concentration is achieved in 3 hours for donepezil hydrochloride 10 mg tablets.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is lasix the only diuretic drug for fluid build up in heart failure patients?",
+    "context": "Indication",
+    "response": "Mild congestive heart failure is initially managed with a thiazide diuretic [11]. However, loop diuretics (e.g., furosemide, torsemide, or bumetanide) are the principal drugs used in the treatment of heart failure [22].",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "does doxycycline contain resin and shellac in it. ?",
+    "context": "Ingredient",
+    "response": "INACTIVE INGREDIENTS:\nSILICON DIOXIDE \nSTARCH, CORN \nCROSCARMELLOSE SODIUM \nDOCUSATE SODIUM  \nSODIUM BENZOATE \t \nMAGNESIUM STEARATE \t \nCELLULOSE, MICROCRYSTALLINE  \nFD&C BLUE NO. 2  \nFD&C YELLOW NO. 6 \nHYPROMELLOSES \t \nPOLYETHYLENE GLYCOLS \nTITANIUM DIOXIDE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is diclofenac sodium topical gel used for",
+    "context": "Indication",
+    "response": "Diclofenac topical gel (Voltaren) is used to relieve pain from osteoarthritis (arthritis caused by a breakdown of the lining of the joints) in certain joints such as those of the knees, ankles, feet, elbows, wrists, and hands. \nDiclofenac is also available as a 3% gel (Solaraze; generic) that is applied to the skin to treat actinic keratosis (flat, scaly growths on the skin caused by too much sun exposure).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is it he ingredients in indomethacin",
+    "context": "Ingredient",
+    "response": "ACTIVE INGREDIENT: INDOMETHACIN; INACTIVE INGREDIENTS: FERROSOFERRIC OXIDE;SILICON DIOXIDE;GELATIN;FD&C BLUE NO. 1;FD&C YELLOW NO. 5;MAGNESIUM STEARATE;CELLULOSE, MICROCRYSTALLINE;POWDERED CELLULOSE;SODIUM LAURYL SULFATE;SODIUM STARCH GLYCOLATE TYPE A CORN;TITANIUM DIOXIDE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "blood thinner pills how to use them safely",
+    "context": "Usage",
+    "response": "Blood Thinner Pills: Your Guide to Using Them Safely ...",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when does skin redness start on fluorouracil",
+    "context": "Side effects",
+    "response": "When Fluorouracil 5% Topical Cream is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion and reepithelialization.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what type if medicine is pots chloride 10meq er cap pad",
+    "context": "Action",
+    "response": "Potassium chloride is a mineral supplement used to treat or prevent low levels of potassium in the blood.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is lyrica the same as gabbentine?",
+    "context": "Comparison",
+    "response": "Lyrica (pregablin) and gabapentin (Neurontin) are anti-epileptic medications used to treat seizures and nerve pain (neuropathic pain).\nGabapentin also is used to treat nerve pain caused by shingles (herpes zoster). || Side effects of gabapentin that are different from Lyrica include:\nDifficulty speaking\nViral infections\nFever\nUnusual eye movements\nJerky movements\n|| Side effects of Lyrica that are different from gabapentin include:\nDry mouth\nConstipation\nSwelling (edema)\nBreast enlargement\nWeight gain",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is ciprofloxacin",
+    "context": "Information",
+    "response": "Ciprofloxacin tablets are synthetic broad spectrum antimicrobial agents for oral administration.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is losartan gluten free?",
+    "context": "Ingredient",
+    "response": "Unanswerable",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is desonide ointment used for",
+    "context": "Indication",
+    "response": "Desonide is used to treat the redness, swelling, itching, and discomfort of various skin conditions, including psoriasis (a skin disease in which red, scaly patches form on some areas of the body and eczema (a skin disease that causes the skin to be dry and itchy and to sometimes develop red, scaly rashes).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is usual infusion time for cetuximab injecetion",
+    "context": "Usage",
+    "response": "Administer 400 mg/m2 initial dose as a 120-minute intravenous infusion followed by 250 mg/m2 weekly infused over 60 minutes.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long do opioid withdraws last",
+    "context": "Information",
+    "response": "Opioid withdrawal symptoms can last anywhere from one week to one month. The first phase (acute withdrawal) begins about 12 hours after your last opioid use. It peaks at around 3 - 5 days, and lasts for approximately 1 - 4 weeks. The second phase (post-acute withdrawal) can last up to two years. The symptoms include mood swings, anxiety, variable energy, low enthusiasm, variable concentration, and disturbed sleep.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often should you get a zoster vaccine",
+    "context": "Dose/time",
+    "response": "The Centers for Disease Control and Prevention recommends that healthy adults 50 years and older get the Shingrix vaccine. You need two doses of the vaccine, given 2 to 6 months apart. Another vaccine, Zostavax, may be used in certain cases.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "jalyn 0.5-0.4 mg capsule?",
+    "context": "Information",
+    "response": "1.1 Benign Prostatic Hyperplasia (BPH) Treatment\nJALYN (dutasteride and tamsulosin hydrochloride) capsules are indicated for the treatment of symptomatic BPH in men with an enlarged prostate.\n\n1.2 Limitations of Use\nDutasteride-containing products, including JALYN, are not approved for the prevention of prostate cancer.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what medication not to take with lithium",
+    "context": "Interaction",
+    "response": "What special precautions should I follow?",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are tne side effects of carprofen",
+    "context": "Side effects",
+    "response": "… vomiting (4%), diarrhea (4%), changes in appetite (3%), lethargy (1.4%), behavioral changes (1 %), and constipation (0.3%)….",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "latanoprost ophthalmic how long do you use the drops",
+    "context": "Usage/time",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color are the pills for levodopa carbidopa for \"50/200\" mg extended relief",
+    "context": "Appearance",
+    "response": "The 50 mg/200 mg tablet is supplied as an oval, scored, biconvex, compressed tablet that is peach to light peach colored.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are iron injections",
+    "context": "Information",
+    "response": "Iron sucrose injection is used treat iron-deficiency anemia (a lower than normal number of red blood cells due to too little iron) in people with chronic kidney disease (damage to the kidneys which may worsen over time and may cause the kidneys to stop working). Iron sucrose injection is in a class of medications called iron replacement products. It works by replenishing iron stores so that the body can make more red blood cells.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color is 30mg prednisone",
+    "context": "Appearance",
+    "response": "Yellow, 9mm, round, flat, tablet, with a score line on one side, imprinted with “A670” on one side and “30” on the other.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long before a meal should lansoprazole be taken",
+    "context": "Usage",
+    "response": "Swallow 1 capsule with a glass of water before eating in the morning.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how will i feel when taking memantine tablets",
+    "context": "Action",
+    "response": "Memantine is in a class of medications called NMDA receptor antagonists. It works by decreasing abnormal activity in the brain. Memantine may improve the ability to think and remember or may slow the loss of these abilities in people who have AD. However, memantine will not cure AD or prevent the loss of these abilities at some time in the future.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "mercaptopurine can be the cause of elevated bun/ creatinine level?",
+    "context": "Side effects",
+    "response": "Causes Of Elevated BUN and Creatinine Levels: ... Chemotherapy drugs such as: Cisplatin, Carboplatin, Carmustine, Mitomycin, high-dose Methotrexate.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to stop using estradiol patch",
+    "context": "Stopping/tapering",
+    "response": "Attempts to taper or discontinue the medication should be made at 3 to 6 month intervals.\n\nEstradiol transdermal system (twice-weekly) may be given continuously in patients who do not have an intact uterus. In those patients with an intact uterus, estradiol transdermal system (twice-weekly) may be given on a cyclic schedule (for example, 3 weeks on drug followed by 1 week off drug).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what to do with hydrogen peroxide poisoning",
+    "context": "Overdose",
+    "response": "Seek medical help right away. Do NOT make the person throw up unless poison control or a health care provider tells you to do so. If the chemical is on the skin or in the eyes, flush with lots of water for at least 15 minutes.\n\nBefore Calling Emergency\nHave this information ready:\n\nPerson's age, weight, and condition\nName of the product (ingredients and strength, if known)\nTime it was swallowed or got into eyes or on skin\nAmount swallowed, in eyes, or on skin",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "if wanting to change from duragesic patch to oxycontin how are doseages compared",
+    "context": "Comparison",
+    "response": "Based on TDF patch strength, calculate oral morphine equivalent (or other opioid equivalent). If converting to oral morphine, use the 2 mg oral morphine/day ~ 1 mcg/h TDF rule",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does using fluorouracil make your face look like",
+    "context": "Side effects",
+    "response": "The most frequent adverse reactions to Fluorouracil 5% Topical Cream occur locally and are often related to an extension of the pharmacological activity of the drug. These include burning, crusting, allergic contact dermatitis, erosions, erythema, hyperpigmentation, irritation, pain, photosensitivity, pruritus, scarring, rash, soreness and ulceration.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does spironolactone 25 mg pill look like",
+    "context": "Appearance",
+    "response": "Spironolactone Tablets USP, 25 mg are white, film-coated, round tablets, debossed “AN” above “511” on one side and plain on other side.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is clotrimazole betamethasone dipropionate cream",
+    "context": "Information",
+    "response": "What is clotrimazole and betamethasone dipropionate cream?\n\nClotrimazole and betamethasone dipropionate cream is a prescription medication used on the skin (topical) to treat fungal infections of the feet, groin, and body in people 17 years of age and older. Clotrimazole and betamethasone dipropionate cream is used for fungal infections that are inflamed and have symptoms of redness or itching.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "td vaccine (90714)what is a tad vaccine",
+    "context": "Information",
+    "response": "Td vaccine can protect adolescents and adults from tetanus and diphtheria. Td is usually given as a booster dose every 10 years but it can also be given earlier after a severe and dirty wound or burn.\n\nAnother vaccine, called Tdap, which protects against pertussis in addition to tetanus and diphtheria, is sometimes recommended instead of Td vaccine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "shingles vaccine , is it necessary to get a 2nd shot?",
+    "context": "Usage/time",
+    "response": "The recommended schedule for live shingles vaccine is a single dose for adults 60 years of age and older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i take metamucil with \"ciprofloxacin?\"",
+    "context": "Interaction",
+    "response": "diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued. Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic. If this occurs, patients should contact their physician as soon as possible. ",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much time before tizanidine takes effect",
+    "context": "Action/time",
+    "response": "This medication usually starts to work in 1 to 2 hours and wears off after 6 to 8 hours. Tizanidine can be taken every 6 to 8 hours, but you should not take more than 36 milligrams a day or more than 3 doses in 24 hours.",
+    "category": "Drug_QA"
+  }
+]
