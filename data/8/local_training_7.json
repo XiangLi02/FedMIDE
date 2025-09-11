@@ -1,0 +1,1802 @@
+[
+  {
+    "instruction": "what is benzodiazepines",
+    "context": "Information",
+    "response": "Benzodiazepines (sometimes called \"benzos\") work to calm or sedate a person, by raising the level of the inhibitory neurotransmitter GABA in the brain. Common benzodiazepines include diazepam (Valium), alprazolam (Xanax), and clonazepam (Klonopin), among others.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "neupro and ropinirole when is it safe to take",
+    "context": "Interaction",
+    "response": "Anxiolytics; Sedatives; and Hypnotics: (Moderate) A reduction in the dose of anxiolytics, sedatives, hypnotics and concomitantly administered dopamine agonists with sedative properties (e.g., ropinirole, pramipexole, rotigotine, apomorphine) should be considered to minimize additive sedative effects. In addition, the risk of next-day psychomotor impairment is increased during co-administration, which may decrease the ability to perform tasks requiring full mental alertness such as driving.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "shingrix vaccine how often do you get a shingles shot",
+    "context": "Usage/time",
+    "response": "Shingles Vaccine (recombinant)  Two doses, 2 to 6 months apart, are recommended for adults 50 and older.  This vaccine is also recommended for people who have already gotten the live shingles vaccine (Zostavax). There is no live virus in this vaccine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "does enalaprilat is used for treat stroke?",
+    "context": "Indication",
+    "response": "Enalaprilat injection, USP is indicated for the treatment of hypertension when oral therapy is not practical.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long can i take miralax",
+    "context": "Usage/time",
+    "response": "Stop use and ask a doctor if ...  you need to use a laxative for longer than 1 week",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what mg norco comes in",
+    "context": "Dose",
+    "response": "... NORCO® 5/325 ... NORCO® 7.5/325 ... NORCO® 10/325 …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "nitrofurantoin generic for?",
+    "context": "Brand names",
+    "response": "Furadantin® Tablets¶\nFuradantin® Oral Suspension\nFuralan®¶\nMacrobid®\nMacrodantin®",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does cocaine i effect the nervous system",
+    "context": "Side effects",
+    "response": "Cocaine is an illegal stimulant drug that affects your central nervous system. Cocaine comes from the coca plant. When used, cocaine causes the brain to release higher than normal amounts of some chemicals. These produce a sense of euphoria, or a \"high.\"\n\nCocaine intoxication is a condition in which you're not only high from using the drug, but you also have body-wide symptoms that can make you ill and impaired.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the active incredience in balsalazide",
+    "context": "Ingredient",
+    "response": "BALSALAZIDE DISODIUM",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do botulinum toxin injections treat muscle conditions?",
+    "context": "Action",
+    "response": "Targeted injection of botulinum toxin into muscles with the most tome can help to selectively weaken these muscles to improve range of motion and function.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what three trade names were gven inthis chapter for this generic drug about hydrochlorothiazide",
+    "context": "Brand names",
+    "response": "Esidrix®¶    Hydrodiuril®¶    Microzide®    Oretic®    Zide®¶",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the reason for having to use heparin after a antibodies fusion",
+    "context": "Indication",
+    "response": "Heparin Lock Flush Solution, USP is intended to maintain patency of an indwelling venipuncture device designed for intermittent injection or infusion therapy or blood sampling.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "wean off tegretol?",
+    "context": "Stopping/tapering",
+    "response": "As with all antiepileptic drugs, Tegretol should be withdrawn gradually to minimize the potential of increased seizure frequency.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what shape is the amlodipine pill",
+    "context": "Appearance",
+    "response": "DIAMOND (DIAMOND)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what happened if one takes a double does of simvastatin",
+    "context": "Overdose",
+    "response": "A few cases of overdosage with simvastatin have been reported; the maximum dose taken was 3.6 g. All patients recovered without sequelae. Supportive measures should be taken in the event of an overdose. The dialyzability of simvastatin and its metabolites in man is not known at present.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "senna tablets what dose",
+    "context": "Dose",
+    "response": "HOW SUPPLIED … DOSAGE & INDICATIONS ... MAXIMUM DOSAGE ... DOSING CONSIDERATIONS ... ADMINISTRATION …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is it ok to take a probiotic when taking an antibiotic?",
+    "context": "Interaction",
+    "response": "Taking probiotics during antibiotic treatment can reduce the risk of diarrhea, although the two should be taken a few hours apart. Probiotics can also help restore the gut bacteria after antibiotics.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the expiration time for fluorouracil topical cream",
+    "context": "Storage and disposal",
+    "response": "The recommended shelf life of Efudix cream is 60 months.\n\nShelf life after first opening the immediate packaging: 90 days for the 20g and 40g tubes.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is prevnar >65",
+    "context": "Information",
+    "response": "The pneumococcal conjugate vaccine (PCV13 or Prevnar 13®) protects against 13 types of pneumococcal bacteria. CDC recommends PCV13 for use in infants and young children and adults 65 years or older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "motoprolol pill how long before it takes affect",
+    "context": "Action/time",
+    "response": "In man, absorption of metoprolol is rapid and complete. ... In comparison to conventional metoprolol, the plasma metoprolol levels following administration of metoprolol succinate extended-release tablets are characterized by lower peaks, longer time to peak and significantly lower peak to trough variation.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much is fish oil daily dose",
+    "context": "Dose",
+    "response": "LC omega-3s are present in several dietary supplement formulations, including fish oil, krill oil, cod liver oil, and vegetarian products that contain algal oil. A typical fish oil supplement provides about 1,000 mg fish oil, containing 180 mg EPA and 120 mg DHA, but doses vary widely. Table 1 lists the current AIs for omega-3s in grams per day.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what happens if your child ate a tylenol tablet",
+    "context": "Overdose",
+    "response": "In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are steroids",
+    "context": "Information",
+    "response": "any of various compounds containing a 17-carbon 4-ring system and including the sterols and numerous hormones (such as anabolic steroids or corticosteroids) and glycosides",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "albuterol portable \"nebulizer?\" microtia vibrating mesh nebulizing \"system.\"",
+    "context": "Information",
+    "response": "Evidence suggests that the vibrating mesh nebulizer (VMN) provides 5-fold greater aerosol delivery to the lung as compared to a jet nebulizer (JN).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how reduce cholesterol",
+    "context": "Indication",
+    "response": "A healthy lifestyle is the first defense against high cholesterol. But sometimes diet and exercise aren't enough, and you may need to take cholesterol medications. Cholesterol medications might help",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do you take clindamycin",
+    "context": "Usage",
+    "response": "Adults: Serious infections - 150 to 300 mg every 6 hours. More severe infections - 300 to 450 mg every 6 hours.\n\nPediatric Patients (for children who are able to swallow capsules): Serious infections - 8 to 16 mg/kg/day (4 to 8 mg/lb/day) divided into three or four equal doses. More severe infections - 16 to 20 mg/kg/day (8 to 10 mg/lb/day) divided into three or four equal doses.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the inactive ingredients to the pneumonia vaccine",
+    "context": "Ingredient",
+    "response": "Inactive Ingredients POLYSORBATE 80 … ALUMINUM PHOSPHATE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "metoclopramide how supplied",
+    "context": "Information",
+    "response": "Metoclopramide Injection, USP 5 mg metoclopramide base (as the monohydrochloride monohydrate) per mL; available in:2 mL single use vials (NDC 23155-240-31 ) in cartons of 25 (NDC 23155-240-41 ),10 mL single use vials (NDC 23155-240-32) in cartons of 25 (NDC 23155-240-42),30 mL single use vials (NDC 23155-240-33) in cartons of 25 (NDC 23155-240-43).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do you pronounce humira",
+    "context": "Pronounce name",
+    "response": "Hu·​mira | \\ hyü-ˈmer-ə",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many milligrams in tramadol",
+    "context": "Dose",
+    "response": "Each tablet, for oral administration contains 50 mg of tramadol hydrochloride and is white in color.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often should adult take pneumonia vaccine",
+    "context": "Usage/duration",
+    "response": "CDC recommends pneumococcal vaccination (PCV13 or Prevnar13®, and PPSV23 or Pneumovax23®) for all adults 65 years or older:\nGive a dose of PCV13 to adults 65 years or older who have not previously received a dose. Then administer a dose of PPSV23 at least 1 year later.\nIf the patient already received one or more doses of PPSV23, give the dose of PCV13 at least 1 year after they received the most recent dose of PPSV23.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long i take cipro for a urinary tract infection ?",
+    "context": "Usage/time",
+    "response": "Infection Urinary Tract / Acute Uncomplicated 250 mg q 12 h 3 days / Mild/Moderate 250 mg q 12 h 7 to 14 days / Severe/Complicated 500 mg q 12 h 7 to 14 days",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "will anti viral drugs activate my angio edema condition?",
+    "context": "Side effects",
+    "response": "[Antiviral] Treatment was discontinued prematurely due to patient-reported adverse effects in 4 (0.8%) patients, including angioedema (n = 1) [0.2%]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long keep patient on chantix",
+    "context": "Usage/time",
+    "response": "Patients should be treated with CHANTIX for 12 weeks. For patients who have successfully stopped smoking at the end of 12 weeks, an additional course of 12 weeks' treatment with CHANTIX is recommended to further increase the likelihood of long-term abstinence.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what tier drug is methylphenidate",
+    "context": "Information",
+    "response": "DEA Schedule: CII",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is asa ec",
+    "context": "Information",
+    "response": "Acetylsalicylic acid [Aspirin] … Enteric coated tablet … Asa EC",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the action of ezetimibe in my body",
+    "context": "Action",
+    "response": "Ezetimibe is in a class of medications called cholesterol-lowering medications. It works by preventing the absorption of cholesterol in the intestine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is magnesium chelated good for",
+    "context": "Indication",
+    "response": "Chelated magnesium is used as a supplement to maintain adequate magnesium in the body.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "show me the stages of oxycodone 15 milligram hcl",
+    "context": "Information",
+    "response": "Stages of Opiate Withdrawal …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much penicillin to treat strep throat for adult",
+    "context": "Dose",
+    "response": "The usual dosage recommendations for adults and children 12 years and over are as follows:\n\nStreptococcal Infections\nMild to moderately severe – of the upper respiratory tract and including scarlet fever and erysipelas: 125 to 250 mg (200,000 to 400,000 units) every 6 to 8 hours for 10 days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often do you take flu vaccine?",
+    "context": "Usage/time",
+    "response": "Everyone 6 months of age and older should get a flu vaccine every season.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "where does fluorouracil come from",
+    "context": "Information",
+    "response": "Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what ppis this medication for simvastatin",
+    "context": "Interaction",
+    "response": "PPIs may modestly boost the statin-mediated LDL-C reduction.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "i take lorazepam, my eyes are blurry, if i stop taking it, will my eyes clear up ?",
+    "context": "Side effects",
+    "response": "Withdrawal symptoms (e.g., rebound insomnia) can appear following cessation of recommended doses after as little as one week of therapy. Abrupt discontinuation of product should be avoided and a gradual dosage-tapering schedule followed after extended therapy.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to reconstitute cefazolin",
+    "context": "Usage",
+    "response": "RECONSTITUTION … [whole section]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "howmuch aspirin in butalbital",
+    "context": "Ingredient",
+    "response": "Butalbital 50 mg; Aspirin 325 mg; Caffeine 40 mg",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "trospium can i stop taking it?",
+    "context": "Stopping/tapering",
+    "response": "Angioedema of the face, lips, tongue and/or larynx has been reported with trospium chloride. In one case, angioedema occurred after the first dose of trospium chloride. Angioedema associated with upper airway swelling may be life threatening. If involvement of the tongue, hypopharynx, or larynx occurs, trospium chloride should be promptly discontinued",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long can megestrol be taken?",
+    "context": "Usage/duration",
+    "response": "At least 2 months of continuous treatment is considered an adequate period for determining the efficacy of megestrol acetate.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what exactly is butalbital",
+    "context": "Information",
+    "response": "Butalbital, 5-allyl-5-isobutylbarbituric acid, is a barbiturate with an intermediate duration of action.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when to take loratadine",
+    "context": "Usage/time",
+    "response": "Hay fever typically worsens at night and feels most severe in the morning, when levels of symptom-triggering histamine are highest. Once-daily antihistamines, such as Claritin, reach their peak eight to 12 hours after you take them, so using them at dinnertime means better control of morning symptoms. (Take twice-a-day antihistamines in the morning and evening.)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does spiriva work",
+    "context": "Action",
+    "response": "Tiotropium is in a class of medications called bronchodilators. It works by relaxing and opening the air passages to the lungs to make breathing easier.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "in how much temp bcg vaccine should store",
+    "context": "Storage and disposal",
+    "response": "The intact vials of BCG VACCINE should be stored refrigerated at 2-8°C (36-46°F).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is actonel prescribed for?",
+    "context": "Indication",
+    "response": "Postmenopausal Osteoporosis ... Osteoporosis in Men ... Glucocorticoid-Induced Osteoporosis ... Paget’s Disease …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long should you use anti inflammatory gel",
+    "context": "Usage/duration",
+    "response": "Use topical diclofenac (Pennsaid, Voltaren) exactly as directed. Do not use more or less of it or use it more often or for a longer period of time than prescribed by your doctor.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how xarelto affects in the process of homeostasis",
+    "context": "Action",
+    "response": "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin. By inhibiting FXa, rivaroxaban decreases thrombin generation.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "heroin mixed with fentanyl what are the symptoms of an overdose",
+    "context": "Overdose",
+    "response": "Acute overdose with Fentanyl Citrate Injection can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what pill is close to the pill hyoscyamine for bloating food to more faster",
+    "context": "Alternatives",
+    "response": "Unanswerable",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do beta blockers work",
+    "context": "Action",
+    "response": "Beta blockers, also known as beta-adrenergic blocking agents, are medications that reduce your blood pressure. Beta blockers work by blocking the effects of the hormone epinephrine, also known as adrenaline.\n\nWhen you take beta blockers, your heart beats more slowly and with less force, thereby reducing blood pressure. Beta blockers also help blood vessels open up to improve blood flow.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "do i take a statin with or without food ?",
+    "context": "Usage",
+    "response": "Read the label on the bottle carefully. Some brands should be taken with food. Others may be taken with, or without food.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to safely stop taking anastrozole",
+    "context": "Stopping/tapering",
+    "response": "A study has found that postmenopausal women who stop taking hormonal therapy early or skip doses are much more likely to have a breast cancer recurrence than women who take hormonal therapy as prescribed.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the milligrams for oxycodone e",
+    "context": "Dose",
+    "response": "… 10 mg … 20 mg … 40 mg … 80 mg ...",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is ketorolac eye drops",
+    "context": "Information",
+    "response": "Ophthalmic ketorolac is used to treat itchy eyes caused by allergies. It also is used to treat swelling and redness (inflammation) that can occur after cataract surgery. Ketorolac is in a class of medications called nonsteroidal anti-inflammatory drugs (NSAIDs). It works by stopping the release of substances that cause allergy symptoms and inflammation.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is a daily amount of prednisolone eye drops to take",
+    "context": "Dose",
+    "response": "Two drops topically in the eye(s) four times daily. In cases of bacterial infections, concomitant use of anti-infective agents is mandatory. Care should be taken not to discontinue therapy prematurely.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is marijuana used",
+    "context": "Indication",
+    "response": "Marijuana is best known as a drug that people smoke or eat to get high. It is derived from the plant Cannabis sativa. Possession of marijuana is illegal under federal law. Medical marijuana refers to using marijuana to treat certain medical conditions. In the United States, about half of the states have legalized marijuana for medical use.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why is losartin prescribed rather than a calcium channel blocker.",
+    "context": "Comparison",
+    "response": "Losartan is in a class of medications called angiotensin II receptor antagonists. It works by blocking the action of certain natural substances that tighten the blood vessels, allowing the blood to flow more smoothly and the heart to pump more efficiently.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often can i get a cortisone shot",
+    "context": "Usage/time",
+    "response": "There's concern that repeated cortisone shots might cause the cartilage within a joint to deteriorate. So doctors typically limit the number of cortisone shots into a joint. In general, you shouldn't get cortisone injections more often than every six weeks and usually not more than three or four times a year.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "bupropion hcl 300mg is good for what?",
+    "context": "Indication",
+    "response": "Bupropion hydrochloride extended-release tablets (XL) are indicated for the treatment of major depressive disorder (MDD), as defined by the Diagnostic and Statistical Manual (DSM).  || Bupropion hydrochloride extended-release tablets (XL) are indicated for the prevention of seasonal major depressive episodes in patients with a diagnosis of seasonal affective disorder (SAD).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the dosage strengths of sildenafil",
+    "context": "Dose",
+    "response": "Sildenafil Tablets\n\nWhite, film-coated, round tablets engraved with SDF20 containing sildenafil citrate equivalent to 20 mg of sildenafil.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the survival rate of opdivo \"&\" yervoy combo treatments",
+    "context": "Action/effectiveness",
+    "response": "The overall survival rate at 3 years was 58% in the nivolumab-plus-ipilimumab group and 52% in the nivolumab group, as compared with 34% in the ipilimumab group.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "levodopa carbidopa what will these drugs do to me if i take alcohol",
+    "context": "Interaction",
+    "response": "Alcohol can make the side effects from levodopa and carbidopa worse.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when to start tamiflu",
+    "context": "Usage/time",
+    "response": "TAMIFLU is indicated for the treatment of acute, uncomplicated illness due to influenza A and B infection in patients 2 weeks of age and older who have been symptomatic for no more than 48 hours.\n1.2 Prophylaxis of Influenza\nTAMIFLU is indicated for the prophylaxis of influenza A and B in patients 1 year and older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "symptoms from taking multiple doses of lasix 40 mg per dayproblems with taking lasix 40mg twice daily ?",
+    "context": "Side effects",
+    "response": "Furosemide is a strong diuretic ('water pill') and may cause dehydration and electrolyte imbalance. It is important that you take it exactly as told by your doctor. If you experience any of the following symptoms, call your doctor immediately: decreased urination; dry mouth; thirst; nausea; vomiting; weakness; drowsiness; confusion; muscle pain or cramps; or rapid or pounding heartbeats.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "seniors and premarin?",
+    "context": "Usage",
+    "response": "There have not been sufficient numbers of geriatric patients involved in studies utilizing PREMARIN to determine whether those over 65 years of age differ from younger subjects in their response to PREMARIN.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does a 20 mcg bedford norton transdermal patch compared to say oxycodone what would be the equivalent",
+    "context": "Comparison",
+    "response": "25 mcg fentanyl/hr = 40 mg oral / 20 mg IV oxycodone [from conversion chart]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is in indomethacin",
+    "context": "Ingredient",
+    "response": "ACTIVE INGREDIENT: INDOMETHACIN; INACTIVE INGREDIENTS: FERROSOFERRIC OXIDE;SILICON DIOXIDE;GELATIN;FD&C BLUE NO. 1;FD&C YELLOW NO. 5;MAGNESIUM STEARATE;CELLULOSE, MICROCRYSTALLINE;POWDERED CELLULOSE;SODIUM LAURYL SULFATE;SODIUM STARCH GLYCOLATE TYPE A CORN;TITANIUM DIOXIDE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to come off citalopram",
+    "context": "Stopping/tapering",
+    "response": "If you suddenly stop taking citalopram, you may experience withdrawal symptoms such as mood changes, irritability, agitation, dizziness, numbness, tingling or electric shock-like sensations in the hands or feet, anxiety, confusion, headache, tiredness, nausea, sweating, shaking, and difficulty falling asleep or staying asleep. Do not stop taking citalopram without talking to your doctor. Your doctor will probably decrease your dose gradually.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how strong is 360 mg diltiazem",
+    "context": "Dose/Potency",
+    "response": "Single oral doses of 30 to 120 mg of diltiazem tablets result in detectable plasma levels within 30 to 60 minutes and peak plasma levels 2 to 4 hours after drug administration. As the dose of diltiazem tablets is increased from a daily dose of 120 mg (30 mg qid) to 240 mg (60 mg qid) daily, there is an increase in area-under-the-curve of 2.3 times. When the dose is increased from 240 mg to 360 mg daily, there is an increase in area-under-the-curve of 1.8 times.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is another drug similar to sulfonylureas",
+    "context": "Alternatives",
+    "response": "Types of Insulin Secretagogues\nInsulin-releasing medicines\nSulfonylureas (Generic names): Glimepiride, Glipizide, Glyburide\nMeglitinides (Generic names): Repaglinide, Nateglinide",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is docusate sodium",
+    "context": "Information",
+    "response": "Stool softener",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "any \"side effects\" when stop taking clopidogrel",
+    "context": "Stopping/side effects",
+    "response": "Discontinuation of clopidogrel bisulfate increases the risk of cardiovascular events. If clopidogrel must be temporarily discontinued (e.g., to treat bleeding or for surgery with a major risk of bleeding), restart it as soon as possible. When possible, interrupt therapy with clopidogrel for five days prior to such surgery. Resume clopidogrel as soon as hemostasis is achieved.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how should i stop taking heparin?",
+    "context": "Stopping/tapering",
+    "response": "Unlike warfarin, which requires a slow reduction, heparin treatment can be started and stopped quickly.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what drugs contain in testerone injection",
+    "context": "Information",
+    "response": "TESTOSTERONE UNDECANOATE [or] TESTOSTERONE CYPIONATE [or] TESTOSTERONE ENANTHATE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is morphine",
+    "context": "Information",
+    "response": "Morphine is a pain medication of the opiate family which is found naturally in a number of plants and animals.[5][7] It acts directly on the central nervous system (CNS) to decrease the feeling of pain.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is cyclobenzaprine a benzodiazepine?",
+    "context": "Information",
+    "response": "Cyclobenzaprine is in a class of medications called skeletal muscle relaxants. It works by acting in the brain and nervous system to allow the muscles to relax. …............ Benzodiazepines (sometimes called \"benzos\") work to calm or sedate a person, by raising the level of the inhibitory neurotransmitter GABA in the brain. Common benzodiazepines include diazepam (Valium), alprazolam (Xanax), and clonazepam (Klonopin), among others.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "metoprolol pill how long before it takes affect",
+    "context": "Action/time",
+    "response": "Metoprolol starts to work after about 2 hours, but it can take up to 1 week to fully take effect. You may not feel any different when you take metoprolol, but this doesn't mean it's not working. It's important to keep taking your medicine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the lowest dose of hydrochlorothiazide",
+    "context": "Dose",
+    "response": "For Edema: The usual adult dosage is 25 to 100 mg daily as a single or divided dose.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when is the best tme to take magnesium citrate tab.",
+    "context": "Usage",
+    "response": "It is best to take magnesium supplements with a meal to reduce stomach upset and diarrheaunless otherwise directed by the product instructions or your doctor.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does chlordiazepoxide stay in \"system?\"",
+    "context": "Action/time",
+    "response": "It takes several hours for peak blood levels to be reached and the half-life of the drug is between 24 and 48 hours. After the drug is discontinued plasma levels decline slowly over a period of several days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is amphetamine",
+    "context": "Information",
+    "response": "Amphetamines are non-catecholamine, sympathomimetic amines with CNS stimulant activity.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to stop taking buprenorphine",
+    "context": "Stopping/tapering",
+    "response": "The decision to discontinue therapy with buprenorphine and naloxone or buprenorphine after a period of maintenance should be made as part of a comprehensive treatment plan. Advise patients of the potential to relapse to illicit drug use following discontinuation of opioid agonist/partial agonist medication-assisted treatment. Taper patients to reduce the occurrence of withdrawal signs and symptoms [See Warnings and Precautions (5.7)].",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "do prescription antacids help prevent reocurrence of arts?",
+    "context": "Action",
+    "response": "Antacids help to treat heartburn (indigestion). They work by neutralizing the stomach acid that causes heartburn.\n\nYou can buy many antacids without a prescription. Liquid forms work faster, but you may like tablets because they are easy to use.\n\nAll antacids work equally well, but they can cause different side effects. If you use antacids often and have problems with side effects, talk with your health care provider.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the dose for vit b12 tabet?",
+    "context": "Dose",
+    "response": "When taken at appropriate doses, vitamin B-12 supplements are generally considered safe. While the recommended daily amount of vitamin B-12 for adults is 2.4 micrograms, you can safely take higher doses. Your body absorbs only as much as it needs, and any excess passes through your urine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "should metoprolol and lexapro be taken together?",
+    "context": "Interaction",
+    "response": "Coadministration of Lexapro and metoprolol had no clinically significant effects on blood pressure or heart rate.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how ph change with antibiotic",
+    "context": "Action",
+    "response": "Collins' team had already discovered that antibiotics that kill bacteria do so by triggering oxidative stress in the bacteria. They wondered whether antibiotics caused side effects by triggering oxidative stress in the mitochondria, a bacterium-like organelle that supplies human cells with energy.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to inject pills morphine",
+    "context": "Usage",
+    "response": "MORPHINE SULFATE EXTENDED-RELEASE TABLETS ARE TO BE TAKEN WHOLE, AND ARE NOT TO BE BROKEN, CHEWED OR CRUSHED. TAKING BROKEN, CHEWED OR CRUSHED MORPHINE SULFATE EXTENDED-RELEASE TABLETS COULD LEAD TO THE RAPID RELEASE AND ABSORPTION OF A POTENTIALLY TOXIC DOSE OF MORPHINE.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to stop taking amlodipine",
+    "context": "Stopping/tapering",
+    "response": "Continue to take amlodipine even if you feel well. Do not stop taking amlodipine without talking to your doctor.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long on metoprolol after vavle replacement surgery",
+    "context": "Usage/time",
+    "response": "Typically one stays on it for around a month but it can be indefinitely if you have high blood pressure. This is a very benign drug and is very commonly used.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is classed as a low dose of azathioprine",
+    "context": "Dose",
+    "response": "approximately 1 mg/kg (50 to 100 mg) given as a single dose or on a twice-daily schedule",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "does marijuana use lead to negative health outcomes?",
+    "context": "Side effects",
+    "response": "Marijuana can cause problems with memory, learning, and behavior. Smoking it can cause some of the same coughing and breathing problems as smoking cigarettes. Some people get addicted to marijuana after using it for a while. It is more likely to happen if they use marijuana every day, or started using it when they were teenagers.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "testosterone over counter?",
+    "context": "Information",
+    "response": "NATURAL TESTOSTERONE- avena sativa. epimedium, lycopodium clavatum, damiana, testosterone, agnus castus spray",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does bumetanide pill look like",
+    "context": "Appearance",
+    "response": "Color - WHITE (White to off white); Shape - ROUND; Score - 2 pieces; Size - 6mm; Imprint Code - A16",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "metformin after dinner and bed time?",
+    "context": "Usage",
+    "response": "Metformin hydrochloride extended-release tablets, USP should generally be given once daily with the evening meal.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why is pyridostigmine prescribed",
+    "context": "Indication",
+    "response": "Pyridostigmine is used to decrease muscle weakness resulting from myasthenia gravis.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "lansoprazole long term use?",
+    "context": "Usage/duration",
+    "response": "you may repeat a 14-day course every 4 months * do not take for more than 14 days or more often than every 4 months unless directed by a doctor",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to inject insulin",
+    "context": "Usage",
+    "response": "Your doctor will tell you which type(s) of insulin to use, how much insulin to use, and how often to inject insulin. Follow these directions carefully. Do not use more or less insulin or use it more often than prescribed by your doctor.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is an esi shot in the \"back?\" epidural steroids shot in the \"back?\"",
+    "context": "Information",
+    "response": "An epidural steroid injection (ESI) is a minimally invasive procedure that can help relieve neck, arm, back, and leg pain caused by inflamed spinal nerves due to spinal stenosis or disc herniation. Medicines are delivered to the epidural space, which is a fat-filled area between the bone and the protective sac of the spinal nerves.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is pramoxine a nsaid?",
+    "context": "Information",
+    "response": "Pramoxine is in a class of medications called topical anesthetics. It works by stopping nerves from sending pain signals.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to give toradol im",
+    "context": "Usage",
+    "response": "When administering ketorolac tromethamine injection, the intravenous bolus must be given over no less than 15 seconds. The intramuscular administration should be given slowly and deeply into the muscle.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i take meloxicam along with tylenol + cod?",
+    "context": "Interaction",
+    "response": "Tylenol (generic Acetaminophen) is commonly used as an adjunct for pain relief in patients with various forms of musculoskeletal pain.  While acetaminophen is not an anti-inflammatory agent (like NSAIDS, including Celebrex), it does act on pain pathways.  It is important for patients to inform their physicians of breakthrough pain that is requiring the use of any over-the-counter agents as there may need to be increased monitoring for certain possible side effects (increased liver function tests, etc).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does oxycontin stay in the urine",
+    "context": "Time/duration",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does marijuana get into a persons body",
+    "context": "Usage",
+    "response": "Cannabinoids can be taken by mouth, inhaled, or sprayed under the tongue",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what side effects would magnesium have on a woman taking dilantin?",
+    "context": "Interaction",
+    "response": "Oral administration of MgO in a low dose (500 mg/kg) for 4 weeks in healthy rats appears to exert protective effect against MES. High oral doses of MgO (750 and 1000 mg/kg) appear to enhance the activity of phenytoin and carbamazepine in the MES model.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is in lidocaine",
+    "context": "Ingredient",
+    "response": "LIDOCAINE HYDROCHLORIDE ANHYDROUS\t10 mg  in 1 mL\nINACTIVE INGREDIENTS\nSODIUM CHLORIDE \t7 mg  in 1 mL\nSODIUM HYDROXIDE  \nHYDROCHLORIC ACID",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many mg does it take to overdose on oxycodone",
+    "context": "Overdose",
+    "response": "OXYCODONE HCl CONTROLLED-RELEASE 80 mg and 160 mg Tablets, or a single dose greater than 40 mg, ARE FOR USE IN OPIOID-TOLERANT PATIENTS ONLY. A single dose greater than 40 mg, or total daily doses greater than 80 mg, may cause fatal respiratory depression when administered to patients who are not tolerant to the respiratory depressant effects of opioids.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "do i take a statin with or without food \"?\"",
+    "context": "Usage",
+    "response": "Read the label on the bottle carefully. Some brands should be taken with food. Others may be taken with, or without food.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is normal saline",
+    "context": "Information",
+    "response": "physiologic saline solution (physiologic salt solution) (physiologic sodium chloride solution) a 0.9 per cent solution of sodium chloride and water; it is isotonic, i.e., of the same osmotic pressure as blood serum. It is sometimes given intravenously to replace lost sodium and chloride. Excessive quantities may cause edema, elevated blood sodium levels, and loss of potassium from the tissue fluid. Called also normal saline or normal salt solution.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "prevnar >65what is this vaccine ?",
+    "context": "Information",
+    "response": "The pneumococcal conjugate vaccine (PCV13 or Prevnar 13®) protects against 13 types of pneumococcal bacteria. CDC recommends PCV13 for use in infants and young children and adults 65 years or older. Older children and adults younger than 65 years old who are at increased risk for getting pneumococcal disease may also need a dose of PCV13.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "vitamin d 25, totalhow totakeaday",
+    "context": "Dose",
+    "response": "According to the US Institute of Medicine, the recommended daily allowance is 400–800 IU (10–20 micrograms), but common supplemental doses range from 1,000–2,000 IU (25–50 micrograms) per day.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the side effect of bp medicine on brain?",
+    "context": "Side effects",
+    "response": "Cough\n    Diarrhea or constipation\n    Dizziness or lightheadedness\n    Erection problems\n    Feeling nervous\n    Feeling tired, weak, drowsy, or a lack of energy\n    Headache\n    Nausea or vomiting\n    Skin rash\n    Weight loss or gain without trying",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "for a \"rinse,\" how many \"cc\" should be \"used?f\" lidocaine lidocaine used",
+    "context": "Usage",
+    "response": "For symptomatic treatment of irritated or inflamed mucous membranes of the mouth and pharynx, the usual adult dose is 15 mL undiluted.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "do i take over the counter calciun with alendronate?",
+    "context": "Interaction",
+    "response": "Co-administration of alendronate sodium and calcium, antacids, or oral medications containing multivalent cations will interfere with absorption of alendronate sodium. Therefore, instruct patients to wait at least one-half hour after taking alendronate sodium before taking any other oral medications.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "prevnar >65?",
+    "context": "Indication",
+    "response": "CDC recommends PCV13 for use in infants and young children and adults 65 years or older. Older children and adults younger than 65 years old who are at increased risk for getting pneumococcal disease may also need a dose of PCV13.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is nicoderm",
+    "context": "Information",
+    "response": "reduces withdrawal symptoms, including nicotine craving, associated with quitting smoking",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "dydrogesterone tablets 10 mg is for what purpose",
+    "context": "Indication",
+    "response": "Dydrogesterone, sold under the brand name Duphaston among others, is a progestin medication which is used for a variety of indications, including threatened or recurrent miscarriage during pregnancy, dysfunctional bleeding, infertility due to luteal insufficiency, dysmenorrhea, endometriosis, secondary amenorrhea, irregular cycles, premenstrual syndrome, and as a component of menopausal hormone therapy.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is estradiol transdermal patch bio-identical estrogen?",
+    "context": "Information",
+    "response": "Estradiol transdermal system (twice-weekly) is an estrogen indicated for:\n•Treatment of moderate to severe vasomotor symptoms due to menopause ( 1.1)\n•Treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how many mgs of seroquel does one take for sleep",
+    "context": "Dose",
+    "response": "The recommended initial dose, titration, dose range and maximum SEROQUEL dose for each approved indication is displayed in Table 1. After initial dosing, adjustments can be made upwards or downwards",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is prevnar >65?",
+    "context": "Information",
+    "response": "The pneumococcal conjugate vaccine (PCV13 or Prevnar 13®) protects against 13 types of pneumococcal bacteria. CDC recommends PCV13 for use in infants and young children and adults 65 years or older.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does memantine look like",
+    "context": "Appearance",
+    "response": "Color - WHITE, Shape - ROUND, Score - no score, Size - 8mm, Imprint Code - M;104",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is acetylcholine how does it work",
+    "context": "Action",
+    "response": "Acetylcholine functions in both the central nervous system (CNS) and the peripheral nervous system (PNS). In the CNS, cholinergic projections from the basal forebrain to the cerebral cortex and hippocampus support the cognitive functions of those target areas. In the PNS, acetylcholine activates muscles and is a major neurotransmitter in the autonomic nervous system.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what meds are in the pill montelukast?",
+    "context": "Ingredient",
+    "response": "ACTIVE INGREDIENT: MONTELUKAST SODIUM (UNII: U1O3J18SFL) (MONTELUKAST - UNII:MHM278SD3E)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "pantoprazole can it be taken \"plavix?\"",
+    "context": "Interaction",
+    "response": "Avoid concomitant use of Plavix with omeprazole or esomeprazole. In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of Plavix when given concomitantly or 12 hours apart. A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with Plavix. Dexlansoprazole, lansoprazole, and pantoprazole had less effect on the antiplatelet activity of Plavix than did omeprazole or esomeprazole",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to use thymol",
+    "context": "Usage",
+    "response": "Thymol is a phenol obtained from thyme oil or other volatile oils used as a stabilizer in pharmaceutical preparations, and as an antiseptic (antibacterial or antifungal) agent. It was formerly used as a vermifuge.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much pain rellief is in fentanyl?",
+    "context": "Action/effectiveness",
+    "response": "Fentanyl has several potential advantages for out-of-hospital analgesia, including rapid onset, short duration, and less histamine release.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long it takes for withdrawals to go away on oxycodone",
+    "context": "Information",
+    "response": "Withdrawal from oxycodone usually starts within 8-12 hours of taking the drug, and it peaks in the first 72 hours. Symptoms generally subside in about a week, although some of the psychological effects and drug cravings may persist for longer.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how much b-12 is needed in an adult/month",
+    "context": "Dose",
+    "response": "Average daily recommended amounts … Adults 2.4 mcg",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "fentanyl \"patch,\" what if \"doesn't\" stick well",
+    "context": "Usage",
+    "response": "If problems with adhesion of the fentanyl transdermal system patch occur, the edges of the patch may be taped with first aid tape. If problems with adhesion persist, the patch may be overlayed with a transparent adhesive film dressing.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "81% aspirin contain resin and shellac in it. ?",
+    "context": "Ingredient",
+    "response": "Inactive Ingredients  Ingredient Name",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "does benazepril aggravate hepatitis?",
+    "context": "Side effects",
+    "response": "There have been rare reports of predominantly cholestatic hepatitis and isolated cases of acute liver failure, some of them fatal, in patients on ACE inhibitors. The mechanism is not understood. Patients receiving ACE inhibitors who develop jaundice or marked elevation of hepatic enzymes should discontinue the ACE inhibitor and be kept under medical surveillance.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what dosage amounts does aripiprazole",
+    "context": "Dose",
+    "response": "The recommended starting and target dose for aripiprazole is 10 mg/day or 15 mg/day administered on a once-a-day schedule without regard to meals. Aripiprazole has been systematically evaluated and shown to be effective in a dose range of 10 mg/day to 30 mg/day, when administered as the tablet formulation; however, doses higher than 10 mg/day or 15 mg/day were not more effective than 10 mg/day or 15 mg/day.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long is mda or ecstasy take to leave your \"body?\"",
+    "context": "Action/time",
+    "response": "In terms of its metabolism, research suggests that MDMA taken by mouth reaches its maximal blood concentration in about two hours. As ecstasy is metabolized, it is secreted into the urine and can be present for up to two days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often do you need a shingles vaccine",
+    "context": "Usage/time",
+    "response": "Shingles Vaccine (recombinant)  Two doses, 2 to 6 months apart, are recommended for adults 50 and older.  This vaccine is also recommended for people who have already gotten the live shingles vaccine (Zostavax). There is no live virus in this vaccine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color is phenytoin",
+    "context": "Appearance",
+    "response": "WHITE (/Light Lavender)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is in the pill montelukast?",
+    "context": "Ingredient",
+    "response": "MONTELUKAST SODIUM; CROSCARMELLOSE SODIUM; HYDROXYPROPYL CELLULOSE, LOW SUBSTITUTED; LACTOSE MONOHYDRATE; MAGNESIUM STEARATE; CELLULOSE, MICROCRYSTALLINE; FERROSOFERRIC OXIDE; HYPROMELLOSES; FERRIC OXIDE RED; FERRIC OXIDE YELLOW; TITANIUM DIOXIDE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is erythromycin ophthalmic ointment good for inflamed eyelids?",
+    "context": "Indication",
+    "response": "For the treatment of superficial ocular infections involving the conjunctiva and/or cornea caused by organisms susceptible to erythromycin.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is cyanocobalamin adminitsered",
+    "context": "Usage",
+    "response": "Cyanocobalamin Injection, USP is a sterile solution of cyanocobalamin for intramuscular or subcutaneous injection. Each mL contains 1000 mcg cyanocobalamin.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the imprint on metoprolol succ., 50 mg",
+    "context": "Appearance",
+    "response": "50 mg tablets: White, round, coated tablets debossed with Andrx logo and “831” on one side and scored on the other side.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is restoril additive?",
+    "context": "Information",
+    "response": "RESTORIL is a federal controlled substance (C-IV) because it can be abused or lead to dependence. Keep\nRESTORIL in a safe place to prevent misuse and abuse. Selling or giving away RESTORIL may harm others, and is against the law. Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines or street drugs.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what mg is the lowest does of coreg?",
+    "context": "Dose",
+    "response": "The white, oval, film‑coated tablets are available in the following strengths: • 3.125 mg – engraved with “39” and “SB” • 6.25 mg – engraved with “4140” and “SB” • 12.5 mg – engraved with “4141” and “SB” • 25 mg – engraved with “4142” and “SB”",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is marijuana",
+    "context": "Information",
+    "response": "Marijuana is a green, brown, or gray mix of dried, crumbled parts from the marijuana plant.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i take doxepin and prexum together?",
+    "context": "Interaction",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why did my doctor give me level iracetam",
+    "context": "Indication",
+    "response": "Levetiracetam is used in combination with other medications to treat certain types of seizures in adults and children with epilepsy. Levetiracetam is in a class of medications called anticonvulsants. It works by decreasing abnormal excitement in the brain.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is highest dose of oxybutynin a person can take",
+    "context": "Dose",
+    "response": "Adults\nThe usual dose is one 5-mg tablet two to three times a day. The maximum recommended dose is one 5-mg tablet four times a day. A lower starting dose of 2.5 mg two or three times a day is recommended for the frail elderly.\n\nPediatric patients over 5 years of age\nThe usual dose is one 5-mg tablet two times a day. The maximum recommended dose is one 5-mg tablet three times a day.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "does marijuana use lead to negative health outcomes?",
+    "context": "Side effects",
+    "response": "Marijuana can cause problems with memory, learning, and behavior. Smoking it can cause some of the same coughing and breathing problems as smoking cigarettes. Some people get addicted to marijuana after using it for a while. It is more likely to happen if they use marijuana every day, or started using it when they were teenagers.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is penicillin in the pill \"montelukast?\"",
+    "context": "Ingredient",
+    "response": "What are the ingredients in montelukast sodium tablets?\n\nActive ingredient: montelukast sodium, USP\n\nInactive ingredients:\n\n10 mg tablet: croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose. The film coating contains: black iron oxide, hydroxypropyl cellulose, hypromellose, red iron oxide, titanium dioxide, and yellow iron oxide.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long after steroids to see results",
+    "context": "Action/time",
+    "response": "You may have heard of anabolic steroids, which can have harmful effects. But there's another type of steroid - sometimes called a corticosteroid - that treats a variety of problems. These steroids are similar to hormones that your adrenal glands make to fight stress associated with illnesses and injuries. They reduce inflammation and affect the immune system.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "whate is vitamin c chemicl symple ?",
+    "context": "Information",
+    "response": "Active Ingredient/Active Moiety ... ASCORBIC ACID ...",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the classification of cromolyn",
+    "context": "Information",
+    "response": "DEA Schedule: None",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "lorcet \"7.5\" liquid whats in this",
+    "context": "Ingredient",
+    "response": "HYDROCODONE BITARTRATE (UNII: NO70W886KK) (HYDROCODONE - UNII:6YKS4Y3WQ7) HYDROCODONE BITARTRATE 7.5 mg  in 15 mL",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is herceptin chemo.a drug?",
+    "context": "Information",
+    "response": "Herceptin is not chemotherapy and it is not a hormone therapy. It is called a monoclonal antibody and is one of two innovative cancer therapies that utilise the natural immune system.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "pravastatin s9 orange how many \"grams?\"",
+    "context": "Dose",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when is the best time of day to take propranolol",
+    "context": "Usage/time",
+    "response": "The extended-release propranolol capsule (brand name: Inderal LA) usually is taken once a day. The extended-release capsule (Innopran XL, Inderal XL) is usually taken at bedtime and should consistently be taken either always with or always without food each time. Immediate-acting propranolol tablets or solution may be taken two, three, or four times a day. Take propranolol at around the same time(s) every day.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does vitamin d3 do",
+    "context": "Action",
+    "response": "Vitamin D helps your body absorb calcium. Calcium is one of the main building blocks of bone. A lack of vitamin D can lead to bone diseases such as osteoporosis or rickets. Vitamin D also has a role in your nerve, muscle, and immune systems.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what kind of rash could pravastatin cause",
+    "context": "Side effects",
+    "response": "In rare cases, it’s possible to have a serious allergic reaction to pravastatin. ... The warning signs of a serious allergic reaction are:    getting a skin rash that may include itchy, red, swollen, blistered or peeling skin",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why are anticholinergic drugs useful for treating gastrointestinal spasms associated with ibs",
+    "context": "Action",
+    "response": "Dicyclomine relieves smooth muscle spasm of the gastrointestinal tract. Animal studies indicate that this action is achieved via a dual mechanism: (1) a specific anticholinergic effect (antimuscarinic) at the acetylcholine-receptor sites; and (2) a direct effect upon smooth muscle (musculotropic.)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the dosage for betamethasone",
+    "context": "Dose",
+    "response": "Apply a thin film of Betamethasone Dipropionate Cream or Ointment to the affected skin areas once daily. In some cases, twice daily dosage may be necessary. Apply a few drops of Betamethasone Dipropionate Lotion to the affected skin areas and massage lightly until it disappears. Apply twice daily, in the morning and at night.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is dronabinol marijuana how much are ten mg pills worth",
+    "context": "not_drug_question",
+    "response": "The cost for dronabinol oral capsule 2.5 mg is around $94 for a supply of 60 capsules, depending on the pharmacy you visit.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what class is diazepam",
+    "context": "Information",
+    "response": "Diazepam is a benzodiazepine that exerts anxiolytic, sedative, muscle-relaxant, anticonvulsant and amnestic effects.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are the side effects and long term consequences of using nicotine",
+    "context": "Long term consequences",
+    "response": "Tobacco and related chemicals can increase your risk of serious health problems such as cancer, lung disease, and heart attack.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "has lisinopril been taken off the market?",
+    "context": "Availability",
+    "response": "This branded product is no longer on the market. Generic alternatives may be available.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "tudorza pressair is what schedule drug",
+    "context": "Information",
+    "response": "DEA Schedule: None",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what help withdrawal \"fom.\" hydrocodone 10 35",
+    "context": "Stopping/tapering",
+    "response": "Narcotics Anonymous (N.A.) assists people who want to stop abusing prescription or illegal drugs. Find a meeting center or online support group by searching for the local helpline or website for the area where the meeting is located.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "do ursodiol and coconut oil mix?",
+    "context": "Interaction",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how dangerous is cutting nifedipine er cc tablets",
+    "context": "Usage",
+    "response": "Nifedipine Extended-release Tablets should be swallowed whole. Do not chew, divide or crush tablets.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is divalproex",
+    "context": "Information",
+    "response": "Divalproex sodium USP is a stable co-ordination compound comprised of sodium valproate and valproic acid in a 1:1 molar relationship and formed during the partial neutralization of valproic acid with 0.5 equivalent of sodium hydroxide. Chemically it is designated as sodium hydrogen bis(2-propylpentanoate).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "who makes this drug nitrofurantoin ?",
+    "context": "Manufacturer",
+    "response": "Procter and Gamble Pharmaceuticals, Inc.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what drugs case erectile dysfuntion",
+    "context": "Side effects",
+    "response": "The following is a list of some medicines and drugs that may cause impotence in men. There may be additional drugs other than those on this list that can cause erectile difficulties.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to pronounce chlordiazepoxide",
+    "context": "Pronounce name",
+    "response": "pronounced as (klor dye az e pox' ide)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does heroin stay in toxicology test",
+    "context": "Action/time",
+    "response": "Most of the time, heroin is no longer detectable in a person’s urine after just 2 days. However, certain tests have been known to have a positive result for this drug for up to 7 days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do steroids effect the digestive system",
+    "context": "Side effects",
+    "response": "Corticosteroid use was associated with increased risk of gastrointestinal bleeding and perforation. The increased risk was statistically significant for hospitalised patients only. For patients in ambulatory care, the total occurrence of bleeding or perforation was very low, and the increased risk was not statistically significant.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can spironolactone e used when talking furosemide",
+    "context": "Interaction",
+    "response": "The combination product, in a daily dose of 1 or 2 capsules, was found useful and well tolerated in the management of congestive heart failure.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what insulin can be mixed with glargine",
+    "context": "Combination",
+    "response": "Do not mix with\nother insulins",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what upis this medication for simvastatin",
+    "context": "unanswerable",
+    "response": "No Answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "drugs which stimulating brain ?",
+    "context": "Action",
+    "response": "Central nervous system stimulants used for attention deficit disorder, narcolepsy or excessive sleepiness include methylphenidate, atomoxetine, modafinil, armodafinil and the amphetamines. Stimulants that are no longer used for medical conditions, but that are abused, include cocaine and ecstasy or methylenedioxymetamphetamine (MDMA).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "i need to know how to use this medication ultibro",
+    "context": "Usage",
+    "response": "The way to take this medicine: Inhalation\nStore below 25 degrees Celsius\nProtect from Moisture\nLifetime is 24 Months.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "if diclofenac is instilled in the wrong eye what happens",
+    "context": "Usage",
+    "response": "Instill the missed dose as soon as you remember it. However, if it is almost time for the next dose, skip the missed dose and continue your regular dosing schedule. Do not instill extra eye drops to make up for a missed dose.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long morphine remains in body",
+    "context": "Action/time",
+    "response": "Morphine takes longer to work than heroin and the effects tend to last longer. Despite this, blood tests can only detect morphine for the first 12 hours after the last dose, and urine tests only work for up to 3 days. However, saliva tests are more effective, being able to detect traces of morphine for up to 4 days. Again, morphine stays in the hair for 90 days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color is phenytoin",
+    "context": "Appearance",
+    "response": "WHITE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "famotidine 10 mg?",
+    "context": "Information",
+    "response": "relieves heartburn associated with acid indigestion and sour stomach\nprevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain food and beverages",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how is tetracycline metabolized?",
+    "context": "Action",
+    "response": "Tetracyclines are readily absorbed and are bound to plasma proteins in varying degrees. They are concentrated by the liver in the bile and excreted in the urine and feces at high concentrations in a biologically active form.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what valacyclovir looks like in color shape",
+    "context": "Appearance",
+    "response": "Color - WHITE; Shape - OVAL; Score - 2 pieces; Size - 20mm; Imprint Code - 54518",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to identify clonidine tablets",
+    "context": "Appearance",
+    "response": "Product Characteristics Color WHITE Score no score Shape ROUND (biconvex) Size 6mm Flavor Imprint Code A;16",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is u02 medicine",
+    "context": "Appearance",
+    "response": "imipramine pamoate, Hydrocodone Bitartrate and Acetaminophen",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does memantine look like",
+    "context": "Appearance",
+    "response": "Color - ORANGE, Shape - CAPSULE (biconvex), Score - no score, Size - 10mm, Imprint Code - m5",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the lowest dose of hydrochlorothiazide",
+    "context": "Dose",
+    "response": "For Control of Hypertension: The usual initial dose in adults is 25 mg daily given as a single dose.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how can biotin effect my blood test",
+    "context": "Side effects",
+    "response": "FDA Warns that Biotin May Affect Some Lab Test Results …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does metformin do",
+    "context": "Action",
+    "response": "Metformin helps to control the amount of glucose (sugar) in your blood. It decreases the amount of glucose you absorb from your food and the amount of glucose made by your liver. Metformin also increases your body's response to insulin, a natural substance that controls the amount of glucose in the blood. ",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is xanax",
+    "context": "Information",
+    "response": "XANAX Tablets contain alprazolam which is a triazolo analog of the 1,4 benzodiazepine class of central nervous system-active compounds. The chemical name of alprazolam is 8-Chloro-1-methyl-6-phenyl-4H-s-triazolo [4,3-α] [1,4] benzodiazepine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "levaquin treat uti?",
+    "context": "Indication",
+    "response": "... Complicated Urinary Tract Infections: ... Acute Pyelonephritis: ... Uncomplicated Urinary Tract Infections",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "effects of salt of epson to diabetes?",
+    "context": "Contraindication",
+    "response": "While Epsom salt baths can be relaxing, they are not recommended for people with diabetes. Epsom salt is made up of magnesium sulfate. Why does that matter? When Epsom salts are added to a warm bath, some magnesium can be absorbed through the skin, causing an increased release of insulin, leading to hypoglycemia (low blood sugar).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long can i take ibuprofen",
+    "context": "Usage/time",
+    "response": "It's safe to take ibuprofen regularly for many years if you need to as long as you don't take more than the recommended dosage.\nIf you need to take ibuprofen by mouth for a long time and you're at risk of getting a stomach ulcer, your doctor may prescribe a medicine to help protect your stomach.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does vicodin look like",
+    "context": "Appearance",
+    "response": "Color: WHITE Score: 2 pieces Shape: OVAL Size: 14mm Imprint Code: VICODIN;HP;10;300",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "pneumococcal vaccine how often?",
+    "context": "Usage/time",
+    "response": "The pneumococcal polysaccharide vaccine (PPSV23 or Pneumovax®) protects against 23 types of pneumococcal bacteria. CDC recommends it for all adults 65 years or older and for those 2 years or older at increased risk for disease.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is ciprodex?",
+    "context": "Information",
+    "response": "Ciprofloxacin and dexamethasone otic is used to treat outer ear infections in adults and children and acute (suddenly occurring) middle ear infections in children with ear tubes. Ciprofloxacin is in a class of medications called quinolone antibiotics. Dexamethasone is in a class of medications called corticosteroids. The combination of ciprofloxacin and dexamethasone works by killing the bacteria that cause infection and reducing swelling in the ear.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what mg. does meprobamate have?",
+    "context": "Dose",
+    "response": "Meprobamate Tablets USP 200 mg are scored, round, white tablets imprinted 591-B supplied in bottles of 100 and 1000.\n\nMeprobamate Tablets USP 400 mg are scored, round, white tablets imprinted 591-A supplied in bottles of 100 and 1000.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "pill form topamax what does it look like",
+    "context": "Appearance",
+    "response": "TOPAMAX® (topiramate) Tablets are available as debossed, coated, round tablets in the following strengths and colors:\n\n25 mg cream (debossed \"OMN\" on one side; \"25\" on the other)\n\n50 mg light-yellow (debossed \"OMN\" on one side; \"50\" on the other)\n\n100 mg yellow (debossed \"OMN\" on one side; \"100\" on the other)\n\n200 mg salmon (debossed \"OMN\" on one side; \"200\" on the other)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "vitamin d 15000,what can do for bones",
+    "context": "Action",
+    "response": "Vitamin D helps your body absorb calcium. Calcium is one of the main building blocks of bone. A lack of vitamin D can lead to bone diseases such as osteoporosis or rickets. Vitamin D also has a role in your nerve, muscle, and immune systems.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is fentanyl",
+    "context": "Information",
+    "response": "Fentanyl is in a class of medications called narcotic (opiate) analgesics. It works by changing the way the brain and nervous system respond to pain.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what his acetaminophen and 8mg phosphate codeline",
+    "context": "Combination",
+    "response": "ACETAMINOPHEN AND CODEINE PHOSPHATE- acetaminophen and codeine phosphate tablet",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long do the side effects last after taking medroxyprogesterone",
+    "context": "Time/side effects",
+    "response": "Unanswerable",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does hydro coding acet 5-325",
+    "context": "Information",
+    "response": "Hydrocodone bitartrate and acetaminophen tablets are indicated for the relief of moderate to moderately severe pain.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can you use fluorouracil past expiration date?",
+    "context": "Storage and disposal",
+    "response": "Do not use Carac after the expiration date on the tube.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "are tobacco and nicotine products addictive?",
+    "context": "Side effects",
+    "response": "Is nicotine addictive? Yes. Most smokers use tobacco regularly because they are addicted to nicotine.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can you take ultram with ibuprofen?",
+    "context": "Interaction",
+    "response": "The maximum recommended dose is 400 mg per day, so if using it alone does not provide adequate relief, other medications can be used with Ultram (tramadol) to help manage the pain. For instance, if there is throbbing pain from tight muscles, a muscle relaxant, such as Flexeril (cyclobenzaprine) or Zanaflex (tizanidine) may be beneficial. NSAIDs (non steroidal anti-inflammatory drugs), such as Aleve (naproxen) or Motrin/Advil (ibuprofen) can be added to help reduce pain caused from swelling.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does ecstasy or mda leave your body",
+    "context": "Action/time",
+    "response": "In terms of its metabolism, research suggests that MDMA taken by mouth reaches its maximal blood concentration in about two hours. As ecstasy is metabolized, it is secreted into the urine and can be present for up to two days.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "age limits for use of bupropion?",
+    "context": "Indication",
+    "response": "It is not known if Bupropion Hydrochloride Extended-release (SR) tablets are safe and effective in children under the age of 18.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does vicodin stay in breast milk",
+    "context": "Action/time",
+    "response": "Following a 10 mg oral dose of hydrocodone administered to five adult male subjects, the mean peak concentration was 23.6 ± 5.2 ng/mL. Maximum serum levels were achieved at 1.3 ± 0.3 hours and the half-life was determined to be 3.8 ± 0.3 hours.\n\nAcetaminophen is rapidly absorbed from the gastrointestinal tract and is distributed throughout most body tissues. A small fraction (10-25%) of acetaminophen is bound to plasma proteins. The plasma half-life is 1.25 to 3 hours.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can mucinex fast-max products be used with other over-the-counter (otc) or prescription medications?",
+    "context": "Interaction",
+    "response": "Do not use with any other drug containing acetaminophen (prescription or nonprescription). ",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is in norvasc",
+    "context": "Ingredient",
+    "response": "ACTIVE INGREDIENT-AMLODIPINE BESYLATE; INACTIVE INGREDIENTS-MICROCRYSTALLINE CELLULOSE, ANHYDROUS DIBASIC CALCIUM PHOSPHATE, SODIUM STARCH GLYCOLATE TYPE A POTATO, MAGNESIUM STEARATE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is brand name of acetaminophen",
+    "context": "Brand names",
+    "response": "Acephen Rectal Suppository®\nFeverall Rectal Suppository®\nMapap Rectal Suppository®\nNeopap Supprettes Rectal Suppository®\nUniserts Rectal Suppository®\nAceta®¶\nActamin®\nAdprin B®\nAnacin®\nApacet®\nApara®\nApra®\nConacetol®\nDolono®\nFeverall®\nGenapap®\nGenebs®\nGericet®\nHalenol®\nInfantaire®\nLiquiprin®\nLopap®\nMapap®\nMardol®\nMasophen®\nMeda Cap®\nPain-Eze®\nPanadol®\nPanex®\nParamol®\nPediapap®\nQ-Pap®\nRedutemp®\nRidenol®\nSilapap®\nS-T Febrol®\nTactinal®\nTempra®\nT-Panol®\nTycolene®\nTylenol®\nTylophen®\nUni-Ace®\nVitapap®",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "metoclopramide how supplied",
+    "context": "Information",
+    "response": "Metoclopramide Tablets, USP:5 mg - Light green, round, unscored tablets in bottles of 100 and 500. Debossed: WPI on one side and 2228 on the other side. 10 mg - White, round, scored tablets in bottles of 100, 500 and 1000. Debossed: WPI on one side and 2229 on the other side.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "where is heroin originated from",
+    "context": "Information",
+    "response": "Heroin is ... an opioid drug made from morphine, a natural substance in the seedpod of the Asian poppy plant.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does sutent affect creatine",
+    "context": "Side effects",
+    "response": "Among patients receiving sunitinib, the incidence of all grade increased creatinine levels is 12.4% to 65.6%",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what if meclizine does not work",
+    "context": "Alternatives",
+    "response": "Meclizine is the generic name for the prescription drug called Antivert and the over-the-counter (OTC) medicines known as Dramamine and Bonine. Meclizine is used to treat motion sickness and dizziness.\n\nThe drug belongs to a class of drugs called antihistamines, which are generally used to treat allergies. However, meclizine works a little differently, reducing nausea and muscle spasms.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can you take these tow medications at the same time of day concerta and lexapro?",
+    "context": "Interaction",
+    "response": "Human pharmacologic studies have shown that methylphenidate may inhibit the metabolism of ... selective serotonin reuptake inhibitors). Downward dose adjustment of these drugs may be required when given concomitantly with methylphenidate. It may be necessary to adjust the dosage and monitor plasma drug concentrations (or, in the case of coumarin, coagulation times), when initiating or discontinuing concomitant methylphenidate.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "mix salt and hydromorphone what will happen",
+    "context": "Interaction",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what's the smell of marijuana",
+    "context": "Information",
+    "response": "Consumer perceptions of strain differences in Cannabis aroma … [whole page]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does it take to get carbidopa levodopa out of your system",
+    "context": "Action/time",
+    "response": "When carbidopa and levodopa are administered together, the half-life of levodopa is increased to about 1.5 hours. ",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the maximum dose of pregabalin",
+    "context": "Dose",
+    "response": "In view of the dose-dependent adverse reactions, treatment with doses above 300 mg/day is not recommended",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what valacyclovir looks like in color shape",
+    "context": "Appearance",
+    "response": "Color - blue; Shape - CAPSULE; Score - 2 pieces; Size - 21mm; Imprint Code - RX905",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "blood pressure when on eliquis metropropnal",
+    "context": "Interaction",
+    "response": "Drug interactions are reported among people who take Eliquis and Metoprolol tartrate together.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "heroin mixed with fentanyl what are the symptoms of an overdose",
+    "context": "Overdose",
+    "response": "People use heroin to get high. But if they overdose on it, they get extremely sleepy or may become unconsciousness and stop breathing.\n\nBelow are symptoms of a heroin overdose in different parts of the body.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "sickness in humans caused formaldehyde on toys from china?",
+    "context": "Side effects",
+    "response": "The Uphill Battle to Better Regulate Formaldehyde ... Safety advocates say that tighter restrictions ... are necessary, particularly for products coming from China, where items as varied as toys and Christmas lights have been found to violate American safety standards.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why finasteride is not allowed by prostate \"cancer?\"",
+    "context": "Contraindication",
+    "response": "Used for symptomatic treatment of BPH and male pattern baldness (i.e., androgenetic alopecia)\nMay decrease risk of low-grade prostate cancer; but, may increase risk of more serious high-grade prostate cancer",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what time of day to take aripiprazole",
+    "context": "Usage/time",
+    "response": "Aripiprazole comes as a tablet, a solution (liquid), and an orally disintegrating tablet (tablet that dissolves quickly in the mouth) to take by mouth. It is usually taken once a day with or without food. Take aripiprazole at around the same time every day.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is beta vulgaris",
+    "context": "Information",
+    "response": "Beetroot or beet juice\nBeets and beet juice are among the best food sources of nitrate. Beet juice might improve athletic performance because the body converts some of this nitrate to nitric oxide, which expands blood vessels. This blood vessel expansion increases blood flow and the delivery of oxygen and nutrients to exercising muscle. The expanded blood vessels also speed up the removal of waste products that cause muscle fatigue.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is in flomax",
+    "context": "Ingredient",
+    "response": "Active Ingredient/Active Moiety TAMSULOSIN HYDROCHLORIDE (UNII: 11SV1951MR) (tamsulosin - UNII:G3P28OML5I)  TAMSULOSIN HYDROCHLORIDE  0.4 mg",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i have allergie test when taking methylprednisolone?",
+    "context": "Side effects",
+    "response": "May suppress reactions to skin tests",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how opioids reduce pain",
+    "context": "Action",
+    "response": "Opioids bind to and activate opioid receptors on cells located in many areas of the brain, spinal cord, and other organs in the body, especially those involved in feelings of pain and pleasure. When opioids attach to these receptors, they block pain signals sent from the brain to the body and release large amounts of dopamine throughout the body.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is supartz fx for knee",
+    "context": "Information",
+    "response": "SUPARTZ FX (also called a viscosupplement) is a non-surgical, non-pharmacologic therapy for knee osteoarthritis.... SUPARTZ FX therapy is an injectable solution made from highly purified sodium hyaluronate (also known as hyaluronic acid) that is extracted from chicken combs.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often zoster zoster vaccine needs to be taken",
+    "context": "Dose/time",
+    "response": "The Centers for Disease Control and Prevention recommends that healthy adults 50 years and older get the Shingrix vaccine. You need two doses of the vaccine, given 2 to 6 months apart. Another vaccine, Zostavax, may be used in certain cases.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how you use for paracetamol",
+    "context": "Alternatives",
+    "response": "Acetaminophen",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when is the best time to take lotensin",
+    "context": "Usage/time",
+    "response": "Benazepril comes as a tablet to take by mouth. It is usually taken once or twice a day with or without food. To help you remember to take benazepril, take it around the same time(s) every day.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long is oxycodone expired",
+    "context": "Storage and disposal",
+    "response": "No answers",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is coumadin",
+    "context": "Information",
+    "response": "COUMADIN (warfarin sodium) tablets contain warfarin sodium, an anticoagulant that acts by inhibiting vitamin K‑dependent coagulation factors. The chemical name of warfarin sodium is 3-(α-acetonylbenzyl)-4-hydroxycoumarin sodium salt, which is a racemic mixture of the R- and S-enantiomers. ",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long does it take cefuroxime axetil to work",
+    "context": "Time/duration",
+    "response": "You should begin to feel better during the first few days of treatment with cefuroxime. If your symptoms do not improve or get worse, call your doctor. Take cefuroxime until you finish the prescription, even if you feel better. If you stop taking cefuroxime too soon or skip doses, your infection may not be completely treated, and the bacteria may become resistant to antibiotics.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are some side effects nicoderm",
+    "context": "Side effects",
+    "response": "Nicotine skin patches may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away:\n\ndizziness\nheadache\nnausea\nvomiting\ndiarrhea\nredness or swelling at the patch site\nIf you experience any of the following symptoms, call your doctor immediately:\n\nsevere rash or swelling\nseizures\nabnormal heartbeat or rhythm\ndifficulty breathing",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the normal dose of lactulose",
+    "context": "Dose",
+    "response": "The usual dose is 1 to 2 tablespoonfuls (15 to 30 mL, containing 10 g to 20 g of lactulose) daily.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "do antibiotics like keflex continue working after cessation of drug ?",
+    "context": "Time/duration",
+    "response": "Cephalexin is excreted in the urine by glomerular filtration and tubular secretion. Studies showed that over 90% of the drug was excreted unchanged in the urine within 8 hours.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "why prozac used",
+    "context": "Indication",
+    "response": "Fluoxetine (Prozac) is used to treat depression, obsessive-compulsive disorder (bothersome thoughts that won't go away and the need to perform certain actions over and over), some eating disorders, and panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does memantine look like",
+    "context": "Appearance",
+    "response": "Color - WHITE, Shape - ROUND, Score - no score, Size - 6mm, Imprint Code - M;103",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does ibuprofen contain. any aspirin?",
+    "context": "Ingredient",
+    "response": "No, ibuprofen does not contain aspirin. Ibuprofen and aspirin are two different types of NSAIDs (non-steroid anti-inflammatory drugs) that can be used to treat similar conditions. Aspirin is also in a family of medicine called salicylates.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are beta blockers",
+    "context": "Information",
+    "response": "Beta blockers, also known as beta-adrenergic blocking agents, are medications that reduce your blood pressure. Beta blockers work by blocking the effects of the hormone epinephrine, also known as adrenaline.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is the medication riva-clonazepam",
+    "context": "Information",
+    "response": "Clonazepam is used alone or in combination with other medications to control certain types of seizures. It is also used to relieve panic attacks (sudden, unexpected attacks of extreme fear and worry about these attacks). Clonazepam is in a class of medications called benzodiazepines. It works by decreasing abnormal electrical activity in the brain.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long will suboxone block opioid",
+    "context": "Action",
+    "response": "Suboxone typically lasts up to 3 days. Most doctors ask their patients to take the drug once per day, typically at the same time each day. A person’s weight, metabolism, and history of drug abuse can lengthen or shorten the action of Suboxone. It’s best to work with a doctor on a customized dose, based on your medical history.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does bumetanide pill look like",
+    "context": "Appearance",
+    "response": "Color - WHITE (White to off white); Shape - ROUND; Score - 2 pieces; Size - 8mm; Imprint Code - AC41",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "it is latanoprost a cholinergic?",
+    "context": "Information",
+    "response": "Latanoprost ophthalmic is used to treat glaucoma (a condition in which increased pressure in the eye can lead to gradual loss of vision) and ocular hypertension (a condition which causes increased pressure in the eye). Latanoprost is in a class of medications called prostaglandin analogs.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how do steroids effect the digestive system",
+    "context": "Side effects",
+    "response": "teroid abuse can also be hepatotoxic, promoting disturbances such as biliary stasis, peliosis hepatis, and even hepatomas, which are all usually reversible upon discontinuation.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what to use with someone in place of morphine or iodine allergies",
+    "context": "Alternatives",
+    "response": "There are a lot of medications available for pain control that are not opioids,” says Dr. Soto, who’s also president of the Michigan Society of Anesthesiologists. Here are several examples:",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can hormonal contraceptives be used for medical reasons?",
+    "context": "Indication",
+    "response": "Medical Uses of the Birth Control Pill … [whole page]",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is oxybutynin an \"opioid?\"",
+    "context": "Ingredient",
+    "response": "OXYBUTYNIN CHLORIDE",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what help withdrawal \"fom.\" hydrocodone 10 325",
+    "context": "Stopping/tapering",
+    "response": "Narcotics Anonymous (N.A.) assists people who want to stop abusing prescription or illegal drugs. Find a meeting center or online support group by searching for the local helpline or website for the area where the meeting is located.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what happens when you mix cymbalta with muscle relaxes",
+    "context": "Interaction",
+    "response": "CNS Acting Drugs — Given the primary CNS effects of CYMBALTA, it should be used with caution when it is taken in combination with or substituted for other centrally acting drugs, including those with a similar mechanism of action [see Warnings and Precautions (5.12) and Drug Interactions (7.16)].",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "where does marijuana come from",
+    "context": "Information",
+    "response": "Marijuana is a green, brown, or gray mix of dried, crumbled parts from the marijuana plant.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is terfenadine",
+    "context": "Information",
+    "response": "Terfenadine is a selective histamine H1-receptor antagonist devoid of central nervous system depressant activity. The drug was used for ALLERGY but withdrawn due to causing LONG QT SYNDROME.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "clonazepam \".25mg\" lowest dosage?",
+    "context": "Dose",
+    "response": "Klonopin Wafers (clonazepam orally disintegrating tablets) are white, round and debossed with the tablet strength … 0.125 mg  debossed 1/8 …",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what if i quit taking thyroid medicine",
+    "context": "Stopping/tapering",
+    "response": "Thyroid helps control the symptoms of hypothyroidism, but does not cure this condition. It may take up to several weeks before you notice any change in your symptoms. To control the symptoms of hypothyroidism, you probably will need to take thyroid for the rest of your life. Continue to take thyroid even if you feel well. Do not stop taking thyroid without talking to your doctor.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "is there an antacid malox?",
+    "context": "Information",
+    "response": "MAALOX ANTACID - aluminum hydroxide, magnesium hydroxide, simethicone liquid ",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how long should i take dutasteride",
+    "context": "Usage/duration",
+    "response": "We strongly recommend that physicians discuss with their patients these potential serious adverse effects of long-term dutasteride therapy prior to instituting this form of treatment.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is bioflavonoid",
+    "context": "Information",
+    "response": "Bioflavonoids are a group of what are called “polyphenolic” plant-derived compounds. They’re also called flavonoids. There are between 4,000 and 6,000 different varieties known. Some are used in medicine, supplements, or for other health purposes.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is aldosterone",
+    "context": "Information",
+    "response": "ALD is a hormone made by the adrenal glands. || ALD affects blood pressure and also regulates sodium (salt) and potassium in your blood, among other functions. Too much ALD can contribute to high blood pressure and low potassium levels. It’s known as hyperaldosteronism when your body makes too much ALD.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what time should take memantine",
+    "context": "Usage/time",
+    "response": "Memantine comes as a tablet, a solution (liquid), and an extended-release (long-acting) capsule to take by mouth. The solution and tablet are usually taken once or twice a day with or without food. The capsule is taken once a day with or without food.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i eat after taking rapaflo?",
+    "context": "Usage",
+    "response": "The recommended dose is 8 mg orally once daily with a meal.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what effect if take high cholesteron pill",
+    "context": "Action",
+    "response": "If diet and exercise don't reduce your cholesterol levels, you may need to take cholesterol medicine. Often, this medicine is a statin. Statins interfere with the production of cholesterol in your liver. They lower LDL (bad) cholesterol levels and raise HDL (good) cholesterol levels. This can slow the formation of plaques in your arteries.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what are contraindications for kadian",
+    "context": "Contraindication",
+    "response": "KADIAN is contraindicated in patients with\n\nSignificant respiratory depression\nAcute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment\nKnown or suspected paralytic ileus\nHypersensitivity (e.g., anaphylaxis) to morphine",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what types of insulin for resistance",
+    "context": "Information",
+    "response": "Insulin sensitizers like Glucophage (Metformin) may be prescribed to help your body use insulin more effectively.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "freezing clotrimazole?",
+    "context": "Storage and disposal",
+    "response": "store at temperature not exceeding 30°C (86°F). Do not freeze.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what opioid is in the bupropion patch",
+    "context": "Ingredient",
+    "response": "Active Ingredient/Active Moiety: Ingredient Name buprenorphine (UNII: 40D3SCR4GZ) (buprenorphine - UNII:40D3SCR4GZ)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what strength dose triamcinolone come in",
+    "context": "Dose",
+    "response": "cream/ointment    0.025%    0.05%    0.1%    0.5%, lotion    0.025%    0.1%, dental paste    0.1%, aerosol solution    0.0147%",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how often do i get the pneumococcal conjugate vaccine",
+    "context": "Usage/time",
+    "response": "Vaccination Schedule for Adults 18 Years of Age and Older: Prevnar 13 is administered as a single dose.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "when is gardasil \"contra indicated?\"",
+    "context": "Contraindication",
+    "response": "Hypersensitivity, including severe allergic reactions to yeast (a vaccine component), or after a previous dose of GARDASIL 9 or GARDASIL [see Description (11)].",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "can i drink voltarel or cataflam when i drink medrol",
+    "context": "Interaction",
+    "response": "Methylprenisolone (oral route) ... Using this medicine with any of the following medicines is usually not recommended, but may be required in some cases. If both medicines are prescribed together, your doctor may change the dose or how often you use one or both of the medicines. … Diclofenac",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what do i mix albuterol sulfate inhalation solution with in my nebulizer?",
+    "context": "Usage",
+    "response": "Albuterol sulfate inhalation solution is supplied as a single-dose, ready-to-use vial containing 3 mL of solution. No mixing or dilution is needed. Use one new vial with each nebulizer treatment.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how does amxacillin clavulanic acid work",
+    "context": "Action",
+    "response": "The combination of amoxicillin and clavulanic acid is used to treat certain infections caused by bacteria, including infections of the ears, lungs, sinus, skin, and urinary tract. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. Clavulanic acid is in a class of medications called beta-lactamase inhibitors. It works by preventing bacteria from destroying amoxicillin.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "brimonidine interaction with herbal supplements?",
+    "context": "Interaction",
+    "response": "Yohimbe: The active ingredients in yohimbine can block the actions of brimonidine in certain human tissues, thus reducing the drug's beneficial effects. Adequate human studies involving the eye are lacking, and until more information is available, yohimbine should be avoided in people using brimonidine. The interaction is supported by preliminary, weak, fragmentary, and/or contradictory scientific evidence.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does bumetanide pill look like",
+    "context": "Appearance",
+    "response": "Color - WHITE (White to off white); Shape - ROUND; Score - 2 pieces; Size - 11mm; Imprint Code - AC42",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what mg does lunesta come \"in?\"",
+    "context": "Dose",
+    "response": "LUNESTA is available in 1 mg, 2 mg and 3 mg strengths for oral administration.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "are there antibiotics for cold symtoms?",
+    "context": "Indication",
+    "response": "The list of ineffective cold remedies is long. Some of the more common ones that don't work include: Antibiotics. These attack bacteria, but they're no help against cold viruses.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "hydrochlorothiazide made by unichem is it safe?",
+    "context": "Side effects",
+    "response": "Accord Healthcare Inc. is voluntarily recalling One lot (Lot PW05264 – 46632 Bottles, NDC 16729-182-01) of Hydrochlorothiazide Tablets USP, 12.5 mg, to the consumer level.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "blood pressure when on eliquis",
+    "context": "Side effects",
+    "response": "Less common adverse reactions … Vascular disorders: hypotension (including procedural hypotension)",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "are you able to take guaifenesin if you have a heart \"transplant?\"",
+    "context": "Contraindication",
+    "response": "Guaifenesin can be used in transplant recipients but should be used with caution in patients receiving kidney or lung transplants and in patients with renal impairment. Codeine combined with guaifenesin is another option for cough and can be used in most transplant patients although those with reduced renal function should be monitored carefully for adverse events.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what color metoprolol",
+    "context": "Appearance",
+    "response": "Product Characteristics Color WHITE Score 2 pieces Shape OVAL (Capsule-Shaped) Size 11mm Flavor Imprint Code M",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to use ceftriaxone in malaria",
+    "context": "Indication",
+    "response": "Ceftriaxone was most commonly prescribed for comorbid malaria with bacterial infections, urinary tract infections, sepsis and gastroenteritis. The appropriateness of the indication was 86% (n = 218). The doses most prescribed were 1g (41%) and 2g (39%). Stat dose and once-daily dosage regimen constituted 51.4% and 84.5%, respectively. The most common duration of treatment was 1 (51.4%) and 2 days (35.1%). The overall appropriateness of prescribing was 93% against a pre-set threshold of 97%.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what valacyclovir looks like",
+    "context": "Appearance",
+    "response": "Color blue Shape CAPSULE Size 17mm",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what does flomax medication do?",
+    "context": "Action",
+    "response": "Tamsulosin is used in men to treat the symptoms of an enlarged prostate (benign prostatic hyperplasia or BPH) which include difficulty urinating (hesitation, dribbling, weak stream, and incomplete bladder emptying), painful urination, and urinary frequency and urgency. Tamsulosin is in a class of medications called alpha blockers. It works by relaxing the muscles in the prostate and bladder so that urine can flow easily.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "what is medication for singular 10 mg.",
+    "context": "Indication",
+    "response": "SINGULAIR is indicated for the prophylaxis and chronic treatment of asthma in adults and pediatric patients 12 months of age and older. SINGULAIR is indicated for prevention of exercise-induced bronchoconstriction in patients 15 years of age and older. SINGULAIR is indicated for the relief of symptoms of allergic rhinitis (seasonal allergic rhinitis in adults and pediatric patients 2 years of age and older, and perennial allergic rhinitis in adults and pediatric patients 6 months of age and older).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "who administers succinylcholine?",
+    "context": "Usage",
+    "response": "Succinylcholine should be used only by those skilled in the management of artificial respiration and only when facilities are instantly available for tracheal intubation and for providing adequate ventilation of the patient, including the administration of oxygen under positive pressure and the elimination of carbon dioxide. The clinician must be prepared to assist or control respiration.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "vitamin b strong compound is used for what medical condition?",
+    "context": "Indication",
+    "response": "For the treatment of clinical and sub-clinical vitamin B deficiency states (manifestations of which include glossitis, stomatitis, cheilosis, the heart manifestations of beriberi, the skin manifestations of pellagra, corneal vascularisation and polyneuritis).",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how fast does teh medications take to work amlodipine",
+    "context": "Action/time",
+    "response": "After oral administration of therapeutic doses of amlodipine besylate, absorption produces peak plasma concentrations between 6 and 12 hours.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "mouth wash\" with salt water -how much salt to \"water?",
+    "context": "Dose",
+    "response": "Rinse your mouth with salt water (one-half teaspoon or 3 grams of salt in 1 cup or 240 milliliters of water) or mouthwashes with hydrogen peroxide or Xylocaine to ease discomfort.",
+    "category": "Drug_QA"
+  },
+  {
+    "instruction": "how to wean off lamotrigine",
+    "context": "Stopping/tapering",
+    "response": "Unless safety concerns require a more rapid withdrawal, the dose of lamotrigine extended-release should be tapered over a period of at least 2 weeks (approximately 50% reduction per week)",
+    "category": "Drug_QA"
+  }
+]
