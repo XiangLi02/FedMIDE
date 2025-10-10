@@ -11,4 +11,5 @@ pip install -r requirements.txt
 
 ## Data
 
-
+We provide a **federated medical dataset**, which is processed through a **warm-up federated learning** phase for data selection.  
+As a result, **personalized data** and **federated shared data** are obtained and stored in the [data](https://github.com/XiangLi02/FedMIDE/data/8) folder.
