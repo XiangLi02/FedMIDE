@@ -15,7 +15,7 @@ We provide a **federated medical dataset**, which is processed through a **warm-
 As a result, **personalized data** and **federated shared data** are obtained and stored in the [data](https://github.com/XiangLi02/FedMIDE/tree/main/data) folder.
 
 ```bash
--- local1 'federated dataset'
--- global1 'federated train dataset'
--- remain1 'personalized dataset'
+-- local1  'Federated dataset'
+-- global1  'Federated train dataset'
+-- remain1  'Personalized dataset'
 ```
