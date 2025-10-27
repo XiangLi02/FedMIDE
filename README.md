@@ -29,11 +29,20 @@ As a result, **personalized data** and **federated shared data** are obtained an
 Example usage:
 
 ```bash
--- python main.py --global_model 'chavinlo/alpaca-native'\
+-- python main.py --global_model  './alpaca-7b-native'\
+      --data_path  "./data_train/initialized_data/8/global1" \
+      --output_dir  './FedMIDE/'\
+      --val_data_root  './data'\
+      --num_communication_rounds 20 \
+      --num_clients  8 
+```
+
+Personalized instruction tuning:
+
+```bash
+-- python main_ft.py --global_model  './alpaca-7b-native'\
+      --lora_model_path  './FedMIDE/8/19/'\
       --data_path  "./data" \
-      --output_dir  './lora-shepherd-7b/'\
-      --num_communication_rounds 10 \
-      --num_clients  10 \
-      --train_on_inputs \
-      --group_by_length
+      --output_dir  './lora-personalization/'\
+      --local_val_data_root  './data'
 ```
