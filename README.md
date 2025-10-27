@@ -30,7 +30,7 @@ Example usage:
 
 ```bash
 -- python main.py --global_model  './alpaca-7b-native'\
-      --data_path  "./data_train/initialized_data/8/global1" \
+      --data_path  './data_train/initialized_data/8/global1' \
       --output_dir  './FedMIDE/'\
       --val_data_root  './data'\
       --num_communication_rounds 20 \
@@ -42,7 +42,7 @@ Personalized instruction tuning:
 ```bash
 -- python main_ft.py --global_model  './alpaca-7b-native'\
       --lora_model_path  './FedMIDE/8/19/'\
-      --data_path  "./data" \
+      --data_path  './data' \
       --output_dir  './lora-personalization/'\
       --local_val_data_root  './data'
 ```
